@@ -1,0 +1,193 @@
+# Bộ từ khóa lọc văn bản pháp luật về công nghệ số và chuyển đổi số
+
+# Từ khóa chính - công nghệ số
+tech_digital_keywords:
+  primary:
+    - "chuyển đổi số"
+    - "CĐS"
+    - "digital transformation"
+    - "chính phủ số"
+    - "chính phủ điện tử"
+    - "kinh tế số"
+    - "xã hội số"
+    - "công dân số"
+  
+  technology:
+    - "trí tuệ nhân tạo"
+    - "AI"
+    - "artificial intelligence"
+    - "machine learning"
+    - "học máy"
+    - "blockchain"
+    - "chuỗi khối"
+    - "IoT"
+    - "Internet of Things"
+    - "Internet vạn vật"
+    - "điện toán đám mây"
+    - "cloud computing"
+    - "big data"
+    - "dữ liệu lớn"
+    - "5G"
+    - "6G"
+    - "metaverse"
+    - "thực tế ảo"
+    - "thực tế tăng cường"
+    - "VR"
+    - "AR"
+  
+  data_privacy:
+    - "dữ liệu cá nhân"
+    - "bảo vệ dữ liệu"
+    - "quyền riêng tư"
+    - "privacy"
+    - "GDPR"
+    - "data protection"
+    - "dữ liệu nhạy cảm"
+    - "xử lý dữ liệu"
+    - "mở dữ liệu"
+    - "open data"
+    - "chia sẻ dữ liệu"
+    - "data sharing"
+  
+  cybersecurity:
+    - "an ninh mạng"
+    - "an toàn thông tin"
+    - "bảo mật"
+    - "cybersecurity"
+    - "network security"
+    - "tấn công mạng"
+    - "ransomware"
+    - "phishing"
+    - "an toàn không gian mạng"
+  
+  digital_services:
+    - "chữ ký số"
+    - "digital signature"
+    - "chữ ký điện tử"
+    - "định danh điện tử"
+    - "eKYC"
+    - "xác thực điện tử"
+    - "giao dịch điện tử"
+    - "e-transaction"
+    - "thanh toán điện tử"
+    - "e-payment"
+    - "ví điện tử"
+    - "e-wallet"
+    - "ngân hàng số"
+    - "digital banking"
+  
+  fintech:
+    - "fintech"
+    - "công nghệ tài chính"
+    - "sandbox"
+    - "hộp cát thử nghiệm"
+    - "thanh toán di động"
+    - "mobile payment"
+    - "cryptocurrency"
+    - "tiền mã hóa"
+    - "tiền điện tử"
+    - "bitcoin"
+    - "NFT"
+  
+  infrastructure:
+    - "hạ tầng số"
+    - "digital infrastructure"
+    - "nền tảng số"
+    - "digital platform"
+    - "trung tâm dữ liệu"
+    - "data center"
+    - "cáp quang"
+    - "băng thông rộng"
+    - "broadband"
+    - "viễn thông"
+    - "telecommunications"
+    - "mạng di động"
+    - "mobile network"
+  
+  egovernment:
+    - "dịch vụ công"
+    - "dịch vụ công trực tuyến"
+    - "e-government"
+    - "e-service"
+    - "một cửa điện tử"
+    - "hồ sơ điện tử"
+    - "giấy tờ điện tử"
+    - "đăng ký điện tử"
+    - "khai báo điện tử"
+    - "thuế điện tử"
+    - "e-tax"
+  
+  innovation:
+    - "đổi mới sáng tạo"
+    - "innovation"
+    - "startup"
+    - "khởi nghiệp"
+    - "doanh nghiệp công nghệ"
+    - "tech company"
+    - "công nghệ cao"
+    - "high-tech"
+    - "nghiên cứu và phát triển"
+    - "R&D"
+    - "chuyển giao công nghệ"
+  
+  api_integration:
+    - "API"
+    - "OpenAPI"
+    - "kết nối API"
+    - "tích hợp hệ thống"
+    - "system integration"
+    - "interoperability"
+    - "khả năng tương tác"
+    - "liên thông"
+    - "chia sẻ dữ liệu liên ngành"
+  
+  smart_city:
+    - "thành phố thông minh"
+    - "smart city"
+    - "đô thị thông minh"
+    - "giao thông thông minh"
+    - "smart traffic"
+    - "nhà thông minh"
+    - "smart home"
+
+# Loại văn bản cần thu thập
+document_types:
+  - "Luật"
+  - "Nghị quyết"
+  - "Nghị định"
+  - "Quyết định"
+  - "Thông tư"
+  - "Chỉ thị"
+  - "Dự thảo"
+  - "Đề án"
+  - "Chiến lược"
+  - "Quy hoạch"
+  - "Chương trình"
+  - "Kế hoạch"
+
+# Cơ quan ban hành ưu tiên
+priority_issuers:
+  - "Quốc hội"
+  - "Chính phủ"
+  - "Thủ tướng Chính phủ"
+  - "Bộ Thông tin và Truyền thông"
+  - "Bộ Khoa học và Công nghệ"
+  - "Bộ Công an"
+  - "Bộ Tài chính"
+  - "Bộ Kế hoạch và Đầu tư"
+  - "Ngân hàng Nhà nước"
+  - "Ban Cơ yếu Chính phủ"
+
+# Từ khóa loại trừ (không liên quan công nghệ số)
+exclude_keywords:
+  - "nông nghiệp truyền thống"
+  - "thủy lợi"
+  - "lâm nghiệp"
+  - "khoáng sản"
+  - "dầu khí"
+
+# Pattern regex cho số hiệu văn bản
+document_number_patterns:
+  - "(Luật|Nghị quyết|Nghị định|Quyết định|Thông tư|Chỉ thị)\\s+số\\s+\\d+[/-]\\d{4}"
+  - "\\d+[/-]\\d{4}[/-](QH|NQ|NĐ|QĐ|TT|CT)"
+  - "Luật\\s+[A-Za-zÀ-ỹ\\s]+\\d{4}"
