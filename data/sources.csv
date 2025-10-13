@@ -1,0 +1,23 @@
+name,type,base_url,robots_policy,crawl_method,frequency,trust_score,lang,notes,enabled,auth_type,auth_secret_name,rate_limit_rpm,max_concurrency,category_tags
+Cổng TT Chính phủ,official,https://chinhphu.vn,respect,rss,daily,0.95,vi,"Văn bản chỉ đạo, nghị quyết, dự thảo",true,none,,30,2,chính sách;quản lý nhà nước
+Bộ Tư pháp,official,https://moj.gov.vn,respect,sitemap,daily,0.9,vi,"Lấy ý kiến dự thảo luật, nghị định",true,none,,30,2,pháp luật;dự thảo
+Công báo Việt Nam,official,https://congbao.chinhphu.vn,respect,static,daily,0.95,vi,"Công bố văn bản chính thức",true,none,,20,1,văn bản;chính thức
+Bộ KH&CN,official,https://most.gov.vn,respect,sitemap,weekly,0.85,vi,"Chính sách KH&CN, đổi mới sáng tạo",true,none,,30,2,khoa học;công nghệ;đổi mới
+Bộ TT&TT,official,https://mic.gov.vn,respect,sitemap,weekly,0.9,vi,"Văn bản về dữ liệu, AI, an toàn thông tin",true,none,,30,2,AI;dữ liệu;CNTT
+Bộ KH&ĐT,official,https://mpi.gov.vn,respect,sitemap,weekly,0.85,vi,"Chính sách chuyển đổi số, startup",true,none,,30,2,startup;chuyển đổi số
+Bộ Công Thương,official,https://moit.gov.vn,respect,sitemap,weekly,0.85,vi,"Chính sách thương mại điện tử",true,none,,30,2,thương mại điện tử
+Bộ Tài chính,official,https://mof.gov.vn,respect,rss,weekly,0.9,vi,"Chính sách thuế, fintech",true,none,,30,2,tài chính;fintech
+Văn phòng Quốc hội,official,https://quochoi.vn,respect,rss,weekly,0.9,vi,"Dự thảo luật, ý kiến đại biểu",true,none,,30,2,luật;dự thảo
+CSDL Văn bản Pháp luật,official,https://vbpl.vn,respect,api,daily,0.95,vi,"CSDL quốc gia về văn bản pháp luật",true,none,,30,2,văn bản;API
+Báo Điện tử Chính phủ,media,https://baochinhphu.vn,respect,rss,daily,0.9,vi,"Tin chính sách",true,none,,30,2,media;chính sách
+VnExpress,media,https://vnexpress.net,respect,rss,daily,0.85,vi,"Thảo luận, phản hồi chính sách",true,none,,30,2,media;xã hội
+Vietnamnet,media,https://vietnamnet.vn,respect,rss,daily,0.85,vi,"Tin chính trị - công nghệ",true,none,,30,2,công nghệ;chính trị
+Tuổi Trẻ,media,https://tuoitre.vn,respect,rss,daily,0.85,vi,"Bình luận xã hội, phản hồi công chúng",true,none,,30,2,bình luận;xã hội
+Dân Trí,media,https://dantri.com.vn,respect,rss,daily,0.85,vi,"Tin tức liên quan chính sách",true,none,,30,2,media;chính sách
+Diễn đàn Luật VN,forum,https://diendanluat.vn,respect,static,weekly,0.8,vi,"Thảo luận pháp lý cộng đồng",true,none,,20,1,pháp lý;thảo luận
+Báo Đầu Tư,media,https://baodautu.vn,respect,rss,weekly,0.85,vi,"Chính sách hỗ trợ DN & đổi mới sáng tạo",true,none,,30,2,startup;đổi mới
+Tạp chí KH&CN,media,https://vjst.vn,respect,static,monthly,0.8,vi,"Bình luận chính sách KH&CN",true,none,,20,1,khoa học;công nghệ
+OECD Vietnam Digital Policy,official,https://www.oecd.org/digital/,respect,sitemap,monthly,0.8,en,"Báo cáo chính sách số Việt Nam",true,none,,15,1,quốc tế;digital policy
+UNDP Vietnam,official,https://www.vn.undp.org/,respect,sitemap,monthly,0.85,en,"Báo cáo về quản trị số và đổi mới",true,none,,15,1,quốc tế;innovation
+World Bank Vietnam,official,https://www.worldbank.org/en/country/vietnam,respect,sitemap,monthly,0.85,en,"Báo cáo chính sách dữ liệu, kinh tế số",true,none,,15,1,data;digital economy
+ASEAN Digital Transformation,official,https://asean.org,respect,sitemap,quarterly,0.75,en,"Báo cáo chuyển đổi số khu vực ASEAN",true,none,,15,1,ASEAN;digital

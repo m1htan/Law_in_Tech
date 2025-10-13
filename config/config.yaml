@@ -4,12 +4,12 @@ app:
   mode: local
 
 data:
-  sources_path: "./data/sources.csv"
-  storage_dir: "./data/docs"
+  sources_path: "../data/sources.csv"
+  storage_dir: "../data/docs"
 
 database:
   primary: "sqlite"
-  sqlite_path: "./data/law_demo.db"
+  sqlite_path: "../data/law_demo.db"
   postgres_uri: "postgresql://user:password@localhost:5432/lawdb"
 
 models:
