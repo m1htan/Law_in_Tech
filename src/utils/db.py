@@ -1,6 +1,7 @@
 import os
 import sqlite3
 import hashlib
+import json
 from datetime import datetime
 from typing import Dict, Any, List, Optional
 from src.utils.logger import get_logger
@@ -43,6 +44,31 @@ class DB:
             discovered_at TEXT,
             status TEXT
         );
+        """)
+        # Metadata chuẩn hóa cho văn bản pháp luật
+        cur.execute("""
+        CREATE TABLE IF NOT EXISTS documents_metadata (
+            doc_id TEXT PRIMARY KEY,
+            title TEXT,
+            doc_type TEXT,
+            doc_number TEXT,
+            issuing_body TEXT,
+            issue_date TEXT,
+            effective_date TEXT,
+            status TEXT,
+            url_source TEXT,
+            url_pdf TEXT,
+            topics TEXT,
+            keywords TEXT,
+            summary TEXT,
+            jurisdiction TEXT,
+            sector TEXT,
+            scrape_timestamp TEXT
+        );
+        """)
+        cur.execute("""
+        CREATE INDEX IF NOT EXISTS idx_documents_metadata_doctype_number
+        ON documents_metadata (doc_type, doc_number);
         """)
         self.conn.commit()
 
@@ -119,3 +145,68 @@ class DB:
         LIMIT ?
         """, (limit,))
         return [dict(r) for r in cur.fetchall()]
+
+    def upsert_document_metadata(self, meta: Dict[str, Any]) -> str:
+        """Upsert bản ghi metadata văn bản pháp luật.
+
+        Yêu cầu meta chứa ít nhất: doc_id, title, doc_type, doc_number, issuing_body,
+        issue_date, status, url_source. Các trường còn lại là tùy chọn.
+        topics/keywords nếu là list sẽ được lưu JSON string.
+        """
+        cur = self.conn.cursor()
+
+        # Clone để tránh side-effects
+        m: Dict[str, Any] = dict(meta)
+
+        # Mặc định
+        m.setdefault("jurisdiction", "VN")
+        m.setdefault("sector", "tech/digital")
+        m.setdefault("scrape_timestamp", datetime.utcnow().isoformat())
+
+        # Chuẩn hóa list -> JSON string
+        for k in ("topics", "keywords"):
+            v = m.get(k)
+            if isinstance(v, (list, tuple)):
+                m[k] = json.dumps(list(v), ensure_ascii=False)
+            elif v is None:
+                m[k] = None
+            elif not isinstance(v, str):
+                # ép kiểu an toàn
+                try:
+                    m[k] = json.dumps(v, ensure_ascii=False)
+                except Exception:
+                    m[k] = None
+
+        cur.execute(
+            """
+            INSERT INTO documents_metadata (
+                doc_id, title, doc_type, doc_number, issuing_body,
+                issue_date, effective_date, status, url_source, url_pdf,
+                topics, keywords, summary, jurisdiction, sector, scrape_timestamp
+            ) VALUES (
+                :doc_id, :title, :doc_type, :doc_number, :issuing_body,
+                :issue_date, :effective_date, :status, :url_source, :url_pdf,
+                :topics, :keywords, :summary, :jurisdiction, :sector, :scrape_timestamp
+            )
+            ON CONFLICT(doc_id) DO UPDATE SET
+                title=excluded.title,
+                doc_type=excluded.doc_type,
+                doc_number=excluded.doc_number,
+                issuing_body=excluded.issuing_body,
+                issue_date=excluded.issue_date,
+                effective_date=excluded.effective_date,
+                status=excluded.status,
+                url_source=excluded.url_source,
+                url_pdf=excluded.url_pdf,
+                topics=excluded.topics,
+                keywords=excluded.keywords,
+                summary=excluded.summary,
+                jurisdiction=excluded.jurisdiction,
+                sector=excluded.sector,
+                scrape_timestamp=excluded.scrape_timestamp
+            ;
+            """,
+            m,
+        )
+        self.conn.commit()
+        return m["doc_id"]

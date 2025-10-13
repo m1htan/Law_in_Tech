@@ -21,3 +21,5 @@ OECD Vietnam Digital Policy,official,https://www.oecd.org/digital/,respect,sitem
 UNDP Vietnam,official,https://www.vn.undp.org/,respect,sitemap,monthly,0.85,en,"Báo cáo về quản trị số và đổi mới",true,none,,15,1,quốc tế;innovation
 World Bank Vietnam,official,https://www.worldbank.org/en/country/vietnam,respect,sitemap,monthly,0.85,en,"Báo cáo chính sách dữ liệu, kinh tế số",true,none,,15,1,data;digital economy
 ASEAN Digital Transformation,official,https://asean.org,respect,sitemap,quarterly,0.75,en,"Báo cáo chuyển đổi số khu vực ASEAN",true,none,,15,1,ASEAN;digital
+Cổng Văn bản Chính phủ,official,https://vanban.chinhphu.vn,respect,sitemap,daily,0.96,vi,"Cổng văn bản pháp luật Chính phủ",true,none,,20,1,văn bản;QPPL
+Dự thảo Online Quốc hội,official,https://duthaoonline.quochoi.vn,respect,static,weekly,0.9,vi,"Cổng góp ý dự thảo trực tuyến của Quốc hội",true,none,,20,1,dự thảo;góp ý

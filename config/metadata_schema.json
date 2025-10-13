@@ -1,0 +1,33 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Vietnam Legal Document Metadata Schema",
+  "type": "object",
+  "properties": {
+    "doc_id": { "type": "string" },
+    "title": { "type": "string" },
+    "doc_type": { "type": "string", "enum": ["Luật", "Nghị định", "Quyết định", "Thông tư", "Nghị quyết", "Dự thảo", "Đề án", "Chiến lược"] },
+    "doc_number": { "type": "string" },
+    "issuing_body": { "type": "string" },
+    "issue_date": { "type": "string", "pattern": "^\\d{4}-\\d{2}-\\d{2}$" },
+    "effective_date": { "type": ["string", "null"], "pattern": "^\\d{4}-\\d{2}-\\d{2}$" },
+    "status": { "type": "string", "enum": ["draft", "valid", "expired"] },
+    "url_source": { "type": "string" },
+    "url_pdf": { "type": ["string", "null"] },
+    "topics": { "type": ["array", "null"], "items": { "type": "string" } },
+    "keywords": { "type": ["array", "null"], "items": { "type": "string" } },
+    "summary": { "type": ["string", "null"] },
+    "jurisdiction": { "type": "string", "default": "VN" },
+    "sector": { "type": "string", "default": "tech/digital" },
+    "scrape_timestamp": { "type": "string" }
+  },
+  "required": [
+    "doc_id",
+    "title",
+    "doc_type",
+    "doc_number",
+    "issuing_body",
+    "issue_date",
+    "status",
+    "url_source"
+  ]
+}
