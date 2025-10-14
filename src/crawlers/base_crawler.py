@@ -181,13 +181,14 @@ class BaseCrawler:
         
         return metadata
     
-    async def crawl_url(self, url: str, extract_pdfs: bool = True) -> Optional[Dict]:
+    async def crawl_url(self, url: str, extract_pdfs: bool = True, retry: int = 3) -> Optional[Dict]:
         """
-        Crawl a single URL
+        Crawl a single URL with retry logic
         
         Args:
             url: URL to crawl
             extract_pdfs: Whether to extract and download PDFs
+            retry: Number of retry attempts
             
         Returns:
             Dictionary with crawled data
@@ -196,70 +197,100 @@ class BaseCrawler:
             log.info(f"URL already visited: {url}")
             return None
         
-        try:
-            log.info(f"Crawling URL: {url}")
-            self.visited_urls.add(url)
+        # Try different strategies if first attempt fails
+        strategies = [
+            {"wait_until": "networkidle", "timeout": 60000},  # 60s networkidle
+            {"wait_until": "domcontentloaded", "timeout": 45000},  # 45s dom loaded
+            {"wait_until": "load", "timeout": 30000},  # 30s basic load
+        ]
+        
+        last_error = None
+        
+        for attempt in range(retry):
+            try:
+                strategy = strategies[min(attempt, len(strategies) - 1)]
+                
+                log.info(f"Crawling URL (attempt {attempt + 1}/{retry}): {url}")
+                self.visited_urls.add(url)
+                
+                # Configure crawler with current strategy
+                config = CrawlerRunConfig(
+                    cache_mode=CacheMode.BYPASS,
+                    markdown_generator=DefaultMarkdownGenerator(),
+                    wait_until=strategy["wait_until"],
+                    page_timeout=strategy["timeout"],
+                    verbose=False,
+                    # Add stealth mode
+                    magic=True,  # Enable anti-detection
+                )
             
-            # Configure crawler
-            config = CrawlerRunConfig(
-                cache_mode=CacheMode.BYPASS,
-                markdown_generator=DefaultMarkdownGenerator(),
-                wait_until="networkidle",
-                page_timeout=30000,
-                verbose=False
-            )
-            
-            # Crawl the page
-            async with AsyncWebCrawler(verbose=False) as crawler:
-                result = await crawler.arun(url=url, config=config)
-                
-                if not result.success:
-                    log.error(f"Failed to crawl {url}: {result.error_message}")
-                    return None
-                
-                # Extract data
-                page_data = {
-                    'url': url,
-                    'success': result.success,
-                    'status_code': result.status_code,
-                    'html': result.html,
-                    'markdown': result.markdown,
-                    'cleaned_html': result.cleaned_html,
-                    'metadata': self.extract_metadata_from_page(result.html, url),
-                    'pdf_links': [],
-                    'is_relevant': False,
-                    'crawled_at': datetime.now().isoformat()
-                }
-                
-                # Check relevance
-                title = page_data['metadata'].get('title', '')
-                content = result.markdown[:5000]  # Check first 5000 chars
-                page_data['is_relevant'] = self.is_relevant_document(title, content)
-                
-                if not page_data['is_relevant']:
-                    log.info(f"Page not relevant (no matching keywords): {url}")
-                
-                # Extract PDF links if requested
-                if extract_pdfs:
-                    pdf_links = self.extract_pdf_links(result.html, url)
-                    page_data['pdf_links'] = pdf_links
+                # Crawl the page
+                async with AsyncWebCrawler(verbose=False) as crawler:
+                    result = await crawler.arun(url=url, config=config)
                     
-                    # Download relevant PDFs
-                    if page_data['is_relevant']:
-                        for pdf_link in pdf_links[:5]:  # Limit to first 5 PDFs per page
-                            log.info(f"Processing PDF: {pdf_link['title']}")
-                            pdf_result = self.pdf_processor.process_pdf(
-                                pdf_link['url'],
-                                filename=pdf_link['title']
-                            )
-                            pdf_link['processing_result'] = pdf_result
-                
-                log.info(f"Successfully crawled: {url}")
-                return page_data
-                
-        except Exception as e:
-            log.error(f"Error crawling {url}: {e}")
-            return None
+                    if not result.success:
+                        last_error = result.error_message
+                        log.warning(f"Attempt {attempt + 1} failed for {url}: {result.error_message}")
+                        if attempt < retry - 1:
+                            await asyncio.sleep(2 * (attempt + 1))  # Exponential backoff
+                            continue
+                        else:
+                            log.error(f"All attempts failed for {url}: {result.error_message}")
+                            return None
+                    
+                    # Extract data
+                    page_data = {
+                        'url': url,
+                        'success': result.success,
+                        'status_code': result.status_code,
+                        'html': result.html,
+                        'markdown': result.markdown,
+                        'cleaned_html': result.cleaned_html,
+                        'metadata': self.extract_metadata_from_page(result.html, url),
+                        'pdf_links': [],
+                        'is_relevant': False,
+                        'crawled_at': datetime.now().isoformat()
+                    }
+                    
+                    # Check relevance
+                    title = page_data['metadata'].get('title', '')
+                    content = result.markdown[:5000]  # Check first 5000 chars
+                    page_data['is_relevant'] = self.is_relevant_document(title, content)
+                    
+                    if not page_data['is_relevant']:
+                        log.info(f"Page not relevant (no matching keywords): {url}")
+                    
+                    # Extract PDF links if requested
+                    if extract_pdfs:
+                        pdf_links = self.extract_pdf_links(result.html, url)
+                        page_data['pdf_links'] = pdf_links
+                        
+                        # Download relevant PDFs
+                        if page_data['is_relevant']:
+                            for pdf_link in pdf_links[:5]:  # Limit to first 5 PDFs per page
+                                log.info(f"Processing PDF: {pdf_link['title']}")
+                                pdf_result = self.pdf_processor.process_pdf(
+                                    pdf_link['url'],
+                                    filename=pdf_link['title']
+                                )
+                                pdf_link['processing_result'] = pdf_result
+                    
+                    log.info(f"Successfully crawled: {url}")
+                    return page_data
+                    
+            except Exception as e:
+                last_error = str(e)
+                log.warning(f"Attempt {attempt + 1} failed with exception for {url}: {e}")
+                if attempt < retry - 1:
+                    await asyncio.sleep(2 * (attempt + 1))  # Exponential backoff
+                    continue
+                else:
+                    log.error(f"All attempts failed for {url}: {e}")
+                    return None
+        
+        # If we get here, all retries failed
+        log.error(f"Failed to crawl {url} after {retry} attempts. Last error: {last_error}")
+        return None
     
     async def crawl_multiple(self, urls: List[str]) -> List[Dict]:
         """

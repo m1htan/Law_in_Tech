@@ -17,6 +17,8 @@ class Config:
     # Crawling Configuration
     MAX_CONCURRENT_REQUESTS = int(os.getenv("MAX_CONCURRENT_REQUESTS", "3"))
     REQUEST_DELAY = int(os.getenv("REQUEST_DELAY", "2"))
+    CRAWL_TIMEOUT = int(os.getenv("CRAWL_TIMEOUT", "60000"))  # 60 seconds default
+    MAX_RETRIES = int(os.getenv("MAX_RETRIES", "3"))
     USER_AGENT = os.getenv(
         "USER_AGENT",
         "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
