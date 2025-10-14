@@ -41,60 +41,84 @@ class Config:
             "name": "Cổng Thông tin điện tử Chính phủ",
             "url": "https://chinhphu.vn",
             "priority": "high",
-            "type": "government"
+            "type": "government",
+            "verified": True
         },
         {
             "name": "Hệ thống văn bản Chính phủ",
             "url": "https://vanban.chinhphu.vn",
             "priority": "high",
-            "type": "government"
+            "type": "government",
+            "verified": True
         },
         {
-            "name": "Bộ Thông tin và Truyền thông",
-            "url": "https://mic.gov.vn",
+            "name": "Bộ Thông tin và Truyền thông (nay là Bộ Số hóa)",
+            "url": "https://mst.gov.vn",  # Redirected from mic.gov.vn
             "priority": "high",
-            "type": "ministry"
+            "type": "ministry",
+            "verified": True,
+            "note": "Formerly mic.gov.vn, now mst.gov.vn (Ministry of Science and Technology)"
         },
         {
             "name": "Bộ Khoa học và Công nghệ",
-            "url": "https://most.gov.vn",
-            "priority": "high",
-            "type": "ministry"
+            "url": "https://most.gov.vn",  # Without www
+            "priority": "medium",
+            "type": "ministry",
+            "verified": False,
+            "note": "SSL connection issues, may need alternative URL"
         },
         # Nhóm 2: Cơ sở dữ liệu pháp luật
         {
             "name": "Luật Minh Khuê",
             "url": "https://thuvienphapluat.vn",
             "priority": "high",
-            "type": "legal_database"
+            "type": "legal_database",
+            "verified": True,
+            "note": "May have anti-bot (403), use stealth mode"
         },
         {
-            "name": "LawNet",
+            "name": "LawNet (Thư viện Nhà đất)",
             "url": "https://lawnet.vn",
             "priority": "medium",
-            "type": "legal_database"
+            "type": "legal_database",
+            "verified": True,
+            "note": "Redirects to thuviennhadat.vn"
         },
         {
             "name": "Công báo Chính phủ",
             "url": "https://congbao.chinhphu.vn",
             "priority": "medium",
-            "type": "government"
+            "type": "government",
+            "verified": True
         },
         # Nhóm 3: Trang lấy ý kiến dự thảo
         {
             "name": "Dự thảo văn bản Chính phủ",
             "url": "https://duthaovanban.chinhphu.vn",
-            "priority": "high",
-            "type": "draft"
+            "priority": "low",  # Downgraded: DNS not found
+            "type": "draft",
+            "verified": False,
+            "note": "DNS not resolving, may be discontinued"
         },
         # Nhóm 4: Quốc hội
         {
             "name": "Trang Quốc hội",
             "url": "https://quochoi.vn",
             "priority": "high",
-            "type": "parliament"
+            "type": "parliament",
+            "verified": True
         }
     ]
+    
+    @classmethod
+    def get_verified_websites(cls):
+        """Get only verified websites"""
+        return [w for w in cls.TARGET_WEBSITES if w.get('verified', False)]
+    
+    @classmethod
+    def get_high_priority_websites(cls):
+        """Get high priority websites"""
+        return [w for w in cls.TARGET_WEBSITES if w.get('priority') == 'high']
     
     # Keywords for filtering (focusing on technology and digital transformation)
     TECH_KEYWORDS = [
