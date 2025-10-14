@@ -143,12 +143,18 @@ class Config:
         cls.LOG_DIR.mkdir(parents=True, exist_ok=True)
     
     @classmethod
-    def validate(cls):
-        """Validate configuration"""
-        if not cls.GOOGLE_API_KEY or cls.GOOGLE_API_KEY == "your_google_api_key_here":
-            raise ValueError(
-                "GOOGLE_API_KEY is not set. Please add your API key to the .env file"
-            )
+    def validate(cls, require_api_key: bool = True):
+        """
+        Validate configuration
+        
+        Args:
+            require_api_key: Whether to require Google API key (needed for AI Agent, not for basic crawling)
+        """
+        if require_api_key:
+            if not cls.GOOGLE_API_KEY or cls.GOOGLE_API_KEY == "your_google_api_key_here":
+                raise ValueError(
+                    "GOOGLE_API_KEY is not set. Please add your API key to the .env file"
+                )
         
         cls.ensure_directories()
         return True
