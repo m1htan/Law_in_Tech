@@ -13,10 +13,7 @@ from src.utils.text_norm import norm_space
 from src.utils.pdf_utils import fetch_and_extract_pdf
 from src.parsers.base import detect_doc_type, common_fields_from_markdown
 from src.parsers.chinhphu import parse_chinhphu
-from src.parsers.vbpl import parse_vbpl
-from src.parsers.duthao_qh import parse_duthao_qh
 from src.parsers.moj_dtvb import parse_moj_dtvb
-from src.parsers.luatminhkhue import parse_lmk
 
 def _make_crawler(browser_cfg: BrowserConfig) -> AsyncWebCrawler:
     """Tạo AsyncWebCrawler tương thích các phiên bản crawl4ai khác nhau."""
@@ -69,6 +66,11 @@ def _allowed(url: str) -> bool:
 
 def _domain(url: str) -> str:
     return re.sub(r"^https?://(www\.)?([^/]+)/?.*$", r"\2", url)
+
+def _is_gov_vn_domain(domain: str) -> bool:
+    """Kiểm tra xem domain có phải là .gov.vn, chinhphu.vn hoặc các tổ chức chính phủ VN."""
+    allowed_domains = ["gov.vn", "chinhphu.vn", "vnnic.vn", "vnisa.org.vn"]
+    return any(domain.endswith(d) for d in allowed_domains)
 
 def _throttle(domain: str):
     # throttle đơn giản theo domain (250–500ms)
@@ -233,6 +235,11 @@ def _process_result(r) -> List[Dict[str,Any]]:
         # Nếu không có nội dung, bỏ qua
         if not any([title, md, txt, html]):
             continue
+        
+        # Kiểm tra domain có phải .gov.vn không
+        site = _domain(url) if url else _domain(parent_url or "")
+        if not _is_gov_vn_domain(site):
+            continue
 
         text_blob = " ".join(filter(None, [title, md, txt]))
         low = text_blob.lower()
@@ -246,8 +253,6 @@ def _process_result(r) -> List[Dict[str,Any]]:
         if not doc_type:
             continue
 
-        site = _domain(url) if url else _domain(parent_url or "")
-
         parsed = {
             "url": url or (parent_url or ""),
             "source_site": site,
@@ -259,18 +264,13 @@ def _process_result(r) -> List[Dict[str,Any]]:
             "linh_vuc": sorted({k for k in KEYWORDS if k in low})
         }
 
-        # site-specific enrich
+        # site-specific enrich (chỉ cho các trang .gov.vn)
         if site == "chinhphu.vn":
             parsed.update(parse_chinhphu(r if site=="chinhphu.vn" else res))
-        elif site == "vbpl.vn":
-            parsed.update(parse_vbpl(res, parent_url=parent_url))
-        elif site == "duthaoonline.quochoi.vn":
-            parsed.update(parse_duthao_qh(r if site=="duthaoonline.quochoi.vn" else res))
         elif site == "moj.gov.vn":
             parsed.update(parse_moj_dtvb(res, parent_url=parent_url))
-        elif site == "luatminhkhue.vn":
-            parsed.update(parse_lmk(r if site=="luatminhkhue.vn" else res))
         else:
+            # Các trang .gov.vn khác sử dụng parser chung
             parsed.update(common_fields_from_markdown(md))
 
         # PDF attachments
