@@ -1,186 +1,121 @@
 """
-Export tools for crawled legal documents
-Export to JSON, CSV, Excel formats
+Export Data Tool - Export từ file storage (NO DATABASE)
 """
-import json
-import csv
+import argparse
+import sys
 from pathlib import Path
-from typing import List, Optional
 from datetime import datetime
 
-from src.database.models import DatabaseManager, LegalDocument
-from src.config import Config
+# Add parent directory to path
+sys.path.insert(0, str(Path(__file__).parent.parent))
+
+from src.storage.file_storage import FileStorageManager
 from src.utils.logger import log
 
 
-class DataExporter:
-    """Export crawled data to various formats"""
+def export_json(storage: FileStorageManager, tech_only: bool = False, output_dir: str = "exports"):
+    """Export to JSON"""
+    output_path = Path(output_dir)
+    output_path.mkdir(parents=True, exist_ok=True)
     
-    def __init__(self, db_manager: Optional[DatabaseManager] = None):
-        """Initialize exporter"""
-        self.db = db_manager or DatabaseManager()
-        self.export_dir = Config.BASE_DIR / "exports"
-        self.export_dir.mkdir(parents=True, exist_ok=True)
+    filename = "tech_documents.json" if tech_only else "all_documents.json"
+    output_file = output_path / filename
     
-    def export_to_json(
-        self,
-        documents: List[LegalDocument],
-        filename: Optional[str] = None
-    ) -> Path:
-        """
-        Export documents to JSON
-        
-        Args:
-            documents: List of documents
-            filename: Output filename
-            
-        Returns:
-            Path to exported file
-        """
-        if not filename:
-            timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-            filename = f"legal_docs_{timestamp}.json"
-        
-        filepath = self.export_dir / filename
-        
-        # Convert to dict
-        data = []
-        for doc in documents:
-            doc_dict = {
-                'id': doc.id,
-                'title': doc.title,
-                'document_number': doc.document_number,
-                'document_type': doc.document_type,
-                'issuing_agency': doc.issuing_agency,
-                'issued_date': doc.issued_date,
-                'effective_date': doc.effective_date,
-                'summary': doc.summary,
-                'source_url': doc.source_url,
-                'category': doc.category,
-                'is_tech_related': doc.is_tech_related,
-                'relevance_score': doc.relevance_score,
-                'status': doc.status
-            }
-            data.append(doc_dict)
-        
-        with open(filepath, 'w', encoding='utf-8') as f:
-            json.dump(data, f, ensure_ascii=False, indent=2)
-        
-        log.info(f"Exported {len(documents)} documents to JSON: {filepath}")
-        return filepath
+    storage.export_to_json(output_file, tech_only=tech_only)
     
-    def export_to_csv(
-        self,
-        documents: List[LegalDocument],
-        filename: Optional[str] = None
-    ) -> Path:
-        """
-        Export documents to CSV
-        
-        Args:
-            documents: List of documents
-            filename: Output filename
-            
-        Returns:
-            Path to exported file
-        """
-        if not filename:
-            timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-            filename = f"legal_docs_{timestamp}.csv"
-        
-        filepath = self.export_dir / filename
-        
-        # Define fields
-        fields = [
-            'id', 'title', 'document_number', 'document_type',
-            'issuing_agency', 'issued_date', 'effective_date',
-            'summary', 'source_url', 'category',
-            'is_tech_related', 'relevance_score', 'status'
-        ]
-        
-        with open(filepath, 'w', encoding='utf-8', newline='') as f:
-            writer = csv.DictWriter(f, fieldnames=fields)
-            writer.writeheader()
-            
-            for doc in documents:
-                row = {field: getattr(doc, field, '') for field in fields}
-                writer.writerow(row)
-        
-        log.info(f"Exported {len(documents)} documents to CSV: {filepath}")
-        return filepath
+    print(f"\n✅ Exported to: {output_file}")
     
-    def export_tech_documents(self, format: str = 'json') -> Path:
-        """
-        Export all tech-related documents
-        
-        Args:
-            format: Export format (json, csv)
-            
-        Returns:
-            Path to exported file
-        """
-        log.info("Fetching tech documents from database...")
-        documents = self.db.get_tech_documents()
-        
-        if format == 'json':
-            return self.export_to_json(documents, "tech_documents.json")
-        elif format == 'csv':
-            return self.export_to_csv(documents, "tech_documents.csv")
-        else:
-            raise ValueError(f"Unknown format: {format}")
-    
-    def generate_summary_report(self) -> str:
-        """
-        Generate summary report
-        
-        Returns:
-            Report text
-        """
-        stats = self.db.get_statistics()
-        
-        report = f"""
-VIETNAMESE LEGAL DOCUMENTS CRAWLER
-Summary Report
-{'='*60}
+    # Show size
+    if output_file.exists():
+        size_kb = output_file.stat().st_size / 1024
+        print(f"   Size: {size_kb:.2f} KB")
 
-Generated: {datetime.now().strftime("%Y-%m-%d %H:%M:%S")}
 
-OVERALL STATISTICS
-{'-'*60}
-Total Documents: {stats.get('total_documents', 0)}
-Tech Documents: {stats.get('tech_documents', 0)}
-Tech Ratio: {stats.get('tech_documents', 0) / max(stats.get('total_documents', 1), 1) * 100:.1f}%
+def export_csv(storage: FileStorageManager, tech_only: bool = False, output_dir: str = "exports"):
+    """Export to CSV"""
+    output_path = Path(output_dir)
+    output_path.mkdir(parents=True, exist_ok=True)
+    
+    filename = "tech_documents.csv" if tech_only else "all_documents.csv"
+    output_file = output_path / filename
+    
+    storage.export_to_csv(output_file, tech_only=tech_only)
+    
+    print(f"\n✅ Exported to: {output_file}")
+    
+    # Show size
+    if output_file.exists():
+        size_kb = output_file.stat().st_size / 1024
+        print(f"   Size: {size_kb:.2f} KB")
 
-DOCUMENTS BY TYPE
-{'-'*60}
-"""
-        
-        for doc_type, count in stats.get('by_type', {}).items():
-            report += f"{doc_type or 'Unknown'}: {count}\n"
-        
-        report += f"""
-DOCUMENTS BY YEAR
-{'-'*60}
-"""
-        
-        for year, count in sorted(stats.get('by_year', {}).items(), reverse=True):
-            report += f"{year or 'Unknown'}: {count}\n"
-        
-        report += f"""
-{'='*60}
-Export Directory: {self.export_dir}
-{'='*60}
-"""
-        
-        return report
+
+def generate_report(storage: FileStorageManager, output_dir: str = "exports"):
+    """Generate summary report"""
+    stats = storage.get_statistics()
+    
+    output_path = Path(output_dir)
+    output_path.mkdir(parents=True, exist_ok=True)
+    
+    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+    report_file = output_path / f"report_{timestamp}.txt"
+    
+    # Generate report content
+    lines = []
+    lines.append("=" * 60)
+    lines.append("VIETNAMESE LEGAL DOCUMENTS CRAWLER")
+    lines.append("Summary Report")
+    lines.append("=" * 60)
+    lines.append(f"\nGenerated: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
+    
+    lines.append("\n\nBASIC STATISTICS")
+    lines.append("-" * 60)
+    lines.append(f"Total Documents: {stats['total_documents']}")
+    lines.append(f"Tech-Related Documents: {stats['tech_documents']}")
+    lines.append(f"Tech Ratio: {stats['tech_ratio']:.1f}%")
+    lines.append(f"Documents with PDFs: {stats['with_pdfs']} ({stats['with_pdfs']/stats['total_documents']*100:.1f}%)" if stats['total_documents'] > 0 else "Documents with PDFs: 0")
+    lines.append(f"Documents with Texts: {stats['with_texts']} ({stats['with_texts']/stats['total_documents']*100:.1f}%)" if stats['total_documents'] > 0 else "Documents with Texts: 0")
+    
+    if stats.get('by_type'):
+        lines.append("\n\nDOCUMENTS BY TYPE")
+        lines.append("-" * 60)
+        for doc_type, count in sorted(stats['by_type'].items(), key=lambda x: x[1], reverse=True):
+            percentage = (count / stats['total_documents'] * 100) if stats['total_documents'] > 0 else 0
+            lines.append(f"{doc_type}: {count} ({percentage:.1f}%)")
+    
+    if stats.get('by_year'):
+        lines.append("\n\nDOCUMENTS BY YEAR")
+        lines.append("-" * 60)
+        for year, count in sorted(stats['by_year'].items(), reverse=True):
+            percentage = (count / stats['total_documents'] * 100) if stats['total_documents'] > 0 else 0
+            lines.append(f"{year}: {count} ({percentage:.1f}%)")
+    
+    if stats.get('by_website'):
+        lines.append("\n\nDOCUMENTS BY SOURCE WEBSITE")
+        lines.append("-" * 60)
+        for website, count in sorted(stats['by_website'].items(), key=lambda x: x[1], reverse=True):
+            percentage = (count / stats['total_documents'] * 100) if stats['total_documents'] > 0 else 0
+            lines.append(f"{website}: {count} ({percentage:.1f}%)")
+    
+    lines.append("\n" + "=" * 60)
+    lines.append("END OF REPORT")
+    lines.append("=" * 60)
+    
+    # Write report
+    report_content = "\n".join(lines)
+    
+    with open(report_file, 'w', encoding='utf-8') as f:
+        f.write(report_content)
+    
+    # Also print to console
+    print("\n" + report_content)
+    
+    print(f"\n✅ Report saved to: {report_file}")
 
 
 def main():
-    """Main export function"""
-    import argparse
-    
+    """Main function"""
     parser = argparse.ArgumentParser(
-        description="Export crawled legal documents"
+        description="Export crawled data to JSON/CSV or generate reports"
     )
     
     parser.add_argument(
@@ -193,7 +128,7 @@ def main():
     parser.add_argument(
         '--tech-only',
         action='store_true',
-        help='Export only tech-related documents'
+        help='Only export tech-related documents'
     )
     
     parser.add_argument(
@@ -202,30 +137,53 @@ def main():
         help='Generate summary report'
     )
     
+    parser.add_argument(
+        '--output-dir',
+        default='exports',
+        help='Output directory (default: exports)'
+    )
+    
     args = parser.parse_args()
     
-    exporter = DataExporter()
+    # Load storage
+    try:
+        storage = FileStorageManager()
+    except Exception as e:
+        print(f"❌ Error loading storage: {e}")
+        print(f"   Make sure you have crawled data first!")
+        return
     
+    # Check if has data
+    stats = storage.get_statistics()
+    if stats['total_documents'] == 0:
+        print("\n❌ No documents found!")
+        print("   Run crawler first: python3 run_government_crawl.py --max-docs 10")
+        return
+    
+    print("\n" + "=" * 60)
+    print("📤 EXPORT DATA TOOL")
+    print("=" * 60)
+    print(f"Total documents: {stats['total_documents']}")
+    print(f"Tech documents: {stats['tech_documents']}")
+    print(f"Export format: {args.format}")
+    print(f"Tech only: {args.tech_only}")
+    print("=" * 60)
+    
+    # Export
     if args.report:
-        report = exporter.generate_summary_report()
-        print(report)
-        
-        # Save report
-        report_file = exporter.export_dir / f"report_{datetime.now().strftime('%Y%m%d_%H%M%S')}.txt"
-        report_file.write_text(report, encoding='utf-8')
-        print(f"\nReport saved to: {report_file}")
+        generate_report(storage, args.output_dir)
     
-    if args.tech_only:
-        print("\nExporting tech documents...")
-        
-        if args.format == 'both':
-            exporter.export_tech_documents('json')
-            exporter.export_tech_documents('csv')
-        else:
-            filepath = exporter.export_tech_documents(args.format)
-            print(f"Exported to: {filepath}")
+    elif args.format == 'json':
+        export_json(storage, args.tech_only, args.output_dir)
     
-    print("\nExport complete!")
+    elif args.format == 'csv':
+        export_csv(storage, args.tech_only, args.output_dir)
+    
+    elif args.format == 'both':
+        export_json(storage, args.tech_only, args.output_dir)
+        export_csv(storage, args.tech_only, args.output_dir)
+    
+    print("\n✅ Export completed!")
 
 
 if __name__ == "__main__":

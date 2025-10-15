@@ -10,7 +10,7 @@ from bs4 import BeautifulSoup
 from datetime import datetime
 
 from src.crawlers.base_crawler import BaseCrawler
-from src.database.models import DatabaseManager, LegalDocument
+from src.storage.file_storage import FileStorageManager
 from src.config import Config
 from src.utils.logger import log
 
@@ -20,15 +20,15 @@ class GovernmentSitesCrawler(BaseCrawler):
     Crawler for official Vietnamese government websites (.gov.vn)
     """
     
-    def __init__(self, db_manager: DatabaseManager):
+    def __init__(self, storage: FileStorageManager):
         """
         Initialize government crawler
         
         Args:
-            db_manager: Database manager instance
+            storage: File storage manager instance
         """
         super().__init__()
-        self.db = db_manager
+        self.storage = storage
         
         # ONLY official government sources
         self.gov_sources = {
@@ -155,23 +155,24 @@ class GovernmentSitesCrawler(BaseCrawler):
                 if pdf.get('processing_result', {}).get('success'):
                     pdf_result = pdf['processing_result']
                     
-                    # Create document from PDF
-                    doc = LegalDocument(
+                    from pathlib import Path
+                    
+                    # Save document with PDF
+                    doc_id = self.storage.save_document(
                         title=pdf.get('title', 'Document')[:200],
                         source_url=pdf.get('url', ''),
+                        pdf_path=Path(pdf_result.get('pdf_path')) if pdf_result.get('pdf_path') else None,
+                        text_path=Path(pdf_result.get('text_path')) if pdf_result.get('text_path') else None,
+                        text_content=pdf_result.get('text_content', '')[:10000],
                         source_website='vanban.chinhphu.vn',
-                        pdf_path=pdf_result.get('pdf_path'),
-                        text_path=pdf_result.get('text_path'),
-                        full_text=pdf_result.get('text_content', '')[:10000],
                         category='Công nghệ thông tin',
                         is_tech_related=True
                     )
                     
-                    doc_id = self.db.insert_document(doc)
                     stats['documents_saved'] += 1
                     stats['pdfs_downloaded'] += 1
                     
-                    log.info(f"✓ Saved PDF document: ID {doc_id}")
+                    log.info(f"✓ Saved PDF document: {doc_id}")
             
             # Process document links
             for idx, doc_link in enumerate(doc_links[:10], 1):  # Max 10 per page
@@ -189,43 +190,53 @@ class GovernmentSitesCrawler(BaseCrawler):
                     )
                     
                     if doc_result:
-                        # Extract and save
-                        doc = self._parse_government_doc(
+                        # Parse document info
+                        doc_info = self._parse_government_doc(
                             doc_result['html'],
                             doc_link['url'],
                             doc_link['title']
                         )
                         
-                        if doc:
+                        if doc_info:
+                            from pathlib import Path
+                            
                             # Add PDF info if available
+                            pdf_path = None
+                            text_path = None
+                            text_content = doc_info.get('full_text', '')
+                            
                             if doc_result.get('pdf_links'):
                                 for pdf in doc_result['pdf_links']:
                                     if pdf.get('processing_result', {}).get('success'):
                                         pdf_res = pdf['processing_result']
-                                        doc.pdf_path = pdf_res.get('pdf_path')
-                                        doc.text_path = pdf_res.get('text_path')
-                                        doc.full_text = pdf_res.get('text_content', '')[:10000]
+                                        pdf_path = Path(pdf_res.get('pdf_path')) if pdf_res.get('pdf_path') else None
+                                        text_path = Path(pdf_res.get('text_path')) if pdf_res.get('text_path') else None
+                                        text_content = pdf_res.get('text_content', '')[:10000]
                                         stats['pdfs_downloaded'] += 1
                                         break
                             
-                            doc_id = self.db.insert_document(doc)
+                            # Save document
+                            doc_id = self.storage.save_document(
+                                title=doc_info.get('title', '')[:200],
+                                source_url=doc_info.get('source_url', ''),
+                                pdf_path=pdf_path,
+                                text_path=text_path,
+                                text_content=text_content,
+                                source_website=doc_info.get('source_website', ''),
+                                issuing_agency=doc_info.get('issuing_agency', ''),
+                                issued_date=doc_info.get('issued_date'),
+                                category=doc_info.get('category', ''),
+                                is_tech_related=doc_info.get('is_tech_related', True)
+                            )
+                            
                             stats['documents_saved'] += 1
-                            log.info(f"✓ Saved: ID {doc_id}")
+                            log.info(f"✓ Saved: {doc_id}")
                     
                     await asyncio.sleep(2)
                     
                 except Exception as e:
                     log.error(f"Error processing document: {e}")
                     stats['errors'] += 1
-            
-            # Update progress
-            self.db.update_progress(
-                website="vanban.chinhphu.vn",
-                category="government_docs",
-                last_page=page,
-                total_pages=max_pages,
-                documents_crawled=stats['documents_saved']
-            )
             
             await asyncio.sleep(3)
         
@@ -311,11 +322,11 @@ class GovernmentSitesCrawler(BaseCrawler):
                 full_url = urljoin(base_url, href)
                 
                 # Skip if already crawled
-                if self.db.get_document_by_url(full_url):
+                if self.storage.document_exists(full_url):
                     continue
                 
-                # Create document
-                doc = LegalDocument(
+                # Save document
+                doc_id = self.storage.save_document(
                     title=text[:200],
                     source_url=full_url,
                     source_website='mst.gov.vn',
@@ -324,7 +335,6 @@ class GovernmentSitesCrawler(BaseCrawler):
                     is_tech_related=True
                 )
                 
-                doc_id = self.db.insert_document(doc)
                 stats['documents_saved'] += 1
                 
                 log.info(f"✓ Saved: {text[:60]}")
@@ -346,7 +356,7 @@ class GovernmentSitesCrawler(BaseCrawler):
         html: str,
         url: str,
         title: str
-    ) -> Optional[LegalDocument]:
+    ) -> Optional[Dict]:
         """
         Parse government document page
         
@@ -356,24 +366,26 @@ class GovernmentSitesCrawler(BaseCrawler):
             title: Document title
             
         Returns:
-            LegalDocument or None
+            Dict with document info or None
         """
         soup = BeautifulSoup(html, 'lxml')
-        doc = LegalDocument()
         
-        doc.title = title[:200]
-        doc.source_url = url
-        doc.source_website = urlparse(url).netloc
-        doc.issuing_agency = "Chính phủ Việt Nam"
-        doc.category = "Công nghệ thông tin"
-        doc.is_tech_related = True
+        doc_info = {
+            'title': title[:200],
+            'source_url': url,
+            'source_website': urlparse(url).netloc,
+            'issuing_agency': "Chính phủ Việt Nam",
+            'category': "Công nghệ thông tin",
+            'is_tech_related': True,
+            'full_text': ''
+        }
         
         # Try to extract more details
         try:
             # Find content
             content_elem = soup.select_one('.content, .doc-content, article')
             if content_elem:
-                doc.full_text = content_elem.get_text(strip=True)[:5000]
+                doc_info['full_text'] = content_elem.get_text(strip=True)[:5000]
             
             # Find date
             date_elems = soup.find_all(text=re.compile(r'\d{1,2}/\d{1,2}/\d{4}'))
@@ -382,12 +394,12 @@ class GovernmentSitesCrawler(BaseCrawler):
                     date_match = re.search(r'(\d{1,2})/(\d{1,2})/(\d{4})', date_text)
                     if date_match:
                         day, month, year = date_match.groups()
-                        doc.issued_date = f"{year}-{month.zfill(2)}-{day.zfill(2)}"
+                        doc_info['issued_date'] = f"{year}-{month.zfill(2)}-{day.zfill(2)}"
                         break
         except Exception as e:
             log.warning(f"Error parsing document details: {e}")
         
-        return doc
+        return doc_info
     
     async def crawl_all_government_sites(
         self,
@@ -457,22 +469,21 @@ async def run_government_crawl(max_docs: int = 100):
     print("Only official .gov.vn sources")
     print("="*60)
     
-    db = DatabaseManager()
-    crawler = GovernmentSitesCrawler(db)
+    storage = FileStorageManager()
+    crawler = GovernmentSitesCrawler(storage)
     
     stats = await crawler.crawl_all_government_sites(
         max_docs_per_site=max_docs // 2
     )
     
-    # Database stats
-    db_stats = db.get_statistics()
+    # Storage stats
+    storage_stats = storage.get_statistics()
     print("\n" + "="*60)
-    print("DATABASE STATISTICS")
+    print("STORAGE STATISTICS")
     print("="*60)
-    for key, value in db_stats.items():
-        print(f"{key}: {value}")
-    
-    db.close()
+    for key, value in storage_stats.items():
+        if key not in ['by_type', 'by_year', 'by_website']:
+            print(f"{key}: {value}")
     
     return stats
 

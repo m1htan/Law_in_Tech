@@ -2,6 +2,18 @@
 
 ## Chạy ngay trong 5 phút!
 
+## 🎉 THAY ĐỔI MỚI: KHÔNG DÙNG DATABASE
+
+✅ **Mọi data lưu trong folders:**
+- `data/pdf_documents/` - PDFs
+- `data/text_documents/` - Texts
+- `data/metadata.json` - Thông tin documents
+
+❌ **KHÔNG cần:**
+- SQLite database
+- Database tools
+- Phức tạp
+
 ---
 
 ## ✅ Prerequisites
@@ -44,11 +56,16 @@ sites_crawled: 2
 total_documents: 10
 total_pdfs: 5-8
 
-DATABASE STATISTICS
+STORAGE STATISTICS
 Total documents: 10
 Tech documents: 10
+With PDFs: 8
+With texts: 10
 
 ✅ Done!
+📁 PDFs: data/pdf_documents/ (8 files)
+📝 Texts: data/text_documents/ (10 files)
+📊 Metadata: data/metadata.json
 ```
 
 ---
@@ -56,33 +73,36 @@ Tech documents: 10
 ### **Step 2: Xem kết quả**
 
 ```bash
-# Xem báo cáo
+# Xem summary
+python3 view_data.py --summary
+
+# Hoặc xem báo cáo đầy đủ
 python3 tools/export_data.py --report
 ```
 
 **Output:**
 
 ```
-VIETNAMESE LEGAL DOCUMENTS CRAWLER
-Summary Report
+📚 STORAGE SUMMARY
 ============================================================
 
-Total Documents: 10
-Tech Documents: 10
-Tech Ratio: 100.0%
+📊 THỐNG KÊ TỔNG QUAN:
+   Total documents: 10
+   Tech documents: 10
+   With PDFs: 8
+   With texts: 10
+   Tech ratio: 100.0%
 
-DOCUMENTS BY TYPE
-------------------------------------------------------------
-Nghị định: 4
-Quyết định: 3
-Thông tư: 2
-Chỉ thị: 1
+📋 THEO LOẠI VĂN BẢN:
+   Nghị định: 4
+   Quyết định: 3
+   Thông tư: 2
+   Chỉ thị: 1
 
-DOCUMENTS BY YEAR
-------------------------------------------------------------
-2024: 6
-2023: 3
-2022: 1
+📅 THEO NĂM:
+   2024: 6
+   2023: 3
+   2022: 1
 ```
 
 ---
@@ -107,17 +127,20 @@ python3 tools/export_data.py --tech-only --format csv
 ## 📊 Check Downloaded Files
 
 ```bash
+# Metadata (all info)
+cat data/metadata.json | python3 -m json.tool | less
+
 # PDFs
 ls data/pdf_documents/
-# → Tài_liệu_đính_kèm_20241015_*.pdf
+# → Nghi_dinh_15_2024_abc123.pdf
 
 # Text files
 ls data/text_documents/
-# → Tài_liệu_đính_kèm_20241015_*.txt
+# → Nghi_dinh_15_2024_abc123.txt
 
-# Database
+# All data folder
 ls data/
-# → legal_documents.db
+# → metadata.json, pdf_documents/, text_documents/
 ```
 
 ---
@@ -184,17 +207,10 @@ tail -f logs/vietnamese_legal_crawler.log
 
 ## 🔍 Verify Results
 
-### **Check database:**
+### **Check storage:**
 
 ```bash
-python3 -c "
-from src.database.models import DatabaseManager
-db = DatabaseManager()
-stats = db.get_statistics()
-print(f'Total documents: {stats[\"total_documents\"]}')
-print(f'Tech documents: {stats[\"tech_documents\"]}')
-db.close()
-"
+python3 view_data.py --summary
 ```
 
 ### **Check files:**
@@ -228,12 +244,13 @@ python3 test_production_quick.py
 CRAWL_TIMEOUT=120000
 ```
 
-### **Problem: Database locked**
+### **Problem: Metadata file corrupted**
 
-**Solution:** Close other connections:
+**Solution:** Delete and re-crawl:
 
 ```bash
-rm data/legal_documents.db-journal
+rm data/metadata.json
+python3 run_government_crawl.py --max-docs 10
 ```
 
 ---
@@ -270,7 +287,7 @@ cat exports/tech_documents.json | head -50
 
 After running, you should have:
 
-- ✅ Database file: `data/legal_documents.db`
+- ✅ Metadata file: `data/metadata.json`
 - ✅ PDF files: `data/pdf_documents/*.pdf`
 - ✅ Text files: `data/text_documents/*.txt`
 - ✅ Export files: `exports/*.json` or `*.csv`
@@ -282,9 +299,10 @@ After running, you should have:
 ## 🎊 Done!
 
 Your data is now:
-- ✅ Stored in database
+- ✅ Stored in folders (NO database!)
 - ✅ Available as PDFs
-- ✅ Available as text
+- ✅ Available as text  
+- ✅ Metadata in JSON
 - ✅ Exported to JSON/CSV
 - ✅ Ready for analysis
 

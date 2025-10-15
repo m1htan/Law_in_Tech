@@ -5,7 +5,7 @@ Chỉ crawl từ các trang chính phủ Việt Nam
 import asyncio
 import argparse
 from src.crawlers.government_crawler import GovernmentSitesCrawler
-from src.database.models import DatabaseManager
+from src.storage.file_storage import FileStorageManager
 from src.utils.logger import log
 
 
@@ -39,8 +39,8 @@ async def main():
     print(f"Source: {args.source}")
     print("="*60)
     
-    db = DatabaseManager()
-    crawler = GovernmentSitesCrawler(db)
+    storage = FileStorageManager()
+    crawler = GovernmentSitesCrawler(storage)
     
     if args.source == 'all':
         # Crawl all government sites
@@ -72,23 +72,27 @@ async def main():
             if key != 'details':
                 print(f"{key}: {value}")
     
-    # Database statistics
-    db_stats = db.get_statistics()
+    # Storage statistics
+    storage_stats = storage.get_statistics()
     print("\n" + "="*60)
-    print("DATABASE STATISTICS")
+    print("STORAGE STATISTICS")
     print("="*60)
-    print(f"Total documents: {db_stats['total_documents']}")
-    print(f"Tech documents: {db_stats['tech_documents']}")
+    print(f"Total documents: {storage_stats['total_documents']}")
+    print(f"Tech documents: {storage_stats['tech_documents']}")
+    print(f"With PDFs: {storage_stats['with_pdfs']}")
+    print(f"With texts: {storage_stats['with_texts']}")
     
-    if db_stats.get('by_type'):
+    if storage_stats.get('by_type'):
         print("\nBy document type:")
-        for doc_type, count in db_stats['by_type'].items():
+        for doc_type, count in storage_stats['by_type'].items():
             print(f"  {doc_type}: {count}")
     
-    db.close()
-    
-    print("\n✅ Done! Check database at: data/legal_documents.db")
-    print("Export data: python3 tools/export_data.py --tech-only --format json")
+    print("\n✅ Done!")
+    print(f"📁 PDFs: data/pdf_documents/ ({storage_stats['with_pdfs']} files)")
+    print(f"📝 Texts: data/text_documents/ ({storage_stats['with_texts']} files)")
+    print(f"📊 Metadata: data/metadata.json")
+    print(f"\n💡 View data: python3 view_data.py")
+    print(f"💡 Export: python3 tools/export_data.py --format json")
 
 
 if __name__ == "__main__":
