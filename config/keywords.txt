@@ -15,3 +15,40 @@ chuyển giao công nghệ
 IoT
 big data
 điện toán đám mây
+blockchain
+chuỗi khối
+chữ ký số
+trung tâm dữ liệu
+cloud
+điện toán biên
+an ninh mạng
+ATTT
+Mạng 5G
+5G
+vệ tinh viễn thông
+vệ tinh
+đô thị thông minh
+smart city
+open data
+data governance
+quản trị dữ liệu
+API mở
+hệ sinh thái số
+siêu dữ liệu
+metadata
+thị thực điện tử
+eKYC
+không gian mạng
+ML
+học máy
+học sâu
+deep learning
+robot
+RPA
+quyền riêng tư
+privacy
+an ninh thông tin
+SOC
+giám sát an toàn
+điện toán lượng tử
+quantum

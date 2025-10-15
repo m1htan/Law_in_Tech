@@ -70,6 +70,13 @@ def _allowed(url: str) -> bool:
 def _domain(url: str) -> str:
     return re.sub(r"^https?://(www\.)?([^/]+)/?.*$", r"\2", url)
 
+def _is_gov_vn(url: str) -> bool:
+    try:
+        host = _domain(url)
+    except Exception:
+        return False
+    return host == "gov.vn" or host.endswith(".gov.vn")
+
 def _throttle(domain: str):
     # throttle đơn giản theo domain (250–500ms)
     time.sleep(0.35)
@@ -137,6 +144,9 @@ def run_crawl(seeds: list[str]) -> list[dict]:
 
         async with _make_crawler(browser_cfg) as crawler:
             for url in seeds:
+                # Chỉ thu thập từ miền .gov.vn như yêu cầu
+                if not _is_gov_vn(url):
+                    continue
                 if not can_fetch(url):
                     continue
                 _throttle(_domain(url))
@@ -230,6 +240,10 @@ def _process_result(r) -> List[Dict[str,Any]]:
         html = norm["cleaned_html"] or ""
         url = norm["url"] or parent_url or ""
 
+            # Bảo đảm chỉ nhận kết quả thuộc miền .gov.vn
+            if not _is_gov_vn(url):
+                continue
+
         # Nếu không có nội dung, bỏ qua
         if not any([title, md, txt, html]):
             continue
@@ -276,6 +290,9 @@ def _process_result(r) -> List[Dict[str,Any]]:
         # PDF attachments
         pdfs = _extract_pdf_links(html or "", base_url=url or (parent_url or ""))
         for purl in pdfs:
+            # Chỉ tải tệp PDF từ miền .gov.vn
+            if not _is_gov_vn(purl):
+                continue
             loc = fetch_and_extract_pdf(purl, out_dir="../outputs/pdf")
             parsed["attachments"].append({"url": purl, "type": "pdf", **loc})
 
