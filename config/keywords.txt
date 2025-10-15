@@ -1,17 +1,358 @@
 chuyển đổi số
 chính phủ số
 kinh tế số
+xã hội số
 hạ tầng số
+công nghệ thông tin
+CNTT
+ICT
 an toàn thông tin
+bảo mật thông tin
+an ninh mạng
+cybersecurity
 AI
 trí tuệ nhân tạo
+artificial intelligence
+machine learning
+học máy
 khoa học và công nghệ
+khoa học công nghệ
+science and technology
 dữ liệu mở
-định danh
-xác thực điện tử
-giao dịch điện tử
-chuyển giao công nghệ
-đổi mới sáng tạo
-IoT
+open data
 big data
+dữ liệu lớn
+định danh điện tử
+digital identity
+xác thực điện tử
+digital authentication
+chữ ký số
+digital signature
+giao dịch điện tử
+e-transaction
+thương mại điện tử
+e-commerce
+chuyển giao công nghệ
+technology transfer
+đổi mới sáng tạo
+innovation
+startup
+khởi nghiệp
+IoT
+internet of things
+vạn vật kết nối
 điện toán đám mây
+cloud computing
+blockchain
+chuỗi khối
+fintech
+công nghệ tài chính
+digital transformation
+transformation numérique
+công nghiệp 4.0
+industry 4.0
+smart city
+thành phố thông minh
+e-government
+chính phủ điện tử
+digital government
+công dân số
+digital citizen
+dịch vụ công trực tuyến
+online public services
+one stop service
+dịch vụ một cửa
+interoperability
+tương tác
+kết nối liên thông
+data center
+trung tâm dữ liệu
+5G
+6G
+broadband
+băng thông rộng
+fiber optic
+cáp quang
+satellite
+vệ tinh
+quantum computing
+điện toán lượng tử
+robotics
+robot
+automation
+tự động hóa
+digital skills
+kỹ năng số
+digital literacy
+hiểu biết số
+STEM
+khoa học tự nhiên
+công nghệ sinh học
+biotechnology
+nanotechnology
+công nghệ nano
+renewable energy
+năng lượng tái tạo
+smart grid
+lưới điện thông minh
+electric vehicle
+xe điện
+autonomous vehicle
+xe tự lái
+drone
+máy bay không người lái
+3D printing
+in 3D
+virtual reality
+thực tế ảo
+augmented reality
+thực tế tăng cường
+metaverse
+vũ trụ ảo
+NFT
+cryptocurrency
+tiền điện tử
+digital wallet
+ví điện tử
+mobile payment
+thanh toán di động
+QR code
+mã QR
+NFC
+near field communication
+RFID
+radio frequency identification
+sensor
+cảm biến
+smart home
+nhà thông minh
+smart agriculture
+nông nghiệp thông minh
+precision agriculture
+nông nghiệp chính xác
+telemedicine
+y tế từ xa
+digital health
+sức khỏe số
+health tech
+công nghệ y tế
+edtech
+công nghệ giáo dục
+e-learning
+học trực tuyến
+online education
+giáo dục trực tuyến
+digital content
+nội dung số
+streaming
+phát trực tuyến
+social media
+mạng xã hội
+platform
+nền tảng
+API
+application programming interface
+software
+phần mềm
+hardware
+phần cứng
+infrastructure
+hạ tầng
+network
+mạng
+protocol
+giao thức
+standard
+tiêu chuẩn
+certification
+chứng nhận
+compliance
+tuân thủ
+regulation
+quy định
+policy
+chính sách
+framework
+khung
+guideline
+hướng dẫn
+best practice
+thực hành tốt nhất
+digital divide
+khoảng cách số
+inclusion
+hòa nhập
+accessibility
+khả năng tiếp cận
+usability
+khả năng sử dụng
+user experience
+trải nghiệm người dùng
+UX
+UI
+user interface
+giao diện người dùng
+design thinking
+tư duy thiết kế
+agile
+linh hoạt
+scrum
+devops
+continuous integration
+tích hợp liên tục
+continuous deployment
+triển khai liên tục
+microservices
+dịch vụ vi mô
+containerization
+đóng gói
+kubernetes
+docker
+open source
+mã nguồn mở
+proprietary
+độc quyền
+license
+giấy phép
+intellectual property
+sở hữu trí tuệ
+patent
+bằng sáng chế
+copyright
+bản quyền
+trademark
+thương hiệu
+privacy
+riêng tư
+GDPR
+data protection
+bảo vệ dữ liệu
+consent
+đồng ý
+transparency
+minh bạch
+accountability
+trách nhiệm giải trình
+ethics
+đạo đức
+responsible AI
+AI có trách nhiệm
+explainable AI
+AI có thể giải thích
+fairness
+công bằng
+bias
+thiên lệch
+algorithm
+thuật toán
+model
+mô hình
+training
+huấn luyện
+dataset
+tập dữ liệu
+neural network
+mạng nơ-ron
+deep learning
+học sâu
+natural language processing
+xử lý ngôn ngữ tự nhiên
+NLP
+computer vision
+thị giác máy tính
+image recognition
+nhận dạng hình ảnh
+speech recognition
+nhận dạng giọng nói
+chatbot
+bot trò chuyện
+virtual assistant
+trợ lý ảo
+recommendation system
+hệ thống gợi ý
+predictive analytics
+phân tích dự đoán
+business intelligence
+thông minh kinh doanh
+BI
+dashboard
+bảng điều khiển
+visualization
+trực quan hóa
+reporting
+báo cáo
+KPI
+key performance indicator
+chỉ số hiệu suất chính
+metric
+chỉ số
+benchmark
+điểm chuẩn
+performance
+hiệu suất
+scalability
+khả năng mở rộng
+reliability
+độ tin cậy
+availability
+tính khả dụng
+redundancy
+dự phòng
+backup
+sao lưu
+disaster recovery
+khôi phục thảm họa
+business continuity
+liên tục kinh doanh
+risk management
+quản lý rủi ro
+vulnerability
+lỗ hổng
+threat
+mối đe dọa
+attack
+tấn công
+malware
+phần mềm độc hại
+virus
+vi-rut
+phishing
+lừa đảo
+ransomware
+mã độc tống tiền
+firewall
+tường lửa
+antivirus
+chống vi-rut
+encryption
+mã hóa
+decryption
+giải mã
+hash
+băm
+digital certificate
+chứng chỉ số
+PKI
+public key infrastructure
+hạ tầng khóa công khai
+SSL
+TLS
+VPN
+virtual private network
+mạng riêng ảo
+multi-factor authentication
+xác thực đa yếu tố
+MFA
+2FA
+two-factor authentication
+xác thực hai yếu tố
+biometric
+sinh trắc học
+fingerprint
+vân tay
+facial recognition
+nhận dạng khuôn mặt
+iris scan
+quét mống mắt
+voice recognition
+nhận dạng giọng nói

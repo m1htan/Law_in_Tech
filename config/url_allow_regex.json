@@ -1,7 +1,23 @@
 [
-  "https?://(www\\.)?chinhphu\\.vn/(he-thong-van-ban|du-thao-vbqppl).*",
-  "https?://(www\\.)?vbpl\\.vn/.*",
-  "https?://duthaoonline\\.quochoi\\.vn/.*",
-  "https?://(www\\.)?moj\\.gov\\.vn/dtvb/.*",
-  "https?://(www\\.)?luatminhkhue\\.vn/(van-ban|tags/.*(chuyen|so|ai|tri-tue|khoa-hoc)).*"
+  "https?://(www\\.)?chinhphu\\.vn/.*",
+  "https?://(www\\.)?moj\\.gov\\.vn/.*",
+  "https?://(www\\.)?mic\\.gov\\.vn/.*",
+  "https?://(www\\.)?most\\.gov\\.vn/.*",
+  "https?://(www\\.)?moit\\.gov\\.vn/.*",
+  "https?://(www\\.)?mpi\\.gov\\.vn/.*",
+  "https?://(www\\.)?gov\\.vn/.*",
+  "https?://(www\\.)?ega\\.gov\\.vn/.*",
+  "https?://(www\\.)?nsc\\.gov\\.vn/.*",
+  "https?://(www\\.)?csc\\.gov\\.vn/.*",
+  "https?://(www\\.)?cca\\.gov\\.vn/.*",
+  "https?://(www\\.)?nta\\.gov\\.vn/.*",
+  "https?://(www\\.)?bkav\\.gov\\.vn/.*",
+  "https?://(www\\.)?vnisa\\.gov\\.vn/.*",
+  "https?://(www\\.)?vnpt\\.gov\\.vn/.*",
+  "https?://(www\\.)?viettel\\.gov\\.vn/.*",
+  "https?://(www\\.)?fpt\\.gov\\.vn/.*",
+  "https?://(www\\.)?ncsc\\.gov\\.vn/.*",
+  "https?://(www\\.)?dma\\.gov\\.vn/.*",
+  "https?://(www\\.)?dga\\.gov\\.vn/.*",
+  "https?://[a-zA-Z0-9-]+\\.gov\\.vn/.*"
 ]
