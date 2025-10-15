@@ -1,3 +1,6 @@
+# Environment variables
+.env
+
 # Python
 __pycache__/
 *.py[cod]
@@ -20,29 +23,22 @@ wheels/
 .installed.cfg
 *.egg
 
-# Virtual Environment
+# Virtual environments
 venv/
 ENV/
 env/
 
-# IDEs
+# IDE
 .vscode/
 .idea/
 *.swp
 *.swo
 *~
 
-# Environment variables
-.env
-.env.local
-
-# Data files
-data/
-!data/.gitkeep
-
-# Logs
-logs/
-*.log
+# Data directories
+data/pdf_documents/*.pdf
+data/text_documents/*.txt
+logs/*.log
 
 # OS
 .DS_Store
@@ -51,30 +47,5 @@ Thumbs.db
 # Jupyter Notebook
 .ipynb_checkpoints
 
-# PyCharm
-.idea/
-
-# Database
-*.db
-*.sqlite
-*.sqlite3
-
-# Temporary files
-tmp/
-temp/
-*.tmp
-
-# Coverage
-htmlcov/
-.coverage
-.coverage.*
-coverage.xml
-*.cover
-
-# Pytest
-.pytest_cache/
-
-# mypy
-.mypy_cache/
-.dmypy.json
-dmypy.json
+# Playwright browsers
+.playwright/
