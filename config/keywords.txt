@@ -1,17 +1,36 @@
 chuyển đổi số
+CĐS
+số hóa
 chính phủ số
-kinh tế số
+chính phủ điện tử
+CPĐT
+nền tảng số
 hạ tầng số
+công nghệ thông tin
+CNTT
 an toàn thông tin
-AI
+an ninh mạng
+bảo mật
 trí tuệ nhân tạo
+AI
+học máy
+machine learning
 khoa học và công nghệ
+khoa học công nghệ
+KH&CN
+KHCN
+đổi mới sáng tạo
+chuyển giao công nghệ
+dữ liệu số
 dữ liệu mở
+dữ liệu quốc gia
 định danh
 xác thực điện tử
 giao dịch điện tử
-chuyển giao công nghệ
-đổi mới sáng tạo
 IoT
+internet vạn vật
 big data
+dữ liệu lớn
 điện toán đám mây
+cloud
+blockchain

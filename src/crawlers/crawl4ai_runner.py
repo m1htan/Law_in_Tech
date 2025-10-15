@@ -92,6 +92,12 @@ def _requests_extract_links(url: str) -> list[str]:
             links.append(href)
     return list(dict.fromkeys(links))
 
+def _is_gov_vn_domain(domain: str) -> bool:
+    """Chỉ chấp nhận miền .gov.vn theo yêu cầu người dùng."""
+    if not domain:
+        return False
+    return domain == "gov.vn" or domain.endswith(".gov.vn")
+
 def _default_run_config():
     return _make_run_config(
         cache_mode=getattr(CacheMode, "BYPASS", getattr(CacheMode, "DISABLED", None)),
@@ -247,6 +253,10 @@ def _process_result(r) -> List[Dict[str,Any]]:
             continue
 
         site = _domain(url) if url else _domain(parent_url or "")
+
+        # Guard: chỉ nhận tài liệu từ miền .gov.vn
+        if not _is_gov_vn_domain(site):
+            continue
 
         parsed = {
             "url": url or (parent_url or ""),
