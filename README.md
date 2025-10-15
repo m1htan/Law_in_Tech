@@ -137,11 +137,47 @@ Hệ thống thu thập:
 
 ## 🏃 Chạy Hệ thống
 
-(Sẽ cập nhật sau khi hoàn thành các bước tiếp theo)
+### **🏛️ GOVERNMENT CRAWLER (KHUYẾN NGHỊ)**
+
+Chỉ crawl từ các trang .gov.vn chính thức:
 
 ```bash
-# Chưa sẵn sàng - đang trong giai đoạn phát triển
-python main.py
+# Test nhanh (10 documents, 5 phút)
+python3 run_government_crawl.py --max-docs 10
+
+# Production (100 documents, 30 phút)
+python3 run_government_crawl.py --max-docs 100 --source all
+
+# Chỉ văn bản Chính phủ
+python3 run_government_crawl.py --source vanban --max-docs 100
+
+# Chỉ Bộ Số hóa (tech focus)
+python3 run_government_crawl.py --source mst --max-docs 50
+```
+
+### **🤖 AI AGENT MODE**
+
+Test với AI Agent:
+
+```bash
+# Test AI Agent
+python3 test_ai_agent.py
+
+# Sử dụng AI để phân tích
+# (Requires Google API Key in .env)
+```
+
+### **📊 Export & Reports**
+
+```bash
+# Xem báo cáo
+python3 tools/export_data.py --report
+
+# Export JSON
+python3 tools/export_data.py --tech-only --format json
+
+# Export CSV
+python3 tools/export_data.py --tech-only --format csv
 ```
 
 ## 📊 Output
