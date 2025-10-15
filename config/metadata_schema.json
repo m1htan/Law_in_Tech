@@ -1,0 +1,24 @@
+{
+  "url": "", "source_site": "",
+  "doc_type": "NGHI_DINH|NGHI_QUYET|THONG_TU|QUYET_DINH|LUAT|DU_THAO",
+  "so_hieu": "", "co_quan_ban_hanh": "",
+  "ngay_ban_hanh": "YYYY-MM-DD", "ngay_hieu_luc": "YYYY-MM-DD|null",
+  "trang_thai": "con_hieu_luc|het_hieu_luc|du_thao",
+  "linh_vuc": ["..."],
+  "tieu_de": "", "tom_tat": "",
+  "noi_dung_markdown": "", "noi_dung_text": "",
+  "attachments": [{"url": "", "type": "pdf|docx", "local_path": ""}],
+  "du_thao": {
+    "dang_lay_y_kien": true,
+    "ngay_bat_dau": "YYYY-MM-DD|null",
+    "ngay_ket_thuc": "YYYY-MM-DD|null",
+    "so_luong_y_kien": 0,
+    "link_y_kien": "",
+    "noi_dung_y_kien": []
+  },
+  "crawled_at": "ISO-8601",
+  "record_valid_from": "ISO-8601",
+  "record_valid_to": "9999-12-31T23:59:59Z|null",
+  "is_current": true,
+  "content_hash": ""
+}
