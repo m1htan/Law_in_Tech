@@ -96,24 +96,63 @@ class ThuvienPhapLuatProductionCrawler(BaseCrawler):
         documents = []
         soup = BeautifulSoup(html, 'lxml')
         
-        # Find document items - thuvienphapluat.vn specific selectors
-        doc_items = soup.select('.item-vanban, .search-result-item, .doc-item')
+        # NEW: More comprehensive selector search
+        # thuvienphapluat.vn uses various structures
+        doc_items = []
+        
+        # Try multiple selector strategies
+        selector_strategies = [
+            # Primary selectors
+            ('ul.list-vb li', soup.select('ul.list-vb li')),
+            ('div.list-vb > div', soup.select('div.list-vb > div')),
+            ('div.item-vanban', soup.select('div.item-vanban')),
+            ('div.search-result-item', soup.select('div.search-result-item')),
+            
+            # Alternative: Find all links with van-ban in href
+            ('a[href*="van-ban/"]', soup.select('a[href*="van-ban/"]')),
+        ]
+        
+        for selector_name, items in selector_strategies:
+            if items:
+                log.info(f"Using selector: {selector_name} ({len(items)} items)")
+                doc_items = items
+                break
         
         if not doc_items:
-            # Try alternative selectors
-            doc_items = soup.select('div[class*="doc"], div[class*="item"]')
+            # Last resort: find all links containing "van-ban"
+            log.warning("No standard selectors worked, trying link-based extraction")
+            all_links = soup.find_all('a', href=True)
+            doc_items = [link for link in all_links if 'van-ban/' in link.get('href', '')]
         
         log.info(f"Found {len(doc_items)} potential document items")
         
         for item in doc_items:
             try:
                 # Extract document link
-                link = item.select_one('a[href*="/van-ban/"], a.doc-title, h3 a, h4 a')
+                # If item itself is a link
+                if item.name == 'a' and item.get('href'):
+                    link = item
+                else:
+                    # Find link within item
+                    link = item.find('a', href=True)
+                    if not link:
+                        link = item.select_one('a[href*="/van-ban/"], a.doc-title, h3 a, h4 a')
+                
                 if not link or not link.get('href'):
                     continue
                 
                 doc_url = urljoin(base_url, link['href'])
+                
+                # Skip if not a document detail page
+                if '/van-ban/' not in doc_url or doc_url.endswith('.html') is False:
+                    if not doc_url.endswith('.aspx'):  # Also accept .aspx
+                        continue
+                
                 title = link.get_text(strip=True)
+                
+                # Also try to get title from parent if link text is empty
+                if not title and item.name != 'a':
+                    title = item.get_text(strip=True)
                 
                 if not title or len(title) < 10:
                     continue
