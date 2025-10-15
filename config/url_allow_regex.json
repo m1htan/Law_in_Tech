@@ -1,7 +1,13 @@
 [
-  "https?://(www\\.)?chinhphu\\.vn/(he-thong-van-ban|du-thao-vbqppl).*",
-  "https?://(www\\.)?vbpl\\.vn/.*",
-  "https?://duthaoonline\\.quochoi\\.vn/.*",
+  "https?://(www\\.)?chinhphu\\.vn/(he-thong-van-ban|du-thao-vbqppl|tin-tuc).*",
+  "https?://(www\\.)?mic\\.gov\\.vn/(Pages/(VanBan|ChuyenMuc|TinTuc)|tin-tuc).*",
+  "https?://(www\\.)?most\\.gov\\.vn/(vn/(tin-tuc|van-ban)|chuyen-doi-so|khoa-hoc-cong-nghe).*",
   "https?://(www\\.)?moj\\.gov\\.vn/dtvb/.*",
-  "https?://(www\\.)?luatminhkhue\\.vn/(van-ban|tags/.*(chuyen|so|ai|tri-tue|khoa-hoc)).*"
+  "https?://(www\\.)?ega\\.gov\\.vn/(van-ban-phap-quy|tin-tuc|chuyen-doi-so).*",
+  "https?://(www\\.)?cic\\.gov\\.vn/(Pages/TinTuc|tin-hoa).*",
+  "https?://(www\\.)?mpi\\.gov\\.vn/(Pages/(vanban|tintuc)|chuyen-doi-so).*",
+  "https?://(www\\.)?ncsc\\.gov\\.vn/(tin-tuc|an-toan-thong-tin).*",
+  "https?://(www\\.)?vnnic\\.vn/(thong-tin/tin-tuc|internet).*",
+  "https?://(www\\.)?bkav\\.gov\\.vn/(cong-nghe-bao-mat|tin-tuc).*",
+  "https?://(www\\.)?vnisa\\.org\\.vn/(tin-tuc|an-toan-thong-tin).*"
 ]
