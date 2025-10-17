@@ -1,0 +1,62 @@
+Hoàn thiện công tác kế toán môi trường tại các doanh nghiệp khai thác khoáng sản trên địa bàn tỉnh Quảng Ninh
+Sự phát triển kinh tế Quảng Ninh trong những năm gần đây là kết quả từ những nỗ lực hoạt động kinh tế của nhiều doanh nghiệp trên địa bàn tỉnh, trong đó các doanh nghiệp khai thác khoáng sản (DNKTKS) đóng vai trò rất quan trọng. Trong bối cảnh toàn cầu hóa, bảo vệ môi trường là đồng nghĩa với việc hạn chế các rủi ro môi trường, thực hiện tốt trách nhiệm xã hội và đảm bảo phát triển bền vững doanh nghiệp. Thông tin kế toán môi trường của doanh nghiệp có ý nghĩa quan trọng cho việc quản trị điều hành doanh nghiệp cũng như cung cấp thông tin cho nhóm các đối tượng khác có liên quan. Tuy nhiên, trong các quy định kế toán hiện hành vẫn còn nhiều khoảng trống về kế toán môi trường đòi hỏi cần phải hoàn thiện và vận dụng sao cho hợp lí và hiệu quả. Bài viết bàn về vấn đề hoàn thiện công tác kế toán môi trường tại các doanh nghiệp khai thác khoáng sản trên địa bàn tỉnh Quảng Ninh.
+1. Thực trạng công tác kế toán môi trường tại các doanh nghiệp khai thác khoáng sản trên địa bàn tỉnh Quảng Ninh
+1.1. Khái niệm về kế toán môi trường.
+Theo USEPA, kế toán môi trường nói chung là một khái niệm bao trùm ba lĩnh vực khác nhau: Kế toán môi trường của quốc gia, kế toán tài chính môi trường và kế toán quản trị môi trường trong doanh nghiệp. Ba lĩnh vực khác nhau của kế toán môi trường phục vụ cho những đối tượng sử dụng thông tin đặc thù sau: (Bảng 1)
+Bảng 1. Phân loại kế toán môi trường
+Kế toán môi trường được sử dụng trong một số hoàn cảnh khác nhau, như: Đánh giá và công bố thông tin tài chính liên quan đến môi trường trong báo cáo tài chính, đánh giá và sử dụng các loại thông tin vật lý và tiền tệ liên quan đến hoạt động môi trường phục vụ cho quản trị môi trường.
+1.2. Thực trạng các kế toán môi trường tại các DNKTKS trên địa bàn tỉnh Quảng Ninh
+Quảng Ninh là tỉnh nằm trong tam giác phát triển phía Bắc với những lợi thế to lớn để phát triển. Đặc biệt là công nghiệp khai thác khoáng sản trên địa bàn tỉnh đã được hình thành và phát triển hàng trăm năm. Tuy nhiên, khai khoáng là ngành công nghiệp nhạy cảm với môi trường bởi những hệ lụy môi trường của nó là rất to lớn.
+1.2.1. Mô hình tổ chức kế toán tài chính và kế toán quản trị môi trường
+Bảng 2. Tỷ lệ khảo sát mô hình tổ chức kế toán tài chính và kế toán quản trị môi trường trên địa bàn tỉnh Quảng Ninh
+Khảo sát thực tế, tất cả các doanh nghiệp sản xuất thực hiện tổ chức kế toán tài chính và kế toán quản trị doanh nghiệp theo mô hình kết hợp. Với mô hình này, kế toán hoạt động môi trường tại doanh nghiệp chưa thể hiện rõ chức năng, vai trò, nhiệm vụ cụ thể, chúng được lồng ghép trong từng phần hành kế toán cụ thể của kế toán tài chính và kế toán quản trị. (Bảng 2)
+1.2.2. Thực trạng tổ chức ghi nhận tài sản, nợ phải trả, chi phí, thu nhập môi trường
+Tài sản môi trường: Các tài sản môi trường tại các doanh nghiệp chủ yếu là tài sản cố định sử dụng cho hoạt động bảo vệ môi trường bao gồm: Hệ thống kết cấu hạ tầng thu gom, xử lý nước thải, phương tiện, thiết bị thu gom, lưu giữ chất thải, thiết bị phòng ngừa và ứng phó sự cố môi trường…Nguyên giá tài sản cố định môi trường trong doanh nghiệp được xác định theo nguyên tắc giá phí. Nguyên giá tài sản cố định môi trường có thể được xác định cho từng đối tượng có kết cấu độc lập, hoặc có thể được xác định là một hệ thống nhiều bộ phận tài sản môi trường liên kết với nhau để thực hiện một chức năng nhất định.
+Nợ phải trả môi trường: Nợ môi trường phải trả cho hoạt động bảo vệ môi trường trong doanh nghiệp sản xuất không được tách biệt thành một loại riêng mà được xếp chung vào các khoản nợ phải trả người cung cấp hoặc khoản nợ phải trả, phải nộp khác.
+Chi phí môi trường: Các khoản chi phí phát sinh liên quan đến hoạt động môi trường chưa được phân thành một loại riêng. Các chi phí phát sinh liên quan đến hoạt động môi trường được các doanh nghiệp tính vào chi phí sản xuất chung, chi phí quản lý doanh nghiệp hoặc chi phí khác. Các khoản chi phí môi trường phát sinh, doanh nghiệp xác định theo nguyên tắc như chi phí sản xuất, kinh doanh của doanh nghiệp. Các khoản chi ra cho các hoạt động về môi trường tại doanh nghiệp được xác định trên cơ sở có các bằng chứng chắc chắn.
+Thu nhập môi trường: Các khoản thu nhập môi trường phát sinh tại các doanh nghiệp sản xuất chủ yếu là các khoản thu nhập phát sinh từ các hoạt động bán phế liệu, phế phẩm thu được từ hoạt động sản xuất và được phản ánh vào thu nhập khác.
+1.2.3. Thực trạng tổ chức ghi nhận tài sản, nợ phải trả, chi phí, thu nhập môi trường
+(i) Tổ chức chứng từ kế toán và hạch toán ban đầu
+Lập chứng từ kế toán: Qua khảo sát thực tế vận dụng hệ thống chứng từ để thu nhận được thông tin kế toán về tài sản, nợ phải trả, chi phi, thu nhập liên quan đến hoạt động môi trường trong doanh nghiệp, bộ phận kế toán vận dụng mẫu trong Hệ thống chứng từ kế toán hướng dẫn theo Thông tư số 200/2014/TT-BTC hoặc Thông tư số 133/2016/TT-BTC.
+Kiểm tra và luân chuyển chứng từ kế toán: Chứng từ kế toán liên quan đến hoạt động môi trường tại các doanh nghiệp, trước khi ghi sổ được kiểm tra một cách chặt chẽ về tính hợp pháp, hợp lý của thông tin về các nghiệp vụ kinh tế phản ánh trên chứng từ.
+Lưu trữ chứng từ kế toán: Chứng từ kế toán sau khi luân chuyển được đơn vị kế toán bảo quản đầy đủ, an toàn trong quá trình sử dụng và lưu trữ.
+(ii) Tổ chức tài khoản kế toán
+Để tổ chức hệ thống hóa thông tin kế toán, bộ phận kế toán trong doanh nghiệp tổ chức vận dụng hệ thống tài khoản theo Thông tư số 200/2014/TT-BTC hoặc Thông tư số 133/2016/TT-BTC.
+Các nghiệp vụ kinh tế liên quan đến tài sản cố định môi trường, được phản ánh vào các loại tài khoản dùng phản ánh tài sản cố định của doanh nghiệp. Chúng được phản ánh vào các loại sau: 1) loại Nhà cửa, vật kiến trúc, 2) Máy móc, thiết bị, 3) Phương tiện vận tải, truyền dẫn, 4) Thiết bị, dụng cụ quản lý...
+Các khoản chi phí cho hoạt động bảo vệ môi trường, tùy theo mục đích sử dụng mà được phản ánh vào các tài khoản chi phí sản xuất chung, chi phí quản lý doanh nghiệp, chi phí khác. Các chi phi mua hóa chất phục vụ cho làm sạch, vệ sinh môi trường, chi phí xử lý chất thải, lương nhân viên phục vụ cho hoạt động bảo vệ môi trường, khoản phí môi trường... được phản ánh vào chi phí sản xuất chung. Các khoản tiền phạt vi phạm về môi trường... được phản ánh vào chi phí khác.
+Các khoản nợ phải trả về hoạt động bảo vệ môi trường, các doanh nghiệp không có tiêu chuẩn cố định để phản ánh, thường được phản ánh vào tài khoản phải trả người bán hoặc tài khoản phải trả, phải nộp khác. Các khoản tiền thuê các đơn vị tư vấn bên ngoài xử lý môi trường, khắc phục sự cố môi trường, khoản tiền phải bồi thường các khoản thiệt hại môi trường… phản ánh vào tài khoản phải trả người bán hoặc tài khoản phải trả, phải nộp khác
+(iii) Tổ chức sổ kế toán
+Các doanh nghiệp khảo sát áp dụng hình thức kế toán kế toán máy, mở các sổ kế toán chi tiết, tổng hợp phù hợp với hoạt động sản xuất kinh doanh của đơn vị, ghi chép vào sổ kế toán theo trình tự và phương pháp ghi sổ đối với các nghiệp vụ kinh tế, tài chính phát sinh liên quan đến hoạt động môi trường trong doanh nghiệp. Các doanh nghiệp không thiết kế riêng các mẫu sổ kế toán để ghi chép các nghiệp vụ kinh tế phát sinh liên quan đến tài sản, nợ phải trả, chi phí, thu nhập môi trường. Chỉ có 12,5% doanh nghiệp mở các sổ kế toán chi tiết chi phí để phản ánh chi phí môi trường sử dụng cho kế toán quản trị môi trường.
+1.2.4. Thực trạng tổ chức cung cấp và sử dụng thông tin tài sản, nợ phải trả, chi phí, thu nhập môi trường
+Thông tin hoạt động môi trường trong báo cáo tài chính: Các thông tin liên quan đến nợ phải trả môi trường được các doanh nghiệp ghi nhận vào Bảng cân đối kế toán, trình bày chung trong các khoản mục “Phải trả cho người bán” hoặc khoản mục “Phải trả, phải nộp khác”. Các thông tin liên quan đến chi phí môi trường được các doanh nghiệp ghi nhận vào Báo cáo kết quả kinh doanh và được trình bày chung trong các khoản mục giá vốn hàng bán, chi phí quản lý doanh nghiệp, chi phí khác. Trong phần thuyết minh báo cáo tài chính, chi phí môi trường được trình bày chung trong mục “Chi phí sản xuất, kinh doanh theo yếu tố”. Các thông tin liên quan đến thu nhập về môi trường ghi nhận vào Báo cáo kết quả kinh doanh và được trình bày chung trong mục thu nhập khác
+Thông tin hoạt động môi trường trong báo cáo kế toán quản trị chủ yếu là báo cáo tổng hợp chi phí xử lý môi trường tại doanh nghiệp. Mục đích báo cáo này nhằm phân bổ chi phí xử lý môi trường cho các loại sản phẩm và cung cấp thông tin cho các nhà quản trị để phục vụ cho việc ra các quyết định liên quan đến giá bán sản phẩm.
+2. Giải pháp hoàn thiện công tác kế toán môi trường tại các doanh nghiệp khai thác khoáng sản trên địa bàn tỉnh Quảng Ninh
+Xây dựng mô hình tổ chức kế toán tài chính và kế toán quản trị môi trường
+Mô hình tổ chức kế toán tài chính và kế toán quản trị môi trường được xây  dựng theo phương án “lồng ghép”. Với mô hình này, kế toán tài chính môi trường được lồng ghép trong kế toán tài chính, kế toán quản trị môi trường được lồng ghép trong kế toán quản trị. 
+Kế toán tài chính môi trường được lồng ghép vào trong bộ phận kế toán tài chính trong doanh nghiệp; đồng thời thực hiện thu nhận, hệ thống hóa và cung cấp thông tin kinh tế tài chính liên quan đến các vấn đề môi trường phục vụ cho việc lập báo cáo tài chính của doanh nghiệp.
+Kế toán quản trị môi trường được lồng ghép vào trong bộ phận kế toán quản trị trong doanh nghiệp; đồng thời thực hiện thu nhận, hệ thống hóa, xử lý và cung cấp thông tin kinh tế tài chính liên quan đến các vấn đề môi trường phục vụ cho việc lập báo cáo quản trị môi trường của doanh nghiệp.
+ Hoàn thiện xác định tài sản, nợ phải trả, chi phí, thu nhập môi trường
+Tài sản môi trường có vai trò quan trọng trong công tác bảo vệ môi trường, việc xác định độc lập tài sản môi trường trong tổng tài sản của doanh nghiệp có ý nghĩa quan trọng trong việc cung cấp thông tin cho đối tượng sử dụng thông tin bên ngoài để đánh giá trách nhiệm của doanh nghiệp trong hoạt động bảo vệ môi trường.
+Nợ phải trả môi trường là khoản nợ phải trả trong tổng số nợ phải trả, được hình thành từ các hoạt động môi trường của doanh nghiệp, để đánh giá hiệu quả sử dụng nợ phải trả môi trường, đặc biệt thông tin về dự phòng nợ phải trả môi trường có thể sử dụng để dự báo rủi ro môi trường.
+Chi phí môi trường là một bộ phận chi phí trong tổng chi phí sản xuất kinh doanh của doanh nghiệp, thông tin chi phí môi trường có ý nghĩa quan trọng đối với các đối tượng sử dụng thông tin bên trong và ngoài doanh nghiệp để ra các quyết định.
+Hoàn thiện tổ chức ghi nhận tài sản, nợ phải trả, chi phí, thu nhập môi trường
+Hoàn thiện tổ chức chứng từ kế toán ,hạch toán ban đầu, hệ thống tài khoản kế toán và tổ chức sổ kế toán.
+Hoàn thiện tổ chức cung cấp thông tin và sử dụng thông tin tài sản, nợ phải trả, chi phí, thu nhập môi trường trong doanh nghiệp
+Bổ sung thông tin tài chính môi trường trong thuyết minh báo cáo tài chính.
+Hoàn thiện hệ thống kế toán quản trị môi trường của doanh nghiệp.
+ TÀI LIỆU THAM KHẢO:
+Bộ Tài chính (2015), Chế độ kế toán doanh nghiệp, Nxb Tài chính.
+Quý Lâm - Kim Phượng (2014), Hệ thống tiêu chuẩn, quy chuẩn về môi trường, Nxb Lao động - Xã hội.
+Thủ tướng Chính phủ (2015), Nghị định số 19/2015/NĐ-CP hướng dẫn Luật Bảo vệ môi trường.
+Tác giả: GUYỄN THỊ THÚY (Khoa Kinh tế - Trường Đại học Công nghiệp Quảng Ninh) - NGUYỄN THỊ THỦY (Khoa Kinh tế - Trường Đại học Công nghiệp Quảng Ninh)
+Nguồn: https://tapchicongthuong.vn/hoan-thien-cong-tac-ke-toan-moi-truong-tai-cac-doanh-nghiep-khai-thac-khoang-san-tren-dia-ban-tinh-quang-ninh-77822.htm
+Loại kế toán môi trường	Phạm vi	Đối tượng sử dụng thông tin
+1. Kế toán môi trường quốc gia	Quốc gia	Công chúng, thông tin được công khai
+2. Kế toán tài chính môi trường	DN	Các đối tượng ngoài DN, công khai
+3. Kế toán quản trị môi trường	DN	Nội bộ, thông tin không được công khai
+TT	Chỉ tiêu khảo sát	Tỷ lệ
+1	Mô hình tổ chức bộ máy kế toán	100%
+1.1	Tập trung	87,5
+1.2	Phân tán	12,5
+2	Tổ chức công tác KTTC và KTQT tại DN theo mô hình kết hợp	100%
+3	KTMT được thực hiện lồng ghép trong KTTC và KTQT	100%

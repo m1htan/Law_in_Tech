@@ -1,0 +1,719 @@
+LUẬT VIỄN THÔNG
+(SỬA ĐỔI)
+Căn cứ Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam;
+Quốc hội ban hành Luật Viễn thông (sửa đổi).
+Chương I
+NHỮNG QUY ĐỊNH CHUNG
+Điều 1. Phạm vi điều chỉnh
+Luật này quy định về hoạt động viễn thông; quyền và nghĩa vụ của tổ chức, cá nhân tham gia hoạt động viễn thông; quản lý nhà nước về viễn thông.
+Điều 2. Đối tượng áp dụng
+Luật này áp dụng đối với cơ quan, tổ chức, cá nhân Việt Nam; tổ chức, cá nhân nước ngoài trực tiếp tham gia hoặc có liên quan đến hoạt động viễn thông tại Việt Nam. 
+Điều 3. Giải thích từ ngữ
+Trong Luật này, các từ ngữ dưới đây được hiểu như sau: 
+1. Viễn thông là việc gửi, truyền, nhận và xử lý ký hiệu, tín hiệu, số liệu, chữ viết, hình ảnh, âm thanh hoặc dạng thông tin khác bằng đường cáp, sóng vô tuyến điện, phương tiện quang học và phương tiện điện từ khác. 
+2. Hoạt động viễn thông bao gồm: đầu tư, kinh doanh dịch vụ viễn thông cơ bản, dịch vụ viễn thông giá trị gia tăng, kinh doanh hàng hóa viễn thông; hoạt động viễn thông công ích; cấp, gia hạn, cấp lại, sửa đổi, bổ sung giấy phép viễn thông; kết nối và chia sẻ cơ sở hạ tầng viễn thông; quản lý tài nguyên viễn thông; quản lý tiêu chuẩn, quy chuẩn kỹ thuật, chất lượng và giá cước viễn thông; xây dựng công trình viễn thông.
+3. Thiết bị viễn thông là thiết bị kỹ thuật, bao gồm phần cứng, phần mềm, được dùng để thực hiện viễn thông.
+4. Thiết bị đầu cuối là thiết bị viễn thông cố định hoặc di động được đấu nối vào điểm kết cuối của mạng viễn thông để gửi, truyền, nhận và xử lý thông tin của người sử dụng.
+5. Thiết bị mạng là thiết bị viễn thông được lắp đặt trên mạng viễn thông để bảo đảm việc cung cấp dịch vụ viễn thông. 
+6. Hàng hoá viễn thông là phần mềm, vật tư, thiết bị viễn thông.
+7. Dịch vụ viễn thông bao gồm dịch vụ viễn thông cơ bản và dịch vụ viễn thông giá trị gia tăng:
+a) Dịch vụ viễn thông cơ bản là dịch vụ gửi, truyền, nhận thông tin giữa hai hoặc một nhóm người sử dụng dịch vụ viễn thông, giữa các thiết bị đầu cuối qua mạng viễn thông.
+b) Dịch vụ viễn thông giá trị gia tăng là dịch vụ cung cấp thêm tính năng xử lý, lưu trữ và truy xuất thông tin cho người sử dụng thông qua việc gửi, truyền, nhận thông tin trên mạng viễn thông.
+8. Dịch vụ viễn thông cơ bản trên Internet là dịch vụ cung cấp tính năng chính là gửi, truyền, nhận thông tin giữa hai hoặc một nhóm người sử dụng dịch vụ viễn thông trên Internet.
+9. Dịch vụ trung tâm dữ liệu là dịch vụ cung cấp tính năng xử lý, lưu trữ và truy xuất thông tin cho người sử dụng qua mạng viễn thông bằng việc cho thuê một phần hoặc toàn bộ trung tâm dữ liệu.
+10. Điện toán đám mây là mô hình cho phép sử dụng linh hoạt, có thể điều chỉnh, quản trị theo nhu cầu các tài nguyên điện toán dùng chung gồm mạng, máy chủ, thiết bị lưu trữ, ứng dụng.
+11. Dịch vụ điện toán đám mây là dịch vụ cung cấp tính năng xử lý, lưu trữ và truy xuất thông tin cho người sử dụng qua mạng viễn thông thông qua mô hình điện toán đám mây.
+12. Dịch vụ ứng dụng viễn thông là dịch vụ sử dụng mạng viễn thông để cung cấp dịch vụ ứng dụng trong lĩnh vực công nghệ thông tin, phát thanh, truyền hình, thương mại, tài chính, ngân hàng, văn hóa, thông tin, y tế, giáo dục và lĩnh vực khác. 
+13. Đường truyền dẫn là tập hợp thiết bị viễn thông dùng để xác lập một phần hoặc toàn bộ đường truyền thông tin giữa hai điểm xác định. 
+14. Mạng viễn thông là tập hợp thiết bị viễn thông được liên kết với nhau bằng đường truyền dẫn để cung cấp dịch vụ viễn thông, dịch vụ ứng dụng viễn thông. 
+15. Mạng viễn thông công cộng là mạng viễn thông do doanh nghiệp viễn thông thiết lập để cung cấp dịch vụ viễn thông, dịch vụ ứng dụng viễn thông cho công chúng nhằm mục đích sinh lợi.
+16. Mạng viễn thông dùng riêng là mạng viễn thông do tổ chức hoạt động tại Việt Nam thiết lập để cung cấp dịch vụ viễn thông, dịch vụ ứng dụng viễn thông cho các thành viên của mạng không nhằm mục đích sinh lợi trực tiếp từ hoạt động của mạng. 
+17. Mạng nội bộ là mạng viễn thông do tổ chức, cá nhân thiết lập tại một địa điểm có địa chỉ và phạm vi xác định mà tổ chức, cá nhân đó được quyền sử dụng hợp pháp để phục vụ liên lạc nội bộ không nhằm mục đích sinh lợi trực tiếp từ hoạt động của mạng.
+18. Internet là hệ thống thông tin toàn cầu sử dụng giao thức Internet và tài nguyên Internet để cung cấp các dịch vụ và ứng dụng khác nhau cho người sử dụng dịch vụ viễn thông. 
+19. Điểm kết cuối của mạng viễn thông công cộng là điểm đấu nối vật lý thuộc mạng viễn thông theo các tiêu chuẩn, quy chuẩn kỹ thuật để bảo đảm việc đấu nối thiết bị đầu cuối vào mạng viễn thông và phân định ranh giới kinh tế, kỹ thuật giữa doanh nghiệp viễn thông và người sử dụng dịch vụ viễn thông.
+20. Kết nối viễn thông là việc liên kết vật lý và lô gích các mạng viễn thông, qua đó người sử dụng dịch vụ viễn thông của mạng này có thể liên lạc với người sử dụng hoặc truy nhập đến dịch vụ của mạng kia và ngược lại.
+21. Công trình viễn thông là công trình xây dựng, bao gồm hạ tầng kỹ thuật viễn thông thụ động và thiết bị được lắp đặt vào đó để phục vụ hoạt động viễn thông.
+22. Hạ tầng kỹ thuật viễn thông thụ động là công trình hạ tầng kỹ thuật bao gồm nhà, trạm viễn thông, cột ăng ten, cột treo cáp, cống, bể, ống cáp, hào, tuy nen kỹ thuật và công trình hạ tầng kỹ thuật liên quan khác.
+23. Trung tâm dữ liệu là công trình viễn thông, bao gồm nhà trạm, hệ thống cáp, hệ thống máy tính và hệ thống điện cùng các thiết bị phụ trợ được lắp đặt vào đó để xử lý, lưu trữ và quản lý dữ liệu của một hay nhiều tổ chức, cá nhân.
+24. Cơ sở hạ tầng viễn thông là tập hợp mạng viễn thông và công trình viễn thông.
+25. Phương tiện thiết yếu là bộ phận quan trọng của cơ sở hạ tầng viễn thông do một hoặc một số doanh nghiệp viễn thông sở hữu hoặc sở hữu phần lớn trên thị trường viễn thông và việc thiết lập mới bộ phận cơ sở hạ tầng này để thay thế là không khả thi về kinh tế, kỹ thuật. 
+26. Tài nguyên viễn thông là tài nguyên quốc gia, bao gồm kho số viễn thông, tài nguyên Internet, phổ tần số vô tuyến điện và quỹ đạo vệ tinh thuộc quyền quản lý của Việt Nam.
+27. Kho số viễn thông là tập hợp mã, số thuộc quyền quản lý của Việt Nam được quy hoạch thống nhất để thiết lập mạng viễn thông, cung cấp và sử dụng dịch vụ viễn thông.
+28. Tài nguyên Internet là tập hợp tên miền, địa chỉ Internet, số hiệu mạng và tên, số khác thuộc quyền quản lý của Việt Nam, bao gồm: tài nguyên Internet Việt Nam và tài nguyên Internet quốc tế được các tổ chức quản lý quốc tế phân bổ cho tổ chức, cá nhân sử dụng tại Việt Nam.
+29. Doanh nghiệp viễn thông là doanh nghiệp được thành lập theo pháp luật Việt Nam và được phép kinh doanh dịch vụ viễn thông theo quy định của Luật này. Doanh nghiệp viễn thông bao gồm:
+a) Doanh nghiệp cung cấp dịch vụ có hạ tầng mạng là doanh nghiệp thực hiện việc thiết lập, sở hữu mạng viễn thông và cung cấp dịch vụ viễn thông;
+b) Doanh nghiệp cung cấp dịch vụ không có hạ tầng mạng là doanh nghiệp thực hiện việc cung cấp dịch vụ viễn thông nhưng không thiết lập, không sở hữu mạng viễn thông.
+30. Đại lý dịch vụ viễn thông là tổ chức, cá nhân ký hợp đồng với doanh nghiệp viễn thông để cung cấp dịch vụ viễn thông cho người sử dụng dịch vụ viễn thông.
+31. Người sử dụng dịch vụ viễn thông là tổ chức, cá nhân giao kết hợp đồng sử dụng dịch vụ viễn thông với doanh nghiệp viễn thông hoặc đại lý dịch vụ viễn thông.
+32. Thuê bao viễn thông là người sử dụng dịch vụ viễn thông có gắn với việc ấn định tài nguyên viễn thông hoặc đường truyền dẫn viễn thông cụ thể. 
+33. Bán lại dịch vụ viễn thông là việc doanh nghiệp viễn thông, đại lý dịch vụ viễn thông cung cấp dịch vụ viễn thông cho người sử dụng dịch vụ viễn thông trên cơ sở thuê đường truyền dẫn hoặc mua lưu lượng viễn thông thông qua hợp đồng ký với doanh nghiệp viễn thông khác.
+34. Bộ xác định thuê bao (sau đây gọi là SIM) là mạch tích hợp được sử dụng để gắn số thuê bao và chứa các dữ liệu, thông tin liên quan khác dùng cho việc cung cấp và sử dụng dịch vụ thông tin di động.
+35. Cơ quan quản lý nhà nước về viễn thông là cơ quan thực hiện nhiệm vụ quản lý nhà nước và tổ chức thực thi pháp luật về viễn thông theo sự phân công của Bộ Thông tin và Truyền thông.
+36. Tổ chức nước ngoài là tổ chức được thành lập ở nước ngoài theo pháp luật nước ngoài.
+Điều 4. Chính sách của Nhà nước về viễn thông
+1. Tạo điều kiện cho tổ chức, cá nhân thuộc mọi thành phần kinh tế tham gia đầu tư, kinh doanh viễn thông để phát triển cơ sở hạ tầng viễn thông băng rộng phổ cập, trung tâm dữ liệu, điện toán đám mây theo hướng bền vững, hiện đại; hình thành hạ tầng số đáp ứng yêu cầu phát triển kinh tế số - xã hội số, góp phần bảo đảm quốc phòng, an ninh và nâng cao chất lượng cuộc sống của nhân dân.
+2. Bảo đảm môi trường cạnh tranh lành mạnh trong hoạt động viễn thông.
+3. Tạo điều kiện thuận lợi để phát triển cơ sở hạ tầng và cung cấp dịch vụ viễn thông tại khu vực biên giới, miền núi, vùng cao, vùng bãi ngang, ven biển và hải đảo, vùng đồng bào dân tộc thiểu số, vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn; phân định rõ hoạt động viễn thông công ích và kinh doanh viễn thông. 
+4. Thúc đẩy việc ứng dụng Internet trong hoạt động hành chính, giáo dục, đào tạo, y tế, nghiên cứu khoa học và các lĩnh vực khác. 
+5. Nghiên cứu, phát triển các công nghệ, tiêu chuẩn, ứng dụng về Internet thế hệ mới, công nghệ vệ tinh tầm thấp, công nghệ mạng viễn thông thế hệ tiếp theo.
+6. Đầu tư xây dựng, hiện đại hóa mạng viễn thông dùng riêng phục vụ hoạt động quốc phòng, an ninh, hoạt động của các cơ quan Đảng, Nhà nước. 
+7. Khuyến khích phát triển nguồn nhân lực viễn thông đáp ứng yêu cầu quản lý, khai thác, kinh doanh hiệu quả cơ sở hạ tầng viễn thông.
+8. Tăng cường hợp tác quốc tế về viễn thông trên cơ sở tôn trọng độc lập, chủ quyền và toàn vẹn lãnh thổ, bình đẳng, các bên cùng có lợi, phù hợp với pháp luật Việt Nam và điều ước quốc tế mà nước Cộng hoà xã hội chủ nghĩa Việt Nam là thành viên.
+Điều 5. Bảo đảm an toàn cơ sở hạ tầng viễn thông, an toàn thông tin mạng và an ninh thông tin
+1. Bảo đảm an toàn cơ sở hạ tầng viễn thông, an toàn thông tin mạng và an ninh thông tin là trách nhiệm của mọi tổ chức, cá nhân. Trường hợp phát hiện hành vi cản trở việc xây dựng hợp pháp, hành vi phá hoại, xâm phạm cơ sở hạ tầng viễn thông, cơ quan, tổ chức, cá nhân có trách nhiệm thông báo kịp thời cho Ủy ban nhân dân cấp xã hoặc cơ quan công an nơi gần nhất.
+2. Doanh nghiệp viễn thông, chủ mạng viễn thông dùng riêng, tổ chức, cá nhân đầu tư, sở hữu hạ tầng kỹ thuật viễn thông thụ động, đại lý dịch vụ viễn thông và người sử dụng dịch vụ viễn thông có trách nhiệm bảo vệ mạng viễn thông, thiết bị đầu cuối của mình. 
+3. Cơ quan, tổ chức, cá nhân trong các hoạt động của mình không được gây nhiễu có hại, làm hư hỏng thiết bị công trình, mạng viễn thông, gây hại đến hoạt động hợp pháp của cơ sở hạ tầng viễn thông của các tổ chức, cá nhân khác. 
+4. Cơ quan, tổ chức, cá nhân tham gia hoạt động viễn thông chịu sự quản lý, thanh tra, kiểm tra và thực hiện yêu cầu của cơ quan nhà nước có thẩm quyền về bảo đảm an toàn cơ sở hạ tầng viễn thông và an ninh thông tin theo quy định của pháp luật.
+5. Bộ Quốc phòng, Bộ Công an, Ủy ban nhân dân các cấp trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm bảo vệ an toàn cơ sở hạ tầng viễn thông, xử lý các hành vi cản trở việc xây dựng hợp pháp, phá hoại, xâm phạm cơ sở hạ tầng viễn thông.
+6. Doanh nghiệp viễn thông có trách nhiệm ngăn chặn khẩn cấp, ngừng cung cấp dịch vụ viễn thông trong trường hợp có bạo động, bạo loạn, sử dụng dịch vụ viễn thông xâm phạm an ninh quốc gia, chống lại Nhà nước Cộng hoà xã hội chủ nghĩa Việt Nam theo yêu cầu của cơ quan nhà nước có thẩm quyền. 
+7. Khi có yêu cầu của cơ quan nhà nước có thẩm quyền theo quy định của Luật An ninh mạng, doanh nghiệp viễn thông có trách nhiệm cung cấp điểm truy nhập mạng viễn thông và các điều kiện kỹ thuật, nghiệp vụ cần thiết khác để cơ quan đó thực hiện nhiệm vụ kiểm soát và bảo đảm an ninh thông tin.
+8. Chính phủ quy định chi tiết việc bảo đảm an toàn cơ sở hạ tầng viễn thông, an toàn thông tin mạng trong hoạt động viễn thông.
+Điều 6. Bảo đảm bí mật thông tin
+1. Tổ chức, cá nhân tham gia hoạt động viễn thông có trách nhiệm bảo vệ bí mật nhà nước theo quy định của pháp luật về bảo vệ bí mật nhà nước.
+2. Tổ chức, cá nhân khi gửi, truyền hoặc lưu giữ thông tin thuộc danh mục bí mật nhà nước trên mạng viễn thông có trách nhiệm mã hóa thông tin theo quy định của pháp luật về cơ yếu. 
+3. Thông tin riêng chuyển qua mạng viễn thông công cộng của mọi tổ chức, cá nhân được bảo đảm bí mật. Việc kiểm soát thông tin trên mạng viễn thông do cơ quan nhà nước có thẩm quyền thực hiện theo quy định của pháp luật.
+4. Doanh nghiệp viễn thông không được tiết lộ thông tin riêng liên quan đến người sử dụng dịch vụ viễn thông, bao gồm: thông tin thuê bao (tên, địa chỉ, số thuê bao và thông tin riêng khác mà người sử dụng cung cấp khi giao kết hợp đồng với doanh nghiệp) và thông tin về việc sử dụng dịch vụ viễn thông (số máy gọi, số máy được gọi, vị trí máy gọi, vị trí máy được gọi, thời gian gọi, địa chỉ Internet), trừ các trường hợp sau đây:
+a) Người sử dụng dịch vụ viễn thông đồng ý cung cấp thông tin thuê bao, sau khi doanh nghiệp viễn thông đã thông báo rõ ràng, công khai, bằng hình thức phù hợp với người sử dụng về mục đích, phạm vi thu thập, sử dụng thông tin;
+b) Các doanh nghiệp viễn thông có thoả thuận bằng văn bản về việc trao đổi cung cấp thông tin thuê bao, thông tin về việc sử dụng dịch vụ viễn thông của người sử dụng dịch vụ để phục vụ cho việc tính giá cước, lập hoá đơn;
+c) Các doanh nghiệp viễn thông cung cấp thông tin thuê bao có hành vi trốn tránh thực hiện nghĩa vụ thanh toán giá cước của người sử dụng dịch vụ viễn thông theo quy định của Bộ trưởng Bộ Thông tin và Truyền thông;
+d) Khi có yêu cầu của cơ quan nhà nước có thẩm quyền theo quy định của pháp luật có liên quan.
+Điều 7. Thông tin ưu tiên truyền qua mạng viễn thông
+1. Thông tin khẩn cấp phục vụ quốc phòng, an ninh.
+2. Thông tin khẩn cấp phục vụ phòng, chống thiên tai, tìm kiếm, cứu hộ, cứu nạn, hoả hoạn, thảm hoạ khác.
+3. Thông tin khẩn cấp phục vụ cấp cứu và phòng, chống dịch bệnh.
+4. Trường hợp khác theo quy định của pháp luật về tình trạng khẩn cấp.
+Điều 8. Quy hoạch phát triển viễn thông quốc gia
+1. Quy hoạch phát triển viễn thông quốc gia xác định mục tiêu, nguyên tắc, định hướng phát triển thị trường viễn thông, cơ sở hạ tầng viễn thông, công nghệ, dịch vụ viễn thông và các giải pháp thực hiện.
+2. Việc xây dựng quy hoạch phát triển viễn thông quốc gia được thực hiện theo các nguyên tắc sau đây:
+a) Phù hợp với chiến lược, quy hoạch cấp quốc gia, kế hoạch phát triển kinh tế - xã hội của đất nước trong từng thời kỳ; tuân thủ pháp luật Việt Nam, điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên;
+b) Phù hợp với xu hướng hội tụ công nghệ và dịch vụ viễn thông; tạo điều kiện cho việc ứng dụng công nghệ mới, công nghệ tiên tiến;
+c) Bảo đảm quản lý, khai thác và sử dụng tài nguyên viễn thông hiệu quả, tiết kiệm và đúng mục đích;
+d) Bảo đảm phát triển viễn thông bền vững, hài hoà; thu hẹp khoảng cách phát triển viễn thông giữa các vùng, miền;
+đ) Bảo vệ môi trường, bảo đảm an toàn cơ sở hạ tầng viễn thông và an ninh thông tin.
+3. Xây dựng, ban hành và tổ chức thực hiện quy hoạch phát triển viễn thông quốc gia theo quy định của pháp luật về quy hoạch.
+4. Trên cơ sở quy hoạch hạ tầng thông tin và truyền thông quốc gia và các quy hoạch vùng, tỉnh, các quy hoạch có tính chất kỹ thuật, chuyên ngành có liên quan, doanh nghiệp viễn thông xây dựng kế hoạch phát triển cơ sở hạ tầng viễn thông của doanh nghiệp mình.
+Điều 9. Các hành vi bị nghiêm cấm trong hoạt động viễn thông
+1. Lợi dụng hoạt động viễn thông nhằm chống lại Nhà nước Cộng hoà xã hội chủ nghĩa Việt Nam; gây phương hại đến an ninh quốc gia, trật tự, an toàn xã hội; gây thiệt hại đến lợi ích của Nhà nước, quyền và lợi ích hợp pháp của tổ chức, cá nhân.
+2. Thu trộm, nghe trộm, xem trộm thông tin trên mạng viễn thông; trộm cắp, sử dụng trái phép tài nguyên viễn thông, mật khẩu, khóa mật mã và thông tin riêng của tổ chức, cá nhân khác.
+3. Cản trở trái pháp luật việc thiết lập cơ sở hạ tầng viễn thông, gây rối, phá hoại việc thiết lập cơ sở hạ tầng viễn thông, việc cung cấp và sử dụng hợp pháp các dịch vụ viễn thông.
+4. Thiết lập cơ sở hạ tầng viễn thông, cung cấp dịch vụ viễn thông khi chưa được phép thực hiện theo quy định của Luật này.
+5. Cấm sử dụng thiết bị, phần mềm xâm nhập vào mạng viễn thông công cộng khi chưa được phép theo quy định Luật này bao gồm:
+a) Thiết bị gắn, lắp, kết nối với đồng thời nhiều SIM;
+b) Thiết bị, phần mềm làm giả mạo cấu trúc, định dạng số thuê bao, tên định danh;
+c) Thiết bị giả mạo trạm gốc điện thoại di động mặt đất công cộng;
+d) Thiết bị bất hợp pháp khác theo quy định của Chính phủ.
+Chương II
+KINH DOANH VIỄN THÔNG
+Mục 1 
+ĐẦU TƯ, KINH DOANH VIỄN THÔNG
+Điều 10. Hình thức kinh doanh viễn thông
+1. Kinh doanh viễn thông bao gồm các hình thức sau đây: 
+a) Kinh doanh dịch vụ viễn thông là hoạt động đầu tư cơ sở hạ tầng viễn thông công cộng, cung cấp dịch vụ viễn thông nhằm mục đích sinh lợi; 
+b) Kinh doanh hàng hoá viễn thông là hoạt động đầu tư, sản xuất, mua bán, cho thuê phần mềm và vật tư, thiết bị viễn thông nhằm mục đích sinh lợi. 
+2. Việc kinh doanh dịch vụ viễn thông phải tuân theo các quy định của Luật này và quy định khác của pháp luật có liên quan. Việc kinh doanh hàng hoá viễn thông phải tuân theo quy định tại Điều 54 và Điều 55 của Luật này và các quy định khác của pháp luật có liên quan.
+Điều 11. Sở hữu trong kinh doanh dịch vụ viễn thông 
+1. Nhà nước duy trì phần vốn góp, cổ phần của Nhà nước để bảo đảm chi phối hoạt động của doanh nghiệp cung cấp dịch vụ có hạ tầng mạng có tầm quan trọng đặc biệt đối với hoạt động của toàn bộ cơ sở hạ tầng viễn thông quốc gia và ảnh hưởng trực tiếp đến phát triển kinh tế - xã hội, bảo đảm quốc phòng, an ninh.
+2. Thủ tướng Chính phủ ban hành Danh mục doanh nghiệp cung cấp dịch vụ có hạ tầng mạng quy định tại khoản 1 Điều này.
+3. Chính phủ quy định chi tiết tỷ lệ phần vốn góp hoặc cổ phần tối đa mà một tổ chức, cá nhân được quyền nắm giữ trong hai hoặc nhiều doanh nghiệp viễn thông khác nhau cùng kinh doanh trong một thị trường viễn thông để bảo đảm cạnh tranh lành mạnh.
+Điều 12. Đầu tư trong kinh doanh dịch vụ viễn thông 
+1. Hoạt động đầu tư trong kinh doanh dịch vụ viễn thông tại Việt Nam phải theo quy định của Luật này và pháp luật về đầu tư.
+2. Hình thức đầu tư, điều kiện đầu tư đối với nhà đầu tư nước ngoài và tỷ lệ phần vốn góp của nhà đầu tư nước ngoài kinh doanh dịch vụ viễn thông phải theo các quy định của pháp luật Việt Nam, điều ước quốc tế mà nước Cộng hoà xã hội chủ nghĩa Việt Nam là thành viên.
+3. Hoạt động đầu tư kinh doanh dịch vụ viễn thông ra nước ngoài phải theo các quy định của pháp luật về đầu tư.
+Điều 13. Quyền, nghĩa vụ của doanh nghiệp viễn thông
+1. Doanh nghiệp cung cấp dịch vụ không có hạ tầng mạng có các quyền sau đây:
+a) Xây dựng, lắp đặt, sở hữu hệ thống thiết bị viễn thông và đường truyền dẫn trong phạm vi cơ sở và điểm phục vụ công cộng của mình để cung cấp dịch vụ viễn thông cho người sử dụng dịch vụ viễn thông;
+b) Thuê đường truyền dẫn để kết nối hệ thống thiết bị viễn thông, các cơ sở, điểm phục vụ công cộng của mình với nhau và với mạng viễn thông công cộng của doanh nghiệp viễn thông khác;
+c) Thuê đường truyền dẫn hoặc mua lưu lượng viễn thông của doanh nghiệp viễn thông khác để bán lại cho người sử dụng dịch vụ viễn thông;
+d) Cho doanh nghiệp viễn thông khác thuê lại cơ sở hạ tầng viễn thông mà mình đã thuê nếu được doanh nghiệp viễn thông cho thuê cơ sở hạ tầng viễn thông đồng ý; 
+đ) Được phân bổ tài nguyên viễn thông theo quy định quản lý tài nguyên viễn thông tại Luật này;
+e) Nghiên cứu phát triển, triển khai thử nghiệm công nghệ mới, mô hình mới trong hoạt động viễn thông;
+g) Quyền khác theo quy định của Luật Doanh nghiệp và quy định khác của pháp luật có liên quan.
+2. Doanh nghiệp cung cấp dịch vụ không có hạ tầng mạng có các nghĩa vụ sau đây:
+a) Đóng góp tài chính vào Quỹ Dịch vụ viễn thông công ích Việt Nam;
+b) Chịu trách nhiệm về chất lượng dịch vụ theo tiêu chuẩn đã đăng ký hoặc công bố; bảo đảm tính đúng, đủ, chính xác giá cước theo hợp đồng sử dụng dịch vụ viễn thông;
+c) Chịu sự kiểm soát của cơ quan nhà nước có thẩm quyền và thực hiện các quy định về bảo đảm an toàn cơ sở hạ tầng viễn thông và an ninh thông tin;
+d) Báo cáo định kỳ hoặc đột xuất về hoạt động viễn thông của doanh nghiệp theo quy định của Bộ trưởng Bộ Thông tin và Truyền thông; chịu trách nhiệm về tính chính xác, kịp thời của nội dung và số liệu báo cáo;
+đ) Ngăn chặn dịch vụ của các tổ chức sử dụng mạng viễn thông và hệ thống thông tin của doanh nghiệp kết nối xâm phạm an ninh quốc gia khi có yêu cầu bằng văn bản của cơ quan nhà nước có thẩm quyền theo quy định của pháp luật;
+e) Xây dựng cơ sở dữ liệu quản lý của doanh nghiệp và bảo đảm kết nối với cơ sở dữ liệu của cơ quan quản lý nhà nước về viễn thông theo quy định của Bộ trưởng Bộ Thông tin và Truyền thông;
+g) Thực hiện yêu cầu của cơ quan nhà nước có thẩm quyền về huy động một phần hoặc toàn bộ cơ sở hạ tầng viễn thông, dịch vụ viễn thông trong trường hợp khẩn cấp theo quy định của pháp luật về quốc phòng, an ninh quốc gia và pháp luật về tình trạng khẩn cấp;
+h) Đảm bảo cung cấp cho thuê bao khả năng giữ nguyên số thuê bao khi thay đổi doanh nghiệp cung cấp dịch vụ viễn thông trong cùng một loại hình dịch vụ viễn thông theo quy định của Chính phủ;
+i) Bảo đảm thông tin thuê bao là trùng khớp với thông tin trên giấy tờ tùy thân mà người dùng đã xuất trình khi giao kết hợp đồng theo mẫu, điều kiện giao dịch chung;
+k) Thực hiện lưu giữ, xác thực, sử dụng thông tin thuê bao; triển khai các phương thức để người sử dụng dịch vụ có thể tự kiểm tra thông tin thuê bao, danh sách toàn bộ các số thuê bao mà mình đang sử dụng; ngăn chặn, xử lý SIM có thông tin thuê bao không đầy đủ, không chính xác, không đúng quy định, không đúng người sử dụng đăng ký thông tin thuê bao theo quy định của Chính phủ; 
+l) Ngăn chặn tin nhắn, cuộc gọi người nhận không mong muốn, cuộc gọi có dấu hiệu lừa đảo, cuộc gọi giả mạo cấu trúc, định dạng số thuê bao; sử dụng tên định danh đối với các cuộc gọi, tin nhắn của thuê bao viễn thông theo quy định của Chính phủ;
+m) Căn cứ vào mức độ vi phạm của khách hàng sử dụng thuê bao di động mặt đất làm phương tiện để thực hiện hành vi vi phạm pháp luật, hoặc mức độ vi phạm quy định của pháp luật về viễn thông của khách hàng, đình chỉ sử dụng dịch vụ viễn thông theo quy định của Chính phủ;
+n) Nghĩa vụ khác theo quy định của Luật Doanh nghiệp và quy định khác của pháp luật có liên quan.
+3. Doanh nghiệp cung cấp dịch vụ có hạ tầng mạng có các quyền sau đây: 
+a) Các quyền quy định tại khoản 1 Điều này;
+b) Được ưu tiên sử dụng không gian, mặt đất, lòng đất, đáy sông, đáy biển, đất công để xây dựng cơ sở hạ tầng viễn thông theo đúng quy hoạch, tiêu chuẩn, quy chuẩn kỹ thuật và quy định của pháp luật có liên quan;
+c) Cho doanh nghiệp viễn thông khác thuê cơ sở hạ tầng viễn thông;
+d) Tham gia thực hiện cung cấp dịch vụ viễn thông công ích.
+4. Doanh nghiệp cung cấp dịch vụ có hạ tầng mạng có các nghĩa vụ sau đây:
+a) Các nghĩa vụ quy định tại khoản 2 Điều này;
+b) Cho doanh nghiệp viễn thông khác thuê hạ tầng kỹ thuật viễn thông thụ động khi phù hợp với quy hoạch hạ tầng kỹ thuật viễn thông thụ động và khả thi về kinh tế, kỹ thuật;
+c) Thu hồi, tháo dỡ các công trình viễn thông khi không còn sử dụng; 
+d) Hạ ngầm, chỉnh trang đường cáp viễn thông theo quy định của Chính phủ.
+Điều 14. Quyền, nghĩa vụ của đại lý dịch vụ viễn thông
+1. Đại lý dịch vụ viễn thông có các quyền sau đây:
+a) Thiết lập hệ thống thiết bị đầu cuối tại địa điểm được sử dụng để cung cấp dịch vụ viễn thông cho người sử dụng dịch vụ viễn thông tại địa điểm đó theo thoả thuận trong hợp đồng đại lý dịch vụ viễn thông;
+b) Thực hiện việc cung cấp, bán lại dịch vụ viễn thông theo quy định của Luật này;
+c) Yêu cầu doanh nghiệp viễn thông ký hợp đồng đại lý dịch vụ viễn thông hướng dẫn, cung cấp thông tin về dịch vụ viễn thông;
+d) Từ chối cung cấp dịch vụ cho người sử dụng dịch vụ viễn thông vi phạm quy định tại Điều 9 của Luật này hoặc theo yêu cầu của cơ quan nhà nước có thẩm quyền;
+đ) Quyền khác theo quy định của Luật Thương mại và quy định khác của pháp luật có liên quan.
+2. Đại lý dịch vụ viễn thông có các nghĩa vụ sau đây:
+a) Thực hiện quy định về bảo đảm an toàn cơ sở hạ tầng viễn thông và an ninh thông tin;
+b) Cung cấp dịch vụ viễn thông theo chất lượng và giá cước trong hợp đồng đại lý dịch vụ viễn thông;
+c) Chịu sự kiểm tra, kiểm soát của doanh nghiệp viễn thông ký hợp đồng đại lý dịch vụ viễn thông;
+d) Thực hiện thời gian cung cấp dịch vụ viễn thông theo quy định của Uỷ ban nhân dân tỉnh, thành phố trực thuộc trung ương;
+đ) Nghĩa vụ khác theo quy định tại Luật Thương mại và quy định khác của pháp luật có liên quan.
+Điều 15. Quyền, nghĩa vụ của người sử dụng dịch vụ viễn thông và thuê bao viễn thông
+1. Người sử dụng dịch vụ viễn thông có các quyền sau đây:
+a) Lựa chọn doanh nghiệp viễn thông hoặc đại lý dịch vụ viễn thông để giao kết hợp đồng sử dụng dịch vụ viễn thông;
+b) Yêu cầu doanh nghiệp viễn thông, đại lý dịch vụ viễn thông cung cấp thông tin cần thiết liên quan đến việc sử dụng dịch vụ viễn thông;
+c) Sử dụng dịch vụ viễn thông theo chất lượng và giá cước trong hợp đồng sử dụng dịch vụ viễn thông;
+d) Từ chối sử dụng một phần hoặc toàn bộ dịch vụ viễn thông theo hợp đồng sử dụng dịch vụ viễn thông;
+đ) Được bảo đảm bí mật thông tin riêng theo quy định của pháp luật;
+e) Khiếu nại về giá cước, chất lượng dịch vụ; được hoàn trả giá cước và bồi thường thiệt hại trực tiếp khác do lỗi của doanh nghiệp viễn thông hoặc đại lý dịch vụ viễn thông gây ra.
+2. Người sử dụng dịch vụ viễn thông có các nghĩa vụ sau đây:
+a) Thanh toán đầy đủ và đúng hạn giá cước dịch vụ viễn thông;
+b) Bồi thường thiệt hại trực tiếp do lỗi của mình gây ra cho doanh nghiệp viễn thông, đại lý dịch vụ viễn thông;
+c) Chịu trách nhiệm trước pháp luật về nội dung thông tin truyền, đưa, lưu giữ trên mạng viễn thông;
+d) Không được sử dụng cơ sở hạ tầng viễn thông của doanh nghiệp viễn thông để kinh doanh dịch vụ viễn thông;
+đ) Thông báo cho doanh nghiệp viễn thông để ngừng cung cấp dịch vụ nếu không có nhu cầu sử dụng số thuê bao di động hoặc SIM thuê bao đã đăng ký sử dụng;
+e) Không sử dụng SIM thuê bao không do mình đăng ký sử dụng trừ các trường hợp sử dụng số thuê bao cho con đẻ hoặc con nuôi dưới 14 tuổi và những người thuộc quyền giám hộ của mình theo quy định của pháp luật (đối với đối tượng sử dụng là người), cho các thiết bị dùng cho bản thân mình hoặc gia đình mình (đối với đối tượng sử dụng là thiết bị) và trường hợp khác theo quy định của Chính phủ.
+3. Thuê bao viễn thông có các quyền sau đây:
+a) Các quyền quy định tại khoản 1 Điều này;
+b) Thiết kế, lắp đặt hoặc thuê tổ chức, cá nhân khác thiết kế, lắp đặt thiết bị đầu cuối thuê bao và mạng nội bộ trong phạm vi địa điểm mà mình sử dụng cho đến điểm kết cuối của mạng viễn thông công cộng.
+4. Thuê bao viễn thông có các nghĩa vụ sau đây:
+a) Các nghĩa vụ quy định tại khoản 2 Điều này;
+b) Thực hiện quy định về quản lý tài nguyên viễn thông và tiêu chuẩn, quy chuẩn kỹ thuật viễn thông;
+c) Cung cấp đầy đủ, chính xác các thông tin của thuê bao viễn thông cho doanh nghiệp viễn thông khi giao kết hợp đồng sử dụng dịch vụ viễn thông;
+d) Bảo vệ mật khẩu, khoá mật mã và thiết bị đầu cuối thuê bao của mình.
+Điều 16. Hoạt động bán buôn trong viễn thông
+1. Hoạt động bán buôn trong viễn thông là việc doanh nghiệp viễn thông cho doanh nghiệp viễn thông khác thuê mạng viễn thông hoặc mua dịch vụ viễn thông của mình để phục vụ việc cung cấp dịch vụ viễn thông.
+2. Hoạt động bán buôn trong viễn thông thực hiện theo các nguyên tắc sau đây: 
+a) Bảo đảm cung cấp dịch vụ với mức giá và các điều kiện liên quan công bằng, hợp lý, không phân biệt đối xử; 
+b) Minh bạch thông tin về giá, tiêu chuẩn, quy chuẩn kỹ thuật viễn thông, chất lượng mạng và dịch vụ viễn thông.
+3. Bộ trưởng Bộ Thông tin và Truyền thông quy định chi tiết khoản 2 Điều này.
+Điều 17. Doanh nghiệp viễn thông thống lĩnh thị trường, nhóm doanh nghiệp viễn thông có vị trí thống lĩnh thị trường
+1. Chính phủ quy định tiêu chí xác định thị trường dịch vụ viễn thông Nhà nước quản lý, tiêu chí xác định doanh nghiệp viễn thông có vị trí thống lĩnh thị trường, nhóm doanh nghiệp viễn thông có vị trí thống lĩnh thị trường đối với các thị trường dịch vụ viễn thông Nhà nước quản lý. 
+2. Căn cứ quy định tại khoản 1 Điều này, Bộ Thông tin và Truyền thông ban hành Danh mục thị trường dịch vụ viễn thông Nhà nước quản lý, Danh mục doanh nghiệp viễn thông có vị trí thống lĩnh thị trường, nhóm doanh nghiệp viễn thông có vị trí thống lĩnh thị trường đối với thị trường dịch vụ viễn thông Nhà nước quản lý.
+3. Doanh nghiệp viễn thông có vị trí thống lĩnh thị trường, nhóm doanh nghiệp viễn thông có vị trí thống lĩnh thị trường ngoài các nghĩa vụ quy định tại khoản 2 và khoản 4 Điều 13 của Luật này còn phải tuân thủ các nghĩa vụ sau đây:
+a) Thực hiện hoạt động bán buôn trong viễn thông khi có yêu cầu từ doanh nghiệp viễn thông khác để phục vụ việc cung cấp dịch vụ thuộc Danh mục thị trường dịch vụ viễn thông Nhà nước quản lý theo nguyên tắc quy định tại Điều 16 của Luật này; 
+b) Thực hiện hạch toán chi phí, xác định giá thành đối với các dịch vụ viễn thông doanh nghiệp cung cấp trong Danh mục thị trường dịch vụ viễn thông Nhà nước quản lý;
+c) Không cung cấp dịch vụ viễn thông với giá cước thấp hơn giá thành, trừ trường hợp khuyến mại theo quy định của pháp luật;
+d) Xây dựng thỏa thuận mẫu khi thực hiện hoạt động bán buôn trong viễn thông theo quy định của Bộ trưởng Bộ Thông tin và Truyền thông.
+Mục 2
+THIẾT LẬP MẠNG VÀ CUNG CẤP DỊCH VỤ VIỄN THÔNG
+Điều 18. Thiết bị đầu cuối thuê bao, mạng nội bộ
+1. Việc lắp đặt, đấu nối thiết bị đầu cuối thuê bao, mạng nội bộ vào mạng viễn thông công cộng phải theo quy định của Luật này về quản lý tài nguyên viễn thông, tiêu chuẩn, quy chuẩn kỹ thuật viễn thông. 
+2. Việc hoà mạng thiết bị đầu cuối thuê bao, mạng nội bộ vào mạng viễn thông công cộng do doanh nghiệp viễn thông thực hiện thông qua hợp đồng sử dụng dịch vụ viễn thông.
+Điều 19. Thiết lập mạng viễn thông 
+1. Mạng viễn thông được xây dựng và phát triển theo chiến lược, quy hoạch, tiêu chuẩn, quy chuẩn kỹ thuật viễn thông được cơ quan nhà nước có thẩm quyền phê duyệt, ban hành.
+2. Tổ chức thiết lập mạng viễn thông phải có giấy phép cung cấp dịch vụ viễn thông có hạ tầng mạng theo quy định tại điểm a khoản 2 Điều 33 của Luật này hoặc giấy phép thiết lập mạng viễn thông quy định tại điểm d khoản 3 Điều 33 của Luật này.
+3. Thủ tướng Chính phủ quy định việc thiết lập và hoạt động của mạng viễn thông dùng riêng phục vụ các cơ quan Đảng, Nhà nước.
+4. Bộ trưởng Bộ Quốc phòng, Bộ trưởng Bộ Công an quy định việc thiết lập và hoạt động của mạng viễn thông dùng riêng phục vụ quốc phòng, an ninh.
+5. Trừ trường hợp quy định tại khoản 3 và khoản 4 Điều này, cơ quan, tổ chức thiết lập mạng viễn thông dùng riêng thuộc các trường hợp sau đây phải có giấy phép thiết lập mạng viễn thông dùng riêng:
+a) Mạng viễn thông dùng riêng có đường truyền dẫn hữu tuyến do cơ quan, tổ chức xây dựng;
+b) Mạng viễn thông dùng riêng mà thành viên của mạng là tổ chức, cá nhân Việt Nam hoặc tổ chức, cá nhân nước ngoài hoạt động tại Việt Nam có cùng mục đích, tính chất hoạt động và được liên kết với nhau bằng điều lệ tổ chức và hoạt động hoặc hình thức khác; 
+c) Mạng viễn thông vô tuyến dùng riêng cho cơ quan đại diện ngoại giao, cơ quan lãnh sự nước ngoài, cơ quan đại diện của tổ chức quốc tế có trụ sở tại Việt Nam được hưởng quyền ưu đãi, miễn trừ ngoại giao hoặc ưu đãi, miễn trừ lãnh sự;
+d) Các mạng viễn thông dùng riêng khác.
+6. Chính phủ quy định chi tiết việc thiết lập mạng viễn thông quy định tại khoản 2 và khoản 5 Điều này.
+Điều 20. Cung cấp dịch vụ viễn thông
+1. Doanh nghiệp cung cấp dịch vụ viễn thông phải có giấy phép kinh doanh dịch vụ viễn thông hoặc thực hiện đăng ký, thông báo cung cấp dịch vụ viễn thông, trừ các trường hợp quy định tại Điều 42 của Luật này.
+2. Việc cung cấp dịch vụ ứng dụng viễn thông phải thực hiện quy định của Luật này về kết nối, quản lý tài nguyên viễn thông, tiêu chuẩn, quy chuẩn kỹ thuật viễn thông và các quy định khác của pháp luật có liên quan. 
+3. Việc cung cấp dịch vụ viễn thông cho người sử dụng dịch vụ viễn thông được thực hiện trên cơ sở hợp đồng cung cấp và sử dụng dịch vụ viễn thông giữa doanh nghiệp viễn thông, đại lý dịch vụ viễn thông với người sử dụng dịch vụ viễn thông. 
+4. Doanh nghiệp viễn thông cung cấp dịch vụ cho người sử dụng dịch vụ viễn thông phải đăng ký hợp đồng theo mẫu, điều kiện giao dịch chung theo quy định của pháp luật về bảo vệ quyền lợi người tiêu dùng hoặc thông báo việc áp dụng hợp đồng theo mẫu, điều kiện giao dịch chung về cung cấp, sử dụng dịch vụ viễn thông theo quy định của Bộ trưởng Bộ Thông tin và Truyền thông.
+5. Doanh nghiệp viễn thông Việt Nam cung cấp dịch vụ viễn thông ra nước ngoài phải theo quy định của pháp luật Việt Nam, điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên và pháp luật của nước mà doanh nghiệp cung cấp dịch vụ.
+6. Chính phủ quy định chi tiết việc phân loại dịch vụ viễn thông, cung cấp dịch vụ viễn thông.
+Điều 21.  Cung cấp dịch vụ viễn thông qua biên giới đến người sử dụng dịch vụ trên lãnh thổ Việt Nam
+1. Việc cung cấp dịch vụ viễn thông qua biên giới đến người sử dụng dịch vụ trên lãnh thổ Việt Nam phải tuân thủ quy định của pháp luật Việt Nam, điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên.
+2. Đối với việc cung cấp các dịch vụ viễn thông mà Việt Nam đã cam kết trong các điều ước quốc tế, nhà cung cấp dịch vụ xuyên biên giới ngoài việc tuân thủ các nghĩa vụ đã có trong cam kết còn phải bảo đảm:
+a) Các yêu cầu về an toàn, an ninh quốc phòng, các mục tiêu chính sách công cộng. 
+b) Doanh nghiệp viễn thông Việt Nam tham gia thỏa thuận thương mại với tổ chức nước ngoài cung cấp dịch vụ viễn thông qua biên giới đến người sử dụng dịch vụ viễn thông trên lãnh thổ Việt Nam phải có phương án kỹ thuật để bảo đảm an ninh thông tin và thực hiện ngăn chặn khẩn cấp, ngừng cung cấp dịch vụ viễn thông theo yêu cầu của cơ quan nhà nước có thẩm quyền.	
+c) Tuân thủ các quy định tại khoản 7 Điều 5; Điều 6; điểm b và điểm d khoản 2 Điều 13 của Luật này và các quy định của pháp luật về bảo đảm an toàn thông tin mạng, pháp luật về an ninh mạng.
+3. Chính phủ quy định chi tiết điểm a và b khoản 2 Điều này. 
+Điều 22. Từ chối cung cấp dịch vụ viễn thông
+1. Doanh nghiệp viễn thông không được từ chối giao kết hợp đồng với người sử dụng dịch vụ viễn thông, trừ các trường hợp sau đây:
+a) Việc cung cấp dịch vụ viễn thông là không khả thi về kinh tế - kỹ thuật;
+b) Người sử dụng dịch vụ viễn thông đã bị doanh nghiệp viễn thông có thỏa thuận bằng văn bản về việc từ chối cung cấp dịch vụ viễn thông do trốn tránh nghĩa vụ thanh toán giá cước;
+c) Có yêu cầu bằng văn bản của cơ quan nhà nước có thẩm quyền theo quy định của pháp luật.
+2. Doanh nghiệp viễn thông không được đơn phương chấm dứt hợp đồng với người sử dụng dịch vụ viễn thông trừ các trường hợp sau:
+a) Người sử dụng dịch vụ viễn thông vi phạm hợp đồng đã giao kết;
+b) Có yêu cầu bằng văn bản của cơ quan nhà nước có thẩm quyền theo quy định của pháp luật.
+Điều 23. Ngừng kinh doanh dịch vụ viễn thông 
+1. Doanh nghiệp viễn thông chỉ được ngừng kinh doanh một phần hoặc toàn bộ dịch vụ viễn thông nếu đáp ứng đủ các điều kiện sau đây:
+a) Có phương án bảo đảm quyền, lợi ích hợp pháp của người sử dụng dịch vụ viễn thông theo hợp đồng sử dụng dịch vụ viễn thông đã giao kết;
+b) Đã thông báo cho Bộ Thông tin và Truyền thông về ngừng kinh doanh dịch vụ viễn thông.
+2. Doanh nghiệp viễn thông nắm giữ phương tiện thiết yếu, doanh nghiệp viễn thông hoặc nhóm doanh nghiệp viễn thông có vị trí thống lĩnh thị trường, doanh nghiệp cung cấp dịch vụ viễn thông công ích chỉ được ngừng kinh doanh một phần hoặc toàn bộ các dịch vụ viễn thông trực tiếp liên quan đến phương tiện thiết yếu, dịch vụ viễn thông thống lĩnh thị trường, dịch vụ viễn thông công ích nếu đáp ứng đủ các điều kiện sau đây:
+a) Các điều kiện quy định tại khoản 1 Điều này;
+b) Trường hợp ngừng kinh doanh dịch vụ mà không chấm dứt hoạt động thì phải bảo đảm cung cấp cho người sử dụng dịch vụ viễn thông các dịch vụ viễn thông thay thế, chuyển người sử dụng dịch vụ sang sử dụng dịch vụ viễn thông tương ứng của doanh nghiệp viễn thông khác hoặc thỏa thuận bồi thường cho người sử dụng dịch vụ;
+c) Trường hợp ngừng kinh doanh dịch vụ do chấm dứt hoạt động thì phương án tổ chức lại hoặc phương án phá sản, giải thể doanh nghiệp phải có biện pháp bảo đảm tiếp tục duy trì việc cung cấp dịch vụ viễn thông cho người sử dụng.
+3. Trường hợp ngừng kinh doanh dịch vụ theo yêu cầu của cơ quan nhà nước có thẩm quyền do doanh nghiệp vi phạm các quy định của pháp luật, doanh nghiệp phải có phương án bảo đảm quyền, lợi ích hợp pháp của người sử dụng dịch vụ viễn thông theo hợp đồng sử dụng dịch vụ viễn thông đã giao kết và phương án khắc phục vi phạm, báo cáo Bộ Thông tin và Truyền thông bằng văn bản. 
+4. Chính phủ quy định chi tiết điều kiện, thủ tục ngừng một phần hoặc toàn bộ hoạt động kinh doanh dịch vụ viễn thông.
+Điều 24. Liên lạc nghiệp vụ
+1. Doanh nghiệp viễn thông được sử dụng liên lạc trong nước và quốc tế qua mạng viễn thông do doanh nghiệp khai thác để quản lý, điều hành, xử lý kỹ thuật, nghiệp vụ và được miễn giá cước sử dụng dịch vụ.
+2. Doanh nghiệp viễn thông quy định cụ thể đối tượng, phạm vi, mức sử dụng và ban hành quy chế quản lý liên lạc nghiệp vụ nội bộ doanh nghiệp.
+Điều 25. Dịch vụ viễn thông khẩn cấp 
+1. Dịch vụ viễn thông khẩn cấp là dịch vụ gọi đến các số dịch vụ khẩn cấp của cơ quan công an, cứu hoả, cấp cứu.
+2. Các số dịch vụ khẩn cấp trong quy hoạch kho số viễn thông quốc gia và việc cung cấp dịch vụ viễn thông khẩn cấp theo quy định của Bộ trưởng Bộ Thông tin và Truyền thông.
+3. Doanh nghiệp viễn thông có các trách nhiệm sau đây:
+a) Thông báo cho người sử dụng dịch vụ viễn thông và đăng trong Danh bạ điện thoại công cộng các số dịch vụ khẩn cấp;
+b) Bảo đảm khả năng truy nhập của người sử dụng dịch vụ viễn thông đến các số dịch vụ khẩn cấp;
+c) Miễn giá cước gọi đến các số dịch vụ khẩn cấp cho người sử dụng dịch vụ điện thoại.
+Điều 26. Dịch vụ trợ giúp tra cứu số thuê bao điện thoại cố định 
+1. Danh bạ điện thoại công cộng là tập hợp các thông tin về tên, địa chỉ, số thuê bao và thông tin liên quan khác của thuê bao điện thoại cố định, được lưu giữ dưới dạng bản in, bản điện tử do doanh nghiệp viễn thông phát hành và quản lý.
+2. Thuê bao điện thoại cố định có quyền đăng ký hoặc từ chối đăng ký thông tin thuê bao của mình vào Danh bạ điện thoại công cộng. 
+3. Dịch vụ trợ giúp tra cứu số thuê bao điện thoại cố định là dịch vụ trợ giúp người sử dụng dịch vụ viễn thông tra cứu số thuê bao điện thoại cố định bằng Danh bạ điện thoại công cộng. 
+4. Doanh nghiệp viễn thông có trách nhiệm cung cấp miễn phí cho người sử dụng dịch vụ điện thoại cố định bản điện tử Danh bạ điện thoại công cộng quy định tại khoản 1 Điều này.
+Điều 27. Dịch vụ báo hỏng dịch vụ viễn thông
+1. Dịch vụ báo hỏng dịch vụ viễn thông là dịch vụ thông báo việc hoạt động không bình thường của dịch vụ viễn thông do doanh nghiệp quản lý và yêu cầu khắc phục sự cố. 
+2. Doanh nghiệp viễn thông có trách nhiệm bảo đảm khả năng truy nhập và miễn giá cước đối với dịch vụ báo hỏng dịch vụ viễn thông cho người sử dụng dịch vụ viễn thông.
+Mục 3
+ CUNG CẤP DỊCH VỤ VIỄN THÔNG CƠ BẢN TRÊN INTERNET VÀ DỊCH VỤ TRUNG TÂM DỮ LIỆU, DỊCH VỤ ĐIỆN TOÁN ĐÁM MÂY
+Điều 28. Cung cấp dịch vụ viễn thông cơ bản trên Internet
+1. Doanh nghiệp cung cấp dịch vụ viễn thông cơ bản trên Internet có các quyền và nghĩa vụ sau đây:
+a) Đầu tư kinh doanh dịch vụ viễn thông cơ bản trên Internet không giới hạn tỷ lệ sở hữu cổ phần, phần vốn góp, đóng góp của nhà đầu tư nước ngoài;
+b) Thực hiện việc đăng ký, thông báo cung cấp dịch vụ viễn thông theo quy định tại Điều 41 của Luật này;
+c) Thực hiện quy định tại các khoản 1, 2, 3, 4 và 6 Điều 5, Điều 6, các điểm b, c, d và i khoản 2 Điều 13, các khoản 1, 3 và 4 Điều 20, Điều 22, các khoản 1 và khoản 3 Điều 23, khoản 2 Điều 40, Điều 60 và Điều 62 của Luật này;
+d) Thực hiện việc đăng ký, lưu trữ, quản lý thông tin của người sử dụng dịch vụ theo quy định của Chính phủ;
+đ) Trường hợp cần thực hiện truy cập vào các tính năng trên thiết bị đầu cuối của người sử dụng để phục vụ việc cung cấp dịch vụ, doanh nghiệp cung cấp dịch vụ viễn thông cơ bản trên Internet có trách nhiệm thông báo cho người sử dụng về sự cần thiết và phải được người sử dụng đồng ý trước khi thực hiện truy cập;
+e) Công bố chất lượng dịch vụ do mình cung cấp nếu có sở hữu hạ tầng mạng hoặc có thỏa thuận với doanh nghiệp viễn thông có hạ tầng mạng; công bố chất lượng dịch vụ do mình cung cấp phụ thuộc vào chất lượng mạng viễn thông, dịch vụ viễn thông do các doanh nghiệp viễn thông khác quản lý, cung cấp nếu không sở hữu hạ tầng mạng, không có thỏa thuận với doanh nghiệp viễn thông có hạ tầng mạng.
+2. Chính phủ quy định quyền và nghĩa vụ của tổ chức nước ngoài cung cấp dịch vụ viễn thông cơ bản trên Internet qua biên giới đến người sử dụng dịch vụ trên lãnh thổ Việt Nam trên nguyên tắc tôn trọng độc lập, chủ quyền, bình đẳng, đảm bảo an toàn, an ninh thông tin và cam kết chung trong các điều ước quốc tế.
+Điều 29. Cung cấp và sử dụng dịch vụ trung tâm dữ liệu, dịch vụ điện toán đám mây
+1. Doanh nghiệp cung cấp dịch vụ trung tâm dữ liệu, dịch vụ điện toán đám mây có các quyền và nghĩa vụ sau đây:
+a) Đầu tư kinh doanh dịch vụ trung tâm dữ liệu, dịch vụ điện toán đám mây không giới hạn tỷ lệ sở hữu cổ phần, phần vốn góp, đóng góp của nhà đầu tư nước ngoài;
+b) Thực hiện việc đăng ký, thông báo cung cấp dịch vụ viễn thông theo quy định tại Điều 41 của Luật này; 
+c) Tuân thủ pháp luật về an toàn thông tin mạng, an ninh mạng, bảo vệ dữ liệu cá nhân và quy định khác của pháp luật có liên quan;
+d) Thực hiện quy định tại các khoản 1, 2, 3, 4 và 6 Điều 5, Điều 6, các điểm b, c và d khoản 2 Điều 13, các khoản 1, 3 và 4 Điều 20, Điều 22, khoản 1 và khoản 3 Điều 23, khoản 2 Điều 40, Điều 60 và Điều 62 của Luật này;
+đ) Phải đảm bảo các doanh nghiệp viễn thông có thể kết nối và cung cấp dịch vụ cho người sử dụng dịch vụ trung tâm dữ liệu;
+e) Không được truy nhập, khai thác, sử dụng dữ liệu của người sử dụng được xử lý, lưu trữ và truy xuất qua dịch vụ của doanh nghiệp nếu chưa được người sử dụng đồng ý;
+g) Tiến hành kịp thời các biện pháp cần thiết để ngăn chặn việc truy nhập thông tin theo yêu cầu của cơ quan nhà nước có thẩm quyền theo quy định của pháp luật;
+h) Không chịu trách nhiệm nội dung thông tin của người sử dụng dịch vụ trong quá trình xử lý, lưu trữ và truy xuất thông tin. Không được theo dõi, giám sát thông tin của người sử dụng dịch vụ, trừ trường hợp cơ quan nhà nước có thẩm quyền yêu cầu theo quy định của pháp luật;
+i) Thực hiện việc đăng ký, lưu trữ, quản lý thông tin của người sử dụng dịch vụ theo quy định của Chính phủ;
+k) Công bố chất lượng dịch vụ do mình cung cấp.
+2. Tổ chức, cá nhân trước khi đưa trung tâm dữ liệu vào sử dụng phải thực hiện công bố về sự phù hợp của trung tâm dữ liệu với các tiêu chuẩn, quy chuẩn kỹ thuật theo quy định của Bộ trưởng Bộ Thông tin và Truyền thông.
+3. Việc cung cấp và sử dụng dịch vụ trung tâm dữ liệu, dịch vụ điện toán đám mây trong hoạt động của các ngành, lĩnh vực khác phải tuân theo quy định của Luật này và quy định khác của pháp luật có liên quan.
+4. Chính phủ quy định chi tiết các nội dung sau đây:
+a) Quyền và nghĩa vụ của tổ chức nước ngoài cung cấp dịch vụ trung tâm dữ liệu, dịch vụ điện toán đám mây qua biên giới đến người sử dụng dịch vụ trên lãnh thổ Việt Nam trên nguyên tắc tôn trọng độc lập, chủ quyền, bình đẳng, bảo đảm an toàn, an ninh thông tin và cam kết chung trong các điều ước quốc tế; 
+b) Việc cung cấp và sử dụng dịch vụ trung tâm dữ liệu, dịch vụ điện toán đám mây trong hoạt động của cơ quan nhà nước.
+Chương III
+CUNG CẤP DỊCH VỤ VIỄN THÔNG CÔNG ÍCH
+Điều 30. Hoạt động viễn thông công ích 
+1. Hoạt động viễn thông công ích là việc hỗ trợ cung cấp và sử dụng dịch vụ viễn thông công ích, thiết bị đầu cuối góp phần phát triển kinh tế - xã hội.
+2. Dịch vụ viễn thông công ích bao gồm dịch vụ viễn thông phổ cập và dịch vụ viễn thông bắt buộc. 
+a) Dịch vụ viễn thông phổ cập là dịch vụ viễn thông được cung cấp đến mọi người dân theo danh mục, địa bàn, khu vực, điều kiện, chất lượng, giá cước do Nhà nước quy định.
+b) Dịch vụ viễn thông bắt buộc là dịch vụ viễn thông được cung cấp theo yêu cầu của Nhà nước để bảo đảm thông tin liên lạc trong trường hợp khẩn cấp theo quy định của pháp luật.
+3. Nguyên tắc hoạt động viễn thông công ích: 
+a) Phổ cập dịch vụ viễn thông, trong đó ưu tiên các khu vực miền núi, vùng cao, biên giới, vùng bãi ngang, ven biển và hải đảo, vùng đồng bào dân tộc thiểu số và vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn và các khu vực khó có khả năng kinh doanh hiệu quả theo cơ chế thị trường.
+b) Bảo đảm quyền truy nhập dịch vụ bình đẳng, hợp lý cho mọi người dân, đồng thời theo từng thời kỳ, Nhà nước có chính sách ưu tiên hỗ trợ sử dụng dịch vụ viễn thông công ích và thiết bị đầu cuối cho hộ nghèo, hộ cận nghèo, gia đình chính sách xã hội và các đối tượng chính sách đặc biệt khác do Thủ tướng Chính phủ quyết định.
+4. Kinh phí cho hoạt động viễn thông công ích được bảo đảm từ Quỹ Dịch vụ viễn thông công ích Việt Nam. 
+Điều 31. Quản lý hoạt động viễn thông công ích 
+1. Hoạt động viễn thông công ích được thực hiện như sau: 
+a) Hỗ trợ cung cấp dịch vụ viễn thông công ích cho doanh nghiệp theo các phương thức: Giao nhiệm vụ, đặt hàng hoặc đấu thầu;
+b) Hỗ trợ sử dụng dịch vụ viễn thông công ích cho đối tượng được hỗ trợ theo các phương thức: Giao nhiệm vụ, đặt hàng hoặc hỗ trợ trực tiếp;
+c) Hỗ trợ thiết bị đầu cuối (bằng tiền hoặc hiện vật) cho đối tượng được hỗ trợ theo các phương thức: đấu thầu, giao nhiệm vụ thông qua doanh nghiệp viễn thông hoặc hỗ trợ trực tiếp. 
+2. Chính phủ quy định chi tiết việc thực hiện hoạt động viễn thông công ích, bao gồm:
+a) Cơ chế tài chính thực hiện hoạt động viễn thông công ích, bao gồm: Mức đóng góp tối đa, đối tượng được miễn, giảm đóng góp vào Quỹ Dịch vụ viễn thông công ích Việt Nam; thời hạn hỗ trợ cung cấp, sử dụng dịch vụ viễn thông công ích đảm bảo tính ổn định, liên tục trong việc cung cấp, sử dụng dịch vụ viễn thông công ích và việc quản lý, sử dụng tài chính của Quỹ Dịch vụ viễn thông công ích Việt Nam cho hoạt động viễn thông công ích;
+b) Việc giao nhiệm vụ, đặt hàng, đấu thầu hỗ trợ cung cấp, sử dụng dịch vụ viễn thông công ích, thiết bị đầu cuối.
+3. Thủ tướng Chính phủ phê duyệt chương trình cung cấp dịch vụ viễn thông công ích phù hợp với tình hình phát triển kinh tế - xã hội theo từng thời kỳ bao gồm: danh mục dịch vụ viễn thông công ích, địa bàn, khu vực, đối tượng được hỗ trợ, phương thức thực hiện hoạt động viễn thông công ích, mức đóng góp của doanh nghiệp viễn thông vào Quỹ Dịch vụ viễn thông công ích Việt Nam và các giải pháp thực hiện chương trình.  
+4. Bộ Thông tin và Truyền thông có các trách nhiệm sau đây:
+a) Chủ trì phối hợp với Bộ Tài chính, Bộ Kế hoạch và Đầu tư,  các bộ, ngành có liên quan và Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương xây dựng, trình Thủ tướng Chính phủ phê duyệt chương trình cung cấp dịch vụ viễn thông công ích;
+b) Chủ trì, phối hợp với Bộ Tài chính, Bộ Kế hoạch và Đầu tư và các cơ quan liên quan hướng dẫn thực hiện chương trình cung cấp dịch vụ viễn thông công ích;
+c) Ban hành giá cước dịch vụ viễn thông công ích theo quy định tại Điều 59 của Luật này; 
+d) Tổ chức, quản lý, kiểm tra hoạt động viễn thông công ích.
+5. Uỷ ban nhân dân các tỉnh, thành phố trực thuộc Trung ương có các trách nhiệm sau đây:
+a) Phối hợp với Bộ Thông tin và Truyền thông đề xuất địa bàn, danh sách đối tượng được hưởng hỗ trợ cung cấp, sử dụng dịch vụ viễn thông công ích, thiết bị đầu cuối tại địa phương;
+b) Tổ chức thực hiện chương trình cung cấp dịch vụ viễn thông công ích theo nhiệm vụ được giao;
+c) Phối hợp kiểm tra, thanh tra thực hiện hoạt động viễn thông công ích tại địa phương.
+Điều 32. Quỹ Dịch vụ viễn thông công ích Việt Nam 
+1. Quỹ Dịch vụ viễn thông công ích Việt Nam là quỹ tài chính nhà nước ngoài ngân sách do Bộ Thông tin và Truyền thông quản lý để hỗ trợ thực hiện chính sách của Nhà nước về hoạt động viễn thông công ích. 
+2. Quỹ Dịch vụ viễn thông công ích Việt Nam hoạt động theo các nguyên tắc sau đây:
+a) Hoạt động không vì mục đích lợi nhuận, minh bạch, đúng mục đích, phù hợp với Luật này và các quy định pháp luật có liên quan;
+b) Thực hiện thu, chi, hạch toán kế toán, quyết toán, công khai tài chính, tài sản theo quy định của pháp luật;
+c) Bảo đảm cân đối giữa kế hoạch thu với nhiệm vụ chi và tiến độ giải ngân cho hoạt động viễn thông công ích;
+d) Chịu sự kiểm tra, thanh tra, kiểm toán nhà nước về các hoạt động của Quỹ Dịch vụ viễn thông công ích Việt Nam.
+3. Mục đích sử dụng Quỹ:
+a) Hỗ trợ cung cấp dịch vụ viễn thông công ích để bù đắp chi phí cho doanh nghiệp phát triển, nâng cấp, duy trì cơ sở hạ tầng viễn thông tại các khu vực miền núi, vùng cao, biên giới, vùng bãi ngang, ven biển và hải đảo, vùng đồng bào dân tộc thiểu số, vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn và các khu vực khó có khả năng kinh doanh hiệu quả theo cơ chế thị trường; kết hợp bảo vệ vùng biên giới trên đất liền và chủ quyền vùng biển, hải đảo.
+b) Hỗ trợ sử dụng dịch vụ viễn thông công ích;
+c) Hỗ trợ thiết bị đầu cuối;
+d) Chi quản lý hoạt động viễn thông công ích giao cho Quỹ Dịch vụ viễn thông công ích Việt Nam thực hiện;
+đ) Chi hoạt động bộ máy của Quỹ Dịch vụ viễn thông công ích Việt Nam.
+4. Quỹ Dịch vụ viễn thông công ích Việt Nam được hình thành từ các nguồn sau đây:
+a) Đóng góp theo tỷ lệ doanh thu dịch vụ viễn thông của các doanh nghiệp viễn thông;
+b) Các nguồn tài chính hợp pháp khác ngoài ngân sách nhà nước.
+5. Thủ tướng Chính phủ quyết định thành lập, quy định về tổ chức, hoạt động, nguồn kinh phí và sử dụng nguồn kinh phí cho hoạt động bộ máy Quỹ Dịch vụ viễn thông công ích Việt Nam.
+Chương IV
+GIẤY PHÉP VIỄN THÔNG
+Điều 33. Giấy phép viễn thông
+1. Giấy phép viễn thông bao gồm giấy phép kinh doanh dịch vụ viễn thông và giấy phép nghiệp vụ viễn thông.
+2. Giấy phép kinh doanh dịch vụ viễn thông bao gồm:
+a) Giấy phép cung cấp dịch vụ viễn thông có hạ tầng mạng có thời hạn không quá 15 năm được cấp cho doanh nghiệp cung cấp dịch vụ có hạ tầng mạng;
+b) Giấy phép cung cấp dịch vụ viễn thông không có hạ tầng mạng có thời hạn không quá 10 năm được cấp cho doanh nghiệp cung cấp dịch vụ không có hạ tầng mạng. 
+3. Giấy phép nghiệp vụ viễn thông bao gồm: 
+a) Giấy phép lắp đặt cáp viễn thông trên biển, có thời hạn không quá 25 năm được cấp cho tổ chức lắp đặt cáp viễn thông trên biển cập bờ hoặc đi qua vùng nội thủy, lãnh hải, thềm lục địa, vùng đặc quyền kinh tế của Việt Nam;
+b) Giấy phép thiết lập mạng viễn thông dùng riêng, có thời hạn không quá 10 năm được cấp cho tổ chức thiết lập mạng dùng riêng, trừ mạng viễn thông dùng riêng quy định tại khoản 3 và khoản 4 Điều 19 của Luật này;
+c) Giấy phép thử nghiệm mạng và dịch vụ viễn thông, có thời hạn không quá 02 năm được cấp cho tổ chức thử nghiệm mạng và dịch vụ viễn thông;
+d) Giấy phép thiết lập mạng viễn thông, có thời hạn không quá 10 năm được cấp cho đài phát thanh quốc gia, đài truyền hình quốc gia thuộc Chính phủ để thực hiện chức năng thông tin, tuyên truyền chủ trương, đường lối của Đảng và chính sách, pháp luật của Nhà nước hoạt động không nhằm mục đích sinh lợi.
+4. Chính phủ quy định chi tiết thẩm quyền, điều kiện, thủ tục cấp, gia hạn, cấp lại, sửa đổi, bổ sung, thu hồi giấy phép viễn thông, yêu cầu chấm dứt hoạt động cung cấp dịch vụ viễn thông.
+Điều 34. Nguyên tắc cấp giấy phép viễn thông 
+1. Phù hợp với quy hoạch phát triển viễn thông quốc gia.
+2. Ưu tiên cấp giấy phép viễn thông cho dự án có khả năng triển khai nhanh trên thực tế, có cam kết cung cấp dịch vụ lâu dài cho đông đảo người sử dụng dịch vụ viễn thông; dự án cung cấp dịch vụ viễn thông đến khu vực biên giới, miền núi, vùng cao, vùng bãi ngang, ven biển và hải đảo, vùng đồng bào dân tộc thiểu số, vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn.
+3. Trường hợp việc cấp giấy phép viễn thông có liên quan đến sử dụng tài nguyên viễn thông thì chỉ được xét cấp nếu việc phân bổ tài nguyên viễn thông là khả thi, theo đúng quy hoạch tần số vô tuyến điện, quy hoạch kho số viễn thông và quy hoạch tài nguyên Internet đã được phê duyệt và bảo đảm sử dụng hiệu quả tài nguyên viễn thông.
+Điều 35. Hình thức cấp giấy phép viễn thông
+1. Cấp phép riêng là hình thức cấp giấy phép viễn thông trên cơ sở ấn định các điều kiện và nghĩa vụ riêng cho doanh nghiệp trong các trường hợp sau đây:
+a) Giấy phép cung cấp dịch vụ viễn thông có hạ tầng mạng sử dụng tần số vô tuyến điện được cấp thông qua đấu giá, thi tuyển quyền sử dụng tần số vô tuyến điện hoặc được cấp lại giấy phép sử dụng băng tần. 
+b) Giấy phép cung cấp dịch vụ viễn thông có hạ tầng mạng cấp tại các khu vực có yêu cầu đặc biệt theo quy định của Chính phủ.
+2. Cấp phép nhóm là hình thức cấp giấy phép viễn thông được thực hiện trên cơ sở đáp ứng các điều kiện và nghĩa vụ quy định chung cho các tổ chức, doanh nghiệp đề nghị cấp giấy phép trong các trường hợp sau đây: 
+a) Giấy phép cung cấp dịch vụ viễn thông có hạ tầng mạng, trừ trường hợp quy định tại khoản 1 Điều này;
+b) Giấy phép cung cấp dịch vụ viễn thông không có hạ tầng mạng trừ trường hợp cung cấp dịch vụ phải thực hiện thủ tục đăng ký và thông báo cung cấp dịch vụ viễn thông quy định tại khoản 1 và khoản 2 Điều 41 của Luật này;
+c) Giấy phép nghiệp vụ viễn thông.
+Điều 36. Điều kiện cấp giấy phép kinh doanh dịch vụ viễn thông
+1. Giấy phép cung cấp dịch vụ viễn thông quy định tại điểm a khoản 1 Điều 35 của Luật này được cấp cho doanh nghiệp khi có đủ các điều kiện sau đây:
+a) Có Giấy chứng nhận đăng ký doanh nghiệp hoặc Giấy chứng nhận đăng ký đầu tư;
+b) Có vốn điều lệ tối thiểu theo quy định của Chính phủ; 
+c) Không đang trong quá trình giải thể, phá sản theo quyết định của cơ quan nhà nước có thẩm quyền; 
+d) Có phương án kỹ thuật, phương án kinh doanh phù hợp với quy hoạch phát triển viễn thông quốc gia, các quy định về tài nguyên viễn thông, kết nối, giá cước, tiêu chuẩn, quy chuẩn kỹ thuật, chất lượng dịch vụ viễn thông, bảo đảm an toàn cơ sở hạ tầng viễn thông, an toàn thông tin mạng, an ninh mạng, bảo đảm quyền lợi hợp pháp của người sử dụng dịch vụ viễn thông theo quy định của Luật này và quy định khác của pháp luật có liên quan;
+đ) Bảo đảm điều kiện về triển khai mạng viễn thông đối với băng tần, kênh tần số vô tuyến điện được cấp theo hình thức đấu giá, thi tuyển hoặc đối với băng tần được cấp lại;
+e) Trúng đấu giá, trúng thi tuyển quyền sử dụng tần số vô tuyến điện hoặc đủ điều kiện được cấp lại băng tần.
+2. Giấy phép cung cấp dịch vụ viễn thông có hạ tầng mạng không thuộc trường hợp quy định tại khoản 1 Điều này được cấp cho doanh nghiệp có đủ các điều kiện sau đây:
+a) Các điều kiện quy định tại các điểm a, b, c và d khoản 1 Điều này;
+b) Điều kiện về triển khai mạng viễn thông theo quy định. 
+3. Giấy phép cung cấp dịch vụ viễn thông không có hạ tầng mạng trừ trường hợp quy định tại khoản 2 Điều 41 của Luật này cho doanh nghiệp có đủ các điều kiện quy định tại các điểm a, b, c và d khoản 1 Điều này.
+Điều 37. Điều kiện về viễn thông khi tham gia đấu giá, thi tuyển quyền sử dụng tần số vô tuyến điện
+Doanh nghiệp được xác định đủ điều kiện tham gia đấu giá, thi tuyển quyền sử dụng tần số vô tuyến điện khi đáp ứng các điều kiện quy định tại các điểm a, b, c, d và đ khoản 1 Điều 36 của Luật này.
+Điều 38. Điều kiện cấp giấy phép nghiệp vụ viễn thông
+1. Tổ chức Việt Nam và tổ chức nước ngoài được cấp giấy phép lắp đặt cáp viễn thông trên biển khi có đủ các điều kiện sau đây: 
+a) Cam kết tuân thủ quy định của pháp luật Việt Nam;
+b) Cam kết không gây ô nhiễm môi trường biển; 
+c) Cam kết không thực hiện hoạt động khác ngoài việc khảo sát, lắp đặt, bảo dưỡng, sửa chữa tuyến cáp viễn thông;
+d) Có đề án lắp đặt cáp viễn thông trên biển phù hợp với quy hoạch phát triển viễn thông quốc gia, các quy định của pháp luật về quốc phòng, an ninh, bảo vệ môi trường và quy định khác của pháp luật có liên quan;
+đ) Chịu sự kiểm tra, kiểm soát, hướng dẫn của cơ quan nhà nước có thẩm quyền khi khảo sát, lắp đặt, bảo dưỡng, sửa chữa tuyến cáp trong vùng biển Việt Nam và chịu mọi chi phí cho hoạt động kiểm tra, kiểm soát, hướng dẫn.
+2. Tổ chức được cấp giấy phép thiết lập mạng viễn thông dùng riêng khi có đủ các điều kiện sau đây:
+a) Cam kết thiết lập mạng viễn thông dùng riêng chỉ để cung cấp dịch vụ cho các thành viên của mạng, không vì mục đích kinh doanh;
+b) Có phương án kỹ thuật, nghiệp vụ phù hợp với quy hoạch phát triển viễn thông quốc gia, quy định của pháp luật về tài nguyên viễn thông, kết nối, tiêu chuẩn, quy chuẩn kỹ thuật viễn thông;
+c) Có biện pháp bảo đảm an toàn cơ sở hạ tầng viễn thông và an ninh thông tin.
+3. Tổ chức được cấp giấy phép thử nghiệm mạng và dịch vụ viễn thông khi có đủ các điều kiện sau đây: 
+a) Dịch vụ được đề nghị thử nghiệm là dịch vụ viễn thông chưa được quy định trong giấy phép viễn thông đã được cấp hoặc dịch vụ viễn thông có sử dụng tài nguyên viễn thông ngoài phạm vi tài nguyên viễn thông đã được phân bổ;
+b) Phạm vi và quy mô thử nghiệm được giới hạn để đánh giá công nghệ, thị trường trước khi kinh doanh chính thức;
+c) Phương án thử nghiệm phù hợp với quy định của pháp luật về kết nối, giá cước, tiêu chuẩn, quy chuẩn kỹ thuật viễn thông.
+4. Tổ chức được cấp giấy phép thiết lập mạng viễn thông quy định tại điểm d khoản 3 Điều 33 của Luật này khi có đủ các điều kiện sau đây:
+a) Cam kết thiết lập mạng viễn thông chỉ để cung cấp dịch vụ không vì mục đích sinh lợi;
+b) Có phương án kỹ thuật phù hợp với quy hoạch phát triển viễn thông quốc gia, các quy định về tài nguyên viễn thông, kết nối, tiêu chuẩn, quy chuẩn kỹ thuật, chất lượng dịch vụ viễn thông, bảo đảm an toàn cơ sở hạ tầng viễn thông, an toàn thông tin mạng, an ninh mạng, bảo đảm quyền lợi hợp pháp của người sử dụng dịch vụ viễn thông theo quy định của Luật này và pháp luật có liên quan.
+Điều 39. Gia hạn, cấp lại, sửa đổi, bổ sung giấy phép viễn thông
+1. Trước thời điểm giấy phép viễn thông hết thời hạn, tổ chức có giấy phép viễn thông có quyền phép đề nghị gia hạn hoặc cấp lại giấy phép viễn thông. Trong thời hạn có hiệu lực của giấy phép, tổ chức được cấp giấy phép viễn thông phải thực hiện thủ tục đề nghị sửa đổi, bổ sung giấy phép khi thay đổi nội dung của giấy phép.
+2. Việc xét gia hạn giấy phép viễn thông được thực hiện dựa trên việc tổ chức, doanh nghiệp tuân thủ các quy định trong giấy phép viễn thông được đề nghị gia hạn và các quy định của pháp luật về viễn thông. Việc gia hạn giấy phép viễn thông thực hiện theo nguyên tắc sau đây:
+a) Tổ chức đề nghị gia hạn giấy phép viễn thông đáp ứng điều kiện cấp giấy phép viễn thông theo quy định của Luật này;
+b) Tổng thời hạn cấp lần đầu và các lần gia hạn giấy phép viễn thông không được vượt quá thời hạn tối đa quy định cho loại giấy phép đó; trường hợp giấy phép có thời hạn cấp lần đầu bằng thời hạn tối đa quy định cho loại giấy phép đó thì khi giấy phép hết hạn sử dụng, chỉ được xem xét gia hạn không quá 01 năm.
+3. Việc cấp lại giấy phép viễn thông cho tổ chức khi giấy phép đã cấp hết hạn hoặc khi trúng đấu giá băng tần số vô tuyến điện được thực hiện khi đáp ứng các điều kiện quy định tại Điều 36, Điều 37 của Luật này có xem xét việc thực hiện nội dung quy định trong giấy phép viễn thông đã cấp và quyền lợi của người sử dụng dịch vụ viễn thông.
+4. Việc sửa đổi, bổ sung giấy phép viễn thông trong thời gian giấy phép còn hiệu lực được thực hiện như sau:
+a) Theo đề nghị của tổ chức được cấp giấy phép hoặc theo yêu cầu của Bộ Thông tin và Truyền thông; 
+b) Thực hiện dựa trên điều kiện cấp phép quy định tại Điều 36, Điều 37 của Luật này tương ứng đề nghị sửa đổi, bổ sung giấy phép.
+Điều 40. Thu hồi giấy phép viễn thông, buộc chấm dứt hoạt động cung cấp dịch vụ viễn thông
+1. Tổ chức bị thu hồi giấy phép viễn thông đã được cấp nếu thuộc một trong các trường hợp sau đây:
+a) Có hành vi quy định tại khoản 1 Điều 9 của Luật này;
+b) Có hành vi gian dối hoặc cung cấp thông tin giả mạo để được cấp giấy phép viễn thông;
+c) Thực hiện không đúng với nội dung giấy phép viễn thông được cấp và gây hậu quả nghiêm trọng đến quyền, lợi ích hợp pháp của tổ chức, cá nhân khác;
+d) Không triển khai trên thực tế nội dung quy định trong giấy phép viễn thông được cấp sau thời hạn 02 năm, kể từ ngày được cấp giấy phép; 
+đ) Ngừng cung cấp các dịch vụ viễn thông theo giấy phép viễn thông được cấp một năm liên tục mà không thông báo cho Bộ Thông tin và Truyền thông;
+e) Tự nguyện hoàn trả giấy phép kinh doanh dịch vụ viễn thông;
+g) Bị thu hồi toàn bộ tài nguyên tần số vô tuyến điện theo giấy phép viễn thông đã được cấp;
+h) Không nộp đủ phí quyền hoạt động viễn thông và không khắc phục để nộp đủ trong thời hạn 12 tháng kể từ ngày hết hạn nộp tiền quy định tại pháp luật về phí và lệ phí theo thông báo của Bộ Thông tin và Truyền thông.
+2. Doanh nghiệp cung cấp dịch vụ viễn thông thuộc danh mục dịch vụ viễn thông áp dụng hình thức đăng ký, thông báo cung cấp dịch vụ viễn thông phải chấm dứt hoạt động cung cấp dịch vụ viễn thông nếu thuộc một trong các trường hợp sau đây:
+a) Có hành vi quy định tại khoản 1 Điều 9 của Luật này;
+b) Vi phạm quy định tại điểm h khoản 1 Điều này;
+c) Hoạt động không đáp ứng điều kiện khi đăng ký cung cấp dịch vụ; 
+d) Ngừng cung cấp các dịch vụ viễn thông theo đăng ký trong 01 năm liên tục và không thông báo cho Bộ Thông tin và Truyền thông. 
+3. Sau thời hạn 01 năm  kể từ ngày bị thu hồi giấy phép, buộc chấm dứt hoạt động, tổ chức thuộc các trường hợp quy định tại các điểm d, đ, e, g, h khoản 1, điểm b, c, d khoản 2 và tổ chức để xảy ra vi phạm thuộc trường hợp quy định tại điểm c khoản 1 Điều này được quyền nộp hồ sơ đề nghị cấp giấy phép viễn thông hoặc đăng ký, thông báo cung cấp dịch vụ viễn thông.
+Điều 41. Đăng ký, thông báo cung cấp dịch vụ viễn thông
+1. Đăng ký cung cấp dịch vụ viễn thông là việc doanh nghiệp phải thực hiện việc tự kê khai thông tin về doanh nghiệp, loại hình dịch vụ và cam kết bảo đảm việc cung cấp dịch vụ đáp ứng tiêu chuẩn, quy chuẩn theo quy định của pháp luật về viễn thông. 
+2. Thông báo cung cấp dịch vụ viễn thông là việc doanh nghiệp thực hiện kê khai thông tin về doanh nghiệp, loại hình dịch vụ cung cấp, các thông tin liên quan đến chất lượng dịch vụ doanh nghiệp cung ứng.
+3. Chính phủ quy định chi tiết danh mục dịch vụ viễn thông áp dụng hình thức đăng ký, thông báo cung cấp dịch vụ viễn thông, thủ tục đăng ký, thông báo cung cấp dịch vụ viễn thông.
+Điều 42. Miễn giấy phép viễn thông, đăng ký, thông báo cung cấp dịch vụ viễn thông
+Tổ chức, cá nhân hoạt động viễn thông được miễn giấy phép viễn thông, đăng ký, thông báo cung cấp dịch vụ viễn thông trong các trường hợp sau đây: 
+1. Kinh doanh hàng hóa viễn thông;
+2. Cung cấp dịch vụ viễn thông dưới hình thức đại lý dịch vụ viễn thông; 
+3. Thuê đường truyền dẫn để cung cấp dịch vụ ứng dụng viễn thông;
+4. Mạng viễn thông dùng riêng mà các thành viên mạng trực thuộc cùng một tổ chức và không tự thiết lập đường truyền dẫn viễn thông.
+Điều 43. Phí quyền hoạt động viễn thông 
+1. Phí quyền hoạt động viễn thông là khoản tiền tổ chức hoạt động viễn thông trả cho Nhà nước để được quyền thiết lập mạng, cung cấp dịch vụ viễn thông. Phí quyền hoạt động viễn thông được xác định trên cơ sở phạm vi, quy mô mạng viễn thông, doanh thu dịch vụ viễn thông; số lượng và giá trị tài nguyên viễn thông được phân bổ; mức sử dụng không gian, mặt đất, lòng đất, đáy sông, đáy biển để thiết lập mạng viễn thông, xây dựng công trình viễn thông.
+2. Tổ chức có trách nhiệm nộp phí quyền hoạt động viễn thông theo một trong các hình thức sau đây:
+a) Nộp hằng năm theo mức cố định;
+b) Nộp một lần theo mức cố định cho toàn bộ thời hạn của giấy phép.
+Chương V
+KẾT NỐI VÀ CHIA SẺ CƠ SỞ HẠ TẦNG VIỄN THÔNG
+Điều 44. Nguyên tắc kết nối viễn thông
+1. Doanh nghiệp viễn thông có quyền kết nối mạng viễn thông của mình với mạng hoặc dịch vụ viễn thông của doanh nghiệp viễn thông khác, có nghĩa vụ cho doanh nghiệp viễn thông khác kết nối với mạng hoặc dịch vụ viễn thông của mình.
+2. Việc kết nối mạng, dịch vụ viễn thông được thực hiện theo các nguyên tắc sau đây:
+a) Thông qua thương lượng trên cơ sở bảo đảm công bằng, hợp lý, phù hợp với quyền, lợi ích của các bên tham gia;
+b) Sử dụng hiệu quả tài nguyên viễn thông và cơ sở hạ tầng viễn thông;
+c) Bảo đảm yêu cầu kỹ thuật về kết nối viễn thông và an toàn, thống nhất của các mạng viễn thông;
+d) Bảo đảm quyền, lợi ích hợp pháp của người sử dụng dịch vụ viễn thông và tổ chức, cá nhân có liên quan.
+Điều 45. Kết nối mạng viễn thông công cộng
+1. Doanh nghiệp cung cấp dịch vụ có hạ tầng mạng khi kết nối mạng viễn thông công cộng có trách nhiệm sau đây: 
+a) Cung cấp kết nối tại bất kỳ điểm nào khả thi về mặt kỹ thuật trên mạng viễn thông công cộng; 
+b) Bảo đảm kết nối kịp thời, hợp lý, công khai, minh bạch; 
+c) Không phân biệt đối xử về giá cước, tiêu chuẩn, quy chuẩn kỹ thuật viễn thông, chất lượng mạng và dịch vụ viễn thông.
+2. Doanh nghiệp viễn thông nắm giữ phương tiện thiết yếu khi kết nối mạng viễn thông công cộng có trách nhiệm sau đây:
+a) Tạo điều kiện thuận lợi cho việc đàm phán và thực hiện kết nối của doanh nghiệp viễn thông khác;
+b) Xây dựng, đăng ký với cơ quan quản lý nhà nước về viễn thông và công bố công khai bản thoả thuận kết nối mẫu;
+c) Thực hiện các quy định tại khoản 1 Điều này. 
+3. Giá cước kết nối viễn thông được xây dựng trên cơ sở yếu tố hình thành giá, phân tách hợp lý theo các bộ phận cấu thành mạng hoặc theo công đoạn dịch vụ, không phân biệt các loại hình dịch vụ. 
+4. Bộ trưởng Bộ Thông tin và Truyền thông quy định việc kết nối các mạng viễn thông công cộng, hiệp thương và giải quyết tranh chấp kết nối giữa các doanh nghiệp viễn thông. 
+Điều 46. Kết nối mạng viễn thông dùng riêng
+1. Mạng viễn thông dùng riêng được kết nối vào mạng viễn thông công cộng trên cơ sở bảo đảm tiêu chuẩn, quy chuẩn kỹ thuật của mạng viễn thông công cộng và tuân thủ các quy định của Luật này về kết nối của mạng viễn thông công cộng.
+2. Việc kết nối mạng viễn thông dùng riêng với mạng viễn thông công cộng được thực hiện thông qua hợp đồng kết nối bằng văn bản giữa doanh nghiệp viễn thông và tổ chức có mạng viễn thông dùng riêng.
+3. Các mạng viễn thông dùng riêng không được kết nối trực tiếp với nhau, trừ trường hợp có sự đồng ý bằng văn bản của Bộ Thông tin và Truyền thông.
+Điều 47. Chia sẻ cơ sở hạ tầng viễn thông 
+1. Chia sẻ cơ sở hạ tầng viễn thông là việc sử dụng chung một phần mạng, công trình, thiết bị viễn thông trong các trường hợp sau:
+a) Chia sẻ cơ sở hạ tầng viễn thông giữa các doanh nghiệp viễn thông nhằm bảo đảm thiết lập mạng và cung cấp dịch vụ viễn thông hiệu quả, thuận lợi, nhanh chóng hoặc bảo đảm yêu cầu về cảnh quan, môi trường và các quy hoạch có liên quan; phục vụ hoạt động viễn thông công ích; phòng, chống thiên tai, tìm kiếm cứu nạn; phòng, chống dịch bệnh;
+b) Chia sẻ cơ sở hạ tầng viễn thông giữa doanh nghiệp viễn thông với các cơ quan, tổ chức trực tiếp phục vụ quốc phòng, an ninh nhằm bảo đảm yêu cầu thực hiện các nhiệm vụ quốc phòng, an ninh; hoạt động phòng, chống thiên tai; tìm kiếm cứu nạn; phòng, chống dịch bệnh.
+2. Việc chia sẻ cơ sở hạ tầng viễn thông được thực hiện thông qua hợp đồng trên cơ sở bảo đảm quyền, lợi ích hợp pháp của các bên có liên quan.
+3. Trường hợp các bên không thoả thuận được về giá chia sẻ cơ sở hạ tầng viễn thông, thực hiện hiệp thương theo pháp luật về giá.
+Trường hợp không thống nhất được đối với các nội dung khác về chia sẻ cơ sở hạ tầng viễn thông thì Cơ quan quản lý nhà nước về viễn thông, cơ quan chuyên môn về viễn thông thuộc Uỷ ban nhân dân cấp tỉnh có thẩm quyền quyết định.
+4. Chính phủ quy định chi tiết việc chia sẻ cơ sở hạ tầng viễn thông.
+Chương VI
+TÀI NGUYÊN VIỄN THÔNG
+Điều 48. Quản lý tài nguyên viễn thông 
+1. Quản lý tài nguyên viễn thông bao gồm quy hoạch, phân bổ, cấp, đăng ký, ấn định, sử dụng, chuyển nhượng quyền sử dụng, thu hồi quyền sử dụng, hoàn trả tài nguyên viễn thông; giải quyết tranh chấp về đăng ký, sử dụng tên miền quốc gia Việt Nam “.vn”.
+2. Việc quản lý tần số vô tuyến điện và quỹ đạo vệ tinh trong hoạt động viễn thông được thực hiện theo các quy định của Luật này và các quy định của pháp luật về tần số vô tuyến điện. 
+3. Việc quản lý tài nguyên viễn thông được thực hiện theo các nguyên tắc sau đây:
+a) Phù hợp với quy hoạch phát triển viễn thông quốc gia;
+b) Bảo đảm tối ưu việc thiết lập mạng và cung cấp dịch vụ viễn thông; 
+c) Bảo đảm công bằng, công khai, minh bạch trong việc cấp, phân bổ tài nguyên viễn thông;
+d) Bảo đảm việc sử dụng tài nguyên viễn thông hiệu quả, tiết kiệm, đúng mục đích;
+đ) Bảo đảm quyền, lợi ích hợp pháp của tổ chức, cá nhân được phân bổ tài nguyên viễn thông và người sử dụng dịch vụ viễn thông.
+4. Chính phủ quy định chi tiết việc quản lý kho số viễn thông, tài nguyên Internet; đấu giá kho số viễn thông, tài nguyên Internet; việc bồi thường khi Nhà nước thu hồi kho số viễn thông, tài nguyên Internet; điều kiện hoạt động, quyền và nghĩa vụ của các tổ chức, doanh nghiệp cung cấp dịch vụ đăng ký, duy trì tên miền.
+Điều 49. Quy hoạch kho số viễn thông, tài nguyên Internet
+1. Việc quy hoạch kho số viễn thông, tài nguyên Internet được thực hiện theo các nguyên tắc sau đây:
+a) Phù hợp với quy hoạch phát triển viễn thông quốc gia;
+b) Bảo đảm cập nhật công nghệ mới, phù hợp với xu thế hội tụ công nghệ, dịch vụ và xu thế phát triển về viễn thông, Internet thế hệ mới;
+c) Bảo đảm tối ưu việc thiết lập mạng và cung cấp dịch vụ viễn thông; 
+d) Bảo đảm việc sử dụng kho số viễn thông, tài nguyên Internet hiệu quả, tiết kiệm, đúng mục đích;
+đ) Bảo đảm có kho số viễn thông, tài nguyên Internet phục vụ lợi ích công cộng, quốc phòng, an ninh;
+e) Phù hợp với quy định về kho số viễn thông, tài nguyên Internet của các tổ chức quốc tế mà nước Cộng hoà xã hội chủ nghĩa Việt Nam là thành viên; 
+g) Bảo đảm quyền, lợi ích hợp pháp của tổ chức, cá nhân sử dụng kho số viễn thông, tài nguyên Internet.
+ 2. Bộ trưởng Bộ Thông tin và Truyền thông phê duyệt quy hoạch kho số viễn thông, quy hoạch tài nguyên Internet.
+Điều 50. Phân bổ, cấp, sử dụng, đăng ký, hoàn trả kho số viễn thông, tài nguyên Internet 
+1. Việc phân bổ, cấp, đăng ký, sử dụng kho số viễn thông, tài nguyên Internet được thực hiện theo các nguyên tắc sau đây:
+a) Phù hợp với quy hoạch kho số viễn thông, tài nguyên Internet; 
+b) Bảo đảm công bằng, công khai, minh bạch trong việc phân bổ kho số viễn thông, tài nguyên Internet;
+c) Bảo đảm sử dụng kho số viễn thông, tài nguyên Internet được phân bổ hiệu quả, tiết kiệm, đúng mục đích;
+d) Ưu tiên phân bổ, cấp  kho số viễn thông, tài nguyên Internet để cung cấp dịch vụ viễn thông, dịch vụ ứng dụng viễn thông cho vùng bãi ngang, ven biển và hải đảo, khu vực biên giới, miền núi, vùng cao, vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn và phục vụ hoạt động viễn thông công ích và hoạt động phục vụ lợi ích công cộng khác; 
+đ) Ưu tiên phân bổ, cấp kho số viễn thông, tài nguyên Internet cho tổ chức có năng lực ứng dụng công nghệ mới, công nghệ tiên tiến, đáp ứng yêu cầu hội tụ công nghệ, dịch vụ.
+2. Việc phân bổ kho số viễn thông được thực hiện theo một trong các phương thức sau đây:
+a) Đấu giá quyền sử dụng kho số viễn thông đối với: mã mạng di động mặt đất, số thuê bao dịch vụ viễn thông di động mặt đất sử dụng cho thuê bao viễn thông là người, số dịch vụ ứng dụng tin nhắn ngắn, số dịch vụ giải đáp thông tin; 
+b) Phân bổ trực tiếp đối với: kho số viễn thông để đảm bảo quy định tại điểm đ khoản 1 Điều 49 của Luật này; kho số viễn thông không thuộc quy định tại điểm a khoản này. Việc phân bổ trực tiếp được thực hiện theo nguyên tắc tổ chức, cá nhân đăng ký trước được xét phân bổ trước.
+       	3. Việc cấp, phân bổ tài nguyên Internet Việt Nam được thực hiện theo một trong các phương thức sau đây: 
+a) Đấu giá quyền sử dụng đối với tên miền quốc gia Việt Nam “.vn” cấp 2 có độ dài 01 hoặc 02 ký tự, trừ tên miền được bảo vệ, tên miền dùng chung theo quy định của Bộ trưởng Bộ Thông tin và Truyền thông;
+b) Cấp trực tiếp đối với tên miền quốc gia Việt Nam “.vn” trừ tên miền cấp quyền sử dụng theo hình thức đấu giá quy định tại điểm a khoản 3 Điều này; địa chỉ Internet, số hiệu mạng cho tổ chức, cá nhân để sử dụng dịch vụ. Việc cấp trực tiếp được thực hiện theo nguyên tắc tổ chức, cá nhân đăng ký trước được xét cấp trước hoặc được quyền sử dụng trước;
+c) Phân bổ trực tiếp đối với địa chỉ Internet, số hiệu mạng cho doanh nghiệp để cung cấp dịch vụ viễn thông.
+4. Đấu giá quyền sử dụng kho số viễn thông được thực hiện như sau:
+a) Kho số viễn thông quy định tại điểm a khoản 2 Điều này được niêm yết trực tuyến trên thị trường để tổ chức, cá nhân lựa chọn mã, số đấu giá;
+b) Trường hợp kho số viễn thông được niêm yết trực tuyến trên thị trường hết thời gian theo quy định của pháp luật mà không có tổ chức, cá nhân lựa chọn mã, số để đấu giá thì phân bổ trực tiếp cho tổ chức, doanh nghiệp đề nghị theo quy định tại điểm b khoản 2 Điều này, nộp phí sử dụng kho số viễn thông theo quy định của pháp luật về phí và lệ phí;
+c) Giá khởi điểm để đấu giá số thuê bao dịch vụ viễn thông di động mặt đất được xác định bằng tổng sản phẩm trong nước (GDP) bình quân đầu người theo giá hiện hành của năm liền kề trước thời điểm đấu giá theo công bố của Tổng Cục Thống kê tính cho một ngày;
+d) Giá khởi điểm để đấu giá mã mạng di động mặt đất, số dịch vụ ứng dụng tin nhắn ngắn, số dịch vụ giải đáp thông tin được đấu giá bằng phí sử dụng 01 năm của mã, số đó. Trường hợp đấu giá mã mạng di động mặt đất, số dịch vụ ứng dụng tin nhắn ngắn, số dịch vụ giải đáp thông tin do tổ chức, doanh nghiệp đề nghị đấu giá thì giá khởi điểm để đấu giá là 05 năm phí sử dụng của mã, số tương ứng;
+đ) Bộ Thông tin và Truyền thông phân bổ mã, số viễn thông trúng đấu giá cho người trúng đấu giá. Các doanh nghiệp cung cấp dịch vụ viễn thông có trách nhiệm thực hiện các thủ tục để người trúng đấu giá sử dụng dịch vụ viễn thông gắn với số thuê bao đã trúng đấu giá. Người trúng đấu giá số thuê bao viễn thông được miễn phí sử dụng kho số viễn thông;
+e) Đối với kho số viễn thông gồm mã mạng di động mặt đất, số viễn thông là số thuê bao di động mặt đất sử dụng cho thuê bao viễn thông là người, số dịch vụ tin nhắn ngắn, số dịch vụ giải đáp thông tin sau 02 lần đấu giá không thành thì được phân bổ trực tiếp cho tổ chức, doanh nghiệp đề nghị theo quy định tại điểm b khoản 2 Điều này, nộp tiền cấp quyền sử dụng bằng phí sử dụng 01 năm của mã, số đó và nộp phí sử dụng kho số viễn thông theo quy định của pháp luật về phí và lệ phí.
+5. Việc đấu giá quyền sử dụng tên miền quốc gia Việt Nam “.vn” được thực hiện như sau:
+a) Giá khởi điểm tên miền quốc gia Việt Nam “.vn” được đấu giá bằng phí sử dụng 01 năm của tên miền đó;
+b) Tổ chức, cá nhân sau khi trúng đấu giá quyền sử dụng tên miền quốc gia Việt Nam “.vn” phải thực hiện thủ tục đăng ký sử dụng tên miền trúng đấu giá và nộp lệ phí đăng ký sử dụng, phí duy trì sử dụng tên miền theo quy định của pháp luật về phí và lệ phí;
+c) Tên miền quốc gia Việt Nam “.vn” sau 02 lần đấu giá không thành thì được cấp trực tiếp theo quy định tại điểm b khoản 3 Điều này, nộp lệ phí đăng ký sử dụng, phí duy trì sử dụng tên miền theo quy định pháp luật về phí và lệ phí.
+6. Trình tự, thủ tục đấu giá kho số viễn thông, tên miền quốc gia Việt Nam “.vn” được thực hiện theo quy định của pháp luật về đấu giá tài sản.
+7. Việc tiếp nhận, xử lý yêu cầu đăng ký và yêu cầu duy trì tên miền quốc gia Việt Nam “.vn” của các tổ chức, cá nhân được thực hiện thông qua các tổ chức, doanh nghiệp tham gia cung cấp dịch vụ đăng ký, duy trì tên miền. 
+8. Doanh nghiệp viễn thông khi hết hạn giấy phép viễn thông mà được cấp lại, gia hạn giấy phép viễn thông thì được tiếp tục khai thác, sử dụng các mã, số viễn thông đã được phân bổ theo quy định về quản lý, sử dụng kho số viễn thông của Luật này.
+9. Tổ chức, cá nhân được phân bổ, cấp kho số viễn thông, tài nguyên Internet có quyền và trách nhiệm sau đây:
+a) Sử dụng, cho thuê, chuyển nhượng, cấp lại kho số viễn thông, tài nguyên Internet được phân bổ theo đúng mục đích, phạm vi, đối tượng theo quyết định phân bổ mã, số viễn thông và quy định về quản lý kho số viễn thông, tài nguyên Internet; 
+b) Được tặng, cho, góp vốn, để thừa kế tên miền quốc gia Việt Nam “.vn” theo quy định pháp luật về dân sự và quy định khác của pháp luật có liên quan; 
+c) Định kỳ hoặc theo yêu cầu báo cáo Bộ Thông tin và Truyền thông về tình hình sử dụng kho số viễn thông, tài nguyên Internet đã được phân bổ; 
+d) Nộp tiền đấu giá trong trường hợp được phân bổ kho số viễn thông, tài nguyên Internet thông qua đấu giá;
+đ) Nộp phí sử dụng mã, số viễn thông; phí duy trì sử dụng tên miền và địa chỉ Internet; lệ phí phân bổ kho số viễn thông, tài nguyên Internet;
+e) Tổ chức, cá nhân không còn nhu cầu sử dụng kho số viễn thông, tài nguyên Internet phải hoàn trả cho cơ quan quản lý kho số viễn thông, đơn vị quản lý tài nguyên Internet.
+Điều 51. Chuyển nhượng quyền sử dụng kho số viễn thông, tài nguyên Internet Việt Nam
+1. Kho số viễn thông, tài nguyên Internet Việt Nam được chuyển nhượng quyền sử dụng bao gồm: 
+a) Kho số viễn thông được Bộ Thông tin và Truyền thông phân bổ cho tổ chức, cá nhân thông qua đấu giá theo quy định tại điểm a khoản 2 Điều 50 của Luật này;
+b) Tên miền quốc gia Việt Nam “.vn”, trừ tên miền được bảo vệ, tên miền dùng chung theo quy định của Bộ trưởng Bộ Thông tin và Truyền thông; tên miền đang bị xử lý vi phạm hoặc đang trong quá trình giải quyết tranh chấp, khiếu nại, tên miền đang bị tạm ngừng sử dụng. 
+2. Việc chuyển nhượng quyền sử dụng kho số viễn thông, tài nguyên Internet Việt Nam được thực hiện khi đáp ứng đủ các điều kiện sau đây:
+a) Tổ chức, cá nhân chuyển nhượng quyền sử dụng kho số viễn thông, tài nguyên Internet Việt Nam phải có quyền sử dụng hợp pháp kho số viễn thông, tài nguyên Internet đó; 
+b) Tổ chức, cá nhân nhận chuyển nhượng quyền sử dụng kho số viễn thông, tài nguyên Internet Việt Nam phải được phép hoạt động hoặc đủ điều kiện đầu tư, khai thác, sử dụng kho số viễn thông, tài nguyên Internet Việt Nam đó.
+3. Các bên tham gia chuyển nhượng quyền sử dụng kho số viễn thông, tài nguyên Internet Việt Nam có trách nhiệm sau đây:
+a) Nộp phí, lệ phí, thuế khi chuyển nhượng theo quy định của pháp luật về thuế, phí và lệ phí;
+b) Bảo đảm quyền, lợi ích hợp pháp của tổ chức, cá nhân có liên quan.
+Điều 52. Giải quyết tranh chấp về đăng ký, sử dụng tên miền quốc gia Việt Nam “.vn”.  
+1. Giải quyết tranh chấp về đăng ký, sử dụng tên miền quốc gia Việt Nam “.vn” được thực hiện thông qua hoà giải, trọng tài, toà án theo quy định của pháp luật.
+2. Căn cứ giải quyết tranh chấp tên miền quốc gia Việt Nam “.vn” bao gồm đủ các yếu tố sau đây: 
+a) Tên miền trùng hoặc tương tự gây nhầm lẫn với tên, nhãn hiệu, chỉ dẫn địa lý, tên thương mại mà bên nguyên đơn có quyền hoặc lợi ích hợp pháp; 
+b) Quyền hoặc lợi ích hợp pháp liên quan đến tên miền của các bên tranh chấp;
+c) Bị đơn đã sử dụng tên miền với dụng ý xấu, lợi dụng uy tín, danh tiếng của nhãn hiệu, tên thương mại, chỉ dẫn địa lý mà bên nguyên đơn có quyền hoặc lợi ích hợp pháp nhằm thu lợi bất chính.
+3. Nguyên đơn khi yêu cầu giải quyết tranh chấp tên miền quốc gia Việt Nam “.vn” phải cung cấp chứng cứ chứng minh các yếu tố quy định tại khoản 2 Điều này.
+4. Chính phủ quy định chi tiết khoản 2 Điều này.
+Điều 53. Thu hồi kho số viễn thông, tài nguyên Internet
+1. Thu hồi kho số viễn thông, tài nguyên Internet là việc cơ quan nhà nước có thẩm quyền quyết định thu lại quyền sử dụng kho số viễn thông, tài nguyên Internet đã phân bổ, cấp cho tổ chức, cá nhân. 
+2. Việc thu hồi kho số viễn thông, tài nguyên Internet được thực hiện trong các trường hợp sau đây:
+a) Thu hồi để sử dụng kho số viễn thông, tài nguyên Internet Việt Nam phục vụ lợi ích công cộng, quốc phòng, an ninh;
+b) Mục đích, đối tượng sử dụng kho số viễn thông, tài nguyên Internet Việt Nam không còn phù hợp với quy hoạch kho số viễn thông, quy hoạch tài nguyên Internet hiện hành;
+c)  Không nộp đủ lệ phí phân bổ kho số viễn thông, phí sử dụng mã, số viễn thông và không khắc phục để nộp đủ trong thời hạn 6 tháng kể từ ngày hết hạn nộp tiền quy định tại pháp luật về phí và lệ phí theo thông báo của cơ quan quản lý nhà nước về viễn thông; 
+d) Không nộp đủ phí duy trì sử dụng tài nguyên Internet Việt Nam trong thời hạn 30 ngày kể từ ngày đến hạn nộp phí duy trì sử dụng quy định tại pháp luật về phí và lệ phí theo thông báo của đơn vị quản lý về tài nguyên Internet;
+đ) Theo yêu cầu thu hồi của cơ quan nhà nước có thẩm quyền khi kho số viễn thông, tài nguyên Internet được sử dụng để thực hiện các hành vi quy định tại Điều 9 của Luật này hoặc các hành vi vi phạm pháp luật khác theo quy định của pháp luật.
+3. Tổ chức, cá nhân bị thu hồi kho số viễn thông, tài nguyên Internet quy định tại khoản 2 Điều này phải ngừng sử dụng kho số viễn thông, tài nguyên Internet theo quyết định thu hồi kho số viễn thông, tài nguyên Internet. 
+4. Nhà nước bồi thường cho tổ chức, cá nhân bị thu hồi kho số viễn thông, tài nguyên Internet quy định tại điểm a và điểm b khoản 2 Điều này theo quy định sau đây: 
+a) Đối với kho số viễn thông, tài nguyên Internet được phân bổ trực tiếp, cấp trực tiếp, mức bồi thường được xác định trên cơ sở mức phí sử dụng kho số viễn thông, phí duy trì sử dụng tài nguyên Internet quy định tại pháp luật về phí và lệ phí;
+b) Đối với kho số viễn thông, tài nguyên Internet được cấp, phân bổ theo phương thức đấu giá quyền sử dụng, mức bồi thường khi thu hồi được xác định bằng số tiền trúng đấu giá.
+Chương VII
+QUẢN LÝ TIÊU CHUẨN, QUY CHUẨN KỸ THUẬT, CHẤT LƯỢNG VÀ GIÁ CƯỚC VIỄN THÔNG
+Điều 54. Tiêu chuẩn, quy chuẩn kỹ thuật viễn thông
+1. Hệ thống tiêu chuẩn viễn thông bao gồm tiêu chuẩn quốc tế, tiêu chuẩn quốc gia và tiêu chuẩn cơ sở đối với thiết bị viễn thông, kết nối viễn thông, công trình viễn thông, chất lượng mạng và dịch vụ viễn thông được công bố, áp dụng tại Việt Nam theo quy định của pháp luật về tiêu chuẩn, quy chuẩn kỹ thuật và pháp luật về chất lượng sản phẩm, hàng hóa.
+2. Hệ thống quy chuẩn kỹ thuật viễn thông bao gồm quy chuẩn kỹ thuật quốc gia đối với thiết bị viễn thông, kết nối viễn thông, công trình viễn thông, chất lượng mạng và dịch vụ viễn thông được xây dựng, ban hành tại Việt Nam theo quy định của pháp luật về tiêu chuẩn, quy chuẩn kỹ thuật và pháp luật về chất lượng sản phẩm, hàng hóa.
+Điều 55. Quản lý tiêu chuẩn, quy chuẩn kỹ thuật viễn thông, chất lượng mạng và dịch vụ viễn thông
+1. Cơ quan, tổ chức, cá nhân trước khi đưa thiết bị đầu cuối thuộc Danh mục thiết bị viễn thông có khả năng gây mất an toàn vào lưu thông trên thị trường hoặc kết nối vào mạng viễn thông công cộng phải thực hiện việc chứng nhận hợp quy, công bố hợp quy và sử dụng dấu hợp quy.
+2. Doanh nghiệp viễn thông trước khi đưa các thiết bị mạng thuộc Danh mục thiết bị viễn thông bắt buộc kiểm định vào hoạt động phải thực hiện việc kiểm định.
+3. Doanh nghiệp viễn thông có trách nhiệm công bố, kiểm tra, kiểm soát chất lượng mạng và dịch vụ viễn thông thuộc Danh mục mạng và dịch vụ viễn thông bắt buộc quản lý chất lượng. 
+4. Việc thừa nhận lẫn nhau về kết quả đánh giá sự phù hợp với tiêu chuẩn, quy chuẩn kỹ thuật viễn thông giữa Việt Nam với quốc gia, vùng lãnh thổ được thực hiện theo điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên; giữa tổ chức đánh giá sự phù hợp của Việt Nam với tổ chức đánh giá sự phù hợp của quốc gia, vùng lãnh thổ được thực hiện theo thoả thuận giữa các bên.
+5. Việc xây dựng, thẩm định và công bố tiêu chuẩn quốc gia về viễn thông được thực hiện theo quy định của pháp luật về tiêu chuẩn, quy chuẩn kỹ thuật.
+6. Bộ Thông tin và Truyền thông có trách nhiệm sau đây:
+a) Ban hành quy chuẩn kỹ thuật quốc gia, quy định đánh giá sự phù hợp với quy chuẩn kỹ thuật về thiết bị viễn thông, mạng và dịch vụ viễn thông; 
+b) Thực hiện quản lý chất lượng mạng và dịch vụ viễn thông;
+c) Ban hành Danh mục thiết bị viễn thông có khả năng gây mất an toàn, Danh mục thiết bị viễn thông bắt buộc kiểm định, Danh mục mạng và dịch vụ viễn thông bắt buộc quản lý chất lượng;
+d) Quản lý hoạt động của tổ chức đánh giá sự phù hợp tiêu chuẩn, quy chuẩn kỹ thuật viễn thông phục vụ yêu cầu quản lý chất lượng thiết bị, mạng và dịch vụ viễn thông. 
+7. Cơ quan quản lý nhà nước về viễn thông và cơ quan chuyên môn về viễn thông thuộc Ủy ban nhân dân cấp tỉnh thực hiện thanh tra, ﻿kiểm tra chất lượng thiết bị, mạng, dịch vụ viễn thông, chất lượng sản phẩm, hàng hóa trên địa bàn quản lý theo quy định của Bộ quản lý ngành, lĩnh vực.
+Điều 56. Giá cước viễn thông 
+1. Giá cước viễn thông gồm giá cước áp dụng đối với người sử dụng dịch vụ viễn thông và giá cước giữa các doanh nghiệp viễn thông.
+2. Giá cước áp dụng đối với người sử dụng dịch vụ viễn thông là giá cước người sử dụng dịch vụ viễn thông thanh toán cho doanh nghiệp viễn thông khi sử dụng dịch vụ viễn thông do doanh nghiệp viễn thông cung cấp, được gọi là giá cước bán lẻ.
+3. Giá cước giữa các doanh nghiệp viễn thông bao gồm:
+a) Giá cước bán buôn là giá cước thanh toán giữa các doanh nghiệp viễn thông khi doanh nghiệp này mua lại dịch vụ hoặc thuê mạng viễn thông của doanh nghiệp khác để cung cấp dịch vụ viễn thông; 
+b) Giá cước kết nối là giá cước thanh toán giữa các doanh nghiệp viễn thông khi doanh nghiệp này sử dụng mạng của doanh nghiệp khác để kết cuối dịch vụ viễn thông.
+Điều 57. Nguyên tắc quản lý và điều tiết giá cước viễn thông 
+1. Bảo đảm bù đắp chi phí sản xuất, kinh doanh dịch vụ viễn thông phù hợp với quy định khoản 1, khoản 2 Điều 58 của Luật này.
+2. Hài hòa lợi ích của Nhà nước, quyền và lợi ích hợp pháp của doanh nghiệp viễn thông, người sử dụng dịch vụ viễn thông.
+3. Rà soát các yếu tố hình thành giá để điều chỉnh giá dịch vụ viễn thông trong trường hợp cần thiết. Việc điều chỉnh giá dịch vụ viễn thông bảo đảm phù hợp với các căn cứ xác định giá quy định tại Điều 58 của Luật này.
+4. Tôn trọng quyền tự xác định và cạnh tranh về giá cước viễn thông của doanh nghiệp viễn thông.
+5. Phù hợp với điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên.
+6. Bảo đảm môi trường cạnh tranh lành mạnh trong hoạt động viễn thông.
+7. Bình đẳng, không phân biệt trong quản lý và quy định giá cước viễn thông.
+8. Không lấy lợi nhuận từ dịch vụ viễn thông này để hỗ trợ cho việc kinh doanh dịch vụ viễn thông khác của chính doanh nghiệp đó.
+Điều 58. Căn cứ xác định giá cước viễn thông
+Giá cước viễn thông được xác định trên cơ sở các căn cứ sau đây:
+1. Yếu tố hình thành giá dịch vụ viễn thông tại thời điểm định giá. 
+2. Quan hệ cung - cầu của dịch vụ viễn thông. 
+3. Khả năng chi trả của người sử dụng dịch vụ đối với trường hợp do Nhà nước định giá.
+Điều 59. Thẩm quyền, trách nhiệm quản lý giá cước viễn thông 
+1. Bộ Thông tin và Truyền thông có các trách nhiệm sau đây:
+a) Quy định về quản lý giá cước viễn thông; quyết định giá cước viễn thông đối với các dịch vụ thuộc Danh mục dịch vụ do Nhà nước định giá theo quy định tại Luật Giá;
+b) Quy định hướng dẫn phương pháp xác định giá cước các dịch vụ viễn thông sau khi thống nhất với Bộ Tài chính;
+c) Chỉ đạo và hướng dẫn thực hiện chế độ báo cáo, kế toán, kiểm toán phục vụ hoạt động quản lý giá cước viễn thông;
+d) Tổ chức thực hiện kê khai giá cước viễn thông theo quy định của pháp luật về giá;
+đ) Chủ động phối hợp với Bộ Công Thương thực hiện quản lý cạnh tranh trong lĩnh vực viễn thông theo quy định của pháp luật về cạnh tranh, quản lý hoạt động khuyến mại trong cung cấp dịch vụ viễn thông. 
+2. Cơ quan quản lý nhà nước về viễn thông có trách nhiệm kiểm soát, đình chỉ áp dụng giá cước viễn thông khi doanh nghiệp viễn thông áp đặt, tăng giá hoặc hạ giá cước viễn thông gây mất ổn định thị trường viễn thông, làm thiệt hại đến quyền, lợi ích hợp pháp của người sử dụng dịch vụ viễn thông, doanh nghiệp viễn thông khác và của Nhà nước. 
+3. Doanh nghiệp viễn thông có các trách nhiệm sau đây: 
+a) Quyết định giá cước dịch vụ viễn thông do doanh nghiệp cung cấp, trừ dịch vụ thuộc danh mục giá cước viễn thông do Nhà nước quy định thực hiện theo quy định tại Luật Giá;
+b) Trình Bộ Thông tin và Truyền thông phương án giá cước dịch vụ viễn thông do Nhà nước định giá;
+c) Thực hiện phương pháp xác định giá cước viễn thông và các quy định quản lý giá cước viễn thông theo quy định của Bộ Thông tin và Truyền thông;
+d) Hạch toán chi phí, xác định giá thành dịch vụ viễn thông theo đúng quy định;
+đ) Thực hiện chế độ báo cáo, kế toán, kiểm toán phục vụ hoạt động quản lý giá cước viễn thông;
+e) Thực hiện kê khai, niêm yết giá cước viễn thông theo quy định của pháp luật về giá;
+g) Không được áp đặt, tăng hoặc hạ giá cước viễn thông gây mất ổn định thị trường, làm thiệt hại đến quyền, lợi ích hợp pháp của người sử dụng dịch vụ viễn thông, doanh nghiệp viễn thông khác và Nhà nước.
+Điều 60. Lập hoá đơn và thanh toán giá cước dịch vụ viễn thông
+1. Doanh nghiệp viễn thông có trách nhiệm lập hoá đơn thanh toán giá cước dịch vụ chính xác, đầy đủ, kịp thời cho người sử dụng dịch vụ viễn thông thanh toán theo hình thức trả sau. Người sử dụng dịch vụ viễn thông có trách nhiệm thanh toán đầy đủ, kịp thời giá cước dịch vụ viễn thông do doanh nghiệp viễn thông cung cấp theo hóa đơn thanh toán.
+2. Doanh nghiệp viễn thông có trách nhiệm khấu trừ chính xác số tiền mà người sử dụng dịch vụ viễn thông phải thanh toán theo giá cước quy định đối với dịch vụ viễn thông thanh toán theo hình thức trả trước.
+3. Hoá đơn thanh toán giá cước dịch vụ viễn thông phải đảm bảo theo quy định của pháp luật về hóa đơn và thể hiện đầy đủ, chính xác, rõ ràng các nội dung sau đây:
+a) Giá cước và số tiền phải thanh toán đối với từng loại dịch vụ viễn thông;
+b) Tổng số tiền phải thanh toán;
+c) Thuế giá trị gia tăng (nếu có).
+4. Trong trường hợp lập hoá đơn thanh toán giá cước dịch vụ viễn thông hằng tháng theo hợp đồng, doanh nghiệp viễn thông có trách nhiệm cung cấp hoặc thuê tổ chức khác cung cấp cho thuê bao viễn thông thông tin chi tiết cước miễn phí một lần khi khách hàng có yêu cầu hoặc cung cấp các biện pháp kỹ thuật hỗ trợ người sử dụng, cơ quan nhà nước có thẩm quyền truy vấn thông tin thời gian thực về việc trừ cước dịch vụ viễn thông, ưu tiên theo hình thức trực tuyến. 
+Điều 61. Quản lý thẻ trả trước dịch vụ viễn thông di động và tài khoản SIM thuê bao di động
+1. Thẻ trả trước dịch vụ viễn thông di động là thẻ do doanh nghiệp viễn thông phát hành để người sử dụng nạp giá trị vào tài khoản SIM thuê bao di động của chính doanh nghiệp viễn thông đó. 
+2. Tài khoản SIM thuê bao di động là tài khoản phản ánh giá trị người sử dụng đã nạp bằng thẻ trả trước dịch vụ viễn thông hoặc bằng phương tiện thanh toán hợp pháp (không bao gồm khuyến mại); được ghi nhận trong hệ thống tính cước của doanh nghiệp viễn thông, gắn với thuê bao viễn thông. 
+3. Tài khoản SIM thuê bao di động được dùng để thanh toán cho dịch vụ viễn thông di động, dịch vụ nội dung thông tin trên mạng viễn thông di động theo quy định pháp luật có liên quan.
+4. Chính phủ quy định chi tiết việc quản lý thẻ trả trước dịch vụ viễn thông di động và tài khoản SIM thuê bao di động.
+Điều 62. Hoàn trả giá cước và bồi thường thiệt hại
+1. Doanh nghiệp viễn thông cung cấp dịch vụ không đúng thời gian và chất lượng theo hợp đồng đã giao kết với người sử dụng dịch vụ viễn thông thì phải hoàn trả một phần hoặc toàn bộ giá cước đã thu.
+2. Doanh nghiệp viễn thông không phải bồi thường thiệt hại gián tiếp hoặc nguồn lợi không thu được do cung cấp dịch vụ viễn thông không bảo đảm thời gian và chất lượng.
+3. Trong việc cung cấp, sử dụng dịch vụ viễn thông, các bên giao kết hợp đồng sử dụng dịch vụ viễn thông có trách nhiệm bồi thường thiệt hại vật chất trực tiếp do lỗi của mình gây ra cho phía bên kia trừ trường hợp bất khả kháng.
+Chương VIII
+CÔNG TRÌNH VIỄN THÔNG
+Điều 63. Quy hoạch hạ tầng kỹ thuật viễn thông thụ động 
+1. Quy hoạch hạ tầng kỹ thuật viễn thông thụ động ở địa phương là quy hoạch có tính chất kỹ thuật, chuyên ngành, cụ thể hóa quy hoạch tỉnh, phù hợp với quy hoạch hạ tầng thông tin và truyền thông quốc gia.
+2. Quy hoạch hạ tầng kỹ thuật viễn thông thụ động ở địa phương là một nội dung trong quy hoạch xây dựng đô thị và quy hoạch chi tiết xây dựng điểm dân cư nông thôn theo quy định của Luật Xây dựng và Luật Quy hoạch đô thị.
+3. Quy hoạch xây dựng công trình giao thông, khu đô thị, khu dân cư, khu chức năng, cụm công nghiệp quy định tại Luật Xây dựng và pháp luật có liên quan phải có nội dung quy hoạch về hạ tầng kỹ thuật viễn thông thụ động để bảo đảm tính thống nhất đồng bộ trong đầu tư xây dựng và thuận tiện cho việc thiết lập cơ sở hạ tầng viễn thông, cung cấp, sử dụng dịch vụ viễn thông.
+ 4. Chính phủ quy định chi tiết việc lập, thẩm định, phê duyệt, công bố, cung cấp thông tin, thực hiện, đánh giá và điều chỉnh quy hoạch hạ tầng kỹ thuật viễn thông thụ động ở địa phương.
+Điều 64. Đất sử dụng cho công trình viễn thông 
+1. Căn cứ quy hoạch hạ tầng thông tin và truyền thông quốc gia, quy hoạch hạ tầng kỹ thuật viễn thông thụ động và quy hoạch, kế hoạch sử dụng đất đã được cơ quan nhà nước có thẩm quyền phê duyệt, Ủy ban nhân dân cấp có thẩm quyền có trách nhiệm giao đất cho việc xây dựng công trình viễn thông vì lợi ích quốc gia, công cộng trên địa bàn.
+2. Ủy ban nhân dân các cấp trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm chủ trì, phối hợp với chủ đầu tư dự án công trình viễn thông xây dựng vì lợi ích quốc gia, công cộng trong việc thực hiện giải phóng mặt bằng; bồi thường thiệt hại về đất đai, tài sản; bảo vệ diện tích đất dành cho dự án công trình viễn thông quy định tại khoản 1 Điều này và quy định khác của pháp luật có liên quan.
+Điều 65. Thiết kế, xây dựng, lắp đặt công trình viễn thông 
+1. Việc thiết kế, xây dựng, lắp đặt công trình viễn thông phải phù hợp quy hoạch hạ tầng kỹ thuật viễn thông thụ động, tuân thủ quy chuẩn kỹ thuật về xây dựng, quy chuẩn kỹ thuật viễn thông và các quy định khác của pháp luật có liên quan.	
+2. Hệ thống công trình hạ tầng kỹ thuật bao gồm công trình giao thông, cột điện, đường điện, tuyến cấp nước, thoát nước, chiếu sáng công cộng và các công trình hạ tầng kỹ thuật khác phải được thiết kế, xây dựng tuân thủ quy chuẩn kỹ thuật để bảo đảm việc lắp đặt, bảo vệ đường truyền dẫn, công trình viễn thông.
+Hạ tầng kỹ thuật viễn thông thụ động là nội dung phải có khi thiết kế cơ sở hệ thống công trình hạ tầng kỹ thuật theo quy chuẩn kỹ thuật có liên quan.
+ Chủ đầu tư công trình hạ tầng kỹ thuật có trách nhiệm gửi thông tin về dự án xây dựng công trình hạ tầng kỹ thuật cho Cơ quan quản lý nhà nước về viễn thông hoặc Cơ quan chuyên môn về viễn thông thuộc Uỷ ban nhân dân cấp tỉnh để thông báo cho các doanh nghiệp viễn thông đăng ký tham gia sử dụng chung công trình hạ tầng kỹ thuật của chủ đầu tư.
+3. Công trình viễn thông được xây dựng, lắp đặt trên trụ sở làm việc, cơ sở hoạt động sự nghiệp, đất, tài sản của lực lượng vũ trang và tài sản kết cấu hạ tầng phục vụ lợi ích quốc gia, lợi ích công cộng được quy định tại Luật Quản lý, sử dụng tài sản công bảo đảm các nguyên tắc sau: 
+a) Tuân thủ quy định tại khoản 1 Điều này;
+b) Không làm ảnh hưởng đến hoạt động của cơ quan, tổ chức quản lý, sử dụng tài sản công, đến công năng sử dụng của tài sản công mà công trình viễn thông được lắp đặt;
+c) Bảo đảm tính khả thi về kỹ thuật; cảnh quan, môi trường, an toàn, an ninh.
+4. Việc xây dựng, lắp đặt công trình viễn thông trên tài sản công được thực hiện thông qua thoả thuận giữa doanh nghiệp lắp đặt công trình viễn thông và cơ quan, tổ chức, đơn vị được giao quản lý, sử dụng tài sản công trên cơ sở bảo đảm các nguyên tắc quy định tại khoản 3 Điều này. Số tiền thu được từ thoả thuận lắp đặt công trình viễn thông trên tài sản công được quản lý và sử dụng theo quy định pháp luật về quản lý, sử dụng tài sản công.
+5. Doanh nghiệp lắp đặt công trình viễn thông tại các địa điểm quy định tại khoản 3 Điều này có trách nhiệm bảo quản, bảo trì công trình viễn thông.
+6. Chủ đầu tư xây dựng nhà chung cư, công trình xây dựng công cộng, khu chức năng, cụm công nghiệp quy định tại pháp luật về nhà ở, pháp luật về xây dựng có trách nhiệm:
+a) Có phương án thiết kế xây dựng hạ tầng kỹ thuật viễn thông thụ động phù hợp với quy chuẩn kỹ thuật để bảo đảm tính thống nhất, đồng bộ trong đầu tư xây dựng và thuận tiện cho việc thiết lập cơ sở hạ tầng viễn thông và cung cấp, sử dụng dịch vụ viễn thông;
+b) Thiết kế, lắp đặt hệ thống mạng cáp viễn thông trong nhà chung cư, công trình xây dựng công cộng. Giá thuê sử dụng mạng cáp trong tòa nhà được xác định trên cơ sở giá thành lắp đặt mạng cáp viễn thông trong tòa nhà;
+c) Bố trí mặt bằng để doanh nghiệp viễn thông lắp đặt cột ăng ten trên nóc toà nhà, hệ thống thu phát sóng di động trong nhà chung cư, công trình xây dựng công cộng nếu việc lắp đặt là khả thi về kỹ thuật; 
+d) Bố trí mặt bằng để doanh nghiệp viễn thông xây dựng hạ tầng kỹ thuật viễn thông thụ động, lắp đặt thiết bị viễn thông trong khu chức năng. 
+7. Việc thiết kế, xây dựng, lắp đặt hạ tầng kỹ thuật viễn thông thụ động, thiết bị viễn thông quy định tại khoản 6 Điều này phải đảm bảo việc cung cấp dịch vụ của tối thiểu 02 doanh nghiệp viễn thông cho người sử dụng trong nhà chung cư, công trình xây dựng công cộng, khu chức năng. 
+8. Tổ chức quản lý, vận hành nhà chung cư, công trình xây dựng công cộng, khu chức năng, cụm công nghiệp có trách nhiệm tạo thuận lợi cho doanh nghiệp viễn thông xây dựng, lắp đặt, sử dụng hạ tầng kỹ thuật viễn thông thụ động, hệ thống thu phát sóng di động, mạng cáp viễn thông trong nhà chung cư, công trình xây dựng công cộng, khu chức năng, cụm công nghiệp theo quy định tại khoản 6 và khoản 7 Điều này.
+9. Tổ chức, cá nhân trước khi xây dựng hạ tầng kỹ thuật viễn thông thụ động phải thông báo cho cơ quan chuyên môn về viễn thông thuộc Ủy ban nhân dân cấp tỉnh.
+10. Quy chuẩn kỹ thuật về công trình xây dựng do Bộ trưởng Bộ Xây dựng, Bộ trưởng Bộ quản lý công trình xây dựng chuyên ngành ban hành phải có ý kiến thống nhất của Bộ Thông tin và Truyền thông về nội dung xây dựng, lắp đặt hệ thống mạng cáp viễn thông, hệ thống thu phát sóng vô tuyến điện, điểm truy nhập trong công trình xây dựng.
+11. Chính phủ quy định chi tiết Điều này.
+Điều 66. Sử dụng chung hệ thống công trình hạ tầng kỹ thuật
+1. Việc sử dụng chung công trình hạ tầng kỹ thuật giao thông, cung cấp năng lượng, chiếu sáng công cộng, cấp nước, thu gom và xử lý nước thải, viễn thông và các công trình hạ tầng kỹ thuật khác được thực hiện theo nguyên tắc hiệu quả, tiết kiệm, bảo đảm cảnh quan, môi trường, phù hợp với quy hoạch đô thị và quy hoạch có liên quan được cơ quan có thẩm quyền quyết định hoặc phê duyệt.
+2. Việc sử dụng chung hệ thống công trình hạ tầng kỹ thuật thực hiện theo quy định của Chính phủ.
+Điều 67. Quản lý công trình viễn thông
+1. Bộ Thông tin và Truyền thông có trách nhiệm:
+a) Trình Chính phủ quy định hướng dẫn việc lập quy hoạch, thiết kế, thi công hạ tầng kỹ thuật viễn thông thụ động kết hợp với công trình hạ tầng kỹ thuật giao thông, xây dựng, cung cấp năng lượng, chiếu sáng công cộng, cấp nước, thoát nước và các công trình hạ tầng kỹ thuật khác theo quy định tại Điều 63 và Điều 66 Luật này sau khi thống nhất với Bộ Xây dựng, Bộ Giao thông vận tải, Bộ Công Thương; 
+b) Hướng dẫn Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương xây dựng quy hoạch hạ tầng kỹ thuật viễn thông thụ động tại địa phương;
+c) Hướng dẫn việc sử dụng chung hạ tầng kỹ thuật viễn thông thụ động giữa các doanh nghiệp viễn thông;
+d)  Hướng dẫn cơ chế, nguyên tắc kiểm soát giá, phương pháp xác định và quản lý giá thuê sử dụng mạng cáp trong toà nhà, giá thuê công trình hạ tầng kỹ thuật dùng chung giữa các doanh nghiệp viễn thông, tổ chức, cá nhân sở hữu công trình viễn thông sau khi thống nhất với Bộ Tài chính, Bộ Xây dựng.
+2. Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương có trách nhiệm sau đây:
+a) Phê duyệt quy hoạch hạ tầng kỹ thuật viễn thông thụ động tại địa phương theo quy định của Bộ Thông tin và Truyền thông; công bố, hướng dẫn, theo dõi, kiểm tra việc thực hiện quy hoạch hạ tầng kỹ thuật viễn thông thụ động tại địa phương;
+b) Tổ chức việc sử dụng chung cơ sở hạ tầng kỹ thuật giữa các ngành viễn thông, điện lực, giao thông, cấp nước, thoát nước và các ngành khác tại địa phương. 
+3. Tổ chức, cá nhân có trách nhiệm tuân thủ các quy định về quy hoạch, thiết kế, xây dựng và sử dụng chung cơ sở hạ tầng kỹ thuật giao thông, xây dựng, cung cấp năng lượng, chiếu sáng công cộng, cấp nước, thoát nước, viễn thông và các công trình hạ tầng kỹ thuật khác.
+Chương IX
+QUẢN LÝ NHÀ NƯỚC VỀ VIỄN THÔNG
+Điều 68. Nội dung quản lý nhà nước về viễn thông 
+1. Xây dựng, ban hành, tổ chức thực hiện chiến lược, quy hoạch và chính sách phát triển viễn thông; văn bản quy phạm pháp luật về viễn thông; văn bản quy định để tổ chức triển khai thử nghiệm có kiểm soát công nghệ mới, mô hình mới trong hoạt động viễn thông; tiêu chuẩn, quy chuẩn kỹ thuật, yêu cầu kỹ thuật, định mức kinh tế - kỹ thuật về viễn thông.
+2. Phổ biến, giáo dục, hướng dẫn và tổ chức thực hiện các quy định của pháp luật về viễn thông.
+3. Đào tạo, bồi dưỡng, phát triển nguồn nhân lực; nghiên cứu, ứng dụng khoa học và công nghệ trong hoạt động viễn thông.
+4. Thanh tra, kiểm tra việc thực hiện các quy định của pháp luật về viễn thông.
+5. Giải quyết tranh chấp, khiếu nại, tố cáo, xử lý vi phạm pháp luật về viễn thông.
+6. Quản lý, điều tiết thị trường viễn thông; quản lý kinh doanh dịch vụ viễn thông và nghiệp vụ viễn thông.
+7. Quản lý công tác báo cáo, thống kê về viễn thông theo hình thức trực tuyến, trực tiếp. 
+8. Hợp tác quốc tế về viễn thông.
+Điều 69. Trách nhiệm quản lý nhà nước về viễn thông 
+1. Chính phủ thống nhất quản lý nhà nước về viễn thông 
+2. Bộ Thông tin và Truyền thông chịu trách nhiệm trước Chính phủ trong chủ trì, phối hợp với các Bộ, cơ quan ngang Bộ thực hiện quản lý nhà nước về viễn thông.
+3. Bộ Thông tin và Truyền thông ban hành tiêu chí xác định và công bố danh mục doanh nghiệp viễn thông nắm giữ phương tiện thiết yếu theo từng thời kỳ.
+4. Bộ Quốc phòng, Bộ Công an trong phạm vi nhiệm vụ, quyền hạn của mình thực hiện quản lý mạng viễn thông dùng riêng phục vụ quốc phòng, an ninh.
+5. Bộ, cơ quan ngang Bộ trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm phối hợp với Bộ Thông tin và Truyền thông thực hiện quản lý nhà nước về viễn thông. 
+6. Ủy ban nhân dân các cấp trong phạm vi nhiệm vụ, quyền hạn của mình thực hiện quản lý nhà nước về viễn thông tại địa phương.
+Điều 70. Hợp tác quốc tế về viễn thông
+1. Hợp tác quốc tế về viễn thông thực hiện trên nguyên tắc tôn trọng độc lập, chủ quyền, toàn vẹn lãnh thổ, bình đẳng và cùng có lợi.
+2. Tuân thủ các điều ước quốc tế về viễn thông mà nước Cộng hoà xã hội chủ nghĩa Việt Nam là thành viên. 
+3. Việt Nam cam kết là thành viên tích cực, có trách nhiệm trong các tổ chức quốc tế về viễn thông.
+4. Ưu tiên xem xét ký kết các điều ước quốc tế, thỏa thuận quốc tế có lợi cho việc thúc đẩy phát triển công nghệ mới, công nghệ tiên tiến trong lĩnh vực viễn thông, phù hợp với lợi ích và năng lực của Việt Nam. 
+5. Khuyến khích hợp tác và hỗ trợ quốc tế cho công tác quản lý nhà nước, đào tạo nguồn nhân lực, chia sẻ thông tin, kinh nghiệm, nghiên cứu, phát triển các công nghệ, tiêu chuẩn, ứng dụng về Internet thế hệ mới, công nghệ mạng viễn thông thế hệ tiếp theo. 
+6. Bộ Thông tin và Truyền thông là cơ quan đầu mối tổng hợp các hoạt động hội nhập và hợp tác quốc tế về lĩnh vực viễn thông, Internet. Bộ, cơ quan ngang Bộ, Ủy ban nhân dân các cấp tổ chức thực hiện hợp tác quốc tế về viễn thông, Internet trong phạm vi quản lý.
+Chương X
+ĐIỀU KHOẢN THI HÀNH
+Điều 71. Sửa đổi, bổ sung, thay thế, bãi bỏ một số điều của các luật có liên quan
+1. Thay cụm từ “Giấy phép thiết lập mạng viễn thông” bằng cụm từ “Giấy phép cung cấp dịch vụ viễn thông có hạ tầng mạng” tại Luật Tần số vô tuyến điện số 42/2009/QH12 đã được sửa đổi bổ sung một số điều theo Luật số 09/2022/QH15.
+2. Thay cụm từ “tài nguyên Internet” tại khoản 7 Điều 4 của Luật Quản lý, sử dụng tài sản công số 15/2017/QH14 đã được sửa đổi, bổ sung một số điều theo Luật số 64/2020/QH14, Luật số 07/2022/QH15 bằng cụm từ “tài nguyên Internet Việt Nam”.  
+3. Bãi bỏ Điều 76 của Luật Công nghệ thông tin số 67/2006/QH11 đã được sửa đổi, bổ sung một số điều theo Luật số 21/2017/QH14 và Luật 20/2023/QH15.
+Điều 72. Hiệu lực thi hành
+1. Luật Viễn thông này có hiệu lực thi hành từ ngày 01 tháng 07 năm 2024, trừ quy định tại khoản 3 Điều này và khoản 1 Điều 73 của Luật này. 
+2. Luật Viễn thông số 41/2009/QH12 đã được sửa đổi, bổ sung một số điều theo Luật số 21/2017/QH14, Luật số 23/2018/QH14 hết hiệu lực kể từ ngày Luật này có hiệu lực thi hành.
+3. Quy định về cung cấp dịch vụ trung tâm dữ liệu, dịch vụ điện toán đám mây, dịch vụ viễn thông cơ bản trên Internet tại Điều 28, Điều 29 của Luật này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2025.
+Điều 73. Quy định chuyển tiếp
+1. Trong thời hạn 02 năm kể từ ngày Luật này có hiệu lực thi hành, doanh nghiệp đã được cấp giấy phép thiết lập mạng viễn thông công cộng, giấy phép cung cấp dịch vụ viễn thông theo quy định của Luật Viễn thông số 41/2009/QH12 phải làm thủ tục cấp đổi giấy phép. 
+2. Chính phủ quy định chi tiết Điều này.
+Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XV, kỳ họp thứ 6 thông qua ngày ... tháng 11 năm 2023.
+CHỦ TỊCH QUỐC HỘI
+      Vương Đình Huệ
+QUỐC HỘI
+
+Số:       /2023/QH15	CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc

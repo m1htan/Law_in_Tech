@@ -1,0 +1,157 @@
+TỜ TRÌNH
+Dự thảo Luật sửa đổi, bổ sung một số điều của Luật Thống kê số 89/2015/QH13 và Luật số 01/2021/QH15 sửa đổi, bổ sung một số điều và Phụ lục Danh mục chỉ tiêu thống kê quốc gia của Luật Thống kê
+____________
+Kính gửi: Chính phủ
+Thực hiện quy định của Luật Ban hành văn bản quy phạm pháp luật, Bộ Tài chính kính trình Chính phủ dự thảo Luật sửa đổi, bổ sung một số điều của Luật Thống kê số 89/2015/QH13 và Luật số 01/2021/QH15 sửa đổi, bổ sung một số điều và Phụ lục Danh mục chỉ tiêu thống kê quốc gia của Luật Thống kê (sau đây viết gọn là dự thảo Luật) như sau:
+I. SỰ CẦN THIẾT XÂY DỰNG LUẬT
+1. Cơ sở chính trị, pháp lý
+1.1. Cơ sở chính trị
+- Nghị quyết số 158/2024/QH15 ngày 12/11/2024 của Quốc hội về kế hoạch phát triển kinh tế - xã hội năm 2025 quy định: “Có giải pháp mạnh mẽ, quyết liệt để tháo gỡ thể chế, khắc phục điểm nghẽn; đẩy mạnh hơn nữa việc rà soát, bổ sung, hoàn thiện thể chế, pháp luật, cơ chế, chính sách gắn với nâng cao hiệu lực, hiệu quả tổ chức thực hiện pháp luật; tập trung cắt giảm, đơn giản hóa thủ tục hành chính, quy định kinh doanh, tạo thuận lợi, tiết giảm chi phí cho người dân, doanh nghiệp” và “Đổi mới tư duy trong xây dựng pháp luật theo hướng vừa bảo đảm yêu cầu quản lý nhà nước vừa khuyến khích sáng tạo, giải phóng toàn bộ sức sản xuất, khơi thông mọi nguồn lực” (khoản 3.1 Điều 3).
+- Nghị quyết số 57-NQ/TW ngày 22/12/2024 của Bộ Chính trị về đột phá phát triển khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số quốc gia.
+- Nghị quyết số 66-NQ/TW ngày 30/4/2025 của Bộ Chính trị về đổi mới công tác xây dựng và thi hành pháp luật đáp ứng yêu cầu phát triển đất nước trong kỷ nguyên mới quy định: “Khẩn trương sửa đổi, bổ sung các văn bản pháp luật đáp ứng yêu cầu thực hiện chủ trương tinh gọn tổ chức bộ máy của hệ thống chính trị, sắp xếp đơn vị hành chính, gắn với phân cấp, phân quyền tối đa theo phương châm “địa phương quyết, địa phương làm, địa phương chịu trách nhiệm” và việc cơ cấu lại không gian phát triển mới ở từng địa bàn” (khoản 2 mục III).
+- Nghị quyết Hội nghị lần thứ 6 Ban Chấp hành Trung ương khóa XII số 18-NQ/TW ngày 25/10/2017 về một số vấn đề về tiếp tục đổi mới, sắp xếp tổ chức bộ máy của hệ thống chính trị tinh gọn, hoạt động hiệu lực, hiệu quả (sau đây viết gọn là Nghị quyết số 18-NQ/TW).
+- Nghị quyết số 190/2025/QH15 ngày 19/02/2025 của Quốc hội quy định xử lý một số vấn đề liên quan đến sắp xếp tổ chức bộ máy nhà nước quy định: “Cơ quan, người có thẩm quyền phải ban hành văn bản quy phạm pháp luật theo thẩm quyền hoặc trình cấp có thẩm quyền ban hành văn bản quy phạm pháp luật theo trình tự, thủ tục rút gọn để xử lý các văn bản chịu sự tác động do sắp xếp tổ chức bộ máy nhà nước, bảo đảm hoàn thành trước ngày 01/3/2027” (khoản 2 Điều 11).
+- Kết luận số 134-KL/TW ngày 28/3/2025 của Bộ Chính trị, Ban Bí thư về Đề án sắp xếp hệ thống cơ quan thanh tra tinh, gọn, mạnh, hiệu năng, hiệu lực, hiệu quả quy định: “Kết thúc hoạt động của Thanh tra các bộ để sắp xếp, tổ chức lại thành các cục thanh tra, giải quyết khiếu nại, tố cáo, phòng, chống tham nhũng, lãng phí, tiêu cực theo lĩnh vực thuộc Thanh tra Chính phủ”. Do đó, các quy định về thanh tra thống kê trong Luật Thống kê không còn phù hợp với chức năng, nhiệm vụ của cơ quan thống kê quốc gia sau khi sắp xếp lại tổ chức bộ máy.
+1.2. Cơ sở pháp lý
+- Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam đã được sửa đổi, bổ sung một số điều theo Nghị quyết số 203/2025/QH15.
+- Luật Ban hành văn bản quy phạm pháp luật.
+- Nghị định số 130/2025/NĐ-CP ngày 11/6/2025 của Chính phủ quy định về phân quyền, phân cấp trong lĩnh vực thống kê.
+- Quyết định số 06/QĐ-TTg ngày 06/01/2022 của Thủ tướng Chính phủ phê duyệt Đề án phát triển ứng dụng dữ liệu về dân cư, định danh và xác thực điện tử phục vụ chuyển đổi số quốc gia giai đoạn 2022-2025, tầm nhìn đến năm 2030 đặt ra mục tiêu cho giai đoạn 2023-2025 “Tiếp tục hoàn thiện thể chế, chính sách để tạo điều kiện phát triển, cung cấp ứng dụng, dịch vụ số liên quan đến thông tin dân cư,...”.
+Như vậy, để phù hợp với chủ trương của Đảng và bảo đảm tính đồng bộ của hệ thống pháp luật, việc xây dựng Luật sửa đổi, bổ sung một số điều của Luật Thống kê số 89/2015/QH13 và Luật số 01/2021/QH15 sửa đổi, bổ sung một số điều và Phụ lục Danh mục chỉ tiêu thống kê quốc gia của Luật Thống kê là cấp thiết. 
+2. Cơ sở thực tiễn
+Luật Thống kê số 89/2015/QH13 đã được sửa đổi, bổ sung một số điều và Phụ lục Danh mục chỉ tiêu thống kê quốc gia của Luật Thống kê (Luật số 01/2021/QH15) đã khẳng định vị trí, vai trò quan trọng của công tác thống kê. Luật Thống kê là một trong những công cụ quản lý vĩ mô quan trọng, có vai trò cung cấp thông tin thống kê trung thực, khách quan, chính xác, đầy đủ, kịp thời phục vụ các cơ quan nhà nước trong việc đánh giá, dự báo tình hình, hoạch định chiến lược, xây dựng kế hoạch, quy hoạch chính sách, quản lý điều hành phát triển kinh tế - xã hội và đáp ứng nhu cầu thông tin thống kê của các cơ quan, tổ chức, cá nhân trong và ngoài nước. Sau 10 năm thực hiện Luật Thống kê đã bộc lộ một số hạn chế, bất cập. Một số quy định của Luật không còn phù hợp với thực tiễn và các văn bản quy phạm pháp luật hiện hành, cụ thể:
+a) Về cơ quan quản lý nhà nước về thống kê
+- Khoản 2 Điều 7 Luật Thống kê quy định: “Bộ Kế hoạch và Đầu tư chịu trách nhiệm trước Chính phủ trong việc thống nhất quản lý nhà nước về thống kê”.
+- Khoản 2, khoản 3 Điều 62 Luật Thống kê quy định: “Cơ quan thống kê trung ương trực thuộc Bộ Kế hoạch và Đầu tư”; “Cơ quan thống kê trung ương là cơ quan thống kê quốc gia, thực hiện chức năng tham mưu giúp Bộ trưởng Bộ Kế hoạch và Đầu tư quản lý nhà nước về thống kê, điều phối hoạt động thống kê, tổ chức các hoạt động thống kê và cung cấp thông tin thống kê kinh tế - xã hội cho các tổ chức, cá nhân”.
+Cùng với đó là các điều, khoản quy định trách nhiệm của Bộ Kế hoạch và Đầu tư, Bộ trưởng Bộ Kế hoạch và Đầu tư trong việc thực hiện các nhiệm vụ quản lý nhà nước về thống kê.
+Thực hiện Nghị quyết số 18-NQ/TW, Chính phủ ban hành Nghị định số 166/2025/NĐ-CP ngày 30/6/2025 sửa đổi, bổ sung một số điều của Nghị định số 29/2025/NĐ-CP ngày 24/02/2025 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính. Khoản 5 Điều 1 Nghị định số 166/2025/NĐ-CP quy định Cục Thống kê là đơn vị thuộc Bộ Tài chính.
+b) Về hệ thống thông tin thống kê, hệ thống chỉ tiêu thống kê và cơ cấu 
+tổ chức
+- Điều 12 Luật Thống kê quy định hệ thống thống kê nhà nước gồm hệ thống thông tin thống kê quốc gia, hệ thống thông tin thống kê bộ, ngành, hệ thống thông tin thống kê cấp tỉnh và hệ thống thông tin thống kê cấp huyện.
+- Điều 22 Luật Thống kê quy định hệ thống chỉ tiêu thống kê cấp tỉnh, cấp huyện, cấp xã.
+- Khoản 4 Điều 62 Luật Thống kê quy định: “Cơ quan thống kê địa phương gồm cơ quan thống kê cấp tỉnh và cơ quan thống kê cấp huyện”.
+Tuy nhiên, Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam đã được sửa đổi, bổ sung một số điều theo Nghị quyết số 203/2025/QH15 quy định: “Các đơn vị hành chính của nước Cộng hòa xã hội chủ nghĩa Việt Nam được tổ chức thành hai cấp, gồm tỉnh, thành phố trực thuộc trung ương và các đơn vị hành chính dưới tỉnh, thành phố trực thuộc trung ương do luật định”. Điều 3 Nghị định số 29/2025/NQ-CP ngày 24/02/2025 của Chính phủ quy định: “Cục Thống kê tổ chức và hoạt động theo 03 cấp: Cục Thống kê (cấp trung ương); thống kê tỉnh, thành phố trực thuộc trung ương (cấp tỉnh); thống kê cơ sở (cấp cơ sở). Do vậy, cần thiết phải sửa đổi quy định về hệ thống thông tin thống kê nhà nước, hệ thống chỉ tiêu thống kê cấp huyện và cơ cấu tổ chức của hệ thống thống kê tập trung để phù hợp với quy định hiện hành.
+c) Về thanh tra chuyên ngành thống kê
+Khoản 1 Điều 8 Luật Thống kê quy định: “Cơ quan thống kê trung ương chịu trách nhiệm chỉ đạo, tổ chức thực hiện thanh tra chuyên ngành thống kê trong phạm vi cả nước.
+Cơ quan thống kê tập trung tại tỉnh, thành phố trực thuộc trung ương (sau đây gọi chung là cơ quan thống kê cấp tỉnh) chịu trách nhiệm tổ chức thực hiện thanh tra chuyên ngành thống kê tại địa phương”.
+Tuy nhiên, theo Kết luận số 134-KL/TW, Bộ Chính trị, Ban Bí thư đồng ý chủ trương sắp xếp, tinh gọn tổ chức bộ máy hệ thống cơ quan thanh tra theo 02 cấp ở trung ương và địa phương; kết thúc hoạt động của thanh tra bộ, ngành ở trung ương và sở, huyện tại địa phương. Điều 7 Luật Thanh tra số 84/2025/QH15 quy định hệ thống các cơ quan thanh tra được tổ chức theo 2 cấp gồm: Thanh tra Chính phủ và Thanh tra tỉnh, thành phố. Do vậy, Điều 8 Luật Thống kê cần thay thế bằng những quy định về kiểm tra chuyên ngành thống kê cho phù hợp.
+d) Về danh mục chỉ tiêu thống kê quốc gia
+Phụ lục Danh mục chỉ tiêu thống kê quốc gia ban hành kèm theo Luật Thống kê được thay thế theo quy định tại khoản 3 Điều 1 Luật sửa đổi, bổ sung một số điều và Phụ lục Danh mục chỉ tiêu thống kê quốc gia của Luật Thống kê. Danh mục chỉ tiêu thống kê quốc gia này phải phản ánh được tình hình kinh tế - xã hội của quốc gia, phù hợp với thực tiễn Việt Nam và tiêu chuẩn quốc tế. Tuy nhiên, căn cứ vào nhiệm vụ phát triển kinh tế - xã hội, yêu cầu quản lý nhà nước và hội nhập quốc tế trong từng thời kỳ, Danh mục chỉ tiêu thống kê phải luôn được cập nhật, sửa đổi, bổ sung thường xuyên. Chính vì vậy, không nên quy định Danh mục chỉ tiêu thống kê quốc gia tại Luật Thống kê mà cần giao Chính phủ quy định để bảo đảm tính kịp thời, đầy đủ trong việc quản lý và điều hành của Chính phủ, đáp ứng xu thế phát triển nhanh và hội nhập quốc tế ngày càng sâu rộng của đất nước.
+đ) Về ứng dụng phương pháp thống kê, công nghệ thông tin - truyền thông và chuyển đổi số trong hoạt động thống kê nhà nước
+Chuyển đổi số là xu thế tất yếu và đòi hỏi khách quan của sự phát triển trong thời đại ngày nay. Đây là trọng tâm phát triển của các bộ, ngành, địa phương nói chung và ngành Thống kê nói riêng. Các cơ sở dữ liệu quản lý chuyên ngành vẫn còn rời rạc, ít cập nhật, chưa tập trung thành một hệ thống cơ sở dữ liệu thống nhất, gây khó khăn trong thu thập, xử lý, sử dụng và lưu trữ thông tin, ảnh hưởng đến tiến độ, chất lượng báo cáo và công tác phổ biến, chia sẻ thông tin thống kê. Chính vì vậy, quá trình sửa đổi, bổ sung Luật Thống kê sẽ theo hướng đẩy mạnh nghiên cứu, ứng dụng phương pháp thống kê, công nghệ thông tin, chuyển đổi số trong công tác thống kê nhằm hiện đại hóa hoạt động thu thập, xử lý, quản trị dữ liệu thống kê.
+e) Những vấn đề khác
+- Một số thuật ngữ của pháp luật chuyên ngành liên quan đến Luật Thống kê đã thay đổi, vì vậy, cần phải cập nhật các thuật ngữ quy định tại Điều 3 của Luật Thống kê để phù hợp với thực tiễn.
+- Các quy định về chuyên môn, nghiệp vụ thống kê cần phải sửa đổi, bổ sung để phù hợp với thực tiễn và hội nhập quốc tế.
+Từ những căn cứ nêu trên, việc sửa đổi Luật Thống kê là rất cần thiết trong giai đoạn đổi mới hiện nay.
+II. MỤC ĐÍCH BAN HÀNH, QUAN ĐIỂM XÂY DỰNG LUẬT
+1. Mục đích ban hành Luật
+a) Cung cấp thông tin thống kê chính xác, khách quan, kịp thời, phản ánh đúng, đầy đủ tình hình kinh tế - xã hội trong từng thời kỳ.
+b) Giúp phân tích, hoạch định và điều hành chính sách vĩ mô.
+c) Xây dựng cơ sở pháp lý để thu thập các chỉ tiêu thống kê quốc gia.
+d) Bảo đảm yêu cầu so sánh quốc tế trong các lĩnh vực.
+2. Quan điểm xây dựng Luật
+a) Thể chế hóa các đường lối, chủ trương, chính sách pháp luật của Đảng và Nhà nước về công tác thống kê.
+b) Phản ánh tình hình kinh tế - xã hội chủ yếu của đất nước, phục vụ các cơ quan, lãnh đạo Đảng và Nhà nước các cấp trong việc đánh giá, dự báo tình hình, hoạch định chiến lược, chính sách, xây dựng kế hoạch phát triển kinh tế theo tinh thần của Nghị quyết Đại hội đại biểu toàn quốc lần thứ XIV.
+c) Bảo đảm kế thừa, phát huy hiệu quả những quy định mang tính ưu việt trong Luật Thống kê; khắc phục hạn chế, bất cập và bổ sung những quy định phù hợp với tình hình kinh tế - xã hội của đất nước.
+d) Khẳng định và nâng cao vai trò của hoạt động thống kê, sử dụng thông tin thống kê nhà nước, bảo đảm phù hợp với thực tiễn thống kê Việt Nam và các nguyên tắc hoạt động thống kê chính thức của Ủy ban Thống kê Liên hợp quốc; bảo đảm so sánh quốc tế.
+đ) Luật chỉ quy định khung còn những nội dung thay đổi nhiều theo thực tiễn thì giao Chính phủ quy định.
+e) Bảo đảm tính khả thi, hiệu quả.
+III. QUÁ TRÌNH XÂY DỰNG LUẬT
+Bộ Tài chính thực hiện xây dựng dự thảo Luật theo quy định của Luật Ban hành văn bản quy phạm pháp luật (theo trình tự, thủ tục rút gọn), cụ thể:
+1. Tổng kết tình hình thực hiện Luật Thống kê số 89/2015/QH13 và Luật số 01/2021 sửa đổi, bổ sung một số điều và Phụ lục Danh mục chỉ tiêu thống kê quốc gia của Luật Thống kê.
+2. Tổ chức nghiên cứu, rà soát các chủ trương, đường lối, chính sách của Đảng và Nhà nước liên quan đến công tác thống kê.
+3. Tham khảo Luật Thống kê một số nước trên thế giới.
+4. Dự thảo Luật.
+5. Tổ chức hội thảo khoa học để lấy ý kiến các chuyên gia, nhà khoa học, địa phương về dự thảo Luật.
+5. Đăng tải dự thảo Luật trên Cổng thông tin điện tử của Chính phủ, Bộ Tài chính, Cục Thống kê để lấy ý kiến nhân dân và gửi xin ý kiến bằng văn bản đến các bộ, ngành, UBND các tỉnh, thành phố trực thuộc trung ương để xin ý kiến.
+6. Tổng hợp tiếp thu, giải trình ý kiến góp ý của các cơ quan, tổ chức và hoàn thiện dự thảo Luật.
+7. Hoàn thiện hồ sơ gửi Bộ Tư pháp thẩm định dự thảo Luật.
+8. Trên cơ sở ý kiến thẩm định của Bộ Tư pháp, đã nghiên cứu, tiếp thu, giải trình và hoàn thiện dự thảo Luật.
+9. Hoàn thiện hồ sơ dự thảo Luật trình Chính phủ.
+IV. BỐ CỤC VÀ NỘI DUNG CƠ BẢN CỦA DỰ THẢO LUẬT
+1. Phạm vi điều chỉnh, đối tượng áp dụng
+a) Phạm vi điều chỉnh
+Dự thảo Luật điều chỉnh các nội dung sau: hệ thống thông tin thống kê nhà nước; chỉ tiêu thống kê; thu thập thông tin thống kê nhà nước; nghiên cứu, ứng dụng phương pháp thống kê, công nghệ thông tin - truyền thông và chuyển đối số trong hoạt động thống kê nhà nước; tổ chức thống kê nhà nước.
+b) Đối tượng áp dụng
+Luật áp dụng đối với cơ quan, tổ chức, cá nhân cung cấp thông tin, thực hiện hoạt động thống kê và sử dụng thông tin thống kê (giữ nguyên đối tượng áp dụng) theo Luật Thống kê số 89/2015/QH13.
+2. Bố cục của dự thảo Luật
+Dự thảo Luật gồm 03 điều:
+- Điều 1. Sửa đổi, bổ sung một số điều của Luật Thống kê số 89/2015/QH13.
+- Điều 2. Sửa đổi, bổ sung một số điều của Luật số 01/2021/QH15 sửa đổi, bổ sung một số điều và Phụ lục Danh mục chỉ tiêu thống kê quốc gia của Luật Thống kê.
+- Điều 3. Điều khoản thi hành.
+3. Nội dung cơ bản của dự thảo Luật
+3.1. Nội dung sửa đổi, bổ sung, lược bỏ
+Dự thảo Luật tập trung sửa đổi những nội dung sau:
+(1) Nhóm các quy định liên quan đến tên gọi của bộ ngành, cơ quan, đơn vị, tổ chức thống kê nhà nước, tổ chức chính quyền địa phương 2 cấp
+Nhóm này sẽ sửa những vấn đề liên quan đến tên gọi của các cơ quan đơn vị theo quy định của Nghị quyết số 176/2025/QH15 ngày 18/2/2025 của Quốc hội quy định về cơ cấu tổ chức của Chính phủ nhiệm kỳ Quốc hội khóa XV; tổ chức chính quyền địa phương 2 cấp theo quy định tại Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam đã được sửa đổi, bổ sung một số điều theo Nghị quyết số 203/2025/QH15, cụ thể:
+- Bãi bỏ cụm từ “cấp huyện” tại khoản 3 Điều 13; khoản 2, khoản 3, khoản 4 Điều 22; khoản 1 Điều 42; điểm d khoản 2 Điều 48; khoản 3 Điều 52; khoản 2 Điều 59.
+- Thay thế cụm từ “cấp huyện” bằng cụm từ “cấp xã” tại khoản 4 Điều 12.
+- Sửa Điều 16. Hệ thống thông tin thống kê cấp huyện thành hệ thống thông tin thống kê cấp xã.
+- Thay thế cụm từ “Bộ Kế hoạch và Đầu tư” bằng cụm từ “Bộ Tài chính” tại khoản 2 Điều 7; khoản 3 Điều 13; khoản 6 Điều 17; khoản 4 Điều 22; khoản 4 Điều 24; khoản 2 Điều 28; khoản 3 Điều 51; khoản 3 Điều 52; khoản 3 Điều 60.
+- Thay thế cụm từ “Cơ quan thống kê trung ương” bằng cụm từ “Cơ quan thống kê quốc gia” tại điểm b khoản 2 Điều 13; khoản 1, khoản 5 Điều 20; khoản 2 Điều 21; khoản 1, khoản 5 Điều 26; điểm a khoản 2 Điều 29; khoản 1, Điều 32; điểm a khoản 6 Điều 35; khoản 3 Điều 37; Điều 39; khoản 1, khoản 5 Điều 43; khoản 2 Điều 46; điểm a, khoản 2 Điều 48; Điều 53; Điều 54; khoản 3 Điều 55; khoản 6 Điều 58; Điều 59; khoản 1, khoản 2 Điều 62.
+(2) Nhóm các quy định liên quan đến thanh tra chuyên ngành thống kê
+Để bảo đảm thống nhất với Luật Thanh tra số 84/2025/QH15, dự thảo Luật sửa đổi, bổ sung: khoản 7 Điều 6, Điều 8, điểm c khoản 2 Điều 33, khoản 2 Điều 44 Luật Thống kê số 89/2015/QH13 theo hướng thay thanh tra chuyên ngành thống kê bằng kiểm tra chuyên ngành thống kê.
+(3) Nhóm liên quan đến chuyên môn, nghiệp vụ thống kê phát sinh trong thực tiễn
+Dự thảo Luật sửa các điều của Luật Thống kê số 89/2015/QH13 và Luật số 01/2021/QH15 liên quan đến những vấn đề mới phát sinh trong quá trình triển khai thực hiện, trong đó:
+a) Luật Thống kê số 89/2015/QH13 sửa đổi các điều sau:
+- Điều 3. Giải thích từ ngữ;
+- Điều 5. Nguyên tắc cơ bản của hoạt động thống kê và sử dụng dữ liệu, thông tin thống kê;
+- Điều 17. Hệ thống chỉ tiêu thống kê quốc gia;
+- Điều 18. Điều chỉnh, bổ sung Danh mục chỉ tiêu thống kê quốc gia;
+- Điều 31. Phương án điều tra thống kê;
+- Điều 32. Thẩm định phương án điều tra thống kê;
+- Điều 34. Quyền và nghĩa vụ của điều tra viên thống kê;
+- Điều 36. Sử dụng dữ liệu hành chính cho hoạt động thống kê nhà nước;
+- Bổ sung 03 điều quy định về: hệ thống chỉ tiêu thống kê liên quan đến nhiều ngành, nhiều lĩnh vực, liên kết vùng; chế độ báo cáo thống kê liên quan đến nhiều ngành, nhiều lĩnh vực, liên kết vùng; chế độ báo cáo thống kê cấp tỉnh, cấp xã.
+- Bãi bỏ Điều 47. Thẩm định số liệu thống kê của Bộ, ngành trong hệ thống chỉ tiêu thống kê quốc gia.
+b) Luật số 01/2021/QH15
+Sửa “Điều 1. Sửa đổi, bổ sung một số điều và Phụ lục Danh mục chỉ tiêu thống kê quốc gia của Luật Thống kê”.
+(4). Nhóm các quy định liên quan đến ứng dụng phương pháp thống kê, công nghệ thông tin - truyền thông và chuyển đổi số trong hoạt động thống kê nhà nước
+Mục đích của việc sửa đổi, bổ sung quy định của nhóm nội dung này để thực hiện chủ trương của Nghị quyết số 57-NQ/TW ngày 22/12/2024 của Bộ Chính trị về đột phá phát triển khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số quốc gia. Chính vì vậy, dự thảo Luật đã sửa đổi “Điều 51. Phát triển và ứng dụng công nghệ thông tin - truyền thông” của Luật Thống kê số 89/2015/QH13 đồng thời bổ sung 01 điều quy định về cơ sở dữ liệu thống kê quốc gia (sau Điều 52).
+3.2. Nội dung cắt giảm, đơn giản hóa thủ tục hành chính
+Dự thảo Luật không quy định nội dung liên quan đến cắt giảm, đơn giản hóa thủ tục hành chính.
+3.3. Nội dung phân quyền, phân cấp
+Dự thảo Luật quy định một số nội dung liên quan đến phân quyền, phân cấp trong lĩnh vực thống kê. 
+Một số nội dung đã được quy định tại Nghị định số 130/2025/NĐ-CP ngày 11/06/2025 của Chính phủ quy định về phân quyền, phân cấp trong lĩnh vực thống kê, cụ thể:
+- Điều 28
++ Điểm a: Bộ trưởng Bộ Tài chính quyết định tiến hành tổng điều tra thống kê quốc gia.
++ Điểm c: thủ trưởng cơ quan thống kê quốc gia quyết định tiến hành điều tra đối với các cuộc điều tra thống kê phân công Bộ Tài chính thực hiện trong chương trình điều tra thống kê quốc gia.
+- Điều 29
++ Điểm b khoản 2: Bộ trưởng Bộ Tài chính phân công cơ quan thực hiện tổng điều tra quy định tại điểm d khoản 1 Điều này.
++  Khoản 3: Bộ trưởng Bộ Tài chính quyết định điều chỉnh, bổ sung tổng điều tra thống kê quốc gia.
+- Khoản 5 Điều 49: thủ trưởng cơ quan thống kê quốc gia ban hành quy chế phổ biến thông tin thống kê nhà nước thuộc hệ thống tổ chức thống kê tập trung.
+- Khoản Điều 50: thủ trưởng cơ quan thống kê quốc gia tổ chức, điều phối hoạt động nghiên cứu, ứng dụng phương pháp thống kê tiên tiến trong hoạt động thống kê nhà nước. Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Chánh án Tòa án nhân dân tối cao, Viện trưởng Viện kiểm sát nhân dân tối cao, Tổng Kiểm toán nhà nước, Chủ tịch Ủy ban nhân dân cấp tỉnh tổ chức thực hiện việc nghiên cứu, ứng dụng các phương pháp thống kê tiên tiến đối với ngành, lĩnh vực, địa bàn mình quản lý.
+Ngoài những quy định về phân quyền, phân cấp tại Nghị định số 130/2025/NĐ-CP, dự thảo Luật quy định bổ sung một số nội dung sau:
+- Điểm a khoản 6 Điều 7: Bộ trưởng Bộ Tài chính ban hành quy trình biên soạn chỉ tiêu tổng sản phẩm trong nước, chỉ tiêu tổng sản phẩm trên địa bàn tỉnh, thành phố trực thuộc trung ương.
+- Điểm b khoản 2 Điều 30: Thủ trưởng cơ quan thống kê quốc gia quyết định chương trình và tổ chức thực hiện điều tra thống kê quy định tại điểm a và điểm b khoản 1 Điều này thuộc lĩnh vực quản lý của Bộ Tài chính.
+Như vậy, dự thảo Luật thay đổi so với Luật số 89/2015/QH13 và Luật số 01/2021/QH15 như sau:
+- Đối với Luật Thống kê số 89/2015/QH13:
++ Giữ nguyên 24 điều.
++ Sửa đổi 45 điều, trong đó có 29 điều sửa đổi liên quan đến chuyên môn, nghiệp vụ thống kê; thanh tra chuyên ngành thống kê; ứng dụng phương pháp thống kê, công nghệ thông tin - truyền thông và chuyển đổi số trong hoạt động thống kê nhà nước và 16 điều liên quan đến tên gọi của bộ, ngành, cơ quan, đơn vị, tổ chức thống kê nhà nước, tổ chức chính quyền địa phương 02 cấp.
++ Bổ sung 03 điều.
++ Bỏ 01 điều.
+- Luật số 01/2021/QH15: sửa 01 điều.
+V. NHỮNG NỘI DUNG BỔ SUNG MỚI SO VỚI DỰ THẢO LUẬT GỬI THẨM ĐỊNH (NẾU CÓ)
+VI. DỰ KIẾN NGUỒN LỰC, ĐIỀU KIỆN BẢO ĐẢM CHO VIỆC THI HÀNH LUẬT VÀ THỜI GIAN TRÌNH THÔNG QUA
+1. Dự kiến nguồn lực, điều kiện bảo đảm cho việc thi hành luật
+Dự thảo Luật không làm phát sinh nguồn nhân lực và tài chính để tổ chức thực hiện sau khi Luật được thông qua. Hiện nay, Bộ Tài chính đang trong quá trình tinh gọn bộ máy theo yêu cầu chung của Đảng và Nhà nước, đồng thời đẩy mạnh ứng dụng công nghệ thông tin - truyền thông và chuyển đổi số trong hoạt động thống kê. Vì vậy, dự thảo Luật sau khi được thông qua sẽ được triển khai thực hiện theo hướng tiết kiệm nguồn nhân lực, tài chính.
+2. Dự kiến thời gian trình thông qua
+Dự thảo Luật dự kiến trình Quốc hội cho ý kiến và thông qua tại Kỳ họp thứ 10 (tháng 10/2025).
+Trên đây là Tờ trình dự thảo Luật sửa đổi, bổ sung một số điều của Luật sửa đổi, bổ sung một số điều của Luật Thống kê số 89/2015/QH13 và Luật số 01/2021/QH15 sửa đổi, bổ sung một số điều và Phụ lục Danh mục chỉ tiêu thống kê quốc gia của Luật Thống kê , Bộ Tài chính kính trình Chính phủ xem xét, quyết định./.
+(Xin gửi kèm theo: (1) Dự thảo Luật; (2) Bản so sánh, thuyết minh dự thảo Luật sửa đổi, bổ sung một số điều của Luật Thống kê số 89/2015/QH13 và Luật số 01/2021/QH15 sửa đổi, bổ sung một số điều và Phụ lục Danh mục chỉ tiêu thống kê quốc gia của Luật Thống kê; (3) Bản tổng hợp ý kiến, tiếp thu, giải trình, ý kiến góp ý của cơ quan, tổ chức, cá nhân về dự thảo Luật; (4) Báo cáo thẩm định của Bộ Tư pháp; (5) Báo cáo tiếp thu, giải trình ý kiến thẩm định).
+BỘ TÀI CHÍNH
+_________
+
+Số:         /TTr-BTC	CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+________________________________________________________________________________________________________________________________
+Hà Nội, ngày      tháng      năm 2025
+Nơi nhận:
+- Như trên;
+- Thủ tướng Chính phủ (để báo cáo); 
+- Các Phó Thủ tướng Chính phủ (để báo cáo);
+- Văn phòng Chính phủ;
+- Thứ trưởng Nguyễn Thị Bích Ngọc (để biết);
+- Bộ Tư pháp;
+- Vụ Pháp chế;
+- Lưu: VT, CTK.	BỘ TRƯỞNG

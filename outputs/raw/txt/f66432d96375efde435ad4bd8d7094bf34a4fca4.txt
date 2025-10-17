@@ -1,0 +1,766 @@
+BẢN SO SÁNH 
+Luật Phòng, chống bệnh truyền nhiễm năm 2007, Luật Bảo vệ sức khỏe nhân dân năm 1989 và dự thảo Luật Phòng bệnh
+
+Luật Phòng, chống bệnh truyền năm 2007	Luật Bảo vệ sức khỏe nhân dân năm 1989	Dự thảo Luật Phòng bệnh
+Điều 1. Phạm vi điều chỉnh, đối tượng áp dụng
+1. Luật này quy định về phòng, chống bệnh truyền nhiễm; kiểm dịch y tế biên giới; chống dịch; các điều kiện bảo đảm cho công tác phòng, chống bệnh truyền nhiễm ở người.
+Việc phòng, chống nhiễm vi rút gây ra hội chứng suy giảm miễn dịch mắc phải ở người (HIV/AIDS) không thuộc phạm vi điều chỉnh của Luật này.
+2. Luật này áp dụng đối với cơ quan, tổ chức, cá nhân trong nước và nước ngoài tại Việt Nam.		Điều 1. Phạm vi điều chỉnh, đối tượng áp dụng
+1. Luật này quy định về phòng, chống bệnh truyền nhiễm; phòng, chống bệnh không lây nhiễm, các rối loạn sức khỏe tâm thần và các yếu tố nguy cơ khác; dinh dưỡng trong phòng bệnh và các điều kiện bảo đảm để phòng bệnh.
+2. Luật này áp dụng đối với cơ quan, tổ chức, cá nhân trong nước và nước ngoài tại Việt Nam.
+Điều 2. Giải thích từ ngữ
+Trong Luật này, các từ ngữ dưới đây được hiểu như sau:
+1. Bệnh truyền nhiễm là bệnh lây truyền trực tiếp hoặc gián tiếp từ người hoặc từ động vật sang người do tác nhân gây bệnh truyền nhiễm.
+2. Tác nhân gây bệnh truyền nhiễm là vi rút, vi khuẩn, ký sinh trùng và nấm có khả năng gây bệnh truyền nhiễm.
+3. Trung gian truyền bệnh là côn trùng, động vật, môi trường, thực phẩm và các vật khác mang tác nhân gây bệnh truyền nhiễm và có khả năng truyền bệnh.
+4. Người mắc bệnh truyền nhiễm là người bị nhiễm tác nhân gây bệnh truyền nhiễm có biểu hiện triệu chứng bệnh.
+5. Người mang mầm bệnh truyền nhiễm là người mang tác nhân gây bệnh truyền nhiễm nhưng không có biểu hiện triệu chứng bệnh.
+6. Người tiếp xúc là người có tiếp xúc với người mắc bệnh truyền nhiễm, người mang mầm bệnh truyền nhiễm, trung gian truyền bệnh và có khả năng mắc bệnh.
+7. Người bị nghi ngờ mắc bệnh truyền nhiễm là người tiếp xúc hoặc người có biểu hiện triệu chứng bệnh truyền nhiễm nhưng chưa rõ tác nhân gây bệnh.
+8. Giám sát bệnh truyền nhiễm là việc thu thập thông tin liên tục, có hệ thống về tình hình, chiều hướng của bệnh truyền nhiễm, phân tích, giải thích nhằm cung cấp thông tin cho việc lập kế hoạch, triển khai và đánh giá hiệu quả các biện pháp phòng, chống bệnh truyền nhiễm.
+9. An toàn sinh học trong xét nghiệm là việc sử dụng các biện pháp để giảm thiểu hoặc loại trừ nguy cơ lây truyền tác nhân gây bệnh truyền nhiễm trong cơ sở xét nghiệm, từ cơ sở xét nghiệm ra môi trường và cộng đồng.
+10. Vắc xin là chế phẩm chứa kháng nguyên tạo cho cơ thể khả năng đáp ứng miễn dịch, được dùng với mục đích phòng bệnh.
+11. Sinh phẩm y tế là sản phẩm có nguồn gốc sinh học được dùng để phòng bệnh, chữa bệnh và chẩn đoán bệnh cho người.
+12. Tình trạng miễn dịch là mức độ đề kháng của cá nhân hoặc cộng đồng với một tác nhân gây bệnh truyền nhiễm.
+13. Dịch là sự xuất hiện bệnh truyền nhiễm với số người mắc bệnh vượt quá số người mắc bệnh dự tính bình thường trong một khoảng thời gian xác định ở một khu vực nhất định.
+14. Vùng có dịch là khu vực được cơ quan có thẩm quyền xác định có dịch.
+15. Vùng có nguy cơ dịch là khu vực lân cận với vùng có dịch hoặc xuất hiện các yếu tố gây dịch.
+16. Cách ly y tế là việc tách riêng người mắc bệnh truyền nhiễm, người bị nghi ngờ mắc bệnh truyền nhiễm, người mang mầm bệnh truyền nhiễm hoặc vật có khả năng mang tác nhân gây bệnh truyền nhiễm nhằm hạn chế sự lây truyền bệnh.
+17. Xử lý y tế là việc thực hiện các biện pháp sử dụng vắc xin, sinh phẩm y tế, cách ly y tế, tẩy uế, diệt tác nhân gây bệnh truyền nhiễm, trung gian truyền bệnh và các biện pháp y tế khác.		Điều 2. Giải thích từ ngữ
+Trong Luật này, các từ ngữ dưới đây được hiểu như sau: 
+1. Phòng bệnh là các biện pháp nhằm ngăn ngừa sự phát sinh; ngăn chặn sự lây lan, tiến triển và giảm thiểu hậu quả của bệnh. 
+Hoạt động phòng bệnh bao gồm: phòng, chống bệnh truyền nhiễm; phòng, chống bệnh không lây nhiễm; phòng, chống các rối loạn sức khỏe tâm thần; phòng, chống các yếu tố nguy cơ ảnh hưởng đến sức khỏe; triển khai các can thiệp dinh dưỡng, dinh dưỡng khẩn cấp, vệ sinh sức khỏe môi trường, y tế trường học, dự phòng thương tích và sơ cấp cứu thương tích tại cộng đồng, chăm sóc sức khỏe người lao động, người cao tuổi, bà mẹ và trẻ em, nâng cao nhận thức của người dân trong việc phòng bệnh.
+2. Bệnh truyền nhiễm là bệnh lây truyền trực tiếp hoặc gián tiếp từ người hoặc từ động vật sang người do tác nhân gây bệnh truyền nhiễm.
+3. Người mắc bệnh truyền nhiễm là người bị nhiễm tác nhân gây bệnh truyền nhiễm có biểu hiện triệu chứng bệnh. 
+4. Người mang mầm bệnh truyền nhiễm là người mang tác nhân gây bệnh truyền nhiễm nhưng không có biểu hiện triệu chứng bệnh. 
+5. Người tiếp xúc là người có tiếp xúc với người mắc bệnh truyền nhiễm, người mang mầm bệnh truyền nhiễm, trung gian truyền bệnh và có khả năng mắc bệnh. 
+6. Người bị nghi ngờ mắc bệnh truyền nhiễm là người có biểu hiện triệu chứng bệnh truyền nhiễm nhưng chưa rõ tác nhân gây bệnh. 
+7. Giám sát bệnh truyền nhiễm là việc thu thập, phân tích, diễn giải và sử dụng thông tin một cách liên tục có hệ thống về tình hình bệnh truyền nhiễm để phòng, chống dịch bệnh.
+8. Vắc xin là thuốc chứa kháng nguyên tạo cho cơ thể khả năng đáp ứng miễn dịch, được dùng với mục đích phòng bệnh.
+9. Sinh phẩm phòng bệnh là sản phẩm có nguồn gốc sinh học được dùng để phòng bệnh, chữa bệnh và chẩn đoán bệnh cho người, bao gồm sinh phẩm được quy định tại Luật Dược và sinh phẩm chẩn đoán in vitro và chất có nguồn gốc sinh học có phân tử lượng thấp có thể phân lập thành những chất tinh khiết.
+10. Dịch là sự xuất hiện bệnh truyền nhiễm với số người mắc bệnh vượt quá số người mắc bệnh dự tính bình thường trong một khoảng thời gian xác định ở một khu vực nhất định. 
+11. Kiểm dịch y tế là việc thực hiện các biện pháp y tế để phát hiện, ngăn chặn sự xâm nhập và lây truyền của bệnh truyền nhiễm qua khu vực cửa khẩu.
+12. Sức khỏe tâm thần là trạng thái khỏe mạnh về mặt tinh thần giúp con người có thể đối phó với những căng thẳng trong cuộc sống, nhận ra khả năng của mình, học tập, làm việc tốt, đóng góp tích cực cho cộng đồng của mình.
+13. Rối loạn sức khỏe tâm thần là những vấn đề về tinh thần và cảm xúc mà một người mắc phải khiến họ gặp khó khăn trong suy nghĩ, cảm nhận, hành động hoặc tương tác với người khác và ảnh hưởng đến khả năng học tập, làm việc và sinh hoạt trong cộng đồng.
+14. Bệnh không lây nhiễm là các bệnh không lây, bệnh mạn tính, có xu hướng tiến triển trong thời gian dài và là kết quả của sự kết hợp giữa các yếu tố di truyền, sinh lý, môi trường và hành vi.
+15. Dinh dưỡng là quá trình cung cấp các chất dinh dưỡng cho tế bào để bảo đảm sự sống và phát triển của con người bao gồm ăn, uống, hấp thu, chuyển hóa và thải trừ.
+16. Chế độ dinh dưỡng hợp lý là chế độ ăn cung cấp đầy đủ các chất dinh dưỡng cần thiết đáp ứng nhu cầu dinh dưỡng của cơ thể để đạt được sức khỏe tối ưu.
+Điều 5. Chính sách của Nhà nước về phòng, chống bệnh truyền nhiễm
+1. Ưu tiên, hỗ trợ đào tạo chuyên ngành y tế dự phòng.
+2. Ưu tiên đầu tư nâng cao năng lực đội ngũ cán bộ, hệ thống giám sát phát hiện bệnh truyền nhiễm, nghiên cứu sản xuất vắc xin, sinh phẩm y tế.
+3. Hỗ trợ, khuyến khích nghiên cứu khoa học, trao đổi và đào tạo chuyên gia, chuyển giao kỹ thuật trong phòng, chống bệnh truyền nhiễm.
+4. Hỗ trợ điều trị, chăm sóc người mắc bệnh truyền nhiễm do rủi ro nghề nghiệp và trong các trường hợp cần thiết khác.
+5. Hỗ trợ thiệt hại đối với việc tiêu hủy gia súc, gia cầm mang tác nhân gây bệnh truyền nhiễm theo quy định của pháp luật.
+6. Huy động sự đóng góp về tài chính, kỹ thuật và nhân lực của toàn xã hội trong phòng, chống bệnh truyền nhiễm.
+7. Mở rộng hợp tác với các tổ chức quốc tế, các nước trong khu vực và trên thế giới trong phòng, chống bệnh truyền nhiễm.		Điều 3. Chính sách của Nhà nước về phòng bệnh 
+1. Nhà nước giữ vai trò chủ đạo trong hoạt động phòng bệnh và huy động các nguồn lực xã hội cho hoạt động phòng bệnh. 
+2. Nhà nước ưu tiên đầu tư cho công tác phòng bệnh về cơ sở vật chất, bố trí đủ nhân lực đáp ứng các hoạt động phòng chống dịch bệnh chủ động, phòng chống bệnh không lây nhiễm, tiêm chủng mở rộng toàn diện, dinh dưỡng hợp lý, vệ sinh môi trường và sức khoẻ, cải thiện và kiểm soát ô nhiễm không khí.
+3. Nhà nước có chính sách phù hợp với điều kiện phát triển kinh tế - xã hội từng thời kỳ để hỗ trợ mọi người dân được chăm sóc dinh dưỡng hợp lý theo độ tuổi, ngành nghề, tình trạng sinh lý, sức khỏe; ưu tiên trẻ em có hoàn cảnh đặc biệt khó khăn, trẻ em thuộc hộ nghèo, hộ cận nghèo, trẻ em người dân tộc thiểu số, trẻ em đang sinh sống tại các xã biên giới, miền núi, hải đảo và các xã có điều kiện kinh tế xã hội đặc biệt khó khăn.
+4. Nhà nước có chính sách hợp tác quốc tế với các tổ chức quốc tế, các nước trong khu vực và trên thế giới trong phòng bệnh.
+5. Nhà nước có chính sách nhằm phát hiện sớm, kiểm soát các yếu tố nguy cơ; phòng, chống bệnh truyền nhiễm, bệnh không lây nhiễm.
+6. Nhà nước hỗ trợ và khuyến khích các tổ chức, cá nhân cung cấp các dịch vụ tình nguyện chăm sóc sức khỏe tại cộng đồng phù hợp với điều kiện địa phương và các nhóm dân cư .
+7. Nhà nước khuyến khích các phương tiện thông tin đại chúng và các tổ chức xã hội trong việc đưa tin, bài, tổ chức các hoạt động thông tin, truyền thông, phổ biến kiến thức về phòng bệnh. 
+8. Nhà nước khuyến khích cộng đồng, người bệnh, người nhà người bệnh chủ động, tích cực tiếp cận, sử dụng các dịch vụ chăm sóc sức khỏe, cập nhật kiến thức để phòng, chống bệnh truyền nhiễm, bệnh không lây nhiễm, phát hiện các rối loạn sức khỏe tâm thần, tăng cường thể lực, dự phòng thương tích và sơ cấp cứu thương tích tại cộng đồng; chủ động thực hiện lối sống lành mạnh và chủ động tham gia các hoạt động khám sàng lọc, kiểm tra sức khỏe định kỳ.
+9. Nhà nước có chính sách hỗ trợ người dân sử dụng vắc xin, sinh phẩm phòng bệnh.
+10. Nhà nước có chính sách về can thiệp dinh dưỡng cho các đối tượng, khu vực ưu tiên.
+Điều 4. Nguyên tắc phòng, chống bệnh truyền nhiễm
+1. Lấy phòng bệnh là chính trong đó thông tin, giáo dục, truyền thông, giám sát bệnh truyền nhiễm là biện pháp chủ yếu. Kết hợp các biện pháp chuyên môn kỹ thuật y tế với các biện pháp xã hội, hành chính trong phòng, chống bệnh truyền nhiễm.
+2. Thực hiện việc phối hợp liên ngành và huy động xã hội trong phòng, chống bệnh truyền nhiễm; lồng ghép các hoạt động phòng, chống bệnh truyền nhiễm vào các chương trình phát triển kinh tế - xã hội.
+3. Công khai, chính xác, kịp thời thông tin về dịch.
+4. Chủ động, tích cực, kịp thời, triệt để trong hoạt động phòng, chống dịch.		Điều 4. Nguyên tắc trong phòng bệnh 	
+1. Lấy phòng bệnh chủ động là chính. Kết hợp các biện pháp chuyên môn kỹ thuật y tế với các biện pháp hành chính, biện pháp khác trong việc triển khai hoạt động phòng bệnh.
+2. Thực hiện việc phối hợp liên ngành và huy động xã hội trong việc triển khai hoạt động phòng bệnh; lồng ghép các hoạt động phòng bệnh vào các chương trình phát triển kinh tế - xã hội.
+3. Công khai, chính xác, kịp thời thông tin về dịch.
+4. Chủ động, tích cực, kịp thời, triệt để và tuân thủ quy định về chuyên môn kỹ thuật trong hoạt động phòng bệnh.
+5. Tôn trọng, bảo vệ, đối xử bình đẳng và không kỳ thị, phân biệt đối xử trong phòng bệnh.
+Điều 6. Cơ quan quản lý nhà nước về phòng, chống bệnh truyền nhiễm
+1. Chính phủ thống nhất quản lý nhà nước về công tác phòng, chống bệnh truyền nhiễm trong phạm vi cả nước.
+2. Bộ Y tế chịu trách nhiệm trước Chính phủ thực hiện quản lý nhà nước về công tác phòng, chống bệnh truyền nhiễm trong phạm vi cả nước.
+3. Các bộ, cơ quan ngang bộ trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm phối hợp với Bộ Y tế trong việc thực hiện quản lý nhà nước về công tác phòng, chống bệnh truyền nhiễm.
+4. Uỷ ban nhân dân các cấp thực hiện quản lý nhà nước về công tác phòng, chống bệnh truyền nhiễm theo phân cấp của Chính phủ.		Điều 5. Nội dung quản lý nhà nước về phòng bệnh
+ 1. Xây dựng, ban hành và tổ chức thực hiện các văn bản quy phạm pháp luật về phòng bệnh; quy định về chuyên môn kỹ thuật, tiêu chí, tiêu chuẩn, quy chuẩn kỹ thuật trong phòng bệnh.
+2. Xây dựng, ban hành và tổ chức thực hiện chiến lược, chính sách, chương trình, đề án, kế hoạch về phòng bệnh.
+3. Xây dựng, ban hành và tổ chức thực hiện quy hoạch hệ thống cơ sở phòng bệnh theo quy định của pháp luật về quy hoạch.
+4. Đào tạo, bồi dưỡng phát triển nguồn nhân lực cho hoạt động phòng bệnh; giáo dục, tuyên truyền, phổ biến kiến thức, pháp luật về phòng bệnh.
+5. Tổ chức nghiên cứu, phát triển khoa học và công nghệ, ứng dụng và chuyển giao công nghệ trong phòng bệnh.
+6. Xây dựng, vận hành, khai thác và sử dụng Hệ thống thông tin về phòng bệnh.
+7. Hợp tác quốc tế trong lĩnh vực phòng bệnh.
+8. Thanh tra, kiểm tra, giải quyết khiếu nại, tố cáo và xử lý vi phạm pháp luật về phòng bệnh; khen thưởng trong hoạt động phòng bệnh.
+Điều 6. Cơ quan quản lý nhà nước về phòng bệnh 
+1. Chính phủ thống nhất quản lý nhà nước về công tác phòng bệnh trong phạm vi cả nước.
+2. Chính phủ quy định cụ thể trách nhiệm các bộ, cơ quan ngang bộ trong việc thực hiện các nhiệm vụ quản lý nhà nước về công tác phòng bệnh trong phạm vi cả nước.
+Điều 7. Trách nhiệm của cơ quan, tổ chức, cá nhân trong phòng, chống bệnh truyền nhiễm
+1. Cơ quan, tổ chức, đơn vị vũ trang nhân dân trong phạm vi nhiệm vụ, quyền hạn được giao có trách nhiệm xây dựng và tổ chức thực hiện kế hoạch về phòng, chống bệnh truyền nhiễm; phối hợp chặt chẽ, hỗ trợ lẫn nhau khi có dịch xảy ra và tuân thủ, chấp hành sự chỉ đạo, điều hành của Ban chỉ đạo chống dịch.
+2. Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên có trách nhiệm tuyên truyền, vận động nhân dân tham gia phòng, chống bệnh truyền nhiễm; tham gia giám sát việc thực hiện pháp luật về phòng, chống bệnh truyền nhiễm.
+3. Cơ quan, tổ chức, cá nhân trong nước và nước ngoài tại Việt Nam có trách nhiệm tham gia phòng, chống bệnh truyền nhiễm theo quy định của Luật này.		Điều 7. Trách nhiệm của cơ quan, tổ chức, cá nhân, quyền, nghĩa vụ của người dân trong phòng bệnh
+1. Cơ quan, tổ chức, đơn vị vũ trang nhân dân trong phạm vi nhiệm vụ, quyền hạn được giao có trách nhiệm xây dựng và tổ chức thực hiện kế hoạch về phòng bệnh; phối hợp chặt chẽ khi có dịch xảy ra và tuân thủ, chấp hành sự chỉ đạo, điều hành của cơ quan có thẩm quyền.
+2. Mặt trận Tổ quốc Việt Nam có trách nhiệm tuyên truyền, vận động nhân dân tham gia các hoạt động phòng bệnh; tham gia giám sát việc thực hiện pháp luật về phòng bệnh.
+3. Cơ quan, tổ chức, cá nhân có trách nhiệm tham gia các hoạt động phòng bệnh theo quy định của Luật này.
+Điều 8. Những hành vi bị nghiêm cấm
+1. Cố ý làm lây lan tác nhân gây bệnh truyền nhiễm.
+2. Người mắc bệnh truyền nhiễm, người bị nghi ngờ mắc bệnh truyền nhiễm và người mang mầm bệnh truyền nhiễm làm các công việc dễ lây truyền tác nhân gây bệnh truyền nhiễm theo quy định của pháp luật.
+3. Che giấu, không khai báo hoặc khai báo không kịp thời các trường hợp mắc bệnh truyền nhiễm theo quy định của pháp luật.
+4. Cố ý khai báo, thông tin sai sự thật về bệnh truyền nhiễm.
+5. Phân biệt đối xử và đưa hình ảnh, thông tin tiêu cực về người mắc bệnh truyền nhiễm.
+6. Không triển khai hoặc triển khai không kịp thời các biện pháp phòng, chống bệnh truyền nhiễm theo quy định của Luật này.
+7. Không chấp hành các biện pháp phòng, chống bệnh truyền nhiễm theo yêu cầu của cơ quan, tổ chức có thẩm quyền.		Điều 8. Các hành vi bị nghiêm cấm trong hoạt động phòng bệnh 
+1. Cố ý làm lây lan tác nhân gây bệnh truyền nhiễm. 
+2. Người mắc bệnh truyền nhiễm, người bị nghi ngờ mắc bệnh truyền nhiễm và người mang mầm bệnh truyền nhiễm thực hiện các hành vi dễ lây truyền tác nhân gây bệnh truyền nhiễm theo quy định của pháp luật.
+3. Che giấu, không khai báo hoặc khai báo không kịp thời các trường hợp mắc bệnh truyền nhiễm theo quy định của pháp luật.
+4. Cố ý khai báo, thông tin sai sự thật về bệnh truyền nhiễm.
+5. Phân biệt đối xử, kỳ thị và đưa hình ảnh, thông tin tiêu cực về người mắc bệnh truyền nhiễm.
+6. Không triển khai hoặc triển khai không kịp thời các biện pháp phòng, chống bệnh truyền nhiễm theo quy định của Luật này.
+7. Không chấp hành các biện pháp phòng, chống bệnh truyền nhiễm theo yêu cầu của cơ quan, tổ chức có thẩm quyền.
+8. Cố ý làm ô nhiễm các nguồn nước dùng trong sinh hoạt của nhân dân. 
+9. Tổ chức tiêm chủng tại cơ sở tiêm chủng không đủ điều kiện.
+10. Tiếp cận trái phép, trộm cắp, dùng sai hoặc thay đổi mục đích sử dụng khi chưa được cấp có thẩm quyền phê duyệt hoặc cố ý phát tán tác nhân sinh học.
+11. Sử dụng hình thức mê tín, dị đoan trong phòng bệnh.
+Điều 9. Nội dung thông tin, giáo dục, truyền thông về phòng, chống bệnh truyền nhiễm
+1. Đường lối, chủ trương của Đảng, chính sách, pháp luật của Nhà nước về phòng, chống bệnh truyền nhiễm.
+2. Nguyên nhân, đường lây truyền, cách nhận biết bệnh và các biện pháp phòng, chống bệnh truyền nhiễm.
+3. Hậu quả của bệnh truyền nhiễm đối với sức khoẻ, tính mạng con người và phát triển kinh tế - xã hội của đất nước.
+4. Trách nhiệm của cơ quan, tổ chức, cá nhân trong phòng, chống bệnh truyền nhiễm.
+Điều 10. Đối tượng của thông tin, giáo dục, truyền thông về phòng, chống bệnh truyền nhiễm
+1. Mọi người đều được tiếp cận với thông tin, giáo dục, truyền thông về phòng, chống bệnh truyền nhiễm.
+2. Người mắc bệnh truyền nhiễm, người bị nghi ngờ mắc bệnh truyền nhiễm, người mang mầm bệnh truyền nhiễm, những người trong gia đình họ và các đối tượng trong vùng có dịch, vùng có nguy cơ dịch được ưu tiên tiếp cận thông tin, giáo dục, truyền thông về phòng, chống bệnh truyền nhiễm.
+Điều 11. Yêu cầu của thông tin, giáo dục, truyền thông về phòng, chống bệnh truyền nhiễm
+1. Chính xác, rõ ràng, dễ hiểu, thiết thực, kịp thời.
+2. Phù hợp với đối tượng, truyền thống văn hoá, dân tộc, đạo đức xã hội, tôn giáo, tín ngưỡng và phong tục tập quán.		Điều 9. Đối tượng, nội dung, yêu cầu và hình thức thông tin, giáo dục, truyền thông về phòng bệnh 
+1. Đối tượng của thông tin, giáo dục, truyền thông về phòng bệnh bao gồm: 
+a) Mọi người đều được tiếp cận với thông tin, giáo dục, truyền thông về phòng bệnh;
+b) Người mắc bệnh truyền nhiễm, người bị nghi ngờ mắc bệnh truyền nhiễm, người mang mầm bệnh truyền nhiễm, những người trong gia đình họ, người có nguy cơ cao và các đối tượng trong vùng có dịch, vùng có nguy cơ dịch được ưu tiên tiếp cận thông tin, giáo dục, truyền thông về phòng, chống bệnh truyền nhiễm.
+2. Nội dung thông tin, truyền thông bao gồm:
+a) Đường lối, chủ trương của Đảng, chính sách, pháp luật của Nhà nước về công tác bảo vệ, chăm sóc và nâng cao sức khỏe nhân dân;
+b) Vai trò, quyền lợi, trách nhiệm và nghĩa vụ của cá nhân, cơ quan, tổ chức trong thực hiện Luật phòng bệnh;
+c) Chính sách về phòng, chống bệnh truyền nhiễm bao gồm các biện pháp chuyên môn y tế trong phòng, chống bệnh truyền nhiễm; chống dịch;
+d) Chính sách về phòng, chống bệnh không lây nhiễm và kiểm soát các yếu tố nguy cơ ảnh hưởng đến sức khỏe bao gồm: dinh dưỡng trong phòng bệnh; kiểm soát các yếu tố nguy cơ môi trường, biến đổi đổi khí hậu tác động đến sức khỏe; phòng, chống các rối loạn sức khỏe tâm thần; dự phòng thương tích và sơ cấp cứu thương tích tại cộng đồng;
+đ) Chính sách về quản lý sức khỏe và ứng dụng công nghệ thông tin trong phòng bệnh;
+e) Chính sách về các điều kiện bảo đảm cho hoạt động phòng bệnh;
+g) Các lĩnh vực y tế khác có liên quan đến công tác phòng bệnh.
+3. Yêu cầu của thông tin, giáo dục, truyền thông về phòng bệnh:
+a) Chính xác, rõ ràng, dễ hiểu, thiết thực, kịp thời, có tính lan tỏa, dễ tiếp cận, khuyến khích các nhóm đối tượng đích thực hiện các hành vi có lợi cho sức khỏe.
+b) Phù hợp với đối tượng, truyền thống văn hoá, dân tộc, đạo đức xã hội, tôn giáo, tín ngưỡng và phong tục tập quán. 
+c) Triển khai đồng bộ phù hợp với loại hình phòng bệnh, nhu cầu và đặc điểm các nhóm đối tượng đích, tình hình thực tế và điều kiện địa phương.
+4. Hình thức thông tin, truyền thông:
+a) Trực tiếp;
+b) Gián tiếp thông qua các hình thức truyền thông, lồng ghép giữa truyền thông truyền thống và hiện đại.
+5. Chính phủ quy định chi tiết Điều này.
+Điều 12. Trách nhiệm thông tin, giáo dục, truyền thông về phòng, chống bệnh truyền nhiễm
+1. Cơ quan, tổ chức, đơn vị vũ trang nhân dân trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm thông tin, giáo dục, truyền thông về phòng, chống bệnh truyền nhiễm.
+2. Bộ Y tế có trách nhiệm chủ trì, phối hợp với các cơ quan có liên quan trong việc cung cấp chính xác và kịp thời thông tin về bệnh truyền nhiễm.
+3. Bộ Thông tin và Truyền thông có trách nhiệm chỉ đạo các cơ quan thông tin đại chúng thường xuyên thông tin, truyền thông về phòng, chống bệnh truyền nhiễm, lồng ghép chương trình phòng, chống bệnh truyền nhiễm với các chương trình thông tin, truyền thông khác.
+4. Bộ Giáo dục và Đào tạo có trách nhiệm chủ trì, phối hợp với Bộ Y tế, Bộ Lao động, Thương binh và Xã hội, các bộ, cơ quan ngang bộ có liên quan xây dựng nội dung giáo dục phòng, chống bệnh truyền nhiễm kết hợp với các nội dung giáo dục khác.
+5. Uỷ ban nhân dân các cấp có trách nhiệm chỉ đạo, tổ chức thực hiện công tác thông tin, giáo dục, truyền thông về phòng, chống bệnh truyền nhiễm cho nhân dân địa phương.
+6. Các cơ quan thông tin đại chúng có trách nhiệm ưu tiên về thời điểm, thời lượng phát sóng để thông tin, giáo dục, truyền thông về phòng, chống bệnh truyền nhiễm trên đài phát thanh, đài truyền hình; dung lượng và vị trí đăng trên báo in, báo hình, báo điện tử theo quy định của Bộ Thông tin và Truyền thông. Việc thông tin, giáo dục, truyền thông về phòng, chống bệnh truyền nhiễm trên các phương tiện thông tin đại chúng không thu phí, trừ trường hợp thực hiện theo hợp đồng riêng với chương trình, dự án hoặc do tổ chức, cá nhân trong nước, nước ngoài tài trợ.		Điều 10. Trách nhiệm thông tin truyền thông về phòng bệnh 
+1. Cá nhân, gia đình, cộng đồng tích cực, chủ động tham gia, hưởng ứng các đợt thông tin, truyền thông về phòng bệnh.
+2. Chính quyền các cấp có trách nhiệm hướng dẫn, tổ chức thực hiện, kiểm tra, giám sát các đơn vị, tổ dân phố, khu phố, khối phố, thôn, ấp, bản, làng, buôn, phum, sóc, tổ chức chính trị - xã hội tại cơ sở, cộng đồng chủ động tham gia, ưu tiên nguồn lực, tăng cường ứng dụng công nghệ thông tin, chuyển đổi số để thực hiện công tác thông tin, truyền thông phòng bệnh trên địa bàn quản lý.
+3. Các Bộ, cơ quan ngang Bộ có trách nhiệm phối hợp với Bộ Y tế, chủ trì xây dựng kế hoạch, tổ chức thực hiện công tác thông tin, truyền thông về phòng bệnh trong phạm vi, lĩnh vực phụ trách.
+Mục 2
+VỆ SINH PHÒNG BỆNH                   TRUYỀN NHIỄM
+
+Điều 13. Vệ sinh phòng bệnh truyền nhiễm trong các cơ sở giáo dục thuộc hệ thống giáo dục quốc dân
+1. Cơ sở giáo dục phải xây dựng ở nơi cao ráo, sạch sẽ, xa nơi ô nhiễm, đủ nước sinh hoạt, công trình vệ sinh; phòng học phải thông thoáng, đủ ánh sáng; thực phẩm sử dụng trong cơ sở giáo dục phải bảo đảm chất lượng vệ sinh an toàn.
+2. Cơ sở giáo dục có trách nhiệm giáo dục cho người học về vệ sinh phòng bệnh truyền nhiễm bao gồm vệ sinh cá nhân, vệ sinh trong sinh hoạt, lao động và vệ sinh môi trường.
+3. Đơn vị y tế của cơ sở giáo dục chịu trách nhiệm tuyên truyền về vệ sinh phòng bệnh; kiểm tra, giám sát vệ sinh môi trường, an toàn vệ sinh thực phẩm và triển khai thực hiện các biện pháp phòng, chống bệnh truyền nhiễm.
+4. Bộ trưởng Bộ Y tế ban hành quy chuẩn kỹ thuật quốc gia về vệ sinh phòng bệnh trong cơ sở giáo dục quy định tại khoản 1 Điều này.
+Điều 14. Vệ sinh trong cung cấp nước sạch, vệ sinh nguồn nước sinh hoạt
+1. Nước sạch phải bảo đảm quy chuẩn kỹ thuật quốc gia theo quy định của Bộ trưởng Bộ Y tế.
+2. Cơ sở cung cấp nước sạch có trách nhiệm áp dụng các biện pháp kỹ thuật, giữ gìn vệ sinh môi trường, tự kiểm tra để bảo đảm chất lượng nước sạch.
+3. Cơ quan nhà nước có thẩm quyền về y tế có trách nhiệm thường xuyên kiểm tra chất lượng nước sạch do các cơ sở cung cấp; kiểm tra việc khám sức khỏe định kỳ cho người lao động làm việc tại các cơ sở cung cấp nước sạch.
+4. Uỷ ban nhân dân các cấp có trách nhiệm tổ chức thực hiện việc bảo vệ, giữ gìn vệ sinh, không để ô nhiễm nguồn nước sinh hoạt; tạo điều kiện cho việc cung cấp nước sạch.
+5. Cơ quan, tổ chức, cá nhân có trách nhiệm bảo vệ, giữ gìn vệ sinh, không để ô nhiễm nguồn nước sinh hoạt.
+Điều 15. Vệ sinh trong chăn nuôi, vận chuyển, giết mổ, tiêu hủy gia súc, gia cầm và động vật khác
+1. Việc chăn nuôi, vận chuyển, giết mổ, tiêu hủy gia súc, gia cầm và động vật khác phải bảo đảm vệ sinh, không gây ô nhiễm môi trường, nguồn nước sinh hoạt hoặc làm phát tán tác nhân gây bệnh truyền nhiễm.
+2. Cơ quan nhà nước có thẩm quyền về thú y chịu trách nhiệm hướng dẫn tổ chức, cá nhân thực hiện các biện pháp vệ sinh trong chăn nuôi, vận chuyển, giết mổ, tiêu hủy gia súc, gia cầm và động vật khác để tránh làm lây truyền bệnh cho người.
+Điều 16. Vệ sinh an toàn thực phẩm
+1. Tổ chức, cá nhân trồng trọt, chăn nuôi, thu hái, đánh bắt, sơ chế, chế biến, bao gói, bảo quản, vận chuyển, buôn bán thực phẩm có trách nhiệm bảo đảm cho thực phẩm không bị nhiễm tác nhân gây bệnh truyền nhiễm và thực hiện các quy định khác của pháp luật về vệ sinh an toàn thực phẩm.
+2. Người tiêu dùng có quyền được cung cấp thông tin về vệ sinh an toàn thực phẩm; có trách nhiệm thực hiện vệ sinh an toàn thực phẩm, thực hiện đầy đủ các hướng dẫn về vệ sinh an toàn thực phẩm, khai báo ngộ độc thực phẩm và bệnh truyền qua đường thực phẩm.
+3. Cơ quan nhà nước có thẩm quyền về vệ sinh an toàn thực phẩm có trách nhiệm hướng dẫn tổ chức, cá nhân thực hiện các biện pháp bảo đảm vệ sinh an toàn thực phẩm để phòng, chống bệnh truyền nhiễm.
+Điều 17. Vệ sinh trong xây dựng
+1. Công trình khi xây dựng phải tuân thủ các quy chuẩn kỹ thuật quốc gia về vệ sinh trong xây dựng theo quy định của Bộ trưởng Bộ Y tế.
+2. Dự án đầu tư xây dựng khu công nghiệp, khu đô thị, khu dân cư tập trung, cơ sở khám bệnh, chữa bệnh truyền nhiễm chỉ được xây dựng sau khi có thẩm định của cơ quan y tế có thẩm quyền về báo cáo đánh giá tác động sức khoẻ.
+3. Cơ sở khám bệnh, chữa bệnh truyền nhiễm, các cơ sở có nguy cơ làm lây truyền tác nhân gây bệnh truyền nhiễm phải có khoảng cách an toàn về môi trường đối với khu dân cư, khu bảo tồn thiên nhiên theo quy định của Bộ trưởng Bộ Y tế.
+4. Cơ quan, tổ chức, cá nhân có trách nhiệm tổ chức thực hiện việc bảo đảm vệ sinh trong xây dựng.
+Điều 18. Vệ sinh trong việc quàn, ướp, mai táng, di chuyển thi thể, hài cốt
+1. Người tử vong phải được tổ chức mai táng chậm nhất là 48 giờ sau khi chết, trừ trường hợp thi thể được bảo quản theo quy định của Bộ trưởng Bộ Y tế; đối với người mắc bệnh truyền nhiễm hoặc bị nghi ngờ mắc bệnh truyền nhiễm thuộc nhóm A tử vong thì thi thể phải được diệt khuẩn và tổ chức mai táng trong thời hạn 24 giờ.
+2. Việc bảo quản, quàn, ướp, mai táng, di chuyển thi thể, hài cốt thực hiện theo quy định của Bộ trưởng Bộ Y tế.
+Điều 19. Các hoạt động khác trong vệ sinh phòng bệnh truyền nhiễm
+1. Cơ quan, tổ chức, cá nhân phải thực hiện biện pháp bảo đảm về vệ sinh nơi ở, nơi công cộng, nơi sản xuất, kinh doanh, phương tiện giao thông, xử lý chất thải công nghiệp, sinh hoạt và các biện pháp bảo đảm khác về vệ sinh theo quy định của pháp luật có liên quan để không làm phát sinh, lây lan bệnh truyền nhiễm.
+2. Mọi người có trách nhiệm thực hiện vệ sinh cá nhân để phòng bệnh truyền nhiễm.	Chương 2:
+VỆ SINH TRONG SINH HOẠT VÀ LAO ĐỘNG, VỆ SINH CÔNG CỘNG, PHÒNG VÀ CHỐNG DỊCH BỆNH
+
+Điều 6. Giáo dục vệ sinh.
+1- Các cơ quan y tế, văn hoá, giáo dục, thể dục thể thao, thông tin đại chúng và các tổ chức xã hội có trách nhiệm tuyên truyền, giáo dục cho nhân dân kiến thức về y học và vệ sinh thường thức, vệ sinh môi trường, vệ sinh phụ nữ, vệ sinh thai nghén và nuôi dạy con.
+2- Bộ giáo dục xây dựng chương trình giáo dục vệ sinh cho học sinh phổ thông, mẫu giáo, nhà trẻ, tạo thói quen giữ gìn vệ sinh chung, vệ sinh trong sinh hoạt và học tập.
+Điều 7. Vệ sinh lương thực, thực phẩm, các loại nước uống và rượu
+1- Các tổ chức Nhà nước, tập thể, tư nhân khi sản xuất, chế biến, bao bì đóng gói, bảo quản, vận chuyển lương thực, thực phẩm, các loại nước uống và rượu phải bảo đảm tiêu chuẩn vệ sinh. Khi đưa các hoá chất mới, nguyên liệu mới hoặc các chất phụ gia mới vào chế biến, bảo quản lương thực, thực phẩm, các loại nước uống, rượu và sản phẩm các loại bao bì đóng gói phải được phép của Sở y tế.
+2- Nghiêm cấm sản xuất, lưu thông, xuất khẩu, nhập khẩu những mặt hàng lương thực, thực phẩm, các loại nước uống và rượu không bảo đảm tiêu chuẩn vệ sinh.
+3- Người đang mắc bệnh truyền nhiễm không được làm những công việc có liên quan trực tiếp đến thực phẩm, các loại nước uống và rượu.
+Điều 8. Vệ sinh nước và các nguồn nước dùng trong sinh hoạt của nhân dân.
+1- Các cơ quan, xí nghiệp cấp nước phải bảo đảm tiêu chuẩn vệ sinh nước dùng trong sinh hoạt của nhân dân.
+2- Nghiêm cấm các tổ chức Nhà nước, tập thể, tư nhân và mọi công dân làm ô nhiễm các nguồn nước dùng trong sinh hoạt của nhân dân.
+Điều 9. Vệ sinh trong sản xuất, bảo quản, vận chuyển và sử dụng hoá chất.
+1- Các tổ chức Nhà nước, tập thể, tư nhân và mọi công dân khi sản xuất, bảo quản, vận chuyển, sử dụng phân bón, thuốc trừ sâu, diệt cỏ, diệt chuột, hoá chất kích thích sinh trưởng vật nuôi, cây trồng và các loại hoá chất khác phải bảo đảm tiêu chuẩn vệ sinh, không gây nguy hại đến sức khoẻ con người.
+2- Các cơ sở sản xuất mỹ phẩm, đồ chơi trẻ em, đồ dùng vệ sinh cá nhân bằng hoá chất phải bảo đảm tiêu chuẩn vệ sinh.
+Điều 10. Vệ sinh các chất thải trong công nghiệp và trong sinh hoạt.
+1- Các xí nghiệp, các cơ sở sản xuất của Nhà nước, tập thể, tư nhân phải thực hiện những biện pháp xử lý chất thải trong công nghiệp để phòng, chống ô nhiễm không khí, đất và nước theo quy định của Hội đồng bộ trưởng.
+2- Các tổ chức Nhà nước, tổ chức xã hội, tập thể, tư nhân và mọi công dân không được để các chất phế thải trong sinh hoạt làm ô nhiễm môi trường sống ở các khu dân cư.
+Điều 11. Vệ sinh trong chăn nuôi gia súc, gia cầm.
+1- Việc chăn nuôi gia súc, gia cầm phải bảo đảm vệ sinh chung. Không được giết mổ, mua, bán, ăn thịt gia súc, gia cầm bị bệnh truyền nhiễm gây nguy hại cho sức khoẻ con người.
+2- Nghiêm cấm việc thả rông chó ở thành phố, thị xã và thị trấn; chó nuôi phải được tiêm phòng theo quy định của cơ quan thú y.
+Điều 12. Vệ sinh trong xây dựng.
+Việc quy hoạch xây dựng và cải tạo các khu dân cư, các công trình công nghiệp và các công trình dân dụng đều phải tuân theo tiêu chuẩn vệ sinh.
+Điều 13. Vệ sinh trong trường học và nhà trẻ.
+1- Hội đồng nhân dân, Uỷ ban nhân dân các cấp, ngành giáo dục và các ngành có liên quan phải từng bước bảo đảm cơ sở vật chất, trang thiết bị, ánh sáng, đồ dùng giảng dạy, học tập ở trường học và nhà trẻ, không làm ảnh hưởng đến sức khoẻ của học sinh và giáo viên.
+2- Hiệu trưởng các trường học và Chủ nhiệm các nhà trẻ phải bảo đảm thực hiện chương trình học tập rèn luyện đã được quy định; bảo đảm vệ sinh trường, lớp và nhà trẻ.
+Điều 14. Vệ sinh trong lao động.
+1- Các tổ chức Nhà nước, tập thể và tư nhân phải thực hiện các biện pháp bảo đảm an toàn lao động, bảo đảm tiêu chuẩn vệ sinh về độ nóng, ẩm, khói, bụi, tiếng ồn, rung chuyển và về các yếu tố độc hại khác trong lao động sản xuất để bảo vệ sức khoẻ, phòng, chống bệnh nghề nghiệp cho người lao động, không gây ảnh hưởng xấu đến môi trường xung quanh.
+2- Đơn vị và cá nhân sử dụng lao động phải tổ chức việc khám sức khoẻ định kỳ cho người lao động và phải phải bảo đảm trang bị bảo hộ lao động cần thiết cho người lao động.
+Điều 15. Vệ sinh nơi công cộng.
+1- Mọi người phải có trách nhiệm thực hiện những quy định về vệ sinh nơi công cộng.
+2- Cấm phóng uế, vứt rác và các chất phế thải khác trên đường phố, vườn hoa, công viên và những nơi công cộng khác.
+3- Cấm hút thuốc trong phòng họp, ở rạp chiếu bóng, rạp hát và những nơi quy định khác.
+Điều 16. Vệ sinh trong việc quàn, ướp, chôn, hoả táng, di chuyển thi hài, hài cốt.
+1- Việc quàn, ướp, chôn, hoả táng, di chuyển thi hài, hài cốt, phải tuân theo các quy định về vệ sinh phòng dịch. Nhà nước khuyến khích việc hoả táng thi hài và hài cốt.
+2- Khi di chuyển thi hài, hài cốt qua biên giới Việt Nam, phải có giấy phép theo quy định của Hội đồng bộ trưởng nước Cộng hoà xã hội chủ nghĩa Việt Nam.
+Điều 17. Phòng và chống các bệnh nhiễm khuẩn, bệnh dịch.
+1- Y tế cơ sở phải tổ chức tiêm chủng các loại vắc xin phòng bệnh cho nhân dân.
+2- Các tổ chức Nhà nước, tập thể, tư nhân và mọi công dân phải thực hiện các biện pháp phòng, chống các bệnh nhiễm khuẩn, bệnh dịch. Khi phát hiện có bệnh dịch hoặc nghi có bệnh dịch trong đơn vị, địa phương, cơ quan y tế phải báo cáo kịp thời với Uỷ ban nhân dân cùng cấp và cơ quan y tế cấp trên.
+3- Uỷ ban nhân dân các cấp phải bảo đảm công tác phòng dịch, chống dịch tại địa phương.
+4- Căn cứ vào tính chất nguy hiểm, mức độ lây lan của từng vụ dịch, Chủ tịch Hội đồng bộ trưởng, Bộ trưởng Bộ y tế, Chủ tịch Uỷ ban nhân dân tỉnh, thành phố, đặc khu trực thuộc trung ương có quyền áp dụng những biện pháp đặc biệt để nhanh chóng dập tắt dịch.
+Điều 18. Kiểm dịch.
+1- Động vật, thực vật, phương tiện vận chuyển hàng hoá ra vào biên giới và quá cảnh nước Cộng hoà xã hội chủ nghĩa Việt Nam đều phải được kiểm dịch.
+2- Động vật, thực vật, phương tiện vận chuyển, hàng hoá và bưu phẩm từ vùng có dịch chuyển ra vùng không có dịch đều phải được kiểm dịch tại các đầu mối giao thông và bưu điện.	Luật Bảo vệ sức khỏe nhân dân (BVSKND) năm 1989 đã có các quy định về vệ sinh trong sinh hoạt và lao động, vệ sinh công cộng, phòng và chống dịch trong đó có những quy định đã hết hiệu lực do Luật PCBTN đã quy định về vệ sinh phòng, BTN. Ngoài ra, một loạt các quy định đã được điều chỉnh bởi các luật chuyên ngành ví dụ như quy định vệ sinh trong chăn nuôi, vận chuyển, giết mổ, tiêu hủy gia súc, gia cầm và động vật khác đã được quy định tại Luật thú y, quy định về vệ sinh an toàn thực phẩm (ATTP) đã được điều chỉnh bằng Luật ATTP.
+Về vệ sinh trong xây dựng, Luật BVSKND đã quy định, tuy nhiên, theo quy định của Luật bảo vệ môi trường đã quy định về đánh giá tác động môi trường trong đó nội dung đánh giá bao gồm: Đánh giá, dự báo các nguồn thải và tác động của dự án đến môi trường và sức khỏe cộng đồng; Đánh giá, dự báo, xác định biện pháp quản lý rủi ro của dự án đến môi trường và sức khỏe cộng đồng. Như vậy, có thể dẫn tới một dự án đầu tư xây dựng phải lập hai báo cáo có cùng một nội dung và được thẩm định bởi 2 cơ quan khác nhau, điều này sẽ gây khó khăn cho các nhà đầu tư và phát sinh các thủ tục không cần thiết.
+      Về ATSH trong xét nghiệm: Theo quy định tại Điều 24 của Luật PCBTN thì phòng xét nghiệm phải bảo đảm các điều kiện ATSH phù hợp với từng cấp độ và chỉ được tiến hành xét nghiệm trong phạm vi chuyên môn sau khi được cơ quan nhà nước có thẩm quyền về y tế cấp giấy chứng nhận đạt tiêu chuẩn ATSH. Như vậy, mọi phòng xét nghiệm đều phải có giấy chứng nhận đạt tiêu chuẩn ATSH. Tuy nhiên, Nghị định số 103/2016/NĐ-CP ngày 01/7/2016 của Chính phủ quy định về bảo đảm ATSH trong phòng xét nghiệm lại chỉ quy định cấp giấy chứng nhận ATSH đối với phòng ATSH cấp 3, 4 và không cấp giấy chứng nhận đạt tiêu chuẩn ATSH đối với phòng ATSH cấp 1 và 2 mà thay bằng hình thức phòng xét nghiệm tự công bố đủ điều kiện ATSH theo từng cấp độ. Như vậy, là chưa bảo đảm tính đồng bộ giữa Luật và Nghị định.
+Điều 56. Hợp tác quốc tế trong hoạt động chống dịch
+1. Khi có dịch xảy ra, căn cứ vào tính chất, mức độ nguy hiểm của dịch, Bộ trưởng Bộ Y tế quyết định hợp tác quốc tế về trao đổi mẫu bệnh phẩm, thông tin dịch, chuyên môn, kỹ thuật, chuyên gia, thiết bị, kinh phí trong hoạt động chống dịch.
+2. Trường hợp ban bố tình trạng khẩn cấp về dịch, Thủ tướng Chính phủ kêu gọi các quốc gia, các tổ chức quốc tế hỗ trợ nguồn lực để chống dịch và phối hợp triển khai các biện pháp ngăn chặn dịch lây lan.		Điều 11. Hợp tác quốc tế trong phòng bệnh 
+1. Nhà nước chủ động và tích cực hợp tác quốc tế trong lĩnh vực phòng bệnh phù hợp với pháp luật Việt Nam và các Điều ước quốc tế mà Việt Nam kí kết tham gia.
+2. Khuyến khích các tổ chức, cá nhân tham gia hỗ trợ, trao đổi và hợp tác quốc tế trong lĩnh vực nghiên cứu, đào tạo nhằm phát triển, nâng cao chất lượng nguồn nhân lực trong phòng bệnh.
+3. Khi có dịch xảy ra, căn cứ vào tác nhân, tính chất, mức độ nguy hiểm của dịch, Bộ trưởng Bộ Y tế quyết định hợp tác quốc tế về nghiên cứu khoa học, đào tạo; trao đổi mẫu bệnh phẩm, thông tin dịch, chuyên môn, kỹ thuật, công nghệ, chuyên gia, thiết bị; hỗ trợ nguồn lực trong hoạt động phòng, chống dịch.
+4. Trường hợp ban bố tình trạng khẩn cấp về dịch bệnh, Thủ tướng Chính phủ kêu gọi các quốc gia, các tổ chức quốc tế hỗ trợ nguồn lực để chống dịch và phối hợp triển khai các biện pháp ngăn chặn dịch lây lan theo Điều lệ Y tế quốc tế.
+		Bổ sung điều mới
+Điều 12. Hệ thống thông tin về phòng bệnh
+1. Hệ thống thông tin về phòng bệnh bao gồm thông tin về bệnh truyền nhiễm, bệnh không lây nhiễm, tiêm chủng, dinh dưỡng, thương tích và các thông tin khác.
+2. Việc xây dựng, quản lý, vận hành, khai thác và sử dụng hệ thống thông tin về phòng bệnh được thực hiện theo quy định của Chính phủ.
+Điều 20. Hoạt động giám sát bệnh truyền nhiễm
+1. Giám sát các trường hợp mắc bệnh, bị nghi ngờ mắc bệnh và mang mầm bệnh truyền nhiễm.
+2. Giám sát tác nhân gây bệnh truyền nhiễm.
+3. Giám sát trung gian truyền bệnh.
+Điều 21. Nội dung giám sát bệnh truyền nhiễm
+1. Giám sát các trường hợp mắc bệnh, bị nghi ngờ mắc bệnh và mang mầm bệnh truyền nhiễm bao gồm thông tin về địa điểm, thời gian, các trường hợp mắc bệnh, tử vong; tình trạng bệnh; tình trạng miễn dịch; đặc điểm chủ yếu về dân số và các thông tin cần thiết khác.
+Trong trường hợp cần thiết, cơ quan y tế có thẩm quyền được lấy mẫu xét nghiệm ở người bị nghi ngờ mắc bệnh truyền nhiễm để giám sát.
+2. Giám sát tác nhân gây bệnh truyền nhiễm bao gồm các thông tin liên quan về chủng loại, đặc tính sinh học và phương thức lây truyền từ nguồn truyền nhiễm.
+3. Giám sát trung gian truyền bệnh bao gồm các thông tin liên quan đến số lượng, mật độ, thành phần và mức độ nhiễm tác nhân gây bệnh truyền nhiễm của trung gian truyền bệnh.
+Điều 22. Báo cáo giám sát bệnh truyền nhiễm
+1. Báo cáo giám sát bệnh truyền nhiễm phải được gửi cho cơ quan nhà nước có thẩm quyền về y tế. Nội dung báo cáo giám sát bệnh truyền nhiễm bao gồm các thông tin quy định tại Điều 21 của Luật này.
+2. Báo cáo giám sát bệnh truyền nhiễm phải được thực hiện bằng văn bản; trong trường hợp khẩn cấp, có thể thực hiện việc báo cáo thông qua fax, thư điện tử, điện tín, điện thoại hoặc báo cáo trực tiếp và trong thời hạn 24 giờ phải gửi báo cáo bằng văn bản.
+3. Chế độ báo cáo giám sát bệnh truyền nhiễm bao gồm:
+a) Báo cáo định kỳ;
+b) Báo cáo nhanh;
+c) Báo cáo đột xuất.
+4. Cơ quan nhà nước có thẩm quyền về y tế khi nhận được báo cáo phải xử lý thông tin và thông báo cho cơ quan gửi báo cáo.
+5. Trong trường hợp xác định có dịch, cơ quan nhà nước có thẩm quyền về y tế phải báo cáo ngay với cơ quan nhà nước có thẩm quyền về y tế cấp trên và người có thẩm quyền công bố dịch.
+6. Bộ trưởng Bộ Y tế quy định cụ thể chế độ thông tin, báo cáo bệnh truyền nhiễm.
+Điều 23. Trách nhiệm giám sát bệnh truyền nhiễm
+1. Uỷ ban nhân dân các cấp chỉ đạo, tổ chức thực hiện giám sát bệnh truyền nhiễm tại địa phương.
+2. Cơ quan nhà nước có thẩm quyền về y tế có trách nhiệm giúp Uỷ ban nhân dân cùng cấp trong việc chỉ đạo các cơ sở y tế giám sát bệnh truyền nhiễm.
+3. Cơ sở y tế có trách nhiệm thực hiện hoạt động giám sát bệnh truyền nhiễm. Khi phát hiện môi trường có tác nhân gây bệnh truyền nhiễm thuộc nhóm A, người mắc bệnh truyền nhiễm thuộc nhóm A, người bị nghi ngờ mắc bệnh truyền nhiễm thuộc nhóm A, người mang mầm bệnh truyền nhiễm thuộc nhóm A, cơ sở y tế phải thông báo cho cơ quan nhà nước có thẩm quyền về y tế, triển khai vệ sinh, khử trùng, tẩy uế và các biện pháp phòng, chống bệnh truyền nhiễm khác.
+4. Cơ quan, tổ chức, cá nhân khi phát hiện bệnh hoặc dấu hiệu bệnh truyền nhiễm có trách nhiệm thông báo cho Ủy ban nhân dân, cơ quan chuyên môn y tế hoặc cơ sở y tế nơi gần nhất.
+5. Trong quá trình thực hiện giám sát bệnh truyền nhiễm, cơ sở xét nghiệm có trách nhiệm thực hiện việc xét nghiệm theo yêu cầu của cơ quan y tế có thẩm quyền.
+6. Bộ trưởng Bộ Y tế ban hành quy định chuyên môn kỹ thuật trong giám sát bệnh truyền nhiễm.
+7. Bộ Nông nghiệp và Phát triển nông thôn, Bộ Tài nguyên và Môi trường và các bộ, cơ quan ngang bộ khác khi thực hiện nhiệm vụ, quyền hạn thuộc phạm vi quản lý nhà nước của mình, nếu phát hiện tác nhân gây bệnh truyền nhiễm thì có trách nhiệm phối hợp với Bộ Y tế trong hoạt động giám sát.		Điều 13. Giám sát trong phòng bệnh
+1. Đối tượng giám sát bệnh truyền nhiễm:
+a) Người mắc bệnh truyền nhiễm, người mang mầm bệnh truyền nhiễm và người bị nghi ngờ mắc bệnh truyền nhiễm;
+b) Tác nhân gây bệnh truyền nhiễm;
+c) Ổ chứa, trung gian truyền bệnh truyền nhiễm và các yếu tố nguy cơ.
+2. Đối tượng giám sát bệnh không lây nhiễm:
+a) Người mắc bệnh không lây nhiễm;
+b) Các yếu tố nguy cơ gây bệnh không lây nhiễm.
+3. Đối tượng giám sát trong dinh dưỡng:
+a) Người mắc bệnh liên quan đến dinh dưỡng;
+b) Theo tần suất đối với toàn bộ người dân và trẻ em dưới 6 tuổi;
+c) Các yếu tố nguy cơ gây bệnh liên quan đến dinh dưỡng.
+4. Đối tượng giám sát trong phòng, chống thương tích:
+a) Người bị thương tích trong cộng đồng;
+b) Các yếu tố nguy cơ dẫn đến thương tích trong cộng đồng.
+5. Đối tượng giám sát trong quản lý các rối loạn sức khỏe tâm thần:
+a) Người có nguy cơ mắc rối loạn sức khỏe tâm thần; 
+b) Người mắc rối loạn sức khỏe tâm thần;
+c) Các yếu tố nguy cơ dẫn đến mắc rối loạn sức khỏe tâm thần.
+6. Giám sát trong phòng bệnh được thực hiện trên toàn bộ phạm vi địa bàn quản lý hành chính được phân công giám sát.
+7. Bộ trưởng Bộ Y tế quy định chi tiết khoản 6 Điều này; quy định quy trình giám sát, tần suất giám sát, quản lý thông tin dữ liệu, nội dung giám sát, chế độ thông tin và báo cáo giám sát trong phòng bệnh.
+Điều 3. Phân loại bệnh truyền nhiễm
+1. Bệnh truyền nhiễm gồm các nhóm sau đây:
+a) Nhóm A gồm các bệnh truyền nhiễm đặc biệt nguy hiểm có khả năng lây truyền rất nhanh, phát tán rộng và tỷ lệ tử vong cao hoặc chưa rõ tác nhân gây bệnh.
+Các bệnh truyền nhiễm thuộc nhóm A bao gồm bệnh bại liệt; bệnh cúm A-H5N1; bệnh dịch hạch; bệnh đậu mùa; bệnh sốt xuất huyết do vi rút Ê - bô - la (Ebola), Lát-sa (Lassa) hoặc Mác-bớc (Marburg); bệnh sốt Tây sông Nin (Nile); bệnh sốt vàng; bệnh tả; bệnh viêm đường hô hấp cấp nặng do vi rút và các bệnh truyền nhiễm nguy hiểm mới phát sinh chưa rõ tác nhân gây bệnh;
+b) Nhóm B gồm các bệnh truyền nhiễm nguy hiểm có khả năng lây truyền nhanh và có thể gây tử vong.
+Các bệnh truyền nhiễm thuộc nhóm B bao gồm bệnh do vi rút A-đê-nô (Adeno); bệnh do vi rút gây ra hội chứng suy giảm miễn dịch mắc phải ở người (HIV/AIDS); bệnh bạch hầu; bệnh cúm; bệnh dại; bệnh ho gà; bệnh lao phổi; bệnh do liên cầu lợn ở người; bệnh lỵ A-míp (Amibe); bệnh lỵ trực trùng; bệnh quai bị; bệnh sốt Đăng gơ (Dengue), sốt xuất huyết Đăng gơ (Dengue); bệnh sốt rét; bệnh sốt phát ban; bệnh sởi; bệnh tay-chân-miệng; bệnh than; bệnh thủy đậu; bệnh thương hàn; bệnh uốn ván; bệnh Ru-bê-ôn (Rubeon); bệnh viêm gan vi rút; bệnh viêm màng não do não mô cầu; bệnh viêm não vi rút; bệnh xoắn khuẩn vàng da; bệnh tiêu chảy do vi rút Rô-ta (Rota);
+c) Nhóm C gồm các bệnh truyền nhiễm ít nguy hiểm, khả năng lây truyền không nhanh.
+Các bệnh truyền nhiễm thuộc nhóm C bao gồm bệnh do Cờ-la-my-đi-a (Chlamydia); bệnh giang mai; các bệnh do giun; bệnh lậu; bệnh mắt hột; bệnh do nấm Can-đi-đa-an-bi-căng (Candida albicans); bệnh Nô-ca-đi-a (Nocardia); bệnh phong; bệnh do vi rút Xi-tô-mê-ga-lô (Cytomegalo); bệnh do vi rút Héc-péc (Herpes); bệnh sán dây; bệnh sán lá gan; bệnh sán lá phổi; bệnh sán lá ruột; bệnh sốt mò; bệnh sốt do Rích-két-si-a (Rickettsia); bệnh sốt xuất huyết do vi rút Han-ta (Hanta); bệnh do Tờ-ri-cô-mô-nát (Trichomonas); bệnh viêm da mụn mủ truyền nhiễm; bệnh viêm họng, viêm miệng, viêm tim do vi rút Cốc-xác-ki (Coxsakie); bệnh viêm ruột do Giác-đi-a (Giardia); bệnh viêm ruột do Vi-bờ-ri-ô Pa-ra-hê-mô-ly-ti-cút (Vibrio Parahaemolyticus) và các bệnh truyền nhiễm khác.
+2. Bộ trưởng Bộ Y tế quyết định điều chỉnh, bổ sung danh mục bệnh truyền nhiễm thuộc các nhóm quy định tại khoản 1 Điều này.		Điều 14. Phân loại bệnh truyền nhiễm, dịch bệnh truyền nhiễm
+1. Bệnh truyền nhiễm được phân loại theo các nhóm bao gồm: 
+a) Nhóm A gồm các bệnh truyền nhiễm đặc biệt nguy hiểm;
+b) Nhóm B gồm các bệnh truyền nhiễm nguy hiểm; 
+c) Nhóm C gồm các bệnh truyền nhiễm ít nguy hiểm.
+2. Dịch bệnh truyền nhiễm được phân loại theo khả năng kiểm soát bao gồm: 
+a) Dịch bệnh truyền nhiễm trong khả năng kiểm soát;
+b) Dịch bệnh truyền nhiễm vượt quá khả năng kiểm soát.
+3. Các cấp độ dịch bệnh truyền nhiễm vượt quá khả năng kiểm soát bao gồm: 
+a) Cấp độ 1: dịch bệnh truyền nhiễm vượt quá khả năng, điều kiện ứng phó, khắc phục hậu quả của lực lượng chuyên trách và chính quyền địa phương cấp xã; 
+b) Cấp độ 2: dịch bệnh truyền nhiễm vượt quá khả năng, điều kiện ứng phó, khắc phục hậu quả của chính quyền địa phương cấp tỉnh; 
+c) Cấp độ 3: dịch bệnh trong tình trạng khẩn cấp thực hiện theo pháp luật về tình trạng khẩn cấp, pháp luật về phòng thủ dân sự.
+4. Bộ trưởng Bộ Y tế quy định tiêu chí xác định phân loại nhóm bệnh truyền nhiễm và phân loại dịch bệnh truyền nhiễm theo khả năng kiểm soát.
+Điều 31. Biện pháp phòng lây nhiễm bệnh truyền nhiễm tại cơ sở khám bệnh, chữa bệnh
+1. Cách ly người mắc bệnh truyền nhiễm.
+2. Diệt khuẩn, khử trùng môi trường và xử lý chất thải tại cơ sở khám bệnh, chữa bệnh.
+3. Phòng hộ cá nhân, vệ sinh cá nhân.
+4. Các biện pháp chuyên môn khác theo quy định của pháp luật.		Điều 15. Các biện pháp phòng, chống bệnh truyền nhiễm, dịch bệnh truyền nhiễm 
+1. Các biện pháp phòng, chống bệnh truyền nhiễm, dịch bệnh truyền nhiễm trong khả năng kiểm soát bao gồm: 
+a) Giám sát bệnh truyền nhiễm;
+b) Đánh giá nguy cơ, cảnh báo dịch bệnh; điều tra xác định dịch bệnh;
+c) Thông tin, khai báo bệnh truyền nhiễm, dịch bệnh truyền nhiễm; 
+d) Cách ly y tế;
+đ) Kiểm dịch y tế;
+e) Sử dụng vắc xin, sinh phẩm phòng bệnh;
+g) Xét nghiệm;
+h) Bảo đảm an toàn sinh học;
+i) Tổ chức cấp cứu, khám bệnh, chữa bệnh, phục hồi chức năng; 
+k) Vệ sinh, khử khuẩn trong vùng có dịch và các biện pháp bảo vệ cá nhân;
+l) Thử nghiệm, áp dụng phương pháp mới để phòng, chống bệnh truyền nhiễm;
+m) Thông báo dịch, hết dịch bệnh truyền nhiễm;
+n) Thực hiện các biện pháp phòng, chống bệnh truyền nhiễm, dịch bệnh truyền nhiễm khác.
+2. Các biện pháp phòng, chống dịch bệnh truyền nhiễm vượt quá khả năng kiểm soát bao gồm các biện pháp quy định tại khoản 1 Điều này và thực hiện các biện pháp khác theo quy định của pháp luật về tình trạng khẩn cấp, pháp luật về phòng thủ dân sự.
+3. Bộ trưởng Bộ Y tế có trách nhiệm ban hành hướng dẫn chuyên môn kỹ thuật, quy định tại các điểm b, c, g, i, k, l khoản 1 Điều này; nội dung, quy trình và thẩm quyền thông báo dịch, hết dịch bệnh truyền nhiễm tại điểm m khoản 1 Điều này.
+Điều 32. Trách nhiệm của cơ sở khám bệnh, chữa bệnh trong phòng lây nhiễm bệnh truyền nhiễm
+1. Thực hiện các biện pháp cách ly phù hợp theo từng nhóm bệnh; chăm sóc toàn diện người mắc bệnh truyền nhiễm. Trường hợp người bệnh không thực hiện yêu cầu cách ly của cơ sở khám bệnh, chữa bệnh thì bị áp dụng biện pháp cưỡng chế cách ly theo quy định của Chính phủ.
+2. Tổ chức thực hiện các biện pháp diệt khuẩn, khử trùng môi trường và xử lý chất thải tại cơ sở khám bệnh, chữa bệnh.
+3. Bảo đảm trang phục phòng hộ, điều kiện vệ sinh cá nhân cho thầy thuốc, nhân viên y tế, người bệnh và người nhà người bệnh.
+4. Theo dõi sức khỏe của thầy thuốc, nhân viên y tế trực tiếp tham gia chăm sóc, điều trị người mắc bệnh truyền nhiễm thuộc nhóm A.
+5. Thông báo thông tin liên quan đến người mắc bệnh truyền nhiễm cho cơ quan y tế dự phòng cùng cấp.
+6. Thực hiện các biện pháp chuyên môn khác theo quy định của pháp luật.
+Điều 33. Trách nhiệm của thầy thuốc và nhân viên y tế trong phòng lây nhiễm bệnh truyền nhiễm tại cơ sở khám bệnh, chữa bệnh
+1. Thực hiện các biện pháp phòng lây nhiễm bệnh truyền nhiễm quy định tại Điều 31 của Luật này.
+2. Tư vấn về các biện pháp phòng, chống bệnh truyền nhiễm cho người bệnh và người nhà người bệnh.
+3. Giữ bí mật thông tin liên quan đến người bệnh.
+Điều 34. Trách nhiệm của người bệnh, người nhà người bệnh trong phòng lây nhiễm bệnh truyền nhiễm tại cơ sở khám bệnh, chữa bệnh
+1. Người bệnh có trách nhiệm:
+a) Khai báo trung thực diễn biến bệnh;
+b) Tuân thủ chỉ định, hướng dẫn của thầy thuốc, nhân viên y tế và nội quy, quy chế của cơ sở khám bệnh, chữa bệnh;
+c) Đối với người mắc bệnh truyền nhiễm thuộc nhóm A ngay sau khi xuất viện phải đăng ký theo dõi sức khỏe với y tế xã, phường, thị trấn nơi cư trú.
+2. Người nhà người bệnh có trách nhiệm thực hiện chỉ định, hướng dẫn của thầy thuốc, nhân viên y tế và nội quy, quy chế của cơ sở khám bệnh, chữa bệnh.		Điều 16. Quyền và nghĩa vụ của cơ quan, tổ chức, cá nhân trong phòng, chống bệnh truyền nhiễm 
+1. Quyền của người dân trong phòng bệnh:
+a) Quyền được cung cấp đầy đủ, kịp thời và chính xác thông tin về tình hình dịch bệnh, các biện pháp phòng, chống và các quy định của pháp luật liên quan; được yêu cầu cung cấp thông tin về tình trạng sức khỏe của bản thân liên quan đến bệnh truyền nhiễm.
+b) Quyền được chăm sóc và bảo vệ sức khỏe; được tiếp cận các dịch vụ y tế dự phòng, khám bệnh, chữa bệnh khi mắc bệnh truyền nhiễm; được bảo đảm an toàn về sức khỏe khi thực hiện các biện pháp phòng, chống dịch bệnh; được từ chối các biện pháp y tế không phù hợp với quy định của pháp luật hoặc trái với đạo đức nghề nghiệp y tế.
+c) Quyền được bảo đảm quyền riêng tư và không bị kỳ thị; được bảo vệ thông tin cá nhân, thông tin về tình trạng sức khỏe liên quan đến bệnh truyền nhiễm, trừ trường hợp pháp luật có quy định khác; không bị phân biệt đối xử, kỳ thị vì tình trạng bệnh tật.
+d) Quyền được khiếu nại, tố cáo các hành vi vi phạm pháp luật về phòng, chống bệnh truyền nhiễm; được bồi thường thiệt hại về sức khỏe, tài sản do các biện pháp phòng, chống dịch bệnh gây ra theo quy định của pháp luật.
+2. Nghĩa vụ của người dân trong phòng bệnh:
+a) Chủ động thực hiện các biện pháp phòng bệnh theo yêu cầu của cơ quan y tế và cơ quan nhà nước có thẩm quyền;
+b) Khai báo kịp thời cho cơ sở y tế hoặc cơ quan có thẩm quyền khi phát hiện bản thân hoặc người khác bị mắc bệnh truyền nhiễm hoặc nghi ngờ mắc bệnh truyền nhiễm;
+c) Cung cấp thông tin đầy đủ, trung thực và kịp thời các thông tin dịch tễ và các thông tin khác có liên quan đến quá trình mắc bệnh truyền nhiễm theo yêu cầu của cơ quan y tế và cơ quan nhà nước có thẩm quyền;
+d) Thực hiện và tuân thủ đầy đủ các biện pháp chống dịch theo yêu cầu và hướng dẫn của cơ quan y tế, cán bộ y tế và các cơ quan nhà nước có thẩm quyền trong phòng chống dịch bệnh;
+đ) Hợp tác với cơ quan y tế, cán bộ y tế và các cơ quan nhà nước có thẩm quyền trong công tác phòng chống dịch bệnh;
+e) Chủ động thực hiện các biện pháp phòng ngừa lây nhiễm cho bản thân và những người xung quanh;
+g) Không được che giấu, làm lây lan bệnh truyền nhiễm cho người khác;
+h) Chấp hành nghiêm chỉnh các quy định của pháp luật về phòng, chống bệnh truyền nhiễm.
+3. Quyền và nghĩa vụ của cơ sở phòng bệnh:
+a) Yêu cầu cơ quan, tổ chức, cá nhân cung cấp thông tin liên quan đến thông tin liên quan đến phòng, chống bệnh, dịch bệnh truyền nhiễm;
+b) Được ưu tiên cung cấp trang thiết bị, vật tư y tế, nguồn lực cần thiết cho công tác phòng, chống dịch bệnh;
+c) Thực hiện biện pháp cách ly người mắc bệnh truyền nhiễm và các biện pháp phòng, chống bệnh truyền nhiễm theo từng nhóm bệnh; chăm sóc toàn diện người mắc bệnh truyền nhiễm;
+d) Tổ chức thực hiện các biện pháp vệ sinh, khử khuẩn môi trường và xử lý chất thải tại cơ sở phòng bệnh;
+đ) Theo dõi sức khỏe của nhân viên y tế trực tiếp tham gia chăm sóc, điều trị người mắc bệnh truyền nhiễm thuộc nhóm A;
+e) Thông tin, báo cáo đầy đủ, chính xác, kịp thời về bệnh truyền nhiễm và dịch bệnh cho cơ quan có thẩm quyền cấp trên;
+g) Quyền và nghĩa vụ khác trong phòng, chống bệnh truyền nhiễm theo quy định của Luật này.
+4. Quyền và nghĩa vụ của cơ quan, tổ chức, cá nhân tham gia công tác phòng, chống bệnh truyền nhiễm:
+a) Chấp hành các quy định, chỉ đạo của cơ quan nhà nước có thẩm quyền về phòng, chống dịch bệnh;
+b) Được bảo đảm an toàn khi thực hiện nhiệm vụ; bảo vệ khi xảy ra sự cố ngoài ý muốn trong thực hiện nhiệm vụ phòng bệnh, đáp ứng dịch bệnh truyền nhiễm;
+c) Tôn trọng các quyền của người có nguy cơ, người nghi ngờ hoặc có bệnh tật, mắc bệnh truyền nhiễm;
+d) Cung cấp thông tin liên quan cho cơ quan quản lý phòng bệnh, đáp ứng bệnh truyền nhiễm;
+đ) Chịu trách nhiệm về các quyết định chuyên môn, nghiệp vụ và biện pháp phòng bệnh, đáp ứng bệnh truyền nhiễm khi triển khai thực hiện;
+e) Tuyên truyền, vận động thành viên và cộng đồng thực hiện các biện pháp phòng, chống dịch bệnh;
+g) Quyền và nghĩa vụ khác theo quy định của Luật này.
+Điều 46. Thành lập Ban chỉ đạo chống dịch
+1. Ban chỉ đạo chống dịch được thành lập ngay sau khi dịch được công bố.
+2. Thành phần Ban chỉ đạo chống dịch được quy định như sau:
+a) Ban chỉ đạo chống dịch quốc gia gồm đại diện của cơ quan y tế, tài chính, thông tin - truyền thông, ngoại giao, quốc phòng, công an và các cơ quan liên quan khác. Căn cứ vào phạm vi địa bàn được công bố dịch và tính chất của dịch, Thủ tướng có thể tự mình hoặc chỉ định một Phó Thủ tướng hoặc Bộ trưởng Bộ Y tế làm Trưởng Ban chỉ đạo. Bộ Y tế là thường trực của Ban chỉ đạo;
+b) Ban chỉ đạo chống dịch cấp tỉnh, cấp huyện, cấp xã gồm đại diện của cơ quan y tế, tài chính, thông tin - truyền thông, quân đội, công an và các cơ quan liên quan khác. Trưởng ban chỉ đạo chống dịch là Chủ tịch Uỷ ban nhân dân cùng cấp. Cơ quan y tế cùng cấp là thường trực của Ban chỉ đạo.
+3. Ban chỉ đạo chống dịch có nhiệm vụ tổ chức thực hiện các biện pháp chống dịch và khắc phục hậu quả của dịch, thành lập đội chống dịch cơ động để trực tiếp thực hiện nhiệm vụ cấp cứu, điều trị và xử lý ổ dịch.
+4. Thủ tướng Chính phủ quy định cụ thể về thẩm quyền thành lập, tổ chức và hoạt động của Ban chỉ đạo chống dịch các cấp.
+Điều 47. Khai báo, báo cáo dịch
+1. Khi có dịch, người mắc bệnh dịch hoặc người phát hiện trường hợp mắc bệnh dịch hoặc nghi ngờ mắc bệnh dịch phải khai báo cho cơ quan y tế gần nhất trong thời gian 24 giờ, kể từ khi phát hiện bệnh dịch.
+2. Khi phát hiện trường hợp mắc bệnh dịch hoặc nhận được khai báo bệnh dịch, cơ quan y tế phải báo cáo cho Uỷ ban nhân dân nơi xảy ra dịch và cơ sở y tế dự phòng để khẩn trương tổ chức triển khai các biện pháp chống dịch.
+3. Bộ trưởng Bộ Y tế quy định cụ thể chế độ khai báo, báo cáo dịch.
+Điều 48. Tổ chức cấp cứu, khám bệnh, chữa bệnh
+Ban chỉ đạo chống dịch chỉ đạo việc áp dụng các biện pháp sau đây để tổ chức cấp cứu, khám bệnh, chữa bệnh cho người mắc bệnh dịch và người bị nghi ngờ mắc bệnh dịch:
+1. Phân loại, sơ cứu, cấp cứu kịp thời người mắc bệnh dịch theo hướng dẫn chẩn đoán, điều trị của Bộ Y tế;
+2. Huy động phương tiện, thuốc, thiết bị y tế, giường bệnh, cơ sở khám bệnh, chữa bệnh và bố trí cán bộ y tế chuyên môn trực 24/24 giờ để sẵn sàng cấp cứu, khám bệnh, chữa bệnh phục vụ chống dịch. Người mắc bệnh dịch thuộc nhóm A được khám và điều trị miễn phí;
+3. Căn cứ vào tính chất, mức độ và quy mô của bệnh dịch, Ban chỉ đạo chống dịch quyết định áp dụng các biện pháp sau đây:
+a) Tổ chức các cơ sở điều trị tại vùng có dịch để tiếp nhận, cấp cứu người mắc bệnh dịch;
+b) Điều động đội chống dịch cơ động vào vùng có dịch để thực hiện việc phát hiện, cấp cứu và điều trị tại chỗ người mắc bệnh dịch; chuyển người mắc bệnh dịch về các cơ sở khám bệnh, chữa bệnh;
+c) Huy động các cơ sở khám bệnh, chữa bệnh tham gia cấp cứu, khám bệnh, chữa bệnh phục vụ chống dịch;
+d) Áp dụng các biện pháp cần thiết khác theo quy định của pháp luật.
+Điều 50. Vệ sinh, diệt trùng, tẩy uế trong vùng có dịch
+1. Các biện pháp vệ sinh, diệt trùng, tẩy uế bao gồm:
+a) Vệ sinh môi trường, nước, thực phẩm và vệ sinh cá nhân;
+b) Diệt trùng, tẩy uế khu vực được xác định hoặc nghi ngờ có tác nhân gây bệnh dịch;
+c) Tiêu hủy động vật, thực phẩm và các vật khác là trung gian truyền bệnh.
+2. Đội chống dịch cơ động có trách nhiệm thực hiện các biện pháp vệ sinh, diệt trùng, tẩy uế theo quy trình chuyên môn ngay sau khi được Ban chỉ đạo chống dịch yêu cầu.
+3. Cơ quan, tổ chức, cá nhân có trách nhiệm thực hiện các biện pháp vệ sinh, diệt trùng, tẩy uế theo hướng dẫn của cơ quan y tế có thẩm quyền; trường hợp không tự giác thực hiện thì cơ quan y tế có quyền áp dụng các biện pháp vệ sinh, diệt trùng, tẩy uế bắt buộc.
+Điều 51. Các biện pháp bảo vệ cá nhân
+1. Người tham gia chống dịch và người có nguy cơ mắc bệnh dịch phải thực hiện một hoặc một số biện pháp bảo vệ cá nhân sau đây:
+a) Trang bị bảo vệ cá nhân;
+b) Sử dụng thuốc phòng bệnh;
+c) Sử dụng vắc xin, sinh phẩm y tế để phòng bệnh;
+d) Sử dụng hoá chất diệt khuẩn, hoá chất phòng trung gian truyền bệnh.
+2. Nhà nước bảo đảm cho người tham gia chống dịch thực hiện các biện pháp bảo vệ cá nhân quy định tại khoản 1 Điều này.		Nội dung này dự kiến đưa xuống quy định tại Nghị định
+Điều 49. Tổ chức cách ly y tế
+1. Người mắc bệnh dịch, người bị nghi ngờ mắc bệnh dịch, người mang mầm bệnh dịch, người tiếp xúc với tác nhân gây bệnh dịch thuộc nhóm A và một số bệnh thuộc nhóm B theo quy định của Bộ trưởng Bộ Y tế phải được cách ly.
+2. Hình thức cách ly bao gồm cách ly tại nhà, tại cơ sở khám bệnh, chữa bệnh hoặc tại các cơ sở, địa điểm khác.
+3. Cơ sở y tế trong vùng có dịch chịu trách nhiệm tổ chức thực hiện việc cách ly theo chỉ đạo của Trưởng ban chỉ đạo chống dịch. Trường hợp các đối tượng quy định tại khoản 1 Điều này không thực hiện yêu cầu cách ly của cơ sở y tế thì bị áp dụng biện pháp cưỡng chế cách ly theo quy định của Chính phủ.		Điều 17. Cách ly y tế 
+1. Người mắc bệnh truyền nhiễm, người bị nghi ngờ mắc bệnh truyền nhiễm, người mang mầm bệnh truyền nhiễm, người tiếp xúc với tác nhân gây bệnh truyền nhiễm thuộc nhóm A và một số bệnh thuộc nhóm B phải được cách ly y tế.
+2. Hình thức cách ly y tế bao gồm cách ly tại nhà, tại cơ sở khám bệnh, chữa bệnh hoặc tại các cơ sở, địa điểm khác. 
+3. Cơ sở khám bệnh, chữa bệnh trong vùng có ca bệnh truyền nhiễm chịu trách nhiệm tổ chức thực hiện việc cách ly y tế theo chỉ đạo của Ủy ban nhân dân. Trường hợp các đối tượng quy định tại khoản 1 Điều này không thực hiện yêu cầu cách ly y tế của cơ sở khám bệnh, chữa bệnh thì bị áp dụng biện pháp cưỡng chế cách ly theo quy định của Chính phủ.
+4. Chính phủ quy định chi tiết Điều này.
+Điều 35. Đối tượng và địa điểm kiểm dịch y tế biên giới
+1. Đối tượng phải kiểm dịch y tế biên giới bao gồm:
+a) Người nhập cảnh, xuất cảnh, quá cảnh Việt Nam;
+b) Phương tiện vận tải nhập cảnh, xuất cảnh, quá cảnh Việt Nam;
+c) Hàng hoá nhập khẩu, xuất khẩu, quá cảnh Việt Nam;
+d) Thi thể, hài cốt, mẫu vi sinh y học, sản phẩm sinh học, mô, bộ phận cơ thể người vận chuyển qua biên giới Việt Nam.
+2. Kiểm dịch y tế biên giới được thực hiện tại các cửa khẩu.
+Điều 36. Nội dung kiểm dịch y tế biên giới
+1. Các đối tượng phải kiểm dịch y tế biên giới quy định tại khoản 1 Điều 35 của Luật này phải được khai báo y tế.
+2. Kiểm tra y tế bao gồm kiểm tra giấy tờ liên quan đến y tế và kiểm tra thực tế. Kiểm tra thực tế được tiến hành trong trường hợp đối tượng xuất phát hoặc đi qua vùng có dịch hoặc bị nghi ngờ mắc bệnh hoặc mang tác nhân gây bệnh truyền nhiễm.
+3. Xử lý y tế được thực hiện khi đã tiến hành kiểm tra y tế và phát hiện đối tượng phải kiểm dịch y tế có dấu hiệu mang mầm bệnh truyền nhiễm thuộc nhóm A. Trường hợp nhận được khai báo của chủ phương tiện vận tải hoặc có bằng chứng rõ ràng cho thấy trên phương tiện vận tải, người, hàng hoá có dấu hiệu mang mầm bệnh truyền nhiễm thuộc nhóm A thì phương tiện vận tải, người, hàng hoá trên phương tiện đó phải được cách ly để kiểm tra y tế trước khi làm thủ tục nhập cảnh, nhập khẩu, quá cảnh; nếu không thực hiện yêu cầu cách ly của tổ chức kiểm dịch y tế biên giới thì bị áp dụng biện pháp cưỡng chế cách ly.
+4. Giám sát bệnh truyền nhiễm được thực hiện tại khu vực cửa khẩu theo quy định tại Mục 3 Chương II của Luật này.
+Điều 37. Trách nhiệm trong việc thực hiện kiểm dịch y tế biên giới
+1. Đối tượng quy định tại điểm a khoản 1 Điều 35, chủ phương tiện hoặc người quản lý đối tượng quy định tại các điểm b, c và d khoản 1 Điều 35 của Luật này phải thực hiện việc khai báo y tế; chấp hành các biện pháp giám sát, kiểm tra, xử lý y tế và nộp phí kiểm dịch y tế theo quy định của pháp luật.
+2. Tổ chức kiểm dịch y tế biên giới có trách nhiệm tổ chức thực hiện nội dung kiểm dịch y tế quy định tại Điều 36 của Luật này và cấp giấy chứng nhận xử lý y tế.
+3. Các cơ quan chức năng tại cửa khẩu có trách nhiệm phối hợp với tổ chức kiểm dịch y tế biên giới trong việc thực hiện kiểm dịch y tế biên giới.
+4. Cơ quan nhà nước có thẩm quyền có trách nhiệm phối hợp với các cơ quan hữu quan của các nước, các tổ chức quốc tế trong công tác phòng, chống bệnh truyền nhiễm tại khu vực biên giới.
+5. Chính phủ quy định chi tiết về kiểm dịch y tế biên giới.		Điều 18. Kiểm dịch y tế
+1. Các khu vực cửa khẩu phải tiến hành kiểm dịch y tế. 
+2. Đối tượng phải kiểm dịch y tế bao gồm:
+a) Người nhập cảnh, xuất cảnh, quá cảnh Việt Nam;
+b) Phương tiện vận tải nhập cảnh, xuất cảnh, quá cảnh Việt Nam;
+c) Hàng hoá nhập khẩu, xuất khẩu, quá cảnh Việt Nam;
+d) Thi thể, hài cốt, tro cốt, mẫu bệnh phẩm, sản phẩm sinh học, mô, bộ phận cơ thể người vận chuyển qua biên giới Việt Nam.
+3. Nội dung kiểm dịch y tế bao gồm thu thập và xử lý thông tin, khai báo y tế, giám sát y tế, kiểm tra y tế, xử lý y tế và áp dụng các biện pháp phòng bệnh, đáp ứng dịch bệnh truyền nhiễm lây truyền qua khu vực cửa khẩu.
+4. Trách nhiệm trong việc thực hiện kiểm dịch y tế.
+a) Người nhập cảnh, xuất cảnh, quá cảnh Việt Nam, chủ phương tiện hoặc người quản lý phương tiện, hàng hoá, thi thể, hài cốt, tro cốt quy định điểm d khoản 2 Điều này phải thực hiện việc khai báo y tế; chấp hành các biện pháp giám sát, kiểm tra, xử lý y tế và nộp giá kiểm dịch y tế theo quy định của pháp luật;
+b) Người nhập cảnh có trách nhiệm thực hiện các biện pháp cách ly y tế và áp dụng các biện pháp dự phòng bệnh truyền nhiễm, khám, xét nghiệm và điều trị ban đầu theo hướng dẫn của cơ quan y tế có thẩm quyền;
+c) Tổ chức kiểm dịch y tế có trách nhiệm tổ chức thực hiện nội dung kiểm dịch y tế quy định tại khoản 3 Điều này và cấp chứng nhận kiểm dịch y tế;
+d) Cơ quan chức năng tại cửa khẩu, chủ phương tiện, người điều khiển phương tiện, người được ủy quyền có trách nhiệm thực hiện quy định về kiểm dịch y tế theo quy định của Luật này và quy định của Chính phủ.
+5. Chính phủ quy định chi tiết Điều này; quy định biện pháp xử lý đối với trường hợp nhập cảnh, xuất cảnh, quá cảnh đối với người và phương tiện vận tải; nhập khẩu, xuất khẩu, quá cảnh đối với hàng hóa; vận chuyển qua biên giới đối với thi thể, hài cốt nhưng chưa hoàn thành việc kiểm dịch y tế; quy định về tổ chức kiểm dịch y tế.
+Chương IV
+CHỐNG DỊCH
+ 
+Mục 1
+CÔNG BỐ DỊCH
+Điều 38. Nguyên tắc, thẩm quyền, thời hạn và điều kiện công bố dịch
+1. Việc công bố dịch được thực hiện theo nguyên tắc sau đây:
+a) Mọi trường hợp có dịch đều phải được công bố;
+b) Việc công bố dịch và hết dịch phải công khai, chính xác, kịp thời và đúng thẩm quyền.
+2. Thẩm quyền công bố dịch được quy định như sau:
+a) Chủ tịch Uỷ ban nhân dân cấp tỉnh công bố dịch theo đề nghị của Giám đốc Sở Y tế đối với bệnh truyền nhiễm thuộc nhóm B và nhóm C;
+b) Bộ trưởng Bộ Y tế công bố dịch theo đề nghị của Chủ tịch Uỷ ban nhân dân cấp tỉnh đối với bệnh truyền nhiễm thuộc nhóm A và đối với một số bệnh truyền nhiễm thuộc nhóm B khi có từ hai tỉnh, thành phố trực thuộc trung ương trở lên đã công bố dịch;
+c) Thủ tướng Chính phủ công bố dịch theo đề nghị của Bộ trưởng Bộ Y tế đối với bệnh truyền nhiễm thuộc nhóm A khi dịch lây lan nhanh từ tỉnh này sang tỉnh khác, ảnh hưởng nghiêm trọng đến tính mạng, sức khỏe con người.
+3. Trong thời hạn 24 giờ, kể từ khi nhận được đề nghị công bố dịch, người có thẩm quyền quy định tại khoản 2 Điều này quyết định việc công bố dịch.
+4. Thủ tướng Chính phủ quy định cụ thể điều kiện công bố dịch.
+Điều 39. Nội dung công bố dịch
+1. Nội dung công bố dịch gồm:
+a) Tên bệnh dịch;
+b) Thời gian, địa điểm và quy mô xảy ra dịch;
+c) Nguyên nhân, đường lây truyền, tính chất, mức độ nguy hiểm của dịch;
+d) Các biện pháp phòng, chống dịch;
+đ) Các cơ sở khám bệnh, chữa bệnh thực hiện việc tiếp nhận, điều trị người mắc bệnh truyền nhiễm.
+2. Các nội dung quy định tại khoản 1 Điều này phải được thông báo kịp thời cho cơ quan, tổ chức, cá nhân có liên quan để triển khai các biện pháp chống dịch.
+Điều 40. Điều kiện và thẩm quyền công bố hết dịch
+1. Điều kiện để công bố hết dịch bao gồm:
+a) Không phát hiện thêm trường hợp mắc bệnh mới sau khoảng thời gian nhất định và đáp ứng các điều kiện khác đối với từng bệnh dịch theo quy định của Thủ tướng Chính phủ;
+b) Đã thực hiện các biện pháp chống dịch quy định tại Mục 3 Chương IV của Luật này.
+2. Người có thẩm quyền công bố dịch có quyền công bố hết dịch theo đề nghị của cơ quan có thẩm quyền quy định tại khoản 2 Điều 38 của Luật này.
+Điều 41. Đưa tin về tình hình dịch
+Các cơ quan thông tin đại chúng có trách nhiệm đưa tin chính xác, kịp thời và trung thực về tình hình sau khi dịch đã được công bố và công bố hết dịch theo đúng nội dung do cơ quan nhà nước có thẩm quyền về y tế cung cấp.
+ 
+Mục 2
+BAN BỐ TÌNH TRẠNG KHẨN CẤP VỀ DỊCH
+Điều 42. Nguyên tắc và thẩm quyền ban bố tình trạng khẩn cấp về dịch
+1. Việc ban bố tình trạng khẩn cấp về dịch được thực hiện theo nguyên tắc sau đây:
+a) Khi dịch lây lan nhanh trên diện rộng, đe dọa nghiêm trọng đến tính mạng, sức khỏe con người và kinh tế - xã hội của đất nước thì phải ban bố tình trạng khẩn cấp;
+b) Việc ban bố tình trạng khẩn cấp phải c�ng khai, chính xác, kịp thời và đúng thẩm quyền.
+2. Uỷ ban thường vụ Quốc hội ra nghị quyết ban bố tình trạng khẩn cấp theo đề nghị của Thủ tướng Chính phủ; trong trường hợp Uỷ ban thường vụ Quốc hội không thể họp ngay được thì Chủ tịch nước ra lệnh ban bố tình trạng khẩn cấp.
+Điều 43. Nội dung ban bố tình trạng khẩn cấp khi có dịch
+1. Lý do ban bố tình trạng khẩn cấp.
+2. Địa bàn trong tình trạng khẩn cấp.
+3. Ngày, giờ bắt đầu tình trạng khẩn cấp.
+4. Thẩm quyền tổ chức thi hành nghị quyết hoặc lệnh ban bố tình trạng khẩn cấp.
+Điều 44. Thẩm quyền bãi bỏ tình trạng khẩn cấp khi hết dịch
+Theo đề nghị của Thủ tướng Chính phủ, Uỷ ban thường vụ Quốc hội ra nghị quyết hoặc Chủ tịch nước ra lệnh bãi bỏ tình trạng khẩn cấp do mình ban bố khi dịch đã được chặn đứng hoặc dập tắt.
+Điều 45. Đưa tin trong tình trạng khẩn cấp về dịch
+1. Thông tấn xã Việt Nam, Đài Tiếng nói Việt Nam, Đài Truyền hình Việt Nam, Báo Nhân dân, Báo Quân đội nhân dân có trách nhiệm đăng ngay toàn văn nghị quyết của Uỷ ban thường vụ Quốc hội hoặc lệnh của Chủ tịch nước ban bố tình trạng khẩn cấp về dịch, các quyết định của Thủ tướng Chính phủ tổ chức thi hành nghị quyết của Uỷ ban thường vụ Quốc hội hoặc lệnh của Chủ tịch nước ban bố tình trạng khẩn cấp về dịch; đưa tin kịp thời về các biện pháp đã được áp dụng tại địa bàn có tình trạng khẩn cấp và tình hình khắc phục hậu quả dịch; đăng toàn văn nghị quyết của Uỷ ban thường vụ Quốc hội hoặc lệnh của Chủ tịch nước bãi bỏ tình trạng khẩn cấp về dịch.
+Nghị quyết của Uỷ ban thường vụ Quốc hội hoặc lệnh của Chủ tịch nước ban bố hoặc bãi bỏ tình trạng khẩn cấp về dịch được niêm yết công khai tại trụ sở cơ quan, tổ chức và nơi công cộng.
+2. Các phương tiện thông tin đại chúng khác ở trung ương và địa phương có trách nhiệm đưa tin về việc ban bố, bãi bỏ tình trạng khẩn cấp về dịch và quá trình khắc phục hậu quả dịch.
+Điều 52. Các biện pháp chống dịch khác trong thời gian có dịch
+1. Trong trường hợp cần thiết, cơ quan nhà nước có thẩm quyền có thể áp dụng các biện pháp chống dịch sau đây:
+a) Tạm đình chỉ hoạt động của cơ sở dịch vụ ăn uống công cộng có nguy cơ làm lây truyền bệnh dịch tại vùng có dịch;
+b) Cấm kinh doanh, sử dụng loại thực phẩm được cơ quan y tế có thẩm quyền xác định là trung gian truyền bệnh dịch;
+c) Hạn chế tập trung đông người hoặc tạm đình chỉ các hoạt động, dịch vụ tại nơi công cộng tại vùng có dịch.
+2. Chính phủ quy định cụ thể việc áp dụng các biện pháp quy định tại khoản 1 Điều này.
+Điều 53. Kiểm soát ra, vào vùng có dịch đối với bệnh dịch thuộc nhóm A
+1. Các biện pháp kiểm soát ra, vào vùng có dịch đối với bệnh dịch thuộc nhóm A bao gồm:
+a) Hạn chế ra, vào vùng có dịch đối với người và phương tiện; trường hợp cần thiết phải kiểm tra, giám sát và xử lý y tế;
+b) Cấm đưa ra khỏi vùng có dịch những vật phẩm, động vật, thực vật, thực phẩm và hàng hóa khác có khả năng lây truyền bệnh dịch;
+c) Thực hiện các biện pháp bảo vệ cá nhân đối với người vào vùng có dịch quy định tại khoản 1 Điều 51 của Luật này;
+d) Các biện pháp cần thiết khác theo quy định của pháp luật.
+2. Trưởng Ban chỉ đạo chống dịch thành lập các chốt, trạm kiểm dịch tại các đầu mối giao thông ra, vào vùng có dịch để thực hiện các biện pháp quy định tại khoản 1 Điều này.
+Điều 54. Các biện pháp được áp dụng trong tình trạng khẩn cấp về dịch
+1. Việc thành lập Ban chỉ đạo chống dịch trong tình trạng khẩn cấp thực hiện theo quy định tại điểm a khoản 2 Điều 46 của Luật này.
+2. Trong trường hợp ban bố tình trạng khẩn cấp về dịch, Trưởng Ban chỉ đạo có quyền:
+a) Huy động, trưng dụng các nguồn lực quy định tại Điều 55 của Luật này;
+b) Đặt biển báo hiệu, trạm gác và hướng dẫn việc đi lại tránh vùng có dịch;
+c) Yêu cầu kiểm tra và xử lý y tế đối với phương tiện vận tải trước khi ra khỏi vùng có dịch;
+d) Cấm tập trung đông người và các hoạt động khác có nguy cơ làm lây truyền bệnh dịch tại vùng có dịch;
+đ) Cấm người, phương tiện không có nhiệm vụ vào ổ dịch;
+e) Tổ chức tẩy uế, khử độc trên phạm vi rộng;
+g) Tiêu hủy động vật, thực phẩm và các vật khác có nguy cơ làm lây lan bệnh dịch sang người;
+h) Áp dụng các biện pháp khác quy định tại Mục 3 của Chương này.
+Điều 55. Huy động, trưng dụng các nguồn lực cho hoạt động chống dịch
+1. Căn cứ vào tính chất, mức độ nguy hiểm và quy mô của bệnh dịch đe dọa đến sức khoẻ nhân dân, người có thẩm quyền được huy động người, huy động, trưng dụng cơ sở vật chất, thiết bị y tế, thuốc, hoá chất, vật tư y tế, cơ sở dịch vụ công cộng, phương tiện giao thông và các nguồn lực khác để chống dịch. Các phương tiện giao thông tham gia chống dịch được ưu tiên theo pháp luật về giao thông.
+2. Việc trưng dụng quy định tại khoản 1 Điều này được thực hiện theo quy định của pháp luật về trưng mua, trưng dụng tài sản. Tài sản đã trưng dụng phải được vệ sinh, diệt trùng, tẩy uế trước khi hoàn trả.
+3. Chính phủ, Ủy ban nhân dân các cấp có trách nhiệm bảo đảm các điều kiện để thực hiện các biện pháp chống dịch theo quy định tại Luật này.		Qua rà soát đối chiếu với quy định của Luật Phòng thủ dân sự, Bộ Y tế nhận thấy các quy định của Luật Phòng chống bệnh truyền nhiễm hiện hành đã được Luật Phòng thủ dân sự quy định nên đã không quy định lại trong dự thảo Luật Phòng bệnh: 
+- Công bố dịch, công bố hết dịch;
+- Ban bố tình trạng khẩn cấp về dịch;
+- Tạm đình chỉ hoạt động của cơ sở dịch vụ ăn uống công cộng có nguy cơ làm lây truyền bệnh dịch tại vùng có dịch; 
+- Cấm kinh doanh, sử dụng loại thực phẩm được cơ quan y tế có thẩm quyền xác định là trung gian truyền bệnh dịch; 
+- Hạn chế tập trung đông người hoặc tạm đình chỉ các hoạt động, dịch vụ tại nơi công cộng tại vùng có dịch; 
+- Kiểm soát ra, vào vùng có dịch đối với bệnh dịch thuộc nhóm A; 
+- Huy động, trưng dụng các nguồn lực cho hoạt động chống dịch.
+Điều 24. Bảo đảm an toàn sinh học tại phòng xét nghiệm
+1. Phòng xét nghiệm phải bảo đảm các điều kiện an toàn sinh học phù hợp với từng cấp độ và chỉ được tiến hành xét nghiệm trong phạm vi chuyên môn sau khi được cơ quan nhà nước có thẩm quyền về y tế cấp giấy chứng nhận đạt tiêu chuẩn an toàn sinh học.
+2. Chính phủ quy định cụ thể về bảo đảm an toàn sinh học tại phòng xét nghiệm.
+Điều 25. Quản lý mẫu bệnh phẩm
+1. Việc thu thập, vận chuyển, bảo quản, lưu giữ, sử dụng, nghiên cứu, trao đổi và tiêu hủy mẫu bệnh phẩm liên quan đến tác nhân gây bệnh truyền nhiễm phải tuân thủ quy định về chế độ quản lý mẫu bệnh phẩm.
+2. Chỉ cơ sở có đủ điều kiện mới được bảo quản, lưu giữ, sử dụng, nghiên cứu, trao đổi và tiêu hủy mẫu bệnh phẩm của bệnh truyền nhiễm thuộc nhóm A.
+3. Bộ trưởng Bộ Y tế quy định cụ thể chế độ quản lý mẫu bệnh phẩm và điều kiện của cơ sở quản lý mẫu bệnh phẩm quy định tại khoản 1 và khoản 2 Điều này.
+Điều 26. Bảo vệ người làm việc trong phòng xét nghiệm
+1. Người làm việc trong phòng xét nghiệm tiếp xúc với tác nhân gây bệnh truyền nhiễm phải được đào tạo về kiến thức chuyên môn, kỹ năng thực hành và trang bị phòng hộ cá nhân để phòng lây nhiễm tác nhân gây bệnh truyền nhiễm.
+2. Người làm việc trong phòng xét nghiệm tiếp xúc với tác nhân gây bệnh truyền nhiễm phải chấp hành các quy trình chuyên môn kỹ thuật trong xét nghiệm.		Điều 19. Bảo đảm an toàn sinh học trong xét nghiệm phòng, chống bệnh truyền nhiễm 
+1. Cơ sở xét nghiệm phải đáp ứng các điều kiện hoạt động và yêu cầu về an toàn sinh học đồng thời phải được đánh giá, giám sát định kỳ. Việc tổ chức và vận hành phòng xét nghiệm phải tuân thủ các quy định về thực hành an toàn sinh học tương ứng với cấp độ phòng xét nghiệm, bao gồm thực hiện đánh giá nguy cơ và áp dụng các biện pháp kiểm soát nguy cơ phù hợp để bảo đảm an toàn sinh học trong quá trình hoạt động.
+2. Khi thực hiện thu thập, quản lý, sử dụng, tiêu hủy mẫu bệnh phẩm trong và ngoài cơ sở xét nghiệm, cơ sở xét nghiệm phải có các biện pháp đảm bảo an toàn cho con người, môi trường và các biện pháp ngăn ngừa việc tiếp cận trái phép, thất thoát, lấy cắp, sử dụng sai, chuyển mục đích hoặc phát tán các tác nhân sinh học.
+3. Chính phủ quy định chi tiết Điều này; quy định về thẩm quyền, thủ tục cấp chứng nhận cơ sở xét nghiệm đạt tiêu chuẩn an toàn sinh học.
+Điều 27. Nguyên tắc sử dụng vắc xin, sinh phẩm y tế
+1. Vắc xin, sinh phẩm y tế được sử dụng phải bảo đảm các điều kiện quy định tại Điều 36 của Luật dược.
+2. Vắc xin, sinh phẩm y tế được sử dụng theo hình thức tự nguyện hoặc bắt buộc.
+3. Vắc xin, sinh phẩm y tế phải được sử dụng đúng mục đích, đối tượng, thời gian, chủng loại và quy trình kỹ thuật sử dụng.
+4. Vắc xin, sinh phẩm y tế phải được sử dụng tại các cơ sở y tế có đủ điều kiện.		Điều 21. Nguyên tắc sử dụng vắc xin, sinh phẩm phòng bệnh
+1. Vắc xin, sinh phẩm phòng bệnh phải bảo đảm các điều kiện theo quy định của pháp luật về dược.
+Bộ trưởng Bộ Y tế quy định việc áp dụng các điều kiện theo quy định của pháp luật về dược đối với sinh phẩm phòng bệnh chẩn đoán in vitro và chất có nguồn gốc sinh học có phân tử lượng thấp có thể phân lập thành những chất tinh khiết.
+2. Vắc xin, sinh phẩm phòng bệnh được sử dụng theo hình thức tự nguyện hoặc bắt buộc.
+3. Vắc xin, sinh phẩm phòng bệnh phải được sử dụng đúng mục đích, đối tượng, thời gian, chủng loại, số lần sử dụng và quy trình kỹ thuật sử dụng theo quy định của Bộ trưởng Bộ Y tế.
+Điều 28. Sử dụng vắc xin, sinh phẩm y tế tự nguyện
+1. Mọi người có quyền sử dụng vắc xin, sinh phẩm y tế để bảo vệ sức khoẻ cho mình và cho cộng đồng.
+2. Nhà nước hỗ trợ và khuyến khích công dân tự nguyện sử dụng vắc xin, sinh phẩm y tế.
+3. Thầy thuốc, nhân viên y tế trực tiếp tham gia chăm sóc, điều trị cho người mắc bệnh truyền nhiễm, người làm việc trong phòng xét nghiệm tiếp xúc với tác nhân gây bệnh truyền nhiễm được sử dụng miễn phí vắc xin, sinh phẩm y tế.
+Điều 29. Sử dụng vắc xin, sinh phẩm y tế bắt buộc
+1. Người có nguy cơ mắc bệnh truyền nhiễm tại vùng có dịch và đến vùng có dịch bắt buộc phải sử dụng vắc xin, sinh phẩm y tế đối với các bệnh có vắc xin, sinh phẩm y tế phòng bệnh.
+2. Trẻ em, phụ nữ có thai phải sử dụng vắc xin, sinh phẩm y tế bắt buộc đối với các bệnh truyền nhiễm thuộc Chương trình tiêm chủng mở rộng.
+3. Cha, mẹ hoặc người giám hộ của trẻ em và mọi người dân có trách nhiệm thực hiện yêu cầu của cơ sở y tế có thẩm quyền trong việc sử dụng vắc xin, sinh phẩm y tế bắt buộc.
+4. Miễn phí sử dụng vắc xin, sinh phẩm y tế bắt buộc trong các trường hợp sau:
+a) Người có nguy cơ mắc bệnh truyền nhiễm tại vùng có dịch;
+b) Người được cơ quan nhà nước có thẩm quyền cử đến vùng có dịch;
+c) Các đối tượng quy định tại khoản 2 Điều này.		Điều 20. Đối tượng sử dụng vắc xin, sinh phẩm phòng bệnh 
+1. Mọi người có quyền sử dụng vắc xin, sinh phẩm phòng bệnh theo từng lứa tuổi, từng đối tượng trọn đời để bảo vệ sức khoẻ cho mình và cho cộng đồng.
+2. Mọi người có quyền được bảo đảm công bằng trong tiếp cận sử dụng vắc xin, sinh phẩm phòng bệnh bắt buộc trong Chương trình Tiêm chủng mở rộng.
+Điều 22. Tiêm chủng
+1. Tiêm chủng là việc đưa vắc xin, sinh phẩm phòng bệnh vào cơ thể con người để phòng, chống bệnh tật.
+2. Tiêm chủng bắt buộc là tiêm chủng đối với các bệnh truyền nhiễm cho các đối tượng do Nhà nước quy định.
+3. Chương trình Tiêm chủng mở rộng và tiêm chủng chiến dịch để chủ động phòng, chống dịch là hình thức tiêm chủng bắt buộc do Nhà nước tổ chức thực hiện và được miễn phí.
+4. Tiêm chủng tự nguyện là tiêm chủng đối với các bệnh truyền nhiễm không nằm trong danh mục tiêm chủng bắt buộc.
+5. Nhà nước tổ chức thực hiện tiêm chủng miễn phí để phòng các bệnh truyền nhiễm thuộc danh mục tiêm chủng bắt buộc thông qua Chương trình tiêm chủng mở rộng và tiêm chủng chiến dịch để chủ động phòng, chống dịch.
+6. Cơ sở tiêm chủng ngoài Nhà nước được tiêm chủng các vắc xin để phòng các bệnh truyền nhiễm thuộc danh mục tiêm chủng bắt buộc không thông qua Chương trình Tiêm chủng mở rộng.
+7. Việc tổ chức tiêm chủng đối với các bệnh thuộc danh mục tiêm chủng tự nguyện do cơ sở tiêm chủng Nhà nước và cơ sở tiêm chủng ngoài Nhà nước thực hiện.
+8. Cơ sở tiêm chủng được thực hiện tiêm chủng khi đủ điều kiện.
+9. Chính phủ quy định chi tiết khoản 5 Điều này và quy định điều kiện, quy trình, trình tự, thủ tục để cơ sở tiêm chủng được thực hiện tiêm chủng.
+10. Bộ trưởng Bộ Y tế ban hành Danh mục các bệnh truyền nhiễm và đối tượng phải sử dụng vắc xin, sinh phẩm phòng bệnh.
+Điều 30. Trách nhiệm trong việc tổ chức sử dụng vắc xin, sinh phẩm y tế
+1. Nhà nước có trách nhiệm bảo đảm kinh phí cho việc sử dụng vắc xin, sinh phẩm y tế quy định tại khoản 3 Điều 28 và khoản 4 Điều 29 của Luật này.
+2. Bộ trưởng Bộ Y tế có trách nhiệm:
+a) Ban hành danh mục bệnh truyền nhiễm phải sử dụng vắc xin, sinh phẩm y tế bắt buộc quy định tại khoản 1 Điều 29 của Luật này;
+b) Tổ chức triển khai Chương trình tiêm chủng mở rộng và quy định danh mục bệnh truyền nhiễm phải sử dụng vắc xin, sinh phẩm y tế bắt buộc, độ tuổi trẻ em thuộc đối tượng của Chương trình tiêm chủng mở rộng quy định tại khoản 2 Điều 29 của Luật này;
+c) Quy định phạm vi và đối tượng phải sử dụng vắc xin, sinh phẩm y tế bắt buộc tuỳ theo tình hình dịch;
+d) Quy định việc sử dụng vắc xin, sinh phẩm y tế quy định tại khoản 3 Điều 27 của Luật này; điều kiện của cơ sở y tế quy định tại khoản 4 Điều 27 của Luật này;
+đ) Quy định việc thành lập, tổ chức và hoạt động của Hội đồng tư vấn chuyên môn để xem xét nguyên nhân khi có tai biến trong quá trình sử dụng vắc xin, sinh phẩm y tế quy định tại khoản 5 và khoản 6 Điều này.
+3. Uỷ ban nhân dân tỉnh, thành phố trực thuộc trung ương (sau đây gọi là Uỷ ban nhân dân cấp tỉnh) có trách nhiệm chỉ đạo việc tổ chức triển khai tiêm chủng, sử dụng vắc xin, sinh phẩm y tế.
+4. Cơ sở y tế có trách nhiệm thực hiện việc tiêm chủng, sử dụng vắc xin, sinh phẩm y tế trong phạm vi chuyên môn theo quy định của Bộ trưởng Bộ Y tế.
+5. Tổ chức, cá nhân sản xuất, kinh doanh, bảo quản vắc xin, sinh phẩm y tế và người làm công tác tiêm chủng, sử dụng vắc xin, sinh phẩm y tế có lỗi trong việc sản xuất, kinh doanh, bảo quản, sử dụng vắc xin, sinh phẩm y tế thì phải chịu trách nhiệm về hành vi vi phạm của mình gây ra tai biến cho người được sử dụng vắc xin, sinh phẩm y tế theo quy định của pháp luật.
+6. Khi thực hiện tiêm chủng mở rộng, nếu xảy ra tai biến ảnh hưởng nghiêm trọng đến sức khỏe hoặc gây thiệt hại đến tính mạng của người được tiêm chủng, Nhà nước có trách nhiệm bồi thường cho người bị thiệt hại. Trường hợp xác định được lỗi thuộc về tổ chức, cá nhân sản xuất, kinh doanh, bảo quản vắc xin, sinh phẩm y tế hoặc người làm công tác tiêm chủng thì tổ chức, cá nhân này phải bồi hoàn cho Nhà nước theo quy định của pháp luật		Điều 23. Trách nhiệm của cơ quan, tổ chức, cá nhân trong việc tổ chức sử dụng vắc xin, sinh phẩm phòng bệnh
+1. Ngân sách nhà nước bảo đảm kinh phí cho Chương trình Tiêm chủng mở rộng và tiêm chủng chiến dịch để chủ động phòng, chống dịch quy định tại khoản 5 Điều 20.
+2. Ủy ban nhân dân các tỉnh, thành phố trực thuộc trung ương có trách nhiệm chỉ đạo việc tổ chức tiêm chủng trên địa bàn quản lý.
+3. Cơ sở tiêm chủng có trách nhiệm thực hiện việc tiêm chủng theo hướng dẫn chuyên môn của Bộ trưởng Bộ Y tế.
+4. Đối tượng thuộc diện tiêm chủng bắt buộc phải tham gia tiêm chủng và được bồi thường theo quy định tại khoản 5 và khoản 6 Điều này nếu xảy ra tai biến ảnh hưởng nghiêm trọng đến sức khỏe hoặc bị tử vong.
+5. Khi thực hiện Chương trình Tiêm chủng mở rộng và tiêm chủng chiến dịch để chủ động phòng, chống dịch, nếu xảy ra tai biến ảnh hưởng nghiêm trọng đến sức khỏe hoặc gây thiệt hại đến tính mạng của người được tiêm chủng, Nhà nước có trách nhiệm bồi thường cho người bị thiệt hại. Trường hợp xác định được lỗi thuộc về tổ chức, cá nhân sản xuất, kinh doanh, bảo quản vắc xin, sinh phẩm phòng bệnh hoặc người làm công tác tiêm chủng thì tổ chức, cá nhân này phải bồi hoàn cho Nhà nước theo quy định của pháp luật.	
+6. Cơ sở tiêm chủng ngoài nhà nước có trách nhiệm bồi thường trong trường hợp đối tượng tiêm chủng tại cơ sở của mình theo quy định của pháp luật về bồi thường thiệt hại ngoài hợp đồng; trong trường hợp cơ sở tiêm chủng ngoài Nhà nước được Nhà nước huy động tham gia Chương trình Tiêm chủng mở rộng, tiêm chủng chiến dịch để chủ động phòng, chống dịch thì Nhà nước thực hiện bồi thường.
+7. Chính phủ quy định chi tiết khoản 1, khoản 4, khoản 5 và khoản 6 Điều này và quy định cơ chế mua sắm vắc xin, tiếp nhận viện trợ, truyền thông tiêm chủng.
+8. Bộ trưởng Bộ Y tế có trách nhiệm ban hành quy định, hướng dẫn chuyên môn kỹ thuật trong việc tổ chức tiêm chủng.
+		Bổ sung mới 
+Điều 24. Thanh toán, loại trừ một số bệnh truyền nhiễm 
+1. Các tiêu chí công nhận thanh toán, loại trừ bệnh truyền nhiễm lưu hành phù hợp với tiêu chí của Tổ chức Y tế thế giới.
+2. Bộ trưởng Bộ Y tế quy định về thủ tục và tiêu chí công nhận thanh toán, loại trừ bệnh truyền nhiễm lưu hành.
+		Bổ sung mới các nội dung liên quan đến Phòng, chống bệnh không lây nhiễm
+Điều 25. Phòng, chống yếu tố nguy cơ, giám sát phát hiện bệnh không lây nhiễm 
+1. Việc phòng, chống các yếu tố nguy cơ gây bệnh không lây nhiễm được thực hiện thông qua các hoạt động bảo đảm dinh dưỡng hợp lý, tăng cường hoạt động thể lực, phòng, chống các yếu tố nguy cơ gây bệnh.
+2. Bộ trưởng Bộ Y tế quy định các yếu tố nguy cơ gây bệnh không lây nhiễm và các biện pháp kiểm soát các yếu tố nguy cơ gây bệnh không lây nhiễm; quy trình, phương pháp sàng lọc phát hiện sớm bệnh không lây nhiễm bao gồm ban hành hướng dẫn chuyên môn về phạm vi, đối tượng, thời điểm, tần suất và phương pháp thực hiện khám sàng lọc phát hiện sớm đối với từng bệnh không lây nhiễm.
+Điều 26. Dự phòng cho người có nguy cơ cao, người tiền bệnh và quản lý, điều trị người mắc bệnh không lây nhiễm
+1. Người có nguy cơ cao mắc bệnh không lây nhiễm và người tiền bệnh phải được tư vấn, theo dõi, điều trị dự phòng để phòng bệnh không lây nhiễm và kiểm soát các yếu tố nguy cơ sức khỏe.
+2. Người mắc bệnh không lây nhiễm được tư vấn, quản lý, điều trị để kiểm soát các yếu tố nguy cơ tăng nặng.
+3. Quản lý và điều trị người mắc bệnh không lây nhiễm tại cộng đồng.
+4. Các cơ sở phòng bệnh và cơ sở khám bệnh, chữa bệnh tổ chức thực hiện các biện pháp quản lý, tư vấn, theo dõi, điều trị dự phòng cho người có nguy cơ cao mắc bệnh, người tiền bệnh và người mắc bệnh không lây nhiễm theo hướng dẫn chuyên môn của Bộ trưởng Bộ Y tế.
+		Điều 27. Nguyên tắc phòng, chống rối loạn sức khỏe tâm thần
+1. Tôn trọng quyền con người và bảo vệ quyền tự do cá nhân của người mắc rối loạn tâm thần.
+2. Bảo đảm sự bình đẳng, không phân biệt đối xử với người có rối loạn sức khỏe tâm thần.
+3. Bảo đảm tính sẵn có của các dịch vụ dự phòng, khám, phát hiện, chẩn đoán, điều trị, quản lý và phục hồi chức năng trong chăm sóc sức khỏe tâm thần.
+4. Áp dụng các phương pháp khoa học, tiên tiến trong việc phòng ngừa và điều trị các rối loạn tâm thần.
+5. Tăng cường sự hợp tác giữa các cơ quan y tế, chính quyền địa phương, tổ chức xã hội và gia đình.
+Điều 28. Nguy cơ và phát hiện sớm nguy cơ mắc các rối loạn sức khỏe tâm thần 
+1. Nguy cơ mắc các rối loạn sức khỏe tâm thần là tình trạng cá nhân có một hoặc nhiều yếu tố sinh học, tâm lý, xã hội làm tăng khả năng xuất hiện các rối loạn tâm thần theo phân loại y khoa.
+2. Cá nhân và gia đình có người thuộc nhóm nguy cơ cao mắc các rối loạn sức khỏe tâm thần được khám sức khỏe định kỳ nhằm phát hiện sớm, theo dõi, hỗ trợ tâm lý - xã hội và điều trị phù hợp nhằm phòng ngừa diễn tiến thành rối loạn sức khỏe tâm thần hoặc làm nặng mức độ bệnh lý tâm thần đã mắc. 
+3. Các cơ sở phòng bệnh có trách nhiệm:
+a) Triển khai các hoạt động giám sát sức khỏe cộng đồng, phát hiện sớm các yếu tố nguy cơ mắc rối loạn sức khỏe tâm thần;
+b) Thực hiện sàng lọc khám sức khỏe tâm thần theo định kỳ đối với các đối tượng có nguy cơ cao mắc các rối loạn sức khỏe tâm thần. 
+4. Bộ trưởng Bộ Y tế quy định chi tiết khoản 2, khoản 3 Điều này. 
+Điều 29. Quyền, trách của cơ quan, tổ chức, cá nhân trong phòng, chống rối loạn sức khỏe tâm thần
+1. Ngoài các quyền, trách nhiệm và nghĩa vụ theo quy định của Hiến pháp và pháp luật, người mắc rối loạn sức khỏe tâm thần và người có nguy cơ mắc rối loạn sức khỏe tâm thần có các quyền và nghĩa vụ sau đây:
+a) Được điều trị và sử dụng các dịch vụ chăm sóc sức khỏe tâm thần;
+b) Được bảo vệ về sức khỏe và ưu tiên trong chăm sóc, điều trị y tế;
+c) Người có hành vi gian dối, giả bệnh rối loạn sức khỏe tâm thần để trục lợi, trốn tránh các nghĩa vụ pháp luật thì bị xử lý theo quy định của pháp luật về bồi thường, hình sự, dân sự và pháp luật khác có liên quan.
+2. Trách nhiệm của chính quyền địa phương:
+a) Theo dõi, giám sát và tổ chức triển khai các biện pháp can thiệp y tế đối với người mắc và có nguy cơ mắc rối loạn sức khỏe tâm thần;
+b) Chủ động bố trí kinh phí triển khai các công tác phòng, chống rối loạn sức khỏe tâm thần tại địa phương.
+3. Trách nhiệm của gia đình, người chăm sóc:
+a) Tôn trọng, quan tâm, chăm sóc, giúp đỡ người mắc rối loạn sức khỏe tâm thần;
+b) Bị xử lý theo quy định của pháp luật về xử lý vi phạm hành chính, pháp luật về hình sự khi có hành vi hành hạ, ngược đãi, bức tử người mắc rối loạn sức khỏe tâm thần;
+c) Người bệnh, người nhà của người bệnh mắc các rối loạn sức khỏe tâm thần, người có nguy cơ cao mắc rối loạn sức khỏe tâm thần có trách nhiệm khai báo với cơ quan y tế cấp xã để nắm thông tin và hỗ trợ khi cần thiết.
+4. Trách nhiệm của cơ sở phòng bệnh:
+a) Thực hiện quy trình chuyên môn đối với công tác phòng, chống rối loạn sức khỏe tâm thần tại cộng đồng;
+b) Tổ chức thông tin, giáo dục, truyền thông nhằm hướng dẫn người dân tự nhận biết các yếu tố nguy cơ và dấu hiệu mắc các rối loạn sức khỏe tâm thần;
+c) Không kỳ thị, phân biệt đối xử với người bệnh và gia đình người bệnh.
+4. Trách nhiệm của xã hội:
+a) Giảm kỳ thị phân biệt đối xử;
+b) Tuyên truyền phòng, chống rối loạn sức khỏe tâm thần tại cộng đồng.
+		Bổ sung mới 
+Điều 30. Phòng bệnh trong cơ sở giáo dục
+1. Cơ sở giáo dục có trách nhiệm triển khai thực hiện công tác y tế trường học cho trẻ em, học sinh, sinh viên, học viên (gọi tắt là người học) thuộc phạm vi quản lý, bảo đảm người học được chăm sóc sức khoẻ toàn diện cả thể chất và tinh thần, bao gồm: kiểm tra sức khỏe đầu năm học và khám sức khỏe định kỳ; phòng chống dịch bệnh, dự phòng thương tích; bảo đảm điều kiện chăm sóc sức khỏe, sơ cấp cứu; bảo đảm an toàn thực phẩm, dinh dưỡng hợp lý kết hợp với tăng cường hoạt động thể lực phù hợp; vệ sinh môi trường; kiểm soát các yếu tố nguy cơ gây bệnh, tật học đường; tư vấn, truyền thông, giáo dục sức khỏe và các hoạt động khác.
+2. Chính phủ quy định chi tiết Điều này.
+		Bổ sung mới 
+Điều 31. Phòng bệnh trong cung cấp nước sạch sử dụng cho mục đích sinh hoạt
+1. Nước sạch sử dụng cho mục đích sinh hoạt (ăn uống, tắm giặt, vệ sinh cá nhân của con người) phải bảo đảm quy chuẩn kỹ thuật quốc gia về nước sạch do cơ quan nhà nước có thẩm quyền quy định.
+2. Mọi người được quyền sử dụng nước sạch để chủ động phòng chống dịch bệnh.
+3. Đơn vị cấp nước sạch sử dụng cho mục đích sinh hoạt có trách nhiệm cung cấp và bảo đảm chất lượng nước sạch theo quy định.
+4. Cơ quan nhà nước có thẩm quyền có trách nhiệm kiểm tra, giám sát việc bảo đảm chất lượng nước sạch sử dụng cho mục đích sinh hoạt của các đơn vị cấp nước, đơn vị sử dụng nước và nước do tổ chức, cá nhân tự khai thác.
+5. Ủy ban nhân dân tỉnh thực hiện quản lý nhà nước về cấp nước, bảo đảm cung cấp đầy đủ đáp ứng nhu cầu nước sạch của người dân trên địa bàn.
+6. Chính phủ quy định chi tiết khoản 4 và khoản 5 Điều này.
+7. Bộ trưởng Bộ Y tế quy định chi tiết khoản 1 và khoản 3 Điều này; hướng dẫn sử dụng nước tự khai thác để phục vụ cho mục đích sinh hoạt bảo đảm chất lượng, không ảnh hưởng đến sức khỏe.
+		Điều 32. Dinh dưỡng trong phòng bệnh 
+1. Dinh dưỡng trong phòng bệnh là dinh dưỡng trong phòng, chống bệnh truyền nhiễm; dinh dưỡng trong phòng, chống bệnh không lây nhiễm; dinh dưỡng hợp lý theo vòng đời, theo đối tượng, theo vùng; dinh dưỡng nâng cao tầm vóc, thể lực, trí lực của người Việt Nam; dinh dưỡng trong tình huống khẩn cấp.
+2. Người dân được bảo đảm dinh dưỡng trong tình huống khẩn cấp.
+3. Hoạt động dinh dưỡng trong phòng bệnh phải được thực hiện trong suốt vòng đời theo từng lứa tuổi, từng đối tượng trên cơ sở đánh giá tình trạng dinh dưỡng và đáp ứng nhu cầu dinh dưỡng theo nhu cầu dinh dưỡng khuyến nghị và tháp dinh dưỡng.
+
+4. Bộ trưởng Bộ Y tế hướng dẫn chế độ dinh dưỡng theo từng độ tuổi, đối tượng, tình trạng sức khỏe để sinh sống, học tập, lao động, nâng cao sức khỏe và phòng bệnh.
+Điều 33. Dinh dưỡng cho phụ nữ có thai và cho con bú
+1. Phụ nữ có thai khi đi khám thai định kỳ được tư vấn về chế độ dinh dưỡng hợp lý từ lúc mang thai đến lúc trẻ được 2 tuổi (dinh dưỡng 1.000 ngày đầu đời).
+2. Phụ nữ có thai sống tại vùng có điều kiện kinh tế - xã hội khó khăn, vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn và vùng có nguy cơ xảy ra sự cố, thảm họa được bổ sung trực tiếp vi chất dinh dưỡng để phòng, chống suy dinh dưỡng bào thai.
+3. Nhà nước có chính sách khuyến khích nuôi con bằng sữa mẹ hoàn toàn đối với trẻ em dưới 6 tháng tuổi.
+4. Chính phủ quy định chi tiết nội dung các khoản 2 và khoản 3 Điều này.
+5. Bộ trưởng Bộ Y tế quy định chi tiết nội dung khoản 1 Điều này.
+Điều 34. Dinh dưỡng cho trẻ em và dinh dưỡng học đường
+1. Trẻ em bị suy dinh dưỡng cấp tính và thấp còi tại vùng có điều kiện kinh tế - xã hội khó khăn, vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn và vùng có nguy cơ xảy ra sự cố, thảm họa được hỗ trợ phục hồi dinh dưỡng tại cộng đồng.
+2. Trẻ em dưới 6 tuổi được theo dõi tăng trưởng, sàng lọc, đánh giá tình trạng dinh dưỡng và được bổ sung trực tiếp vi chất dinh dưỡng phù hợp với đối tượng và lứa tuổi của trẻ. 
+3. Học sinh các cấp học được bảo đảm dinh dưỡng thông qua bữa ăn học đường theo từng nhóm tuổi. Cơ sở giáo dục có trách nhiệm tổ chức đánh giá tình trạng dinh dưỡng cho học sinh.
+4. Chính phủ quy định chi tiết Điều này.
+Điều 35. Dinh dưỡng cho người lao động và người cao tuổi
+1. Người lao động được khám và tư vấn dinh dưỡng lồng ghép trong khám sức khỏe định kỳ.
+2. Người cao tuổi được theo dõi, tư vấn và chăm sóc dinh dưỡng trong hoạt động quản lý sức khỏe tại cộng đồng.
+3. Cơ sở chăm sóc người cao tuổi có trách nhiệm bảo đảm chế độ dinh dưỡng phù hợp với người cao tuổi.
+4. Bộ trưởng Bộ Y tế hướng dẫn về chăm sóc dinh dưỡng cho người lao động và người cao tuổi.
+		Bổ sung mới
+Điều 36. Nghiên cứu khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số trong phòng bệnh
+1. Thống nhất, tích hợp, liên thông các ứng dụng công nghệ thông tin phục vụ công tác phòng bệnh bảo đảm bảo mật và an toàn thông tin.
+2. Dự phòng, phát hiện sớm, theo dõi, dự báo, cảnh báo trong phòng, chống bệnh truyền nhiễm, bệnh không lây nhiễm, rối loạn sức khỏe tâm thần và các yếu tố nguy cơ ảnh hưởng sức khỏe.
+3. Cơ chế, chính sách cho hoạt động nghiên cứu khoa học, công nghệ, đổi mới sáng tạo trong nghiên cứu, phát triển, sản xuất vắc xin, sinh phẩm phòng bệnh thực hiện theo quy định tại Nghị quyết số 193/2025/QH15 ngày 19 tháng 02 năm 2025 của Quốc hội về thí điểm một số cơ chế, chính sách đặc biệt tạo đột phá phát triển khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số quốc gia, văn bản quy phạm pháp luật quy định chi tiết, hướng dẫn thi hành Nghị quyết số 193/2025/QH15, văn bản sửa đổi, bổ sung, thay thế.
+Điều 57. Cơ sở phòng, chống bệnh truyền nhiễm
+1. Cơ sở phòng, chống bệnh truyền nhiễm bao gồm:
+a) Cơ sở y tế dự phòng;
+b) Cơ sở khám bệnh, chữa bệnh truyền nhiễm gồm có bệnh viện chuyên khoa bệnh truyền nhiễm; khoa truyền nhiễm thuộc bệnh viện đa khoa quận, huyện, thị xã, thành phố thuộc tỉnh trở lên và các cơ sở y tế khác có nhiệm vụ khám bệnh, chữa bệnh truyền nhiễm.
+2. Bệnh viện đa khoa quận, huyện, thị xã, thành phố thuộc tỉnh trở lên phải thành lập khoa truyền nhiễm.
+3. Bộ trưởng Bộ Y tế quy định về vị trí, thiết kế, điều kiện cơ sở vật chất, kỹ thuật, thiết bị và nhân lực của các cơ sở khám bệnh, chữa bệnh truyền nhiễm.		Điều 37. Hệ thống cơ sở phòng bệnh 
+1. Cơ sở phòng bệnh là cơ sở thực hiện chức năng, nhiệm vụ về lĩnh vực phòng bệnh, bao gồm: 
+a) Cơ sở chuyên ngành thực hiện chức năng, nhiệm vụ phòng bệnh;
+b) Đơn vị thực hiện nhiệm vụ phòng bệnh trong các cơ sở khám bệnh, chữa bệnh;
+c) Đơn vị thực hiện nhiệm vụ phòng bệnh trong các cơ sở khác (như cơ sở giáo dục, y tế cơ quan, nhà máy xí nghiệp);
+d) Khoa truyền nhiễm, rối loạn sức khỏe tâm thần thuộc các cơ sở khám bệnh, chữa bệnh.
+2. Các hình thức tổ chức của cơ sở chuyên ngành, bao gồm:
+a) Trung tâm Kiểm soát bệnh tật Trung ương (CDC Trung ương);
+b) Trung tâm Kiểm soát bệnh tật tỉnh, thành phố (CDC tỉnh, thành phố); 
+c) Trạm Y tế;
+d) Hình thức tổ chức khác. 
+3. Chính phủ quy định chi tiết Điều này.
+Điều 59. Chế độ đối với người làm công tác phòng, chống bệnh truyền nhiễm và người tham gia chống dịch
+1. Người làm công tác phòng, chống bệnh truyền nhiễm được hưởng các chế độ phụ cấp nghề nghiệp và các chế độ ưu đãi khác.
+2. Người tham gia chống dịch được hưởng chế độ phụ cấp chống dịch và được hưởng chế độ rủi ro nghề nghiệp khi bị lây nhiễm bệnh.
+3. Trong quá trình chống dịch, khi người tham gia chống dịch dũng cảm cứu người mà bị chết hoặc bị thương thì được xem xét để công nhận là liệt sỹ hoặc thương binh, hưởng chính sách như thương binh theo quy định của pháp luật về ưu đãi người có công với cách mạng.
+4. Thủ tướng Chính phủ quy định cụ thể các chế độ theo quy định tại các khoản 1, 2 và 3 Điều này.		Điều 38. Chế độ đối với người làm công tác phòng, chống bệnh truyền nhiễm và người tham gia chống dịch
+1. Người làm công tác phòng, chống bệnh truyền nhiễm được hưởng lương, các chế độ phụ cấp nghề nghiệp và các chế độ khác của vị trí công việc theo quy định của pháp luật.
+2. Người tham gia chống dịch được hưởng chế độ phụ cấp chống dịch và được hưởng chế độ rủi ro nghề nghiệp khi bị lây nhiễm bệnh.
+3. Trong quá trình chống dịch, khi người tham gia chống dịch dũng cảm cứu người mà bị chết hoặc bị thương thì được xem xét để công nhận là liệt sỹ hoặc thương binh, hưởng chính sách như thương binh theo quy định của pháp luật về ưu đãi người có công với cách mạng.
+4. Chính phủ quy định cụ thể các chế độ theo quy định tại các khoản 1, 2 và 3 Điều này.
+Điều 58. Đào tạo, bồi dưỡng người làm công tác phòng, chống bệnh truyền nhiễm
+1. Nhà nước có quy hoạch, kế hoạch và ưu tiên đào tạo, đào tạo lại, bồi dưỡng về nghiệp vụ cho người làm công tác phòng, chống bệnh truyền nhiễm.
+2. Bộ trưởng Bộ Y tế chủ trì phối hợp với Bộ trưởng Bộ Giáo dục và Đào tạo và thủ trưởng các cơ quan, tổ chức có liên quan tổ chức việc đào tạo, đào tạo lại, bồi dưỡng nghiệp vụ cho người làm công tác phòng, chống bệnh truyền nhiễm.		Điều 39. Đào tạo, bồi dưỡng nguồn nhân lực làm công tác phòng bệnh
+1. Nhà nước có quy hoạch, kế hoạch về đào tạo, đào tạo lại, bồi dưỡng nghiệp vụ cho người làm công tác phòng bệnh, bao gồm cả công tác dinh dưỡng, công tác đáp ứng dịch bệnh truyền nhiễm; ưu tiên loại hình đào tạo ứng dụng tại thực địa phù hợp với các chuẩn mực quốc tế. 
+2. Bộ trưởng Bộ Y tế phối hợp với các cơ quan, tổ chức có liên quan tổ chức việc đào tạo, đào tạo lại, bồi dưỡng nghiệp vụ cho người làm công tác phòng, chống bệnh truyền nhiễm.
+Điều 60. Kinh phí cho công tác phòng, chống bệnh truyền nhiễm
+1. Kinh phí cho công tác phòng, chống bệnh truyền nhiễm bao gồm:
+a) Ngân sách nhà nước;
+b) Vốn viện trợ;
+c) Các nguồn kinh phí khác theo quy định của pháp luật.
+2. Hằng năm, Nhà nước bảo đảm đủ, kịp thời ngân sách cho các hoạt động phòng, chống bệnh truyền nhiễm. Ngân sách phòng, chống bệnh truyền nhiễm không được sử dụng vào mục đích khác.		Điều 40. Kinh phí cho công tác phòng bệnh 
+1. Kinh phí cho công tác phòng bệnh bao gồm:
+a) Ngân sách nhà nước;
+b) Vốn viện trợ;
+c) Các nguồn kinh phí khác theo quy định của pháp luật.
+2. Hằng năm, Nhà nước bảo đảm đủ, kịp thời ngân sách cho các hoạt động phòng, bệnh. Ngân sách phòng bệnh không được sử dụng vào mục đích khác.
+Điều 61. Dự trữ quốc gia cho phòng, chống dịch
+1. Nhà nước thực hiện việc dự trữ quốc gia về kinh phí, thuốc, hóa chất, thiết bị y tế để phòng, chống dịch.
+2. Việc xây dựng, tổ chức, quản lý, điều hành và sử dụng dự trữ quốc gia để phòng, chống dịch được thực hiện theo quy định của pháp luật về dự trữ quốc gia.		Điều 41. Dự trữ quốc gia cho phòng, chống dịch
+1. Nhà nước thực hiện việc dự trữ quốc gia về thuốc, hóa chất, thiết bị y tế để phòng, chống dịch.
+2. Việc xây dựng, tổ chức, quản lý, điều hành và sử dụng dự trữ quốc gia để phòng, chống dịch được thực hiện theo quy định của pháp luật về dự trữ quốc gia.
+Điều 62. Quỹ hỗ trợ phòng, chống dịch
+1. Quỹ hỗ trợ phòng, chống dịch được thành lập và hoạt động theo quy định của pháp luật để hỗ trợ điều trị, chăm sóc người mắc bệnh truyền nhiễm và các hoạt động phòng, chống dịch khác.
+2. Nguồn tài chính của Quỹ được hình thành trên cơ sở đóng góp tự nguyện, tài trợ của tổ chức, cá nhân trong nước và nước ngoài.		Điều 42. Thành lập Quỹ Phòng bệnh 
+1. Quỹ Phòng bệnh là quỹ tài chính nhà nước ngoài ngân sách, có tư cách pháp nhân, có con dấu, tài khoản riêng, do Thủ tướng Chính phủ thành lập, phê duyệt Điều lệ tổ chức và hoạt động.
+2. Quỹ Phòng bệnh được miễn nộp thuế và các khoản nộp ngân sách nhà nước theo quy định của pháp luật.
+3. Quỹ Phòng bệnh được hình thành từ các nguồn sau đây:
+a) Vốn điều lệ do ngân sách nhà nước cấp; 
+b) Ngân sách nhà nước bổ sung hằng năm theo khả năng cân đối; 
+c) 
+Phương án 1: trích một phần từ nguồn thu thuế tiêu thụ đặc biệt từ các sản phẩm không có lợi cho sức khỏe; 
+Phương án 2: khoản đóng góp bắt buộc của cơ sở sản xuất, nhập khẩu các sản phẩm không có lợi cho sức khỏe, không bao gồm thuốc lá được tính theo tỷ lệ phần trăm (%) trên giá tính thuế tiêu thụ đặc biệt theo lộ trình: 1,0% từ ngày 01 tháng 01 năm 2027; 1,5% từ ngày 01 tháng 01 năm 2028; 2,0% từ ngày 01 tháng 01 năm 2029. Khoản đóng góp bắt buộc được khai, nộp cùng với thuế tiêu thụ đặc biệt do cơ sở sản xuất, nhập khẩu các sản phẩm không có lợi cho sức khỏe tự khai, tự tính, tự nộp vào tài khoản của Quỹ;
+d) Nguồn tài trợ, đóng góp tự nguyện, hợp pháp của doanh nghiệp, tổ chức, cá nhân trong nước và nước ngoài;
+đ) Nguồn từ Quỹ Phòng, chống tác hại của thuốc lá;
+e) Các nguồn thu hợp pháp khác theo quy định của pháp luật.
+4. Chính phủ quy định chi tiết khoản 3 Điều này. 
+Điều 43. Mục đích và nguyên tắc hoạt động của Quỹ Phòng bệnh 
+1. Mục đích của Quỹ Phòng bệnh: 
+a) Hỗ trợ giải quyết được các vấn đề cấp bách do đại dịch có thể xảy ra;
+b) Hỗ trợ hoạt động phòng bệnh chủ động;
+c) Chi cho các hoạt động phục vụ công tác phòng bệnh mà ngân sách nhà nước không bảo đảm, không hỗ trợ hoặc bảo đảm, hỗ trợ không đủ định mức;
+d) Tạo nguồn lực, bảo đảm nguồn tài chính bền vững cho hoạt động phòng bệnh. 
+2. Nguyên tắc hoạt động của Quỹ Phòng bệnh:
+a) Không vì mục đích lợi nhuận; bảo toàn vốn điều lệ và tự bù đắp chi phí quản lý.
+b) Thực hiện thu, chi, quyết toán, công khai tài chính, tài sản và công tác kế toán theo quy định của pháp luật.
+c) Chịu sự kiểm tra, thanh tra, kiểm toán của cơ quan quản lý nhà nước về tài chính và kiểm toán nhà nước về các hoạt động tài chính của Quỹ Phòng bệnh, giám sát của Mặt trận Tổ quốc Việt Nam và cộng đồng.
+d) Bảo đảm công khai, minh bạch, tiết kiệm, hiệu quả, sử dụng đúng mục đích và phù hợp với quy định của pháp luật.
+đ) Số dư kinh phí năm trước của Quỹ Phòng bệnh được chuyển sang năm sau để tiếp tục sử dụng.
+3. Chính phủ quy định việc quản lý, sử dụng Quỹ Phòng bệnh.

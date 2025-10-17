@@ -1,0 +1,671 @@
+LUẬT
+DỮ LIỆU
+Căn cứ Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam;
+Quốc hội ban hành Luật Dữ liệu.
+
+QUY ĐỊNH CHUNG
+Phạm vi điều chỉnh
+Luật này quy định về xây dựng, phát triển, xử lý, quản trị dữ liệu; ứng dụng khoa học công nghệ trong xử lý dữ liệu; Cơ sở dữ liệu tổng hợp quốc gia; Trung tâm dữ liệu quốc gia; sản phẩm, dịch vụ về dữ liệu; quản lý nhà nước về dữ liệu; trách nhiệm của cơ quan, tổ chức, cá nhân có liên quan đến hoạt động về dữ liệu.
+Đối tượng áp dụng
+Luật này áp dụng đối với:
+1. Cơ quan, tổ chức, cá nhân Việt Nam.
+2. Cơ quan, tổ chức, cá nhân nước ngoài tại Việt Nam.
+3. Cơ quan, tổ chức, cá nhân nước ngoài trực tiếp tham gia hoặc có liên quan đến hoạt động xây dựng, phát triển, xử lý, quản trị dữ liệu tại Việt Nam.
+Giải thích từ ngữ
+Trong Luật này, các từ ngữ dưới đây được hiểu như sau: 
+1. Dữ liệu là sự thể hiện dưới dạng kỹ thuật số của sự vật, sự kiện, bao gồm dạng âm thanh, hình ảnh, chữ số, chữ viết, ký hiệu hoặc dạng tương tự khác.
+2. Xử lý dữ liệu là một hoặc nhiều hoạt động tác động tới dữ liệu, như: thu thập, ghi, phân tích, tổng hợp, xác nhận, xác thực, lưu trữ, chỉnh sửa, cập nhật, điều chỉnh, công khai, kết hợp, truy cập, truy xuất, thu hồi, mã hóa, giải mã, sao chép, chia sẻ, điều phối, truyền đưa, cung cấp, chuyển giao, xóa, hủy, sao lưu, phục hồi dữ liệu hoặc các hoạt động khác có liên quan.
+3. Quản trị dữ liệu là quá trình xây dựng và tổ chức thực hiện chính sách, kế hoạch, chương trình, quy trình, tiêu chuẩn để quản lý dữ liệu một cách liên tục, hiệu quả, bảo đảm tính đầy đủ, chính xác, toàn vẹn, nhất quán, thống nhất, được chuẩn hóa, an toàn, bảo mật, kịp thời của dữ liệu.
+4. Sản phẩm, dịch vụ trung gian dữ liệu là sản phẩm, dịch vụ nhằm thiết lập mối quan hệ thương mại giữa một bên là các chủ thể dữ liệu và chủ sở hữu dữ liệu và bên kia là người sử dụng dữ liệu, thông qua kỹ thuật, pháp lý hoặc cách phương tiện khác nhằm mục đích chia sẻ dữ liệu và thực hiện các quyền của chủ thể dữ liệu liên quan đến dữ liệu cá nhân, không bao gồm các sản phẩm, dịch vụ sau: 
+a) Các dịch vụ thu thập dữ liệu từ chủ sở hữu dữ liệu và tổng hợp, làm phong phú hoặc chuyển đổi dữ liệu nhằm mục đích tăng thêm giá trị cho dữ liệu đó và cấp phép sử dụng dữ liệu thu được cho người dùng dữ liệu mà không thiết lập mối quan hệ giữa chủ sở hữu dữ liệu và người dùng dữ liệu;
+b) Các dịch vụ tập trung vào việc cung cấp các sản phẩm số có bản quyền; 
+c) Dịch vụ chia sẻ dữ liệu được cung cấp bởi các cơ quan nhà nước không nhằm mục đích thiết lập mối quan hệ thương mại;
+d) Sàn giao dịch dữ liệu.
+5. Sản phẩm, dịch vụ liên quan đến dữ liệu là sản phẩm, dịch vụ dựa trên dữ liệu để hỗ trợ người dùng dữ liệu một cách hiệu quả và có thể nhằm mục đích thương mại hoặc phi thương mại. Sản phẩm dữ liệu là sản phẩm lấy dữ liệu gốc làm thành phần cốt lõi để thu thập, làm sạch, phân tích tổng hợp cung cấp giá trị cho người sử dụng. Dịch vụ dữ liệu là dịch vụ xử lý dữ liệu, bao gồm nhưng không giới hạn ở các dịch vụ thu thập và tiền xử lý dữ liệu, dịch vụ mô hình hóa, phân tích và xử lý dữ liệu, dịch vụ trực quan hóa dữ liệu, dịch vụ bảo mật dữ liệu.
+6. Chiến lược dữ liệu là một kế hoạch dài hạn xác định công nghệ, quy trình, con người và quy tắc cần có để quản lý dữ liệu.
+7. Dữ liệu phi cá nhân là dữ liệu không phải là dữ liệu cá nhân theo quy định pháp luật về bảo vệ dữ liệu cá nhân. 
+8. Cơ sở dữ liệu là tập hợp các dữ liệu được sắp xếp, tổ chức để truy cập, khai thác, chia sẻ, quản lý và cập nhật thông tin.
+9. Cơ sở dữ liệu tổng hợp quốc gia là cơ sở dữ liệu được tổng hợp từ nhiều nguồn cơ sở dữ liệu quốc gia, cơ sở dữ liệu chuyên ngành của các cơ quan Đảng, Nhà nước, tổ chức chính trị - xã hội và dữ liệu khác.
+10. Sàn giao dịch dữ liệu là sàn giao dịch trực tuyến qua mạng Internet tạo môi trường giao dịch dữ liệu có sự giám sát bảo đảm an toàn, tuân thủ quy định pháp luật.
+11. Nền tảng chia sẻ, điều phối dữ liệu là hạ tầng kết nối, tích hợp, chia sẻ và điều phối dữ liệu của Chính phủ để phục vụ tích hợp, chia sẻ dữ liệu giữa Trung tâm dữ liệu quốc gia với các cơ quan, tổ chức, cá nhân.
+12. Dữ liệu dùng chung là dữ liệu được khai thác, sử dụng chung trong các cơ quan của hệ thống chính trị: Dữ liệu chủ trong cơ sở dữ liệu quốc gia; dữ liệu chủ trong cơ sở dữ liệu của cơ quan Đảng, Nhà nước, Mặt trận Tổ quốc và các tổ chức chính trị - xã hội; dữ liệu danh mục dùng chung; dữ liệu khác được từ tối thiểu hai cơ quan trong hệ thống chính trị khác nhau khai thác, sử dụng
+13. Dữ liệu dùng riêng là dữ liệu được tiếp cận, khai thác, sử dụng trong phạm vi nội bộ của cơ quan Đảng, Nhà nước, Mặt trận Tổ quốc và các tổ chức chính trị - xã hội.
+14. Dữ liệu mở là dữ liệu mà mọi cơ quan, tổ chức, cá nhân có nhu cầu đều được tự do khai thác, sử dụng, tái sử dụng, chia sẻ.
+15. Dữ liệu gốc là dữ liệu được tạo lập ban đầu tại chủ thể quản lý dữ liệu.
+16. Dữ liệu tổng hợp là dữ liệu được tạo lập với sự trợ giúp của các thuật toán từ các dữ liệu hiện có.
+17. Chủ thể dữ liệu là cá nhân, tổ chức được dữ liệu phản ánh.
+18. Tài nguyên dữ liệu là tài sản của chủ sở hữu dữ liệu bao gồm cơ sở dữ liệu và sản phẩm được tạo lập từ dữ liệu.
+19. Quản lý dữ liệu là việc thực hiện chính sách, kế hoạch, chương trình, quy trình liên quan đến thu thập, xử lý, chia sẻ, khai thác và sử dụng dữ liệu nhằm kiểm soát, duy trì ổn định, bảo vệ và nâng cao giá trị của dữ liệu.
+20. Thị trường dữ liệu là thị trường để các tổ chức, cá nhân thực hiện trao đổi, giao dịch sản phẩm, dịch vụ về dữ liệu.
+21.	Chủ quản dữ liệu là cơ quan, tổ chức, cá nhân thực hiện việc xây dựng, quản lý, vận hành, khai thác dữ liệu theo yêu cầu của chủ sở hữu dữ liệu.
+22. Chủ sở hữu dữ liệu là cơ quan, tổ chức, cá nhân có quyền xử lý và quyết định các chính sách xử lý dữ liệu do mình thu thập, tạo lập. 
+23. Quyền của chủ sở hữu dữ liệu đối với dữ liệu là tài sản bao gồm quyền quản lý, sử dụng và quyền định đoạt đối với dữ liệu.
+24. Người dùng dữ liệu là một thể nhân hoặc pháp nhân có quyền truy cập hợp pháp vào dữ liệu và có quyền khai thác, sử dụng dữ liệu đó theo đúng mục đích, điều kiện đã được chủ quản dữ liệu hoặc chủ thể dữ liệu đồng ý.
+25. Dữ liệu quan trọng là dữ liệu trong lĩnh vực, nhóm, khu vực có thể gây nguy hiểm trực tiếp đến quốc phòng, an ninh, hoạt động kinh tế, ổn định xã hội, sức khỏe và an toàn cộng đồng khi bị rò rỉ, giả mạo hoặc phá hủy.
+26. Dữ liệu cốt lõi là dữ liệu quan trọng có phạm vi bao phủ cao trên các lĩnh vực, nhóm, khu vực có ảnh hưởng trực tiếp đến quốc phòng, an ninh khi sử dụng, chia sẻ trái phép. Dữ liệu cốt lõi bao gồm dữ liệu liên quan đến các lĩnh vực quốc phòng, an ninh quan trọng, dữ liệu liên quan đến huyết mạch của nền kinh tế quốc gia, sinh kế quan trọng của người dân, các lợi ích công cộng lớn và các dữ liệu khác theo quyết định của Thủ tướng Chính phủ.
+27. Siêu dữ liệu là dữ liệu mô tả một cách chi tiết về dữ liệu.
+28. Chuyển dữ liệu ra nước ngoài, cho tổ chức, cá nhân nước ngoài là hoạt động sử dụng không gian mạng, thiết bị, phương tiện điện tử hoặc các hình thức khác chuyển dữ liệu tới một địa điểm nằm ngoài lãnh thổ của nước Cộng hòa xã hội chủ nghĩa Việt Nam hoặc sử dụng một địa điểm nằm ngoài lãnh thổ của nước Cộng hòa xã hội chủ nghĩa Việt Nam để xử lý dữ liệu hoặc chuyển dữ liệu cho tổ chức, cá nhân nước ngoài.
+29. Phân tích, tổng hợp dữ liệu là một quá trình áp dụng các công cụ, công nghệ và quy trình để khai thác, chuyển đổi dữ liệu sẵn có thành thông tin hữu ích, tìm xu hướng và hỗ trợ ra quyết định dựa trên dữ liệu.
+30. Xác nhận dữ liệu là hoạt động xác định, khẳng định về sự tồn tại, thời gian, nơi lưu trữ của dữ liệu trên không gian mạng.
+31. Xác thực dữ liệu là hoạt động kiểm tra, xác nhận, khẳng định, chứng nhận dữ liệu là hợp lệ, chính xác và toàn vẹn tại thời điểm xác thực so với dữ liệu được lưu trữ tại cơ sở dữ liệu quốc gia, cơ sở dữ liệu chuyên ngành, cơ sở dữ liệu khác được thu thập, kết nối, chia sẻ theo quy định của Luật này, quy định pháp luật khác có liên quan.
+32. Công khai dữ liệu là một hình thức công khai thông tin của cơ quan, tổ chức, cá nhân; công bố, cung cấp thông tin chính thức về dữ liệu nhất định, với hình thức công khai phù hợp với dạng dữ liệu. 
+33. Truy cập dữ liệu là hoạt động tiếp cận, tác động tới dữ liệu theo đúng quyền truy cập đã được cấp, bao gồm nhưng không giới hạn theo các loại sau:
+a) Truy cập đọc là hoạt động đọc dữ liệu từ một nguồn nào đó. Trong trường hợp dữ liệu được lưu trữ trong các ứng dụng, truy cập đọc được sử dụng để đọc dữ liệu từ cơ sở dữ liệu;
+b) Truy cập ghi là hoạt động ghi dữ liệu vào một nguồn nào đó. Trong trường hợp dữ liệu được lưu trữ trong các ứng dụng, truy cập ghi được sử dụng để cập nhật dữ liệu vào cơ sở dữ liệu;
+c) Truy cập sửa là hoạt động sửa đổi dữ liệu đã được lưu trữ. Trong trường hợp dữ liệu được lưu trữ trong các ứng dụng, truy cập sửa được sử dụng để thay đổi dữ liệu đã được lưu trữ trong cơ sở dữ liệu;
+d) Truy cập xóa là hoạt động xóa dữ liệu khỏi một nguồn nào đó. Trong trường hợp dữ liệu được lưu trữ trong các ứng dụng, truy cập xóa được sử dụng để xóa dữ liệu khỏi cơ sở dữ liệu;
+đ) Truy cập thực thi là hoạt động thực hiện nhiều hoạt động xử lý dữ liệu khác nhau.
+34. Truy xuất dữ liệu là hoạt động truy cập và trích xuất dữ liệu. 
+35. Mã hoá dữ liệu là việc áp dụng các phương pháp, thuật toán mã hoá để chuyển đổi dữ liệu nhằm che giấu ý nghĩa thật sự của dữ liệu.
+36. Giải mã dữ liệu là quá trình chuyển đổi dữ liệu đã được mã hóa thành dữ liệu đúng với dữ liệu gốc.
+37. Sao chép dữ liệu là hoạt động truy xuất, tạo lập bản sao của dữ liệu từ dữ liệu gốc. Dữ liệu được sao chép được lưu trữ trên cùng một thiết bị hoặc thiết bị khác và có thể được sử dụng cho các mục đích khác nhau như lưu trữ dự phòng, chia sẻ dữ liệu hoặc phục hồi dữ liệu.
+38. Truyền đưa dữ liệu là hoạt động di chuyển dữ liệu qua các kênh truyền, thiết bị lưu trữ hoặc qua các phương thức truyền tải khác.
+39. Chuyển giao dữ liệu là hoạt động chuyển quyền sở hữu hoặc quyền sử dụng dữ liệu từ bên có quyền chuyển giao dữ liệu sang bên nhận chuyển giao dữ liệu.
+40. Thu hồi dữ liệu là hoạt động chủ quản dữ liệu lấy lại dữ liệu đã cung cấp, chia sẻ cho các cơ quan, tổ chức, cá nhân, hoặc công khai trên phương tiện truyền thông đại chúng.
+41. Xóa dữ liệu là hoạt động loại bỏ dữ liệu khỏi cấu trúc, môi trường đang được lưu trữ. 
+42. Hủy dữ liệu là hoạt động loại bỏ dữ liệu khỏi cấu trúc, môi trường đang được lưu trữ và bảo đảm loại bỏ khả năng phục hồi bằng phương thức ghi đè hoặc phá huỷ vật lý.
+43. Kết hợp dữ liệu là việc gắn kết dữ liệu từ các nguồn khác nhau vào một tập dữ liệu cho phân tích sau đó hoặc lưu trữ trong kho dữ liệu. Dữ liệu phải được chuẩn hóa trước khi kết hợp.
+44. Điều chỉnh, cập nhật dữ liệu là việc thực hiện bổ sung, sửa một hoặc nhiều bản ghi dữ liệu trong cơ sở dữ liệu, hệ thống thông tin.
+Áp dụng Luật Dữ liệu
+1. Trường hợp có quy định khác nhau giữa Luật Dữ liệu và luật, nghị quyết khác của Quốc hội đã ban hành về xây dựng, phát triển, xử lý, quản trị dữ liệu, ứng dụng khoa học công nghệ trong xử lý dữ liệu, sản phẩm, dịch vụ về dữ liệu, quản lý nhà nước về dữ liệu, trách nhiệm của cơ quan, tổ chức, cá nhân có liên quan đến hoạt động về dữ liệu thì áp dụng quy định của Luật Dữ liệu, trừ trường hợp quy định tại khoản 2 Điều này.
+2. Trường hợp luật, nghị quyết của Quốc hội ban hành sau ngày Luật Dữ liệu có hiệu lực thi hành có quy định khác với quy định của Luật Dữ liệu về cùng một vấn đề mà cần áp dụng thì phải quy định cụ thể ngay về việc áp dụng pháp luật trong luật, nghị quyết đó; trường hợp chưa có quy định cụ thể về việc áp dụng pháp luật và việc áp dụng quy định đó cần thiết cho việc xây dựng, phát triển, xử lý, quản trị dữ liệu thì Ủy ban Thường vụ Quốc hội quyết định việc áp dụng theo đề nghị của Chính phủ và báo cáo Quốc hội tại kỳ họp gần nhất. 
+3. Văn bản quy phạm pháp luật quy định chi tiết các nội dung của Luật Dữ liệu, văn bản quy phạm pháp luật được ban hành để thực hiện thẩm quyền được giao trong Luật Dữ liệu được áp dụng trong trường hợp có nhiều văn bản quy phạm pháp luật có quy định khác nhau về cùng một vấn đề.
+Nguyên tắc xử lý và bảo vệ dữ liệu
+1. Tuân thủ Hiến pháp và quy định pháp luật khác có liên quan; bảo đảm quyền con người, quyền công dân, quyền và lợi ích hợp pháp khác của cơ quan, tổ chức, cá nhân trong xây dựng, phát triển, xử lý, quản trị dữ liệu.
+2. Bảo đảm tính toàn vẹn, tin cậy, an ninh, an toàn và bảo vệ dữ liệu.
+3. Bảo đảm công khai, minh bạch, bình đẳng trong tiếp cận, khai thác và sử dụng dữ liệu.
+4. Thu thập, cập nhật, điều chỉnh dữ liệu, tài liệu đầy đủ, chính xác, kịp thời; quản lý tập trung, thống nhất, chặt chẽ, duy trì, kết nối, chia sẻ, khai thác, sử dụng hiệu quả, lưu trữ theo quy định.
+5. Khai thác, điều phối dữ liệu bảo đảm hiệu quả, đơn giản thuận tiện cho cơ quan nhà nước, cá nhân và tổ chức trong thực hiện dịch vụ công, thủ tục hành chính và các giao dịch khác; tạo điều kiện thuận lợi cho cá nhân và tổ chức trong tiếp cận và sử dụng dữ liệu, đồng thời duy trì khuyến khích nghiên cứu các giải pháp tạo ra giá trị thông qua dữ liệu.
+6. Bảo đảm tính kế thừa dữ liệu, hạn chế việc thu thập cập nhật lại các thông tin đã được lưu trữ, đồng bộ, quản lý tại Trung tâm dữ liệu quốc gia và hệ thống thông tin, cơ sở dữ liệu của cơ quan Đảng, Nhà nước, tổ chức chính trị - xã hội; có khả năng thích ứng với sự thay đổi của công nghệ và thực tiễn bảo mật dữ liệu.
+7. Dữ liệu là đối tượng của quyền sở hữu trí tuệ cần tuân thủ theo quy định của Luật này, pháp luật về sở hữu trí tuệ và pháp luật khác có liên quan.
+8. Các hoạt động xử lý dữ liệu được thực hiện trên lãnh thổ Việt Nam, ngoài lãnh thổ Việt Nam mà gây tổn hại đến an ninh, quốc phòng, lợi ích quốc gia, lợi ích công cộng hoặc quyền, lợi ích hợp pháp của cá nhân, tổ chức sẽ bị truy cứu, xử lý theo quy định pháp luật.
+9. Dữ liệu là kết quả thực hiện thủ tục hành chính trong cơ quan nhà nước được tổ chức thống nhất, được phân cấp quản lý theo trách nhiệm quản lý của cơ quan nhà nước nhằm thúc đẩy giao dịch điện tử, cải cách hành chính, phát triển Chính phủ số, chuyển đổi số trong hoạt động của cơ quan nhà nước và được chia sẻ phục vụ hoạt động của cơ quan nhà nước, người dân, doanh nghiệp theo quy định của pháp luật.
+Nội dung quản lý nhà nước về dữ liệu
+1. Xây dựng, ban hành, tổ chức thực hiện chiến lược dữ liệu; văn bản quy phạm pháp luật về dữ liệu; tiêu chuẩn, quy chuẩn kỹ thuật, định mức kinh tế - kỹ thuật, chất lượng dữ liệu.
+2. Quản lý sản phẩm, dịch vụ về dữ liệu.
+3. Quản lý hoạt động xử lý, quản trị, điều phối dữ liệu, bảo đảm chất lượng dữ liệu.
+4. Quản lý hoạt động bảo vệ dữ liệu, bảo đảm an ninh, an toàn dữ liệu.
+5. Hướng dẫn, tuyên truyền, phổ biến chính sách, pháp luật về dữ liệu.
+6. Đào tạo, bồi dưỡng, phát triển nguồn nhân lực, chuyên gia về dữ liệu.
+7. Thanh tra, kiểm tra, giám sát tuân thủ, giải quyết khiếu nại, tố cáo và xử lý vi phạm pháp luật về dữ liệu.
+8. Hợp tác quốc tế về dữ liệu, thực thi pháp luật về dữ liệu.
+9. Quản lý hoạt động trao đổi dữ liệu xuyên biên giới.
+Người làm công tác dữ liệu trong cơ quan Đảng, Nhà nước, tổ chức chính trị - xã hội
+1. Người làm công tác dữ liệu trong cơ quan Đảng, Nhà nước, tổ chức chính trị - xã hội bao gồm người trực tiếp thực hiện công tác xử lý, quản trị dữ liệu và người hỗ trợ hoạt động xử lý, quản trị dữ liệu.
+2. Người làm công tác dữ liệu trong cơ quan Đảng, Nhà nước, tổ chức chính trị - xã hội được quy định rõ ràng về trách nhiệm và quyền hạn theo từng vị trí công việc và được đào tạo, huấn luyện chuyên môn, nghiệp vụ phù hợp với nhiệm vụ, quyền hạn được giao.
+  3. Người làm công tác dữ liệu trong cơ quan Đảng, Nhà nước, tổ chức chính trị - xã hội chịu trách nhiệm bảo đảm an ninh, an toàn và tính đầy đủ, chính xác của dữ liệu và chịu sự kiểm tra, đánh giá định kỳ về việc tuân thủ các quy định về bảo vệ dữ liệu.
+Hợp tác quốc tế về dữ liệu
+1. Hợp tác quốc tế về dữ liệu được thực hiện trên cơ sở bình đẳng, cùng có lợi, tăng cường sức mạnh tổng hợp và nâng cao vị thế, uy tín của quốc gia, tôn trọng độc lập chủ quyền và toàn vẹn lãnh thổ, tuân thủ pháp luật của mỗi bên, pháp luật quốc tế và cam kết trong các điều ước quốc tế, thỏa thuận quốc tế có liên quan đến dữ liệu.
+2. Nhà nước khuyến khích đầu tư, hợp tác và hỗ trợ quốc tế cho công tác quản lý nhà nước, đào tạo nguồn nhân lực, nghiên cứu khoa học, ứng dụng khoa học công nghệ trong xử lý, quản lý, quản trị, sử dụng, khai thác dữ liệu, chuyển giao công nghệ tiên tiến và các hoạt động khác về trao đổi dữ liệu xuyên biên giới.
+3. Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam thực hiện hợp tác quốc tế về dữ liệu phù hợp với pháp luật Việt Nam và pháp luật quốc tế; thực hiện điều ước quốc tế liên quan đến dữ liệu mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên.
+Các hành vi bị nghiêm cấm
+1. Lợi dụng việc xử lý dữ liệu, quản trị dữ liệu xâm phạm đến lợi ích quốc gia, dân tộc, an ninh, quốc phòng, trật tự, an toàn xã hội, lợi ích công cộng, quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân.
+2. Cản trở hoặc ngăn chặn trái pháp luật quá trình xử lý dữ liệu, quản trị dữ liệu hoặc có hành vi khác nhằm phá hoại hệ thống thông tin phục vụ xử lý dữ liệu.
+3. Thu thập, cung cấp, sử dụng, truy cập, tiết lộ, hiển thị, phát tán, chia sẻ dữ liệu trái pháp luật.
+4. Giả mạo, làm sai lệch, làm mất, làm hư hỏng hoặc xóa, hủy, sao chép, chia sẻ trái phép, di chuyển trái pháp luật một phần hoặc toàn bộ dữ liệu.
+5. Chiếm đoạt hoặc sử dụng dữ liệu trái pháp luật.
+6. Cố ý cung cấp dữ liệu sai lệch hoặc không cung cấp dữ liệu theo quy định pháp luật.
+7. Kinh doanh, mua bán, trao đổi dữ liệu, sản phẩm, dịch vụ về dữ liệu trái pháp luật.
+8. Phát triển, kinh doanh, lưu hành sản phẩm, dịch vụ về dữ liệu xâm phạm an ninh, quốc phòng, quyền riêng tư của cá nhân, trái thuần phong mỹ tục Việt Nam.
+9. Tự ý sử dụng công cụ, phần mềm sao chép dữ liệu khi chưa được phép của chủ quản dữ liệu; truy cập hoặc cố tình truy cập, tấn công vào cơ sở dữ liệu khi không có quyền hoặc chưa được sự cho phép của chủ quản dữ liệu.
+10. Các hành vi bị nghiêm cấm khác theo quy định pháp luật.
+
+XÂY DỰNG, PHÁT TRIỂN, XỬ LÝ, QUẢN TRỊ, QUẢN LÝ DỮ LIỆU; ỨNG DỤNG KHOA HỌC CÔNG NGHỆ TRONG XỬ LÝ DỮ LIỆU;  QUỸ PHÁT TRIỂN DỮ LIỆU QUỐC GIA
+Thu thập, số hóa, tạo lập dữ liệu và xác lập quyền sở hữu dữ liệu
+Đối với cơ quan Đảng, Nhà nước, tổ chức chính trị - xã hội
+a) Việc thu thập, số hóa phải bảo đảm chính xác, đầy đủ, kịp thời, tin cậy, hợp pháp, phù hợp với chức năng, nhiệm vụ được giao; 
+b) Dữ liệu liên quan đến quản lý nhà nước, thực hiện thủ tục hành chính, giải quyết dịch vụ công liên quan đến tổ chức, cá nhân, phục vụ bảo đảm an ninh, quốc phòng, đối ngoại, đấu tranh phòng, chống tội phạm, xử lý vi phạm pháp luật phải được thu thập, số hoá, tạo lập thành dữ liệu đáp ứng tiêu chuẩn, quy chuẩn kỹ thuật để kết nối, chia sẻ, khai thác, sử dụng theo quy định pháp luật;
+c) Việc tạo lập dữ liệu trong cơ sở dữ liệu phải sử dụng thống nhất bảng mã danh mục dùng chung do cơ quan Đảng, Nhà nước, tổ chức chính trị - xã hội có thẩm quyền ban hành, thống nhất với dữ liệu chủ trong cơ sở dữ liệu quốc gia, cơ sở dữ liệu chuyên ngành và tuân thủ tiêu chuẩn, quy chuẩn kỹ thuật được ban hành bởi cơ quan có thẩm quyền;
+d) Không được thu thập, tổ chức thu thập lại dữ liệu hoặc yêu cầu tổ chức, cá nhân cung cấp lại dữ liệu mà cơ quan Đảng, Nhà nước, tổ chức chính trị - xã hội khác đã thu thập, trừ trường hợp yêu cầu cung cấp dữ liệu phục vụ cập nhật hoặc sử dụng cho mục đích xác nhận, xác thực dữ liệu hoặc dữ liệu đó không bảo đảm yêu cầu về chất lượng theo tiêu chuẩn, quy chuẩn kỹ thuật hoặc pháp luật có quy định khác;
+đ) Việc thu thập dữ liệu từ tổ chức, cá nhân thực hiện theo thứ tự ưu tiên như sau: Thu thập từ kết quả giải quyết thủ tục hành chính; thu thập từ số hóa hồ sơ, tài liệu sẵn có; thu thập qua phương thức điện tử; thu thập trực tiếp từ tổ chức, cá nhân;
+e) Việc thực hiện chuyển đổi hồ sơ, tài liệu số hoá thành dữ diệu phải tuân thủ theo quy định pháp luật về lưu trữ; chỉ được thu thập dữ liệu từ hồ sơ, tài liệu lưu trữ là bản gốc, bản chính; dữ liệu được thu thập, tạo lập phải bảo đảm việc xác thực, truy nguyên được đến bản số hóa hồ sơ, tài liệu;
+g) Cơ quan Đảng, Nhà nước, tổ chức chính trị - xã hội là chủ sở hữu dữ liệu do mình thu thập, tạo lập hoặc được giao quản lý theo quy định pháp luật hoặc quyết định của cấp có thẩm quyền.
+2. Đối với cá nhân và tổ chức khác
+a) Được thu thập, tạo lập dữ liệu để phục vụ cho hoạt động của mình phù hợp với quy định pháp luật;
+b) Chịu trách nhiệm đối với dữ liệu do mình thu thập, tạo lập theo quy định pháp luật;
+c) Tổ chức, cá nhân là chủ sở hữu dữ liệu do mình thu thập, tạo lập; việc xác lập quyền sở hữu của chủ sở hữu dữ liệu được thực hiện theo quy định của Chính phủ.
+Bảo đảm chất lượng dữ liệu
+1. Bảo đảm chất lượng dữ liệu là bảo đảm tính chính xác, hợp lệ, toàn vẹn, đầy đủ, cập nhật kịp thời, thống nhất của dữ liệu.
+2. Trách nhiệm của cơ quan, tổ chức quản lý cơ sở dữ liệu quốc gia, cơ sở dữ liệu chuyên ngành trong bảo đảm chất lượng dữ liệu:
+a) Hướng dẫn, triển khai tiêu chuẩn, quy chuẩn kỹ thuật, quy trình bảo đảm chất lượng dữ liệu để áp dụng đối với cơ sở dữ liệu do cơ quan, tổ chức quản lý;
+b) Thường xuyên kiểm tra, giám sát, khắc phục sai sót để bảo đảm chất lượng dữ liệu sẵn sàng khai thác, sử dụng;
+c) Thực hiện công tác bảo đảm chất lượng dữ liệu phải đồng bộ trong phạm vi tổ chức và phối hợp với các cơ quan có liên quan để thường xuyên cập nhật, điều chỉnh, bảo đảm chất lượng dữ liệu trong quá trình khai thác, sử dụng.
+Phân loại dữ liệu
+1. Cơ quan Đảng, Nhà nước, tổ chức chính trị - xã hội thiết lập hệ thống phân loại dữ liệu dựa trên yêu cầu quản lý, xử lý, bảo vệ dữ liệu, bao gồm nhưng không giới hạn theo các nhóm phân loại sau: 
+a) Phân loại theo tính chất chia sẻ dữ liệu gồm: Dữ liệu dùng chung, dữ liệu dùng riêng, dữ liệu mở;
+b) Phân loại theo đối tượng phản ánh của dữ liệu gồm: Dữ liệu cá nhân, dữ liệu phi cá nhân;
+c) Phân loại theo cách thức tạo lập dữ liệu gồm: Dữ liệu gốc, dữ liệu tổng hợp;
+d) Phân loại theo tính chất quan trọng của nội dung dữ liệu, mức độ nguy hại nếu bị thay đổi, phá hủy, rò rỉ, giả mạo, sử dụng hoặc chia sẻ trái phép, gồm: Dữ liệu cốt lõi, dữ liệu quan trọng, dữ liệu khác;
+đ) Phân loại dữ liệu theo lĩnh vực.
+2. Người đứng đầu cơ quan Đảng, tổ chức chính trị - xã hội ở Trung ương, bộ trưởng, thủ trưởng cơ quan ngang bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương và người đứng đầu các cơ quan ở Trung ương khác ban hành danh mục dữ liệu quan trọng, dữ liệu thuộc lĩnh vực quản lý.
+3. Bộ Công an chủ trì, phối hợp với Bộ Quốc phòng, Bộ Thông tin và Truyền thông và cơ quan có liên quan trình Thủ tướng Chính phủ ban hành danh mục dữ liệu cốt lõi (trừ dữ liệu do Bộ Quốc phòng quản lý).
+4. Khuyến khích tổ chức, cá nhân không thuộc khoản 1 Điều này áp dụng việc phân loại dữ liệu theo quy định tại Điều này.
+5. Chính phủ quy định chi tiết Điều này.
+Lưu trữ dữ liệu
+1. Cơ quan Đảng, Nhà nước, tổ chức chính trị - xã hội quản lý cơ sở dữ liệu quốc gia, cơ sở dữ liệu chuyên ngành phải xác định loại dữ liệu chủ trong cơ sở dữ liệu và phân loại, tổ chức lưu trữ dữ liệu theo mô hình sau:
+Kho dữ liệu mở; 
+Kho dữ liệu dùng chung;
+Kho dữ liệu dùng riêng.
+2. Tổ chức, cá nhân là chủ sở hữu dữ liệu không thuộc quy định tại khoản 1 Điều này được quyền quyết định việc lưu trữ dữ liệu do mình thu thập, tạo lập, sở hữu. Chính phủ có chính sách hỗ trợ tổ chức, cá nhân thực hiện lưu trữ dữ liệu tập trung, thống nhất hình thành các cơ sở dữ liệu theo mô hình tại khoản 1 Điều này.
+3. Cơ sở dữ liệu quốc gia được lưu trữ dữ liệu trên hạ tầng của Trung tâm dữ liệu quốc gia. Cơ sở dữ liệu chuyên ngành được lưu trữ dữ liệu trên hạ tầng của Trung tâm dữ liệu quốc gia hoặc hạ tầng của cơ quan, tổ chức đủ tiêu chuẩn. Đối với dữ liệu dùng riêng và dữ liệu thuộc lĩnh vực an ninh, quân sự, quốc phòng, cơ yếu chỉ thực hiện lưu trữ dữ liệu trên hạ tầng của Trung tâm dữ liệu quốc gia khi được sự đồng ý của chủ quản dữ liệu.
+4. Tổ chức, cá nhân không thuộc quy định tại khoản 1 Điều này được quyền thỏa thuận lưu trữ dữ liệu trên hạ tầng của Trung tâm dữ liệu quốc gia bằng hợp đồng cung cấp dịch vụ giữa cơ quan, tổ chức, cá nhân đó với tổ chức cung cấp dịch vụ khai thác dữ liệu và hạ tầng Trung tâm dữ liệu quốc gia. 
+5. Thời hạn lưu trữ dữ liệu của cơ quan Đảng, Nhà nước, tổ chức chính trị - xã hội thực hiện theo quy định pháp luật về lưu trữ.
+Kết hợp, điều chỉnh, cập nhật dữ liệu
+1. Cơ quan Đảng, Nhà nước, tổ chức chính trị - xã hội quản lý cơ sở dữ liệu quốc gia, cơ sở dữ liệu chuyên ngành có trách nhiệm thực hiện điều chỉnh, cập nhật dữ liệu thường xuyên, liên tục bảo đảm tính chính xác, giá trị sử dụng của các dữ liệu trong cơ sở dữ liệu do mình quản lý; lưu trữ thông tin về lịch sử kết hợp, điều chỉnh, cập nhật dữ liệu.
+2. Chủ sở hữu dữ liệu không thuộc khoản 1 Điều này có quyền kết hợp, điều chỉnh, cập nhật dữ liệu khi chủ thể dữ liệu đồng ý.
+Chiến lược dữ liệu
+1. Thủ tướng Chính phủ ban hành Chiến lược dữ liệu quốc gia phù hợp với mục tiêu phát triển kinh tế - xã hội, bảo đảm quốc phòng, an ninh, phục vụ chuyển đổi số quốc gia và hiện đại hóa công tác quản lý xã hội.
+2. Bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ, cơ quan Đảng, tổ chức chính trị - xã hội, cơ quan khác ở Trung ương và Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương ban hành kế hoạch thực hiện Chiến lược dữ liệu quốc gia.
+3. Chính phủ quy định chi tiết Điều này.
+Quản trị dữ liệu
+1. Chủ quản dữ liệu phải tổ chức, xây dựng chính sách, kế hoạch, chương trình, quy trình để thực hiện việc quản trị dữ liệu một cách liên tục, hiệu quả, bảo đảm tính đầy đủ, chính xác, kịp thời của dữ liệu.
+2. Nhiệm vụ quản trị dữ liệu gồm:
+a) Xây dựng chính sách dữ liệu;
+b) Xây dựng tiêu chuẩn, quy chuẩn kỹ thuật và kiến trúc dữ liệu;
+c) Quản lý thiết kế và xây dựng mô hình dữ liệu;
+d) Quản lý lưu trữ và vận hành dữ liệu;
+đ) Giám sát việc tuân thủ quy định về dữ liệu;
+e) Quản lý chất lượng dữ liệu;
+g) Quản lý các dự án về dữ liệu;
+h) Quản lý an toàn bảo mật và bảo vệ dữ liệu;
+i) Quản lý kết nối, tích hợp và chia sẻ dữ liệu;
+k) Quản lý dữ liệu chủ;
+l) Quản lý siêu dữ liệu;
+m) Quản lý rủi ro và các vấn đề phát sinh khác liên quan đến dữ liệu.
+3. Chủ quản dữ liệu là cơ quan Đảng, Nhà nước, tổ chức chính trị - xã hội phải phối hợp đơn vị chuyên trách về an ninh mạng, an toàn thông tin thuộc Bộ Công an, Bộ Quốc phòng, Bộ Thông tin và Truyền thông trong thực hiện việc bảo vệ an toàn, an ninh dữ liệu.
+4. Chủ sở hữu dữ liệu là tổ chức, cá nhân không thuộc khoản 3 Điều này có trách nhiệm thực hiện quản trị dữ liệu do mình thu thập, tạo lập, sở hữu; phối hợp đơn vị chuyên trách về an ninh mạng, an toàn thông tin thuộc Bộ Công an, Bộ Quốc phòng, Bộ Thông tin và Truyền thông trong thực hiện việc bảo vệ an toàn, an ninh dữ liệu khi được yêu cầu. Chính phủ có chính sách hỗ trợ tổ chức, cá nhân thực hiện quản trị dữ liệu bảo đảm minh bạch và bảo vệ quyền, lợi ích của chủ thể dữ liệu.
+Kết nối, chia sẻ, điều phối dữ liệu
+1. Chia sẻ dữ liệu là việc chủ thể dữ liệu, chủ sở hữu dữ liệu, chủ quản dữ liệu cung cấp dữ liệu cho người dùng dữ liệu nhằm mục đích sử dụng chung hoặc riêng dữ liệu đó, dựa trên các thỏa thuận tự nguyện hoặc theo quy định pháp luật, bằng cách trực tiếp hoặc thông qua một bên trung gian.
+2. Điều phối dữ liệu là hoạt động quản lý việc điều động dữ liệu từ nơi lưu trữ dữ liệu tập trung và phân phối, cung cấp dữ liệu đến người dùng dữ liệu theo nhu cầu, theo kế hoạch đã đăng ký.
+3. Cơ quan Đảng, Nhà nước, tổ chức chính trị - xã hội có trách nhiệm kết nối, chia sẻ, điều phối dữ liệu, bảo đảm điều kiện sẵn sàng để chia sẻ, điều phối dữ liệu cho cơ quan, tổ chức, cá nhân được phép khai thác dữ liệu theo quy định của pháp luật, bảo đảm nhanh chóng, kịp thời, chính xác.
+4. Trung tâm dữ liệu quốc gia kết nối, chia sẻ, điều phối dữ liệu lưu trữ, quản lý tại Cơ sở dữ liệu tổng hợp quốc gia phục vụ hoạt động chỉ đạo, điều hành của cơ quan Đảng, Nhà nước, tổ chức chính trị - xã hội hoặc theo yêu cầu của chủ thể dữ liệu, chủ sở hữu dữ liệu, chủ quản dữ liệu phù hợp với quy định pháp luật.
+5. Việc kết nối, chia sẻ, điều phối dữ liệu của Trung tâm dữ liệu quốc gia thực hiện qua Nền tảng chia sẻ, điều phối dữ liệu.
+6. Thủ tướng Chính phủ quyết định việc chia sẻ dữ liệu dùng riêng do các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương quản lý để giải quyết tình trạng khẩn cấp; trường hợp đột xuất, khẩn cấp trong phòng, chống thiên tai, dịch bệnh, cháy, nổ; trường hợp cấp bách để giải quyết những vấn đề phát sinh trong thực tiễn.
+7. Thường trực Ban Bí thư quyết định việc chia sẻ dữ liệu dùng riêng do các cơ quan Đảng ở Trung ương, các tỉnh uỷ, thành ủy quản lý để giải quyết tình trạng khẩn cấp, cấp bách.
+8. Chính phủ có chính sách hỗ trợ chủ sở hữu dữ liệu không thuộc khoản 3 Điều này trong thực hiện kết nối, chia sẻ dữ liệu để cung cấp cho cơ quan nhà nước theo quy định của Luật này.
+Cung cấp dữ liệu cho cơ quan Đảng, Nhà nước, tổ chức chính trị - xã hội
+1. Tổ chức, cá nhân phải thực hiện kê khai, cung cấp dữ liệu cho cơ quan Đảng, Nhà nước, tổ chức chính trị - xã hội trong trường hợp đặc biệt khi được yêu cầu bằng văn bản của cơ quan có thẩm quyền.
+2. Trường hợp đặc biệt theo quy định tại khoản 1 Điều này gồm:
+a) Khi dữ liệu được yêu cầu cung cấp là cần thiết để ứng phó với tình trạng khẩn cấp; phục vụ công tác quốc phòng, an ninh, bảo đảm lợi ích quốc gia;
+b) Khi việc thiếu dữ liệu sẵn có ngăn cản cơ quan Đảng, Nhà nước, tổ chức chính trị - xã hội hoàn thành một nhiệm vụ cụ thể vì lợi ích công cộng đã được pháp luật quy định và cơ quan Đảng, Nhà nước, tổ chức chính trị - xã hội không thể lấy được dữ liệu đó bằng các biện pháp thay thế khác.
+3. Khi yêu cầu tổ chức, cá nhân cung cấp dữ liệu trong trường hợp đặc biệt, cơ quan Đảng, Nhà nước, tổ chức chính trị - xã hội có trách nhiệm:
+a) Chỉ rõ dữ liệu được yêu cầu; 
+b) Giải thích mục đích sử dụng dữ liệu và thời hạn sử dụng;
+c) Nêu cơ sở pháp lý cho việc yêu cầu dữ liệu;
+d) Chỉ định thời hạn cần cung cấp dữ liệu. Trước thời hạn đó chủ quản dữ liệu, chủ sở hữu dữ liệu có thể yêu cầu cơ quan Đảng, Nhà nước, tổ chức chính trị - xã hội sửa đổi hoặc rút lại yêu cầu;
+đ) Thông báo cho chủ quản dữ liệu, chủ sở hữu dữ liệu về các chế tài sẽ được áp dụng trong trường hợp không thực hiện yêu cầu.
+4. Yêu cầu cung cấp dữ liệu được thực hiện theo khoản 3 của Điều này phải bảo đảm:
+a) Được thể hiện bằng ngôn ngữ rõ ràng, ngắn gọn và dễ hiểu đối với chủ quản dữ liệu, chủ sở hữu dữ liệu; 
+b) Xác định rõ về loại dữ liệu, mức độ chi tiết, khối lượng dữ liệu, tần suất truy cập dữ liệu, phương thức cung cấp dữ liệu được yêu cầu;
+c) Tôn trọng các mục đích hợp pháp của chủ quản dữ liệu, chủ sở hữu dữ liệu, bảo vệ bí mật kinh doanh, bí mật cá nhân.
+5. Nghĩa vụ của cơ quan Đảng, Nhà nước, tổ chức chính trị - xã hội khi đã nhận được dữ liệu theo yêu cầu: 
+a) Sử dụng dữ liệu vào đúng mục đích đã yêu cầu;
+b) Thực hiện các biện pháp kỹ thuật để bảo đảm an ninh, an toàn dữ liệu, bảo vệ dữ liệu cá nhân và bảo vệ quyền, lợi ích hợp pháp khác của chủ thể dữ liệu, tổ chức, cá nhân đã cung cấp dữ liệu; 
+c) Hủy dữ liệu ngay khi dữ liệu đó không còn cần thiết cho mục đích đã yêu cầu và thông báo cho chủ thể dữ liệu, tổ chức, cá nhân đã cung cấp dữ liệu.
+6. Tổ chức, cá nhân được quyền tự nguyện đóng góp dữ liệu thuộc quyền sở hữu cho cơ quan Đảng, Nhà nước, tổ chức chính trị - xã hội để phục vụ mục đích công cộng, hoạt động nghiên cứu khoa học và các hoạt động khác.
+7. Chính phủ quy định chi tiết về hình thức cung cấp dữ liệu, thẩm quyền yêu cầu cung cấp dữ liệu và việc thực hiện cung cấp dữ liệu theo quy định tại Điều này.
+8. Thường trực Ban Bí thư quy định chi tiết việc thực hiện cung cấp dữ liệu cho cơ quan Đảng và các tổ chức chính trị - xã hội trong trường hợp đặc biệt.
+Phân tích, tổng hợp dữ liệu
+1. Phân tích, tổng hợp dữ liệu bao gồm nhưng không giới hạn theo các nhóm phân loại sau: Phân tích mô tả để biết được những gì đã và đang xảy ra; phân tích chẩn đoán để tìm ra nguyên nhân sự kiện; phân tích dự đoán để đưa ra các dự báo về xu hướng trong tương lai; phân tích đề xuất đưa ra các khuyến nghị hỗ trợ ra quyết định.
+2. Cơ quan Đảng, Nhà nước, tổ chức chính trị - xã hội phải thu thập, chia sẻ dữ liệu, xây dựng các kho dữ liệu, dữ liệu lớn để làm cơ sở cho việc phân tích tổng hợp dữ liệu; đẩy mạnh ứng dụng các công cụ phân tích tổng hợp dữ liệu khác nhau và các công cụ trực quan để phục vụ hỗ trợ ra quyết định và cung cấp các dịch vụ phân tích, tổng hợp dữ liệu phục vụ phát triển kinh tế - xã hội.
+3. Cơ quan Đảng, Nhà nước, tổ chức chính trị - xã hội được phân tích, tổng hợp dữ liệu từ nguồn dữ liệu mà cơ quan, tổ chức thu thập, tạo lập hoặc được chia sẻ, đồng bộ, khai thác, sử dụng.
+4. Tổ chức, cá nhân không thuộc khoản 3 Điều này được phân tích, tổng hợp dữ liệu từ nguồn dữ liệu được phép truy cập, sử dụng; trường hợp thực hiện phân tích, tổng hợp dữ liệu liên quan đến quy định tại khoản 5 Điều 27 Luật này phải tuân thủ điều kiện quy định tại Điều 52 Luật này.
+Xác nhận, xác thực dữ liệu
+1. Dữ liệu được xác nhận bởi chủ quản dữ liệu, chủ sở hữu dữ liệu, chủ thể dữ liệu hoặc tổ chức cung cấp dịch vụ xác thực điện tử. Xác nhận dữ liệu được thực hiện như sau:
+a) Chủ quản dữ liệu xác nhận dữ liệu được thu thập, cập nhật vào cơ sở dữ liệu quốc gia, cơ sở dữ liệu chuyên ngành, cơ sở dữ liệu khác do mình chủ quản;
+b) Việc xác nhận dữ liệu giữa các cơ quan Đảng, Nhà nước, tổ chức chính trị - xã hội thực hiện thông qua quy chế phối hợp và phương thức kết nối, chia sẻ, cung cấp dữ liệu;
+c) Ngoài trường hợp quy định tại điểm a và điểm b Khoản này, việc xác nhận dữ liệu được thực hiện theo thỏa thuận giữa người dùng dữ liệu với chủ quản dữ liệu, chủ sở hữu dữ liệu, chủ thể dữ liệu hoặc tổ chức cung cấp dịch vụ xác thực điện tử nhưng không được trái quy định pháp luật;
+d) Chủ sở hữu dữ liệu, chủ quản dữ liệu chịu trách nhiệm về chất lượng dữ liệu được xác nhận;
+đ) Chủ sở hữu dữ liệu, chủ thể dữ liệu chịu trách nhiệm về mức độ tin cậy, hợp pháp của dữ liệu do mình cung cấp và xác nhận;
+e) Việc xác nhận dữ liệu có giá trị chứng minh sự tồn tại của dữ liệu, phù hợp với dữ liệu được cập nhật, chia sẻ, lưu trữ trên không gian mạng theo quy định của Luật này và pháp luật khác có liên quan.
+2. Dữ liệu được xác thực bởi chủ quản dữ liệu, chủ sở hữu dữ liệu hoặc tổ chức cung cấp dịch vụ xác thực điện tử. Dữ liệu được xác thực có giá trị tương đương với dữ liệu gốc được lưu trữ tại cơ sở dữ liệu quốc gia, cơ sở dữ liệu chuyên ngành, cơ sở dữ liệu khác.
+3. Xác thực dữ liệu bao gồm:
+a) Xác thực dữ liệu gắn với danh tính điện tử;
+b) Xác thực dữ liệu không gắn với danh tính điện tử.
+4. Chủ quản dữ liệu, tổ chức cung cấp dịch vụ xác thực điện tử có trách nhiệm xây dựng quy trình xác nhận, xác thực dữ liệu trong phạm vi dữ liệu mình quản lý hoặc dịch vụ dữ liệu do mình cung cấp. 
+5. Việc xác nhận, xác thực dữ liệu phải được thực hiện chính xác và hợp pháp đối với nội dung do chủ thể yêu cầu xác nhận, xác thực.
+Công khai dữ liệu
+1. Các hình thức công khai dữ liệu bao gồm:
+a) Niêm yết thông tin;
+b) Đăng tải trên cổng dữ liệu, cổng thông tin điện tử, trang thông tin điện tử và các phương tiện thông tin đại chúng;
+c) Các hình thức khác theo quy định pháp luật.
+2. Thời điểm công khai dữ liệu đối với từng lĩnh vực được thực hiện theo quy định pháp luật có liên quan. Theo định kỳ, cơ quan nhà nước có trách nhiệm thực hiện công khai dữ liệu mở để tổ chức, cá nhân khai thác sử dụng phục vụ hoạt động đổi mới sáng tạo, phát triển kinh tế - xã hội.
+3. Các dữ liệu không được phép công khai gồm: 
+a) Dữ liệu cá nhân mà không được chủ thể dữ liệu đồng ý; 
+b) Dữ liệu là bí mật nhà nước; dữ liệu tác động đến quốc phòng, an ninh;
+c) Dữ liệu nếu công khai sẽ gây nguy hại đến lợi ích của Đảng, Nhà nước, lợi ích quốc gia, quan hệ đối ngoại; đạo đức xã hội, sức khỏe của cộng đồng; gây nguy hại đến tính mạng, sức khỏe, quyền và lợi ích hợp pháp của tổ chức, cá nhân.
+4. Dữ liệu được công khai có điều kiện gồm:
+a) Dữ liệu liên quan đến bí mật kinh doanh được công khai trong trường hợp chủ sở hữu bí mật kinh doanh đó đồng ý theo quy định pháp luật;
+b) Dữ liệu liên quan đến bí mật đời sống riêng tư, bí mật cá nhân được công khai trong trường hợp được người đó đồng ý; dữ liệu liên quan đến bí mật gia đình được công khai trong trường hợp được các thành viên gia đình đồng ý;
+c) Trong quá trình thực hiện chức năng, nhiệm vụ, quyền hạn của mình, người đứng đầu cơ quan Đảng, Nhà nước, tổ chức chính trị - xã hội quyết định việc cung cấp dữ liệu liên quan đến bí mật kinh doanh, đời sống riêng tư, bí mật cá nhân, bí mật gia đình trong trường hợp vì lợi ích công cộng, sức khỏe của cộng đồng theo quy định của luật có liên quan mà không cần có sự đồng ý theo quy định tại điểm a và điểm b Khoản này;
+d) Người đứng đầu cơ quan Đảng, Nhà nước, tổ chức chính trị - xã hội quyết định việc cung cấp thông tin về cuộc họp nội bộ của cơ quan Đảng, Nhà nước, tổ chức chính trị - xã hội; tài liệu do cơ quan Đảng, Nhà nước, tổ chức chính trị - xã hội soạn thảo cho công việc nội bộ.
+5. Chính phủ quy định chi tiết Điều này.
+Truy cập, truy xuất dữ liệu
+1. Cơ quan Đảng, Nhà nước, tổ chức chính trị - xã hội phải cung cấp công cụ truy cập và phân quyền truy cập dữ liệu để bảo đảm an ninh, an toàn và bảo vệ dữ liệu; bảo đảm quyền truy cập, khai thác dữ liệu của tổ chức, cá nhân đối với dữ liệu của mình, trừ dữ liệu không được công khai. Khuyến khích các chủ quản dữ liệu khác thực hiện cung cấp công cụ truy cập và phân quyền truy cập dữ liệu.
+2. Cơ quan Đảng, Nhà nước, tổ chức chính trị - xã hội quản lý cơ sở dữ liệu có chứa dữ liệu của tổ chức, cá nhân phải cung cấp công cụ để tổ chức, cá nhân truy cập, khai thác, sử dụng dữ liệu của mình; trừ dữ liệu không được công khai.
+3. Phương thức truy cập dữ liệu bảo đảm tuân thủ những nguyên tắc sau:
+a) Bảo đảm hợp pháp, công bằng và minh bạch khi truy cập dữ liệu; 
+b) Chỉ truy cập dữ liệu tối thiểu và cần thiết nhất cho mục đích được xác định ban đầu, không truy cập nhằm mục đích khác;
+c) Việc truy cập các dữ liệu quan trọng, dữ liệu cốt lõi phải được quản lý chặt chẽ bằng quy định, biện pháp kỹ thuật và ghi nhận, lưu vết thời gian, xác thực được người truy cập, nội dung truy cập để bảo đảm việc thực thi công vụ không làm lộ bí mật hoặc xâm phạm lợi ích của tổ chức, cá nhân;
+d) Bảo đảm bảo mật khi truy cập và sử dụng các biện pháp truy cập thích hợp;
+đ) Tuân thủ quy định, quy trình truy cập dữ liệu.
+4. Việc truy xuất dữ liệu phải bảo đảm tuân thủ các nguyên tắc sau:
+a) Cơ quan, tổ chức, cá nhân có liên quan sử dụng công cụ truy xuất dữ liệu có trách nhiệm sử dụng các biện pháp kỹ thuật để bảo vệ dữ liệu vào quy trình thiết kế ngay từ đầu nhằm bảo vệ dữ liệu;
+b) Dữ liệu truy xuất phải được sự đồng ý của chủ quản dữ liệu và được sử dụng đúng mục đích trừ trường hợp luật có quy định khác.
+5. Việc truy cập, truy xuất dữ liệu phải tuân thủ quy trình do chủ quản dữ liệu, chủ dữ liệu yêu cầu.
+Mã hóa, giải mã dữ liệu
+1.	Đối với dữ liệu thuộc danh mục bí mật nhà nước, khi lưu trữ, truyền, nhận, chia sẻ trên mạng máy tính phải được mã hóa bằng mật mã của cơ yếu.
+2. Cơ quan, tổ chức, cá nhân được sử dụng một hoặc nhiều giải pháp mã hóa và quy trình mã hóa, giải mã phù hợp với hoạt động quản trị, quản lý dữ liệu của mình gồm:
+a) Giải pháp mã hóa dữ liệu khi truyền tải dữ liệu; 
+b) Giải pháp mã hóa dữ liệu khi lưu trữ dữ liệu; 
+c) Giải pháp mã hóa dữ liệu trên thiết bị số;
+d) Giải pháp bảo mật phần cứng nhằm phòng chống truy cập trái phép và bảo đảm rằng các thao tác mã hóa/giải mã chỉ được thực hiện trong môi trường an toàn;
+đ) Quy trình giải mã yêu cầu xác thực định danh người thực hiện giải mã dữ liệu, xác định và cấp quyền truy cập dữ liệu đã được mã hóa;
+e) Giải pháp ghi lại các hoạt động mã hóa và giải mã nhằm bảo đảm tính hợp pháp, minh bạch, công bằng và phục vụ tra cứu;
+g) Các giải pháp, quy trình hợp pháp khác.
+3. Chủ sở hữu dữ liệu, chủ quản dữ liệu quyết định việc mã hóa dữ liệu.
+Sao chép, truyền đưa, chuyển giao dữ liệu
+1. Chủ sở hữu dữ liệu có quyền quyết định việc sao chép, truyền đưa hoặc chuyển giao dữ liệu của mình. 
+2. Chủ quản dữ liệu quyết định về phương thức, công cụ thực hiện việc sao chép, truyền đưa hoặc chuyển giao dữ liệu thuộc phạm vi quản lý. 
+Chuyển dữ liệu ra nước ngoài, cho tổ chức, cá nhân nước ngoài 
+1. Hoạt động cung cấp, chuyển dữ liệu ra nước ngoài, cho tổ chức, cá nhân nước ngoài phải bảo đảm bảo vệ quyền và lợi ích hợp pháp của chủ thể dữ liệu, bảo vệ an ninh, quốc phòng và lợi ích quốc gia, lợi ích công cộng. 
+2. Dữ liệu được phân loại là dữ liệu cốt lõi, dữ liệu quan trọng cần được cung cấp, chuyển giao bên ngoài biên giới nước Cộng hòa xã hội chủ nghĩa Việt Nam, cho tổ chức, cá nhân nước ngoài phải được cơ quan có thẩm quyền đánh giá tác động và chấp thuận. Đối với dữ liệu cá nhân thì thực hiện theo quy định của pháp luật về bảo vệ dữ liệu cá nhân. 
+3. Thẩm quyền quyết định việc cung cấp, chuyển giao dữ liệu thuộc khoản 2 Điều này được quy định như sau:
+a) Thủ tướng Chính phủ quyết định việc cung cấp, chuyển giao dữ liệu cốt lõi;
+b) Bộ Quốc phòng chủ trì thực hiện xác định, đánh giá tác động và quyết định cung cấp, chuyển giao các dữ liệu quan trọng thuộc lĩnh vực quân sự, quốc phòng, cơ yếu;
+c) Bộ Công an chủ trì, phối hợp với các cơ quan có liên quan thực hiện đánh giá tác động việc chuyển giao dữ liệu quan trọng không thuộc điểm b khoản này. Chủ quản dữ liệu quyết định việc chuyển giao dữ liệu quan trọng sau khi đã đạt đánh giá tác động.
+4. Chủ quản dữ liệu khi cần cung cấp, chuyển giao dữ liệu cốt lõi, dữ liệu quan trọng ra nước ngoài, cho tổ chức, cá nhân nước ngoài phải đáp ứng các điều kiện sau:
+a) Đạt đánh giá tác động theo quy định tại khoản 7 Điều này;
+b) Ký kết hợp đồng với bên nhận chuyển giao;
+c) Các điều kiện khác theo quy định pháp luật.
+5. Chủ quản dữ liệu phải áp dụng các biện pháp cần thiết để bảo đảm hoạt động xử lý dữ liệu của bên nhận dữ liệu đạt tiêu chuẩn bảo vệ dữ liệu quy định tại Luật này. 
+6. Đánh giá tác động việc chuyển giao dữ liệu ra nước ngoài, cho tổ chức, cá nhân nước ngoài tập trung vào việc đánh giá các rủi ro mà hoạt động cung cấp, chuyển giao dữ liệu có thể ảnh hưởng đến an ninh, quốc phòng và lợi ích quốc gia, lợi ích công cộng, quyền và lợi ích hợp pháp của cá nhân, tổ chức, bao gồm tối thiểu các vấn đề sau: 
+a) Tính hợp pháp, mục đích và sự cần thiết của việc chuyển giao dữ liệu, phạm vi, phương pháp truyền dữ liệu và việc xử lý dữ liệu của bên nhận dữ liệu;
+b) Quy mô, phạm vi, loại và độ nhạy cảm của dữ liệu được xuất và những rủi ro mà việc xuất dữ liệu có thể mang lại cho an ninh, quốc phòng và lợi ích quốc gia, lợi ích công cộng hoặc quyền và lợi ích hợp pháp của cá nhân hoặc tổ chức;
+c) Trách nhiệm, nghĩa vụ mà bên nhận dữ liệu, bên chuyển giao dữ liệu đã cam kết thực hiện;
+d) Nguy cơ dữ liệu sẽ bị giả mạo, phá hủy, rò rỉ, bị mất, chuyển giao hoặc thu thập, sử dụng bất hợp pháp trong hoặc sau khi dữ liệu được chuyển giao; việc bảo vệ quyền và lợi ích của chủ thể dữ liệu; hoạt động quản lý dữ liệu, biện pháp kỹ thuật áp dụng để bảo vệ dữ liệu;
+đ) Hợp đồng hoặc các văn bản có hiệu lực pháp lý khác được soạn thảo với bên nhận dữ liệu có thỏa thuận đầy đủ về trách nhiệm và nghĩa vụ bảo vệ an toàn dữ liệu hay không;
+e) Các vấn đề khác có thể ảnh hưởng đến tính bảo mật của việc chuyển giao dữ liệu.
+7. Đánh giá tác động việc chuyển giao dữ liệu ra nước ngoài, cho tổ chức, cá nhân nước ngoài được thực hiện kết hợp giữa việc đánh giá trước khi việc cung cấp, chuyển giao được thực hiện, giám sát liên tục, đánh giá lại định kỳ trong quá trình thực hiện nhằm ngăn ngừa rủi ro bảo mật và bảo đảm luồng dữ liệu có trật tự và tự do theo quy định pháp luật.
+8. Các tổ chức và cá nhân trong nước không được cung cấp dữ liệu được lưu trữ trên lãnh thổ Việt Nam cho cơ quan tư pháp hoặc cơ quan thực thi pháp luật của nước ngoài mà không có sự chấp thuận của cơ quan có thẩm quyền của Việt Nam.
+9. Chính phủ quy định chi tiết Điều này. 
+Thu hồi, xóa, hủy dữ liệu
+1. Chủ thể dữ liệu có quyền yêu cầu chủ sở hữu dữ liệu, chủ quản dữ liệu thu hồi, xoá hoặc huỷ dữ liệu của mình, trừ trường hợp pháp luật có quy định khác.
+2. Chủ quản dữ liệu có trách nhiệm thiết lập quy trình, triển khai các biện pháp, phương thức thu hồi, xoá hoặc huỷ dữ liệu theo yêu cầu của chủ thể dữ liệu. Việc thu hồi, xoá, huỷ dữ liệu phải được theo dõi, lưu vết bảo đảm minh bạch.
+Ứng dụng khoa học công nghệ trong xử lý, quản lý, quản trị, sử dụng, khai thác dữ liệu
+1. Nhà nước ưu tiên và khuyến khích việc ứng dụng khoa học công nghệ trong xử lý, quản lý, quản trị, sử dụng, khai thác dữ liệu trên cơ sở bảo đảm bảo vệ an ninh quốc gia, lợi ích công cộng, bảo vệ quyền và lợi ích hợp pháp của công dân, pháp nhân và các tổ chức khác.
+2. Nhà nước có chính sách hỗ trợ cho các cơ quan, tổ chức, cá nhân đưa ra các sáng kiến, phát triển các sản phẩm dịch vụ sáng tạo liên quan đến nâng cao năng lực, hiệu năng hoạt động xử lý, quản lý, quản trị, sử dụng, khai thác dữ liệu.
+3. Nguyên tắc trong phát triển, ứng dụng công nghệ trong xử lý, quản trị, quản lý, sử dụng, khai thác dữ liệu:
+a) Không sản xuất nội dung bị cấm theo quy định pháp luật;
+b) Sử dụng các biện pháp hiệu quả để ngăn chặn sự phân biệt đối xử đối với chủ thể dữ liệu liên quan đến các vấn đề về dân tộc, tín ngưỡng, quốc gia, khu vực, giới tính, tuổi tác, nghề nghiệp, sức khỏe;
+c) Tôn trọng quyền sở hữu trí tuệ và đạo đức kinh doanh, giữ bí mật kinh doanh; không được sử dụng thuật toán, dữ liệu, nền tảng và các lợi thế khác để thực hiện hành vi cạnh tranh độc quyền, không lành mạnh;
+d) Tôn trọng quyền và lợi ích hợp pháp của người khác, không được gây nguy hiểm cho sức khỏe thể chất và tâm lý của người khác, không được xâm phạm quyền và lợi ích của người khác về chân dung, uy tín, danh dự, quyền riêng tư hoặc thông tin cá nhân.
+4. Phát triển ứng dụng khoa học công nghệ trong xử lý, quản lý, quản trị, sử dụng, khai thác dữ liệu là một nội dung trong Chiến lược dữ liệu quốc gia.
+5. Chính phủ quy định chi tiết về hoạt động phát triển, ứng dụng công nghệ trong xử lý dữ liệu đối với các ứng dụng:
+a) Thao túng hành vi nhận thức của con người hoặc các nhóm dễ bị tổn thương;
+b) Phân loại con người dựa trên hành vi, tình trạng kinh tế xã hội hoặc đặc điểm cá nhân;
+c) Nhận dạng sinh trắc học;
+d) Được sử dụng trong các sản phẩm ảnh hưởng đến sự an toàn của con người;
+đ) Được sử dụng trong các lĩnh vực ảnh hưởng đến các quyền cơ bản của con người.
+6. Quản lý đối với hoạt động phát triển, ứng dụng công nghệ trong xử lý dữ liệu được quy định tại khoản 5 Điều này bao gồm:
+a) Các yêu cầu cần thực hiện trước khi ra mắt sản phẩm, dịch vụ hoặc ứng dụng mới được hỗ trợ bởi việc ứng dụng công nghệ về xử lý dữ liệu;
+b) Đánh giá tính bảo mật của sản phẩm, dịch vụ, ứng dụng;
+c) Đánh giá đạo đức về hoạt động nghiên cứu, phát triển liên quan đến ứng dụng công nghệ về xử lý dữ liệu;
+d) Các yêu cầu trong quá trình vận hành hàng ngày các sản phẩm, dịch vụ ứng dụng công nghệ về xử lý dữ liệu;
+đ) Dữ liệu đào tạo và ghi nhãn dữ liệu;
+e) Kiểm duyệt dữ liệu đầu vào, kiểm duyệt nội dung đầu ra;
+g) Ghi nhãn nội dung tổng hợp;
+h) Bảo vệ quyền của người dùng;
+i) Đánh giá định kỳ các thuật toán;
+k) Hệ thống quản lý bảo mật dữ liệu và các biện pháp kỹ thuật;
+l) Xử lý thông tin sai lệch và xử lý khiếu nại.
+Xác định và quản lý rủi ro phát sinh trong xử lý dữ liệu
+1. Rủi ro phát sinh trong xử lý dữ liệu bao gồm nhưng không giới hạn theo các nhóm sau: Rủi ro quyền riêng tư, rủi ro an ninh mạng, rủi ro nhận dạng và quản lý truy cập và rủi ro trong xử lý dữ liệu.
+2. Cơ quan Đảng, Nhà nước, tổ chức chính trị - xã hội phải xác định, thiết lập cơ chế cảnh báo sớm về rủi ro phát sinh trong xử lý dữ liệu, xây dựng biện pháp để bảo vệ dữ liệu. 
+3. Chủ quản dữ liệu không thuộc khoản 2 Điều này chịu trách nhiệm tự đánh giá, xác định rủi ro và thực hiện các biện pháp để bảo vệ dữ liệu; kịp thời khắc phục rủi ro phát sinh và thông báo cho chủ thể dữ liệu và cơ quan, tổ chức, cá nhân có liên quan.
+4. Chủ quản dữ liệu là cơ quan Đảng, Nhà nước, tổ chức chính trị - xã hội xử lý dữ liệu cốt lõi, dữ liệu quan trọng phải định kỳ tiến hành đánh giá rủi ro đối với các hoạt động xử lý dữ liệu đó theo quy định. Nội dung đánh giá rủi ro bao gồm tối thiểu các thông tin về loại và lượng dữ liệu đang được xử lý, hoàn cảnh của các hoạt động xử lý dữ liệu, các rủi ro phát sinh trong xử lý dữ liệu và biện pháp giải quyết.
+5. Quy định một số biện pháp phòng ngừa rủi ro phát sinh trong xử lý dữ liệu bao gồm:
+a) Thực hiện sao lưu dữ liệu thường xuyên để bảo đảm rằng dữ liệu có thể được khôi phục trong trường hợp mất mát hoặc hỏng hóc. Sao lưu cần được lưu trữ ở một vị trí an toàn và tách biệt với hệ thống chính;
+b) Có kế hoạch bảo trì, bảo dưỡng, nâng cấp hệ thống và hệ điều hành nhằm bảo đảm duy trì và cải thiện hiệu suất, tính năng, tính bảo mật và tính nhất quán của hệ thống cơ sở dữ liệu; khi nâng cấp cần có kế hoạch và bảo đảm tính liên tục của dịch vụ; phải có biện pháp ứng phó khôi phục lại hệ thống trong quá trình tiến hành;
+c) Thực hiện các biện pháp bảo vệ dữ liệu để không bị truy cập trái phép;
+d) Xây dựng, thiết lập các quy tắc chặt chẽ và hạn chế truy cập đối với từng loại dữ liệu, bảo đảm rằng chỉ những người dùng có nhiệm vụ liên quan đến dữ liệu đó hoặc được sự đồng ý của cơ quan chủ quản dữ liệu mới có thể truy cập được vào những dữ liệu có thông tin nhạy cảm; 
+đ) Sử dụng các hệ thống giám sát và phát hiện xâm nhập để theo dõi hoạt động mạng và phát hiện các hành vi bất thường hoặc truy cập trái phép;
+e) Cài đặt và duy trì các phần mềm bảo mật như tường lửa, phần mềm diệt virus, chống phần mềm độc hại để bảo vệ hệ thống khỏi các mối đe dọa;
+g) Thực hiện đánh giá rủi ro định kỳ để xác định các điểm yếu trong hệ thống và áp dụng các biện pháp giảm thiểu rủi ro tương ứng;
+h) Xây dựng phương án, kế hoạch xử lý sự cố dữ liệu để bảo đảm cơ quan, tổ chức có thể nhanh chóng ứng phó, khắc phục sự cố và hoạt động bình thường sau khi xảy ra các sự cố như tấn công mạng, mất dữ liệu hoặc hỏng hóc thiết bị;
+i) Đào tạo nhân viên về các biện pháp bảo mật dữ liệu, cách nhận biết các mối đe dọa, cách xử lý khi phát hiện rủi ro bảo mật; huấn luyện, diễn tập, phòng ngừa sự cố, giám sát phát hiện, bảo đảm các điều kiện sẵn sàng khi có sự cố;
+k) Các biện pháp khác theo quy định pháp luật.
+Quỹ phát triển dữ liệu quốc gia
+1. Quỹ phát triển dữ liệu quốc gia là quỹ tài chính Nhà nước ngoài ngân sách, được hình thành ở Trung ương để huy động nguồn lực xã hội hỗ trợ việc xây dựng, phát triển, khai thác, ứng dụng, quản trị dữ liệu quốc gia.
+2. Quỹ phát triển dữ liệu quốc gia được hình thành từ các nguồn tài chính sau đây:
+a) Hỗ trợ, viện trợ, đóng góp tự nguyện của các tổ chức, doanh nghiệp, cá nhân trong nước, ngoài nước;
+b) Từ các nguồn khác theo quy định pháp luật.
+3. Quỹ phát triển dữ liệu quốc gia được ưu tiên chi các hoạt động sau đây:
+a) Hỗ trợ doanh nghiệp trong hoạt động ứng dụng công nghệ trí tuệ nhân tạo, học máy, điện toán đám mây, công nghệ bán dẫn, chuỗi khối, Internet vạn vật và các công nghệ cao khác trong xử lý dữ liệu;
+b) Thúc đẩy việc ứng dụng dữ liệu phục vụ chuyển đổi số ở vùng nông thôn, miền núi, địa bàn có điều kiện kinh tế - xã hội khó khăn, đặc biệt khó khăn;
+c) Hỗ trợ đào tạo nhân lực làm công tác xử lý, quản trị dữ liệu tại Trung tâm dữ liệu quốc gia; công tác xây dựng, phát triển, ứng dụng, xử lý dữ liệu của các Bộ, ngành, địa phương;
+d) Hỗ trợ các tổ chức, doanh nghiệp, cá nhân thực hiện hoạt động nghiên cứu các giải pháp gia tăng bảo vệ dữ liệu, chuyển giao công nghệ về dữ liệu, phát triển ứng dụng công nghệ liên quan đến dữ liệu;
+đ) Hỗ trợ khen thưởng tổ chức, cá nhân có thành tích trong công tác xây dựng, phát triển, xử lý, quản trị dữ liệu;
+e) Hỗ trợ hợp tác quốc tế về dữ liệu.
+4. Nguyên tắc hoạt động của Quỹ phát triển dữ liệu quốc gia:
+a) Không vì mục đích lợi nhuận;
+b) Quản lý, sử dụng đúng mục đích, đúng pháp luật, kịp thời, hiệu quả, bảo đảm công khai, minh bạch;
+c) Hỗ trợ cho các hoạt động xây dựng, phát triển, khai thác, ứng dụng, quản trị dữ liệu mà ngân sách nhà nước chưa đầu tư hoặc chưa đáp ứng yêu cầu;
+d) Không được chi trùng với ngân sách nhà nước.
+5. Chính phủ quy định chi tiết khoản 3 Điều này; quy định việc thành lập, quản lý, sử dụng Quỹ phát triển dữ liệu quốc gia.
+Nguyên tắc bảo vệ dữ liệu
+1. Cơ quan, tổ chức, cá nhân phải tuân thủ quy định pháp luật về dữ liệu, pháp luật về giao dịch điện tử, pháp luật về an toàn thông tin mạng, pháp luật về an ninh mạng và quy định khác của pháp luật có liên quan khi xử lý dữ liệu.
+2. Dữ liệu là bí mật nhà nước phải tuân thủ quy định pháp luật về bảo vệ bí mật nhà nước và pháp luật về cơ yếu.
+3. Việc bảo vệ dữ liệu cá nhân tuân thủ theo quy định pháp luật về bảo vệ dữ liệu cá nhân.
+4. Việc bảo vệ dữ liệu phải tuân thủ các chính sách chung về an ninh quốc phòng; các cơ quan nhà nước phải thực hiện nhiệm vụ quản lý, bảo vệ dữ liệu trong ngành, lĩnh vực do mình quản lý; thiết lập hệ thống bảo vệ dữ liệu thống nhất, có hiệu quả cao và có thẩm quyền để đánh giá rủi ro an ninh dữ liệu, báo cáo, chia sẻ thông tin, giám sát và cảnh báo sớm. Nhà nước bảo hộ quyền, lợi ích của cá nhân, tổ chức về dữ liệu; khuyến khích sử dụng dữ liệu hợp pháp, hợp lý, hiệu quả; bảo đảm dữ liệu được lưu thông tự do, hợp pháp, có trật tự; thúc đẩy phát triển nền kinh tế số lấy dữ liệu làm yếu tố then chốt. Khuyến khích các chủ quản dữ liệu khác xây dựng các quy định riêng về bảo vệ dữ liệu do mình quản lý.
+Biện pháp bảo vệ dữ liệu
+1. Biện pháp bảo vệ dữ liệu được áp dụng ngay từ khi bắt đầu và trong suốt quá trình xử lý dữ liệu.
+2. Các biện pháp bảo vệ dữ liệu bao gồm:
+a) Biện pháp quản lý có liên quan tới xử lý dữ liệu: Xây dựng chính sách, quy chế đánh giá an ninh dữ liệu, bảo đảm an toàn thông tin, bảo mật dữ liệu, ứng phó sự cố, bảo đảm tuân thủ các quy định bảo vệ dữ liệu và các biện pháp quản lý khác theo quy định của pháp luật; 
+b) Biện pháp kỹ thuật có liên quan tới xử lý dữ liệu: Bảo đảm an ninh vật lý, kiểm soát truy cập, kiểm tra an ninh mạng và các biện pháp kỹ thuật khác theo quy định pháp luật;
+c) Biện pháp quản lý nhân lực bảo vệ dữ liệu: Quy chế quản lý con người, đào tạo nhân lực bảo vệ dữ liệu;
+d) Biện pháp bảo vệ dữ liệu do cơ quan quản lý nhà nước có thẩm quyền thực hiện theo quy định pháp luật;
+đ) Các biện pháp bảo vệ dữ liệu khác theo quy định pháp luật.
+Tiêu chuẩn, quy chuẩn kỹ thuật về dữ liệu
+1. Tiêu chuẩn về dữ liệu gồm tiêu chuẩn quốc tế, tiêu chuẩn khu vực, tiêu chuẩn quốc gia và tiêu chuẩn cơ sở đối với hệ thống thông tin, phần cứng, phần mềm, hệ thống quản lý, vận hành, xử lý, bảo vệ dữ liệu được công bố, thừa nhận áp dụng tại Việt Nam.
+2. Quy chuẩn kỹ thuật về dữ liệu gồm quy chuẩn kỹ thuật quốc gia và quy chuẩn kỹ thuật địa phương đối với hệ thống thông tin, phần cứng, phần mềm, hệ thống quản lý, vận hành, xử lý, bảo vệ dữ liệu được xây dựng, ban hành và áp dụng tại Việt Nam.
+3. Bộ Công an ban hành danh mục tiêu chuẩn, quy chuẩn kỹ thuật về dữ liệu trên cơ sở thống nhất với Bộ Thông tin và Truyền thông. 
+4. Cơ quan quản lý cơ sở dữ liệu quốc gia, cơ sở dữ liệu chuyên ngành phải xây dựng tiêu chuẩn, quy chuẩn kỹ thuật về dữ liệu để áp dụng cho lĩnh vực mình quản lý theo danh mục do Bộ Công an ban hành. Cơ quan ban hành tiêu chuẩn quốc gia, quy chuẩn kỹ thuật quốc gia về dữ liệu phải lấy ý kiến thống nhất của Bộ Thông tin và Truyền thông, Bộ Công an trước khi ban hành.
+5. Cơ quan Đảng, Nhà nước, tổ chức chính trị - xã hội chỉ được sử dụng dịch vụ về dữ liệu của tổ chức đáp ứng tiêu chuẩn quốc gia, quy chuẩn kỹ thuật quốc gia về dữ liệu. 
+6. Khuyến khích cá nhân, tổ chức không thuộc khoản 5 Điều này áp dụng tiêu chuẩn, quy chuẩn kỹ thuật quốc gia trong hoạt động quản lý, vận hành, xử lý, bảo vệ dữ liệu do mình thu thập, tạo lập.
+
+CƠ SỞ DỮ LIỆU TỔNG HỢP QUỐC GIA
+Nguyên tắc xây dựng, phát triển Cơ sở dữ liệu tổng hợp quốc gia 
+1. Cơ sở dữ liệu tổng hợp quốc gia được Chính phủ xây dựng và quản lý tập trung, thống nhất tại Trung tâm dữ liệu quốc gia.
+2. Cơ sở dữ liệu tổng hợp quốc gia được xây dựng theo tiêu chuẩn, quy chuẩn kỹ thuật công nghệ thông tin, định mức kinh tế - kỹ thuật, bảo đảm hoạt động ổn định, liên tục.
+3. Bảo đảm an ninh, an toàn thông tin, bảo vệ dữ liệu cá nhân, thuận lợi cho việc thu thập, cập nhật, điều chỉnh, khai thác, sử dụng.
+4. Bảo đảm kết nối, chia sẻ với các cơ sở dữ liệu quốc gia, cơ sở dữ liệu chuyên ngành, cơ sở dữ liệu khác và hệ thống thông tin khác.
+5. Bảo đảm quyền khai thác thông tin của cơ quan, tổ chức, cá nhân theo quy định pháp luật.
+6. Tích hợp, đồng bộ, lưu trữ, khai thác, chia sẻ và điều phối dữ liệu tổng hợp từ các cơ sở dữ liệu quốc gia và thực hiện việc phân tích chuyên sâu các dữ liệu, hỗ trợ công tác xây dựng các cơ chế chính sách, quy hoạch, chiến lược phát triển quốc gia.
+7. Hỗ trợ, phát triển sản phẩm, dịch vụ về dữ liệu phục vụ phát triển kinh tế - xã hội.
+Thu thập, cập nhật, đồng bộ dữ liệu vào Cơ sở dữ liệu tổng hợp quốc gia
+1. Dữ liệu được thu thập, cập nhật, đồng bộ vào Cơ sở dữ liệu tổng hợp quốc gia bao gồm dữ liệu mở, dữ liệu dùng chung của cơ sở dữ liệu quốc gia, cơ sở dữ liệu chuyên ngành được quy định tại điểm a, điểm b khoản 1 Điều 13 Luật này, dữ liệu dùng riêng quy định tại khoản 4 Điều này và dữ liệu được cung cấp quy định tại Điều 18 Luật này, dữ liệu mở do chính phủ các nước, các tổ chức quốc tế công bố và dữ liệu khác thu thập từ hoạt động hợp tác quốc tế về dữ liệu; trừ dữ liệu liên quan tới an ninh, quân sự, quốc phòng, cơ yếu.
+2. Nguồn thu thập, đồng bộ, điều chỉnh, cập nhật thông tin trong Cơ sở dữ liệu tổng hợp quốc gia:
+a) Kết quả của quá trình thực hiện thủ tục hành chính, dịch vụ công;
+b) Dữ liệu được chia sẻ, đồng bộ từ các cơ sở dữ liệu khác;
+c) Dữ liệu được số hóa, cung cấp, tích hợp bởi cá nhân, tổ chức;
+d) Nguồn khác theo quy định pháp luật.
+3. Dữ liệu được đồng bộ thông qua Nền tảng chia sẻ, điều phối dữ liệu và các nền tảng, phương thức khác bảo đảm dữ liệu đáp ứng tiêu chí: đúng, đủ, sạch, sống. Trung tâm dữ liệu quốc gia phối hợp với cơ quan, tổ chức, cá nhân có liên quan kiểm tra thông tin khi thu thập, cập nhật, điều chỉnh để bảo đảm tính chính xác, thống nhất.
+4. Dữ liệu dùng riêng được thu thập vào Cơ sở dữ liệu tổng hợp quốc gia theo quyết định của Thủ tướng Chính phủ để phục vụ các nhiệm vụ quốc phòng, an ninh, đối ngoại và các nhiệm vụ khác để phục vụ lợi ích quốc gia, công cộng.
+5. Dữ liệu được đồng bộ, lưu trữ tại Cơ sở dữ liệu tổng hợp quốc gia thuộc phạm vi quản lý của chủ quản dữ liệu nào thì cơ quan đó chịu trách nhiệm về chất lượng dữ liệu, bảo đảm tính cập nhật kịp thời, toàn vẹn của của dữ liệu.
+6. Thông tin có trong cơ sở dữ liệu quốc gia, cơ sở dữ liệu chuyên ngành phải được cập nhật kịp thời, đầy đủ, chính xác vào Cơ sở dữ liệu tổng hợp quốc gia.
+ 7. Trường hợp dữ liệu trong cơ sở dữ liệu quốc gia, cơ sở dữ liệu chuyên ngành không thống nhất với dữ liệu trong Cơ sở dữ liệu tổng hợp quốc gia thì Trung tâm dữ liệu quốc gia phối hợp với cơ quan có liên quan kiểm tra, đối soát dữ liệu và cập nhật, điều chỉnh, đồng bộ trong các cơ sở dữ liệu cho thống nhất.
+8. Thủ tướng Chính phủ quyết định lộ trình thực hiện việc thu thập, cập nhật, đồng bộ dữ liệu vào Cơ sở dữ liệu tổng hợp quốc gia.
+Khai thác và sử dụng Cơ sở dữ liệu tổng hợp quốc gia
+1. Cơ sở dữ liệu tổng hợp quốc gia được xây dựng phục vụ việc khai thác, sử dụng chung đáp ứng hoạt động của cơ quan Đảng, Nhà nước, tổ chức chính trị - xã hội; phục vụ giải quyết thủ tục hành chính, dịch vụ công liên thông, đưa ra các chỉ tiêu, chỉ số phục vụ chỉ đạo điều hành của Chính phủ; phục vụ công tác thống kê, hoạch định chính sách, xây dựng quy hoạch, chiến lược phát triển kinh tế - xã hội, an ninh, quốc phòng, đối ngoại, đấu tranh phòng, chống tội phạm, xử lý vi phạm pháp luật; phục vụ nhu cầu khai thác, sử dụng, ứng dụng dữ liệu của tổ chức, cá nhân.
+2. Dữ liệu trong Cơ sở dữ liệu tổng hợp quốc gia có giá trị khai thác, sử dụng như dữ liệu gốc tại các cơ sở dữ liệu quốc gia, cơ sở dữ liệu chuyên ngành.
+3.  Đối tượng khai thác và sử dụng dữ liệu
+a) Cơ quan Đảng, Nhà nước, tổ chức chính trị - xã hội được khai thác dữ liệu trong Cơ sở dữ liệu tổng hợp quốc gia phù hợp với chức năng, nhiệm vụ của cơ quan, tổ chức đó; để thực hiện đơn giản hóa các thủ tục hành chính, cải thiện sự phục vụ của cơ quan nhà nước cho người dân, doanh nghiệp;
+b) Chủ thể dữ liệu được khai thác dữ liệu phản ánh về chủ thể dữ liệu đó trong Cơ sở dữ liệu tổng hợp quốc gia;
+c) Tổ chức và cá nhân không thuộc quy định tại điểm a, điểm b Khoản này được khai thác dữ liệu trong Cơ sở dữ liệu tổng hợp quốc gia như sau: Được tự do khai thác dữ liệu mở; được khai thác dữ liệu phi cá nhân khi được sự đồng ý của Trung tâm dữ liệu quốc gia; được khai thác dữ liệu cá nhân khi được sự đồng ý của Trung tâm dữ liệu quốc gia và cá nhân là chủ thể dữ liệu được khai thác.
+4. Phương thức khai thác, sử dụng dữ liệu:
+a) Kết nối, chia sẻ dữ liệu giữa cơ sở dữ liệu quốc gia, cơ sở dữ liệu chuyên ngành, hệ thống thông tin khác với Cơ sở dữ liệu tổng hợp quốc gia;
+b) Cổng dữ liệu quốc gia, cổng dịch vụ công quốc gia, cổng thông tin điện tử của chủ quản dữ liệu, hệ thống thông tin giải quyết thủ tục hành chính;
+c) Nền tảng định danh và xác thực điện tử;
+d) Ứng dụng định danh quốc gia;
+đ) Thiết bị, phương tiện, phần mềm do Trung tâm dữ liệu quốc gia cung cấp;
+e) Văn bản cung cấp thông tin.
+5. Chính phủ quy định chi tiết việc khai thác thông tin trong Cơ sở dữ liệu tổng hợp quốc gia.
+Kết nối, chia sẻ dữ liệu với Cơ sở dữ liệu tổng hợp quốc gia
+1. Các cơ sở dữ liệu quốc gia khác, cơ sở dữ liệu chuyên ngành và hệ thống thông tin khác của cơ quan Đảng, Nhà nước, tổ chức chính trị - xã hội kết nối với Cơ sở dữ liệu tổng hợp quốc gia thông qua Nền tảng chia sẻ, điều phối dữ liệu; Nền tảng tích hợp, chia sẻ dữ liệu quốc gia; nền tảng tích hợp, chia sẻ dữ liệu cấp bộ, cấp tỉnh, mạng Internet, mạng máy tính, hệ thống thông tin.
+2. Để bảo đảm bảo mật, an ninh, an toàn thông tin, bảo vệ dữ liệu cá nhân khi kết nối, chia sẻ thông tin với Cơ sở dữ liệu tổng hợp quốc gia, hệ thống thông tin của cơ quan Đảng, Nhà nước, tổ chức chính trị - xã hội phải bảo đảm các yêu cầu sau:
+a) Đáp ứng tiêu chuẩn, quy chuẩn kỹ thuật, hướng dẫn kỹ thuật về kết nối, chia sẻ, đồng bộ dữ liệu với Cơ sở dữ liệu tổng hợp quốc gia;
+b) Tuân thủ các quy định pháp luật về bảo đảm an toàn hệ thống thông tin theo cấp độ.
+3. Việc kết nối, chia sẻ thông tin giữa Cơ sở dữ liệu tổng hợp quốc gia với hệ thống thông tin khác được thực hiện trên cơ sở thống nhất bằng văn bản giữa Bộ Công an và chủ quản dữ liệu. 
+4. Chính phủ quy định chi tiết điều này.
+Trách nhiệm cung cấp dữ liệu của cơ quan Đảng, Nhà nước, tổ chức chính trị - xã hội, cá nhân, tổ chức khác
+1.  Chủ quản dữ liệu quốc gia, cơ sở dữ liệu chuyên ngành có trách nhiệm như sau:
+a) Xây dựng, thu thập, cập nhật dữ liệu bảo đảm chính xác các trường thông tin trong cơ sở dữ liệu mình quản lý;
+b) Kết nối, chia sẻ, đồng bộ các trường thông tin trong cơ sở dữ liệu thuộc cơ quan, đơn vị mình quản lý lần đầu cho Cơ sở dữ liệu tổng hợp quốc gia và cập nhật đồng bộ ngay khi có thay đổi về dữ liệu và số trường thông tin, trừ trường hợp pháp luật có quy định khác;
+Trường hợp chưa xây dựng cơ sở dữ liệu thì thực hiện triển khai trên hạ tầng do Trung tâm dữ liệu quốc gia cung cấp và phối hợp với Trung tâm dữ liệu quốc gia để số hóa, thu thập dữ liệu theo quy định pháp luật;
+c) Đồng bộ cập nhật ngay khi có kết quả giải quyết thủ tục hành chính, dịch vụ công bảo đảm ổn định, liên tục.
+2. Đối với cá nhân là người Việt Nam, tổ chức, doanh nghiệp Việt Nam, cá nhân, tổ chức doanh nghiệp nước ngoài hoạt động tại Việt Nam có trách nhiệm như sau:
+a) Cung cấp, chia sẻ, đồng bộ, cập nhật dữ liệu cho Cơ sở dữ liệu tổng hợp quốc gia theo quy định tại Điều 18 Luật này khi có văn bản đề nghị của Trung tâm dữ liệu quốc gia;
+b) Nhà nước bảo đảm điều kiện cần thiết để thực hiện việc tiếp nhận dữ liệu do tổ chức, cá nhân cung cấp theo quy định tại Điều 18 Luật này.
+Mối quan hệ giữa Cơ sở dữ liệu tổng hợp quốc gia với cơ sở dữ liệu quốc gia, cơ sở dữ liệu chuyên ngành, cổng dịch vụ công quốc gia và cơ sở dữ liệu, hệ thống thông tin khác
+1. Việc kết nối, cập nhật, chia sẻ, khai thác, sử dụng thông tin giữa Cơ sở dữ liệu tổng hợp quốc gia và các cơ sở dữ liệu khác phải bảo đảm hiệu quả, an toàn, phù hợp với chức năng, nhiệm vụ, quyền hạn của cơ quan, tổ chức, cá nhân theo quy định pháp luật có liên quan.
+2. Cơ quan quản lý của cơ sở dữ liệu quốc gia, cơ sở dữ liệu chuyên ngành có trách nhiệm cung cấp cho Cơ sở dữ liệu tổng hợp quốc gia dữ liệu mở, dữ liệu dùng chung được quy định tại điểm a, điểm b khoản 1 Điều 13 Luật này, dữ liệu dùng riêng quy định tại khoản 4 Điều 34 Luật này và dữ liệu được cung cấp quy định tại Điều 18 Luật này; trừ dữ liệu liên quan tới an ninh, quân sự, quốc phòng, cơ yếu.
+3. Trung tâm dữ liệu quốc gia có trách nhiệm chia sẻ, điều phối dữ liệu trong Cơ sở dữ liệu tổng hợp quốc gia cho chủ quản dữ liệu quốc gia, cơ sở dữ liệu chuyên ngành để thực hiện chức năng, nhiệm vụ được giao.
+Phí khai thác, sử dụng thông tin trong Cơ sở dữ liệu tổng hợp quốc gia và cơ sở dữ liệu khác do cơ quan nhà nước quản lý
+1. Cơ quan Đảng, Nhà nước, tổ chức chính trị - xã hội khai thác, sử dụng thông tin trong Cơ sở dữ liệu tổng hợp quốc gia và cơ sở dữ liệu khác do cơ quan nhà nước quản lý thì không phải nộp phí.
+2. Tổ chức, cá nhân khai thác, sử dụng thông tin của mình trong Cơ sở dữ liệu tổng hợp quốc gia và cơ sở dữ liệu khác do cơ quan nhà nước quản lý thì không phải nộp phí.
+3. Tổ chức, cá nhân không thuộc khoản 1, khoản 2 Điều này khai thác, sử dụng thông tin trong Cơ sở dữ liệu tổng hợp quốc gia và cơ sở dữ liệu khác do cơ quan nhà nước quản lý phải nộp phí theo quy định pháp luật về phí và lệ phí.
+
+XÂY DỰNG, PHÁT TRIỂN TRUNG TÂM DỮ LIỆU QUỐC GIA
+Xây dựng Trung tâm dữ liệu quốc gia
+1. Trung tâm dữ liệu quốc gia được thiết kế, xây dựng đáp ứng các yêu cầu kỹ thuật, quy chuẩn về trung tâm dữ liệu, phù hợp với quy hoạch hạ tầng thông tin và truyền thông.
+2. Trung tâm dữ liệu quốc gia được thiết kế, xây dựng theo các tiêu chuẩn, định mức, yêu cầu kỹ thuật trong nước và quốc tế để bảo đảm chống bom đạn, khủng bố, thiên tai; tiêu chuẩn, yêu cầu về bảo vệ môi trường, ưu tiên sử dụng các nguồn năng lượng tái tạo, giải pháp thông minh để kiểm soát nguồn năng lượng.
+3. Trung tâm dữ liệu quốc gia được thiết kế, triển khai các giải pháp bảo đảm an ninh, bảo mật để kiểm soát, phát hiện, ngăn chặn tấn công, đột nhập, phá hoại.
+4. Hệ thống công nghệ thông tin của Trung tâm dữ liệu quốc gia được thiết kế xây dựng đáp ứng các yêu cầu kỹ thuật, tiêu chuẩn, quy chuẩn kỹ thuật về bảo đảm mức độ sẵn sàng của hệ thống, thiết kế hệ thống với mức dự phòng nhằm sẵn sàng trong trường hợp mở rộng khi cần thiết. Môi trường vận hành hệ thống thông tin của Trung tâm dữ liệu quốc gia tách biệt với các môi trường phát triển, kiểm tra và thử nghiệm, bảo đảm an ninh, bảo mật theo cấp độ nhằm kiểm soát, phát hiện, ngăn chặn các nguy cơ mất an ninh, an toàn thông tin.
+5. Các thành phần công nghệ thông tin chính của Trung tâm dữ liệu quốc gia gồm:
+a) Nền tảng chia sẻ, điều phối dữ liệu;
+b) Cơ sở hạ tầng điện toán đám mây;
+Trung tâm dữ liệu quốc gia xây dựng, phát triển cơ sở hạ tầng điện toán đám mây và triển khai thành các vùng chức năng để phục vụ nhu cầu của cơ quan Đảng, Nhà nước, tổ chức chính trị - xã hội, bảo đảm việc phát triển các phân hệ tích hợp, đồng bộ, khai thác dữ liệu, yêu cầu cao về bảo mật thông tin;
+c) Cơ sở dữ liệu tổng hợp quốc gia;
+d) Hệ thống phân tích dữ liệu phục vụ công tác quản lý;
+Trung tâm dữ liệu quốc gia thiết lập hạ tầng tính toán hiệu suất cao và hệ thống phân tích dữ liệu phục vụ công tác quản lý với các mô hình phân tích dự báo phục vụ công tác khai thác từ Cơ sở dữ liệu tổng hợp quốc gia. Cung cấp điều kiện kỹ thuật hỗ trợ việc nghiên cứu phát triển lĩnh vực toán ứng dụng;
+đ) Cổng dịch vụ công quốc gia;
+e) Hệ thống, phần mềm quản lý, khai thác, cung cấp dịch vụ dữ liệu, cổng dữ liệu mở, cổng dịch vụ dữ liệu có thu phí.
+Trách nhiệm của Trung tâm dữ liệu quốc gia
+1. Trung tâm dữ liệu quốc gia tích hợp, đồng bộ, lưu trữ, phân tích, khai thác dữ liệu của các cơ quan Đảng, Nhà nước, tổ chức chính trị - xã hội theo quy định pháp luật nhằm tạo lập, quản trị Cơ sở dữ liệu tổng hợp quốc gia.
+2. Trung tâm dữ liệu quốc gia quản trị, vận hành hạ tầng kỹ thuật, hạ tầng công nghệ thông tin tại Trung tâm dữ liệu quốc gia; cung cấp hạ tầng kỹ thuật, hạ tầng công nghệ thông tin cho các cơ quan Đảng, Nhà nước, tổ chức chính trị - xã hội có nhu cầu sử dụng để khai thác, vận hành, nâng cao hiệu quả, bảo đảm an ninh, an toàn thông tin. 
+3. Tổ chức vận hành, quản trị, lưu trữ, quản lý, khai thác, điều phối dữ liệu của Trung tâm dữ liệu quốc gia để thực hiện các công tác quản lý nhà nước; phân tích phục vụ điều hành, xây dựng chính sách; nghiên cứu phát triển dữ liệu.
+4. Thực hiện giải pháp, phương án bảo đảm an ninh, an toàn, bảo mật, xác thực dữ liệu tại Trung tâm dữ liệu quốc gia.
+5. Giám sát việc bảo đảm chất lượng dữ liệu, hoạt động điều phối dữ liệu; xây dựng các hệ thống chỉ số đo lường và đánh giá hiệu suất cho hoạt động quản trị dữ liệu.
+6. Thực hiện tổng hợp, phân tích, đánh giá việc triển khai thực hiện Chiến lược dữ liệu quốc gia tại Trung tâm dữ liệu quốc gia.
+7. Thực hiện các quy định pháp luật trong việc sử dụng mật mã để bảo mật dữ liệu thuộc phạm vi bí mật nhà nước được lưu giữ, trao đổi trên không gian mạng.
+8. Tổ chức thực hiện hợp tác quốc tế về dữ liệu.
+9. Phát triển, hỗ trợ các doanh nghiệp, đơn vị sự nghiệp công lập thực hiện hoạt động nghiên cứu khoa học, đổi mới sáng tạo, khởi nghiệp sáng tạo, chuyển giao công nghệ, phát triển các ứng dụng, tiện ích công nghệ cao trong xử lý dữ liệu; cung cấp các sản phẩm, dịch vụ về dữ liệu và hạ tầng công nghệ thông tin.
+Đăng ký, cấp tài nguyên hạ tầng Trung tâm dữ liệu quốc gia
+1. Chủ quản dữ liệu, hệ thống thông tin sử dụng hạ tầng của Trung tâm dữ liệu quốc gia hoặc đầu tư hạ tầng đặt tại Trung tâm dữ liệu quốc gia khi đáp ứng các quy định về tiêu chuẩn, quy chuẩn kỹ thuật của trung tâm dữ liệu.
+2. Cơ quan Đảng, Nhà nước, tổ chức chính trị - xã hội đã đầu tư hệ thống thông tin tiếp tục quản trị vận hành hệ thống, thiết bị đã đầu tư đến hết thời gian sử dụng, khấu hao theo quy định và phối hợp với Bộ Công an xác định thời điểm, giải pháp thực hiện chuyển đổi, di dời, tích hợp hệ thống về Trung tâm dữ liệu quốc gia.
+3. Cơ quan Đảng, Nhà nước, tổ chức chính trị - xã hội chưa đầu tư hệ thống thông tin thực hiện phối hợp với Bộ Công an để đăng ký nhu cầu sử dụng hạ tầng Trung tâm dữ liệu quốc gia. Trường hợp cơ quan, tổ chức đang sử dụng dịch vụ do doanh nghiệp cung cấp thì phối hợp với Bộ Công an để đăng ký nhu cầu sử dụng hạ tầng tại Trung tâm dữ liệu quốc gia khi kết thúc hợp đồng với doanh nghiệp cung cấp dịch vụ. Việc cung cấp hạ tầng công nghệ thông tin cho cơ quan Đảng, Nhà nước, tổ chức chính trị - xã hội được ngân sách nhà nước bảo đảm.
+4. Hệ thống thông tin, cơ sở dữ liệu thuộc lĩnh vực an ninh, quân sự, quốc phòng, cơ yếu sử dụng hạ tầng, lưu trữ, quản lý, xử lý dữ liệu thuộc phạm vi quản lý của Bộ Quốc phòng, Ban Cơ yếu Chính phủ theo các quy định pháp luật.
+5. Chính phủ quy định chi tiết khoản 3 Điều này.
+6. Thủ tướng Chính phủ quyết định lộ trình thực hiện việc chuyển đổi, sử dụng hạ tầng Trung tâm dữ liệu quốc gia đối với các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương.
+Nâng cấp, bảo trì, sửa chữa hạ tầng, thiết bị đặt tại Trung tâm dữ liệu quốc gia
+1. Trung tâm dữ liệu quốc gia thực hiện nâng cấp, bảo trì, sửa chữa hạ tầng, thiết bị do Trung tâm dữ liệu quốc gia đầu tư, trang bị.
+2. Cơ quan Đảng, Nhà nước, tổ chức chính trị - xã hội thực hiện nâng cấp, bảo trì, sửa chữa hạ tầng, thiết bị do cơ quan, tổ chức đó đầu tư và đặt tại Trung tâm dữ liệu quốc gia.
+Bảo đảm nguồn lực hoạt động xây dựng, phát triển của Trung tâm dữ liệu quốc gia
+1. Hoạt động của Trung tâm dữ liệu quốc gia sử dụng ngân sách nhà nước, Quỹ phát triển dữ liệu quốc gia và các nguồn kinh phí hợp pháp khác.
+2. Nhà nước ưu tiên đầu tư cơ sở hạ tầng, cơ sở vật chất, đất đai, trụ sở, công trình, công nghệ, bảo đảm ngân sách cho xây dựng và quản lý nhà nước về dữ liệu, quản trị dữ liệu, xây dựng, quản lý và vận hành Trung tâm dữ liệu quốc gia, Cơ sở dữ liệu tổng hợp quốc gia. 
+3. Nhà nước khuyến khích tổ chức, cá nhân trong nước và ngoài nước tài trợ, hỗ trợ để xây dựng, quản trị, vận hành Trung tâm dữ liệu quốc gia.
+4. Bảo đảm nguồn nhân lực cho các hoạt động của Trung tâm dữ liệu quốc gia, có phương án thuê chuyên gia, doanh nghiệp, bảo đảm chất lượng dịch vụ và an ninh, an toàn hệ thống theo quy định pháp luật.
+5. Chính phủ quy định về đào tạo, bồi dưỡng nhân lực và chế độ, chính sách đãi ngộ cho nguồn nhân lực chất lượng cao, người làm công tác dữ liệu trong cơ quan Đảng, Nhà nước, tổ chức chính trị - xã hội.
+Bảo vệ dữ liệu tại Trung tâm dữ liệu quốc gia
+1. Trung tâm dữ liệu quốc gia xây dựng, ban hành quy chế vận hành, sử dụng hệ thống thông tin; phương án bảo đảm an toàn thông tin mạng, an ninh mạng đối với hệ thống thông tin; phương án ứng phó, khắc phục sự cố an ninh mạng; ứng dụng, triển khai phương án, biện pháp, công nghệ bảo vệ dữ liệu tại Trung tâm dữ liệu quốc gia.
+2. Cán bộ, công chức, viên chức, người lao động thực hiện các nhiệm vụ có liên quan về dữ liệu tại Trung tâm dữ liệu quốc gia được tổ chức bồi dưỡng kiến thức về bảo vệ dữ liệu.
+3. Dữ liệu tại Trung tâm dữ liệu quốc gia được bảo vệ trong hoạt động cung cấp dịch vụ công trên không gian mạng, cung cấp, trao đổi, thu thập thông tin với cơ quan, tổ chức, cá nhân, chia sẻ thông tin trong nội bộ và với cơ quan khác hoặc trong hoạt động khác.
+Mối quan hệ giữa Trung tâm dữ liệu quốc gia với các cơ quan quản lý cơ sở dữ liệu, hệ thống thông tin của cơ quan Đảng, Nhà nước, tổ chức chính trị - xã hội.
+1. Các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ, Uỷ ban nhân dân tỉnh, thành phố trực thuộc Trung ương quản lý trung tâm dữ liệu thuộc ngành, lĩnh vực, địa bàn quản lý tuân thủ theo hướng dẫn của Bộ Công an về việc xử lý, quản trị, điều phối dữ liệu.
+2. Về quản trị dữ liệu
+a) Trung tâm dữ liệu quốc gia quản lý và bảo đảm an ninh, an toàn thông tin đối với các dữ liệu đã được đồng bộ về Cơ sở dữ liệu tổng hợp quốc gia;
+b) Cơ quan Đảng, Nhà nước, tổ chức chính trị - xã hội thực hiện việc quản trị cơ sở dữ liệu trong hệ thống của cơ quan, tổ chức; phối hợp với Trung tâm dữ liệu quốc gia bảo đảm an ninh, an toàn thông tin hệ thống, bảo mật dữ liệu tại đơn vị trong quá trình đồng bộ dữ liệu với Cơ sở dữ liệu tổng hợp quốc gia.
+3. Về lưu trữ dữ liệu
+a) Trung tâm dữ liệu quốc gia lưu trữ dữ liệu được đồng bộ từ các cơ sở dữ liệu quốc gia, cơ sở dữ liệu chuyên ngành và từ các nguồn khác để xây dựng kho dữ liệu dùng chung cho các cơ quan, tổ chức khai thác, sử dụng, tổng hợp, phân tích, đánh giá phục vụ hoạch định đường lối, chính sách, phát triển kinh tế - xã hội;
+b) Dữ liệu của cơ quan Đảng, Nhà nước, tổ chức chính trị - xã hội được lưu trữ, xử lý tại hệ thống Trung tâm dữ liệu quốc gia theo yêu cầu riêng, phục vụ công tác quản lý nhà nước, thực hiện nhiệm vụ chính trị và các hoạt động khác theo quy định pháp luật.
+4. Khai thác và sử dụng dữ liệu
+a) Đối với các cơ quan, đơn vị triển khai hệ thống cơ sở dữ liệu trên cơ sở hạ tầng điện toán đám mây của Trung tâm dữ liệu quốc gia sử dụng Nền tảng chia sẻ, điều phối dữ liệu và các nền tảng khác để khai thác dữ liệu;   
+b) Các cơ quan Đảng, Nhà nước, tổ chức chính trị - xã hội khi có nhu cầu về khai thác dữ liệu phải bảo đảm an ninh, an toàn đối với các dữ liệu khai thác và sử dụng, việc khai thác sử dụng phải bảo đảm đúng mục đích và tuân thủ theo các quy định pháp luật.
+5. Về triển khai và vận hành hệ thống
+a) Các đơn vị chủ động quản trị, vận hành các thành phần về lớp ứng dụng, quản trị dữ liệu, môi trường hoạt động, phần mềm lớp giữa, hệ điều hành của các hệ thống thông tin sử dụng hạ tầng của Trung tâm dữ liệu quốc gia;
+b) Trung tâm dữ liệu quốc gia quản trị, vận hành các thành phần về ảo hoá, quản trị máy chủ, thiết bị lưu trữ, hạ tầng mạng và an ninh bảo mật.
+6. Hạ tầng kỹ thuật
+a) Trung tâm dữ liệu quốc gia cung cấp cho cơ quan Đảng, Nhà nước, tổ chức chính trị - xã hội chỗ đặt máy chủ và hạ tầng công nghệ thông tin; cung cấp kênh quản trị an toàn để các cơ quan, tổ chức chủ động triển khai, bảo đảm an toàn thông tin hệ thống ứng dụng và vận hành các dịch vụ liên quan;
+b) Cơ quan Đảng, Nhà nước, tổ chức chính trị - xã hội sau khi tiếp nhận hạ tầng sẽ phải tự quản trị các hệ thống ứng dụng, dịch vụ công nghệ thông tin triển khai trên hạ tầng được cung cấp.
+7. Trung tâm dữ liệu quốc gia bảo đảm thống nhất tài nguyên địa chỉ mạng (IP – Internet Protocol) và định tuyến theo các định hướng, kế hoạch sử dụng địa chỉ IP của quốc gia.
+8. Về an toàn và bảo mật thông tin
+a) Đối với vùng dùng chung: Trung tâm dữ liệu quốc gia cung cấp các vị trí chỗ đặt và tài nguyên hạ tầng đáp ứng các cấp độ an toàn thông tin khác nhau, tùy theo nhu cầu của các cơ quan, đơn vị. Trung tâm dữ liệu quốc gia bảo đảm an ninh mạng, an ninh an toàn thông tin của Nền tảng điện toán đám mây dùng chung; triển khai hệ thống giám sát an ninh mạng tập trung cho vùng dùng chung; cơ quan Đảng, Nhà nước, tổ chức chính trị - xã hội bảo đảm an toàn thông tin hệ thống ứng dụng, cơ sở dữ liệu;
+b) Đối với vùng chuyên dụng: Trung tâm dữ liệu quốc gia cung cấp dịch vụ hạ tầng đáp ứng an toàn thông tin cấp độ cao nhất, tuân thủ các quy định, tiêu chuẩn về bảo mật để bảo vệ kho dữ liệu tổng hợp;
+c) Đối với các hệ thống thông tin kết nối vào Trung tâm dữ liệu quốc gia: Các hệ thống phải được kiểm tra bảo đảm an toàn thông tin và khắc phục các lỗ hổng bảo mật trước khi thực hiện kết nối chính thức;
+d) Đối với công tác giám sát an ninh an toàn thông tin: Trung tâm dữ liệu quốc gia kết nối với các trung tâm giám sát an ninh, an toàn thông tin khác nếu cần thiết.
+9. Thủ tướng Chính phủ ban hành quy chế quản lý và khai thác Trung tâm dữ liệu quốc gia.
+Nền tảng chia sẻ, điều phối dữ liệu
+1. Nền tảng chia sẻ, điều phối dữ liệu thực hiện kết nối, đồng bộ dữ liệu, chia sẻ, điều phối dữ liệu thông suốt giữa Trung tâm dữ liệu quốc gia và các cơ quan, tổ chức, cá nhân, bảo đảm tính toàn vẹn của dữ liệu.
+2. Nền tảng chia sẻ, điều phối dữ liệu tập trung vào công nghệ, tính khả dụng và hiệu quả hoạt động với các định dạng và giao thức phù hợp. Chủ sở hữu dữ liệu cung cấp và bảo đảm chất lượng dữ liệu, quyết định các điều kiện để truy cập và sử dụng dữ liệu.
+
+SẢN PHẨM, DỊCH VỤ VỀ DỮ LIỆU
+Sản phẩm, dịch vụ về dữ liệu
+Sản phẩm, dịch vụ về dữ liệu trong hoạt động giao dịch điện tử, viễn thông, an ninh mạng, an toàn thông tin mạng, công nghiệp công nghệ số, xác thực điện tử, cơ yếu, công nghiệp quốc phòng, an ninh và động viên công nghiệp đối với dữ liệu gắn với danh tính điện tử thực hiện theo quy định pháp luật về giao dịch điện tử, viễn thông, an ninh mạng, an toàn thông tin mạng, công nghiệp công nghệ số, xác thực điện tử, cơ yếu, công nghiệp quốc phòng, an ninh và động viên công nghiệp.
+Sản phẩm, dịch vụ về dữ liệu trong hoạt động trung gian dữ liệu, phân tích, tổng hợp dữ liệu, xác thực điện tử đối với dữ liệu không gắn với chủ thể danh tính điện tử, sàn giao dịch dữ liệu thực hiện theo quy định của Luật này.
+Sản phẩm, dịch vụ về dữ liệu trong các hoạt động chuyên ngành khác thực hiện theo quy định của Luật này và pháp luật khác có liên quan.
+Tổ chức cung cấp sản phẩm, dịch vụ trung gian dữ liệu, phân tích, tổng hợp dữ liệu được hưởng ưu đãi như các doanh nghiệp hoạt động trong lĩnh vực công nghệ cao, đổi mới sáng tạo, công nghiệp công nghệ số.
+Sản phẩm, dịch vụ về dữ liệu có thể cung cấp trực tiếp hoặc qua trung gian dữ liệu. Cơ quan, tổ chức cá nhân cung cấp sản phẩm, dịch vụ dữ liệu phải đăng ký với cơ quan quản lý và chịu trách nhiệm với sản phẩm, dịch vụ dữ liệu của mình.
+Sản phẩm, dịch vụ về dữ liệu phải tuân thủ pháp luật liên quan, cơ quan, tổ chức và cá nhân cung cấp sản phẩm, dịch vụ dữ liệu phải chịu trách nhiệm trước pháp luật về sản phẩm, dịch vụ dữ liệu của mình.
+Chính phủ quy định chính sách về quản lý, giám sát thị trường dữ liệu, ưu tiên chia sẻ dữ liệu mở và phát triển sàn giao dịch dữ liệu; ưu tiên phát triển thị trường dữ liệu phục vụ phát triển kinh tế xã hội và ứng dụng công nghệ dữ liệu để khai thác hiệu quả giá trị của dữ liệu.
+Điều kiện cung cấp sản phẩm, dịch vụ trung gian dữ liệu, phân tích, tổng hợp dữ liệu, sàn giao dịch dữ liệu
+Điều kiện về tổ chức
+a) Tổ chức cung cấp sản phẩm, dịch vụ trung gian dữ liệu, phân tích, tổng hợp dữ liệu là đơn vị sự nghiệp công lập, doanh nghiệp được thành lập hoặc đăng ký hoạt động tại Việt Nam theo quy định pháp luật, đáp ứng điều kiện cung cấp dịch vụ và được cấp phép cung cấp dịch vụ theo quy định của Luật này;
+b) Tổ chức cung cấp dịch vụ sàn giao dịch dữ liệu là doanh nghiệp nhà nước, đơn vị sự nghiệp công lập đáp ứng điều kiện cung cấp dịch vụ và được cấp phép cung cấp dịch vụ theo quy định của Luật này.
+2. Điều kiện về nhân sự
+a) Người đứng đầu tổ chức, người đại diện theo pháp luật của doanh nghiệp là công dân Việt Nam, thường trú tại Việt Nam;
+b) Tổ chức, doanh nghiệp phải có các nhân sự có bằng đại học trở lên chuyên ngành an toàn thông tin, công nghệ thông tin, điện tử viễn thông, kinh tế chịu trách nhiệm cung cấp dịch vụ, quản trị hệ thống, vận hành hệ thống, bảo đảm an toàn thông tin của hệ thống.
+3. Điều kiện về cơ sở vật chất, trang thiết bị kỹ thuật, quy trình quản lý cung cấp dịch vụ và phương án bảo đảm an ninh, trật tự.
+Tổ chức, doanh nghiệp đề nghị cấp giấy xác nhận phải có Đề án hoạt động cung cấp dịch vụ bao gồm các nội dung sau: Phương án, quy trình hoạt động cung cấp dịch vụ bao gồm thuyết minh hệ thống công nghệ thông tin; thuyết minh phương án kỹ thuật về giải pháp công nghệ; phương án lưu trữ, bảo đảm tính toàn vẹn dữ liệu, bảo đảm an ninh an toàn thông tin của hệ thống cung cấp dịch vụ; phương án bảo vệ dữ liệu cá nhân, tổ chức; phương án bảo đảm an ninh, trật tự; phương án phòng cháy và chữa cháy, dự phòng thảm họa và bảo đảm vận hành ổn định, thông suốt dịch vụ; trang thiết bị kỹ thuật phải được đặt tại Việt Nam và được kiểm định an ninh, an toàn thông tin theo quy định pháp luật.
+4. Chính phủ quy định chi tiết Điều này.
+Sản phẩm, dịch vụ trung gian dữ liệu
+1. Việc cung cấp các sản phẩm, dịch vụ trung gian dữ liệu sau đây phải tuân thủ các yêu cầu tại khoản 4 Điều này: 
+a) Cung ứng hạ tầng đáp ứng việc trao đổi, khai thác, chia sẻ dữ liệu;
+b) Hỗ trợ các hoạt động quản lý, xử lý dữ liệu (ủy thác quản lý dữ liệu; cung cấp công cụ, tiện ích để thực hiện cung cấp, chia sẻ, kết hợp, bảo vệ dữ liệu, thực hiện quyền của chủ thể dữ liệu).
+2. Tổ chức cung cấp sản phẩm, dịch vụ trung gian dữ liệu theo quy định tại khoản 1 Điều này phải thực hiện thủ tục đăng ký, cấp phép theo quy định của Luật này. 
+3. Bộ Công an thực hiện việc thẩm định, đánh giá, kiểm tra thực tế tại tổ chức đề nghị cấp phép và cấp xác nhận đủ điều kiện kinh doanh dịch vụ cho tổ chức đáp ứng quy định tại Điều 49 của Luật này. 
+4. Yêu cầu đối với tổ chức cung cấp sản phẩm, dịch vụ trung gian dữ liệu: 
+a) Tổ chức cung cấp sản phẩm, dịch vụ trung gian dữ liệu không được sử dụng dữ liệu mà họ cung cấp cho các mục đích khác ngoài việc cung cấp cho người dùng dữ liệu;
+b) Dữ liệu được thu thập liên quan đến các hoạt động cung cấp dịch vụ trung gian dữ liệu, bao gồm ngày, giờ và dữ liệu vị trí địa lý, thời gian hoạt động và kết nối với các bên liên quan sẽ chỉ được sử dụng để phát triển dịch vụ trung gian dữ liệu đó, phát hiện gian lận, an ninh mạng hoặc cung cấp cho chủ sở hữu dữ liệu theo yêu cầu; 
+c) Tổ chức cung cấp sản phẩm, dịch vụ trung gian dữ liệu phải bảo đảm quy trình truy cập dịch vụ của mình là công bằng, minh bạch và không phân biệt đối xử đối với chủ thể dữ liệu, chủ sở hữu dữ liệu, người dùng dữ liệu, bao gồm cả về giá cả và điều khoản dịch vụ; 
+d) Tổ chức cung cấp sản phẩm, dịch vụ trung gian dữ liệu phải xây dựng quy trình, áp dụng các biện pháp kỹ thuật và tổ chức thực hiện đầy đủ để ngăn chặn việc truyền đưa hoặc truy cập vào dữ liệu trái pháp luật, các hành vi bị nghiêm cấm khác theo quy định của Luật này;
+đ) Tổ chức cung cấp sản phẩm, dịch vụ trung gian dữ liệu phải thông báo ngay cho chủ sở hữu dữ liệu trong trường hợp có hành vi truy cập, chuyển giao hoặc sử dụng trái phép dữ liệu mà Tổ chức cung cấp sản phẩm, dịch vụ trung gian dữ liệu đã chia sẻ;
+e) Tổ chức cung cấp sản phẩm, dịch vụ trung gian dữ liệu phải thực hiện các biện pháp cần thiết để bảo đảm mức độ bảo mật thích hợp cho việc lưu trữ, xử lý và truyền dữ liệu; 
+g) Khi cung cấp dịch vụ trung gian dữ liệu, tổ chức cung cấp dịch vụ phải yêu cầu bên cung cấp dữ liệu chứng minh nguồn gốc của dữ liệu, kiểm tra và xác minh danh tính của các bên trong giao dịch, lưu giữ hồ sơ xác minh và giao dịch;
+h) Tổ chức cung cấp sản phẩm, dịch vụ trung gian dữ liệu phải duy trì bản ghi nhật ký về hoạt động trung gian dữ liệu.
+5. Chính phủ quy định chi tiết Điều này.
+Sản phẩm, dịch vụ xác thực điện tử đối với thông tin không gắn với chủ thể danh tính điện tử
+1. Xác thực điện tử đối với thông tin không gắn với chủ thể danh tính điện tử là hoạt động xác nhận, khẳng định, chứng nhận thông tin trong các cơ sở dữ liệu quốc gia, cơ sở dữ liệu chuyên ngành, hệ thống định danh và xác thực điện tử.
+2. Phương thức cung cấp sản phẩm, dịch vụ
+Tổ chức cung cấp dịch vụ xác thực điện tử cung cấp sản phẩm, dịch vụ cho bên sử dụng theo thỏa thuận thông qua Nền tảng chia sẻ, điều phối dữ liệu, Nền tảng định danh và xác thực điện tử.
+3. Điều kiện cung cấp dịch vụ xác thực điện tử đối với thông tin không gắn với chủ thể danh tính điện tử thực hiện theo quy định pháp luật về định danh và xác thực điện tử.
+Sản phẩm, dịch vụ phân tích, tổng hợp dữ liệu
+1. Sản phẩm, dịch vụ phân tích tổng hợp dữ liệu là kết quả của quá trình ứng dụng các công nghệ để phân tích tổng hợp dữ liệu từ dữ liệu gốc thành thông tin chuyên sâu hữu ích theo các cấp độ khác nhau đáp ứng yêu cầu của người dùng dữ liệu.
+2. Tổ chức cung cấp sản phẩm, dịch vụ phân tích, tổng hợp dữ liệu liên quan đến ứng dụng công nghệ trong xử lý dữ liệu quy định tại khoản 5 Điều 27 Luật này phải được đăng ký, cấp phép theo quy định tại Luật này. Bộ Công an thực hiện việc thẩm định, kiểm tra thực tế và cấp xác nhận đủ điều kiện kinh doanh dịch vụ cho tổ chức, doanh nghiệp đáp ứng quy định tại Điều 27 và Điều 52 của Luật này.
+3. Việc xây dựng, phát triển, lưu hành, sử dụng sản phẩm, dịch vụ phân tích, tổng hợp dữ liệu phải tuân thủ quy định về các hành vi bị nghiêm cấm tại Điều 9 Luật này.
+4. Phương thức cung cấp sản phẩm, dịch vụ:
+a) Cung cấp trực tiếp giữa bên cung cấp dịch vụ và bên yêu cầu dịch vụ theo thỏa thuận; 
+b) Cung cấp gián tiếp thông qua sàn giao dịch dữ liệu.
+5. Trung tâm dữ liệu quốc gia và cơ quan nhà nước có thẩm quyền cung cấp dữ liệu mở miễn phí cho tổ chức, cá nhân khai thác phục vụ phát triển các sản phẩm, dịch vụ về dữ liệu theo quy định về giao dịch điện tử.
+Sàn giao dịch dữ liệu
+1. Sàn giao dịch dữ liệu thực hiện chức năng giao dịch, trao đổi, mua bán, cung cấp các sản phẩm, dịch vụ liên quan đến dữ liệu một cách phù hợp, chính xác và hợp pháp đến các chủ thể yêu cầu dịch vụ.
+2. Trước khi thực hiện giao dịch dữ liệu, sàn giao dịch dữ liệu phải kiểm tra, đánh giá việc đáp ứng điều kiện tham gia giao dịch của các chủ thể có liên quan, tính hợp pháp và việc đáp ứng điều kiện tham gia giao dịch của sản phẩm dữ liệu, khả năng đáp ứng yêu cầu trong việc bảo đảm an ninh, an toàn khi sử dụng sản phẩm dữ liệu; cụ thể như sau:
+a) Điều kiện tham gia giao dịch của các chủ thể có liên quan gồm: Năng lực hành vi dân sự của cá nhân; năng lực pháp luật dân sự của pháp nhân;
+b) Tính hợp pháp và việc đáp ứng điều kiện tham gia giao dịch của sản phẩm dữ liệu gồm: Nguồn tạo ra sản phẩm; đối tượng, nội dung, phương pháp, quy trình tạo ra sản phẩm; xác định các yêu cầu liên quan đến hạn chế hoặc không hạn chế trong lưu thông, lưu hành sản phẩm;
+c) Khả năng đáp ứng yêu cầu trong việc bảo đảm an ninh, an toàn khi sử dụng sản phẩm dữ liệu gồm: Việc tuân thủ tiêu chuẩn, quy chuẩn kỹ thuật đối với sản phẩm dữ liệu; việc tiếp nhận, lưu trữ và xử lý dữ liệu.
+3.	Sàn giao dịch dữ liệu do Bộ Công an cấp phép thành lập và hoạt động theo quy định, là nơi lưu trữ, quản lý, giao dịch, trao đổi, thuê, mua bán và cung cấp các dịch vụ về dữ liệu, có sự giám sát, bảo đảm an toàn và tuân thủ quy định. Các doanh nghiệp nhà nước và đơn vị sự nghiệp công lập thuộc cơ quan quản lý nhà nước được triển khai sàn giao dịch dữ liệu và chịu trách nhiệm báo cáo định kỳ về hoạt động của sàn giao dịch dữ liệu trước cơ quan chủ quản. 
+4. Sản phẩm dữ liệu được giao dịch phải đáp ứng yêu cầu: 
+a) Là sản phẩm được tạo ra từ nguồn dữ liệu phi cá nhân hoặc dữ liệu cá nhân khi được chủ thể dữ liệu đồng ý; 
+b) Sản phẩm không tác động đến an ninh, quốc phòng, cơ yếu xâm phạm bí mật nhà nước, lợi ích công cộng, quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân;
+c) Đáp ứng yêu cầu về tính hợp pháp, điều kiện tham gia giao dịch của sản phẩm quy định tại điểm b khoản 2 Điều này.
+5. Sàn giao dịch dữ liệu phải ban hành quy chế hoạt động và công khai niêm yết trên trang thông tin điện tử của mình. Quy chế hoạt động phải bao gồm các nội dung chính sau: 
+a) Về trách nhiệm các bên tham gia giao dịch;
+b) Quy trình giao dịch;
+c) Bảo đảm bí mật thông tin, chống hành vi gian lận;
+d) Quản lý rủi ro, xử lý khiếu nại tranh chấp, bảo vệ dữ liệu cá nhân;
+đ) Điều kiện tham gia sàn giao dịch dữ liệu của các sản phẩm, dịch vụ về dữ liệu.
+6. Chính phủ ban hành chính sách hỗ trợ sàn giao dịch dữ liệu gồm:
+a) Phát triển mạng lưới sàn giao dịch dữ liệu phù hợp chủ trương chiến lược dữ liệu quốc gia, chuyển đổi số, phát triển nền kinh tế số, xã hội số; thẩm định các sản phẩm, dịch vụ về dữ liệu đủ điều kiện giao dịch trên sàn giao dịch dữ liệu;
+b) Hỗ trợ hệ thống thông tin kết nối, chia sẻ dữ liệu đến các sàn giao dịch dữ liệu sau khi đã đáp ứng các điều kiện thành lập và hoạt động phục vụ phát triển dịch vụ giao dịch sản phẩm dữ liệu;
+c) Hỗ trợ thúc đẩy phát triển doanh nghiệp hoạt động trong lĩnh vực dữ liệu, tư vấn chiến lược quản trị dữ liệu, cung cấp nền tảng, dịch vụ quản trị dữ liệu; hỗ trợ giải pháp bảo đảm an ninh, an toàn thông tin, bảo vệ dữ liệu cá nhân;
+d) Xây dựng đề án phát triển thị trường dữ liệu và xây dựng các mô hình sàn giao dịch dữ liệu;
+đ) Xây dựng các quy định, các hình thức sở hữu dữ liệu, quyền tài sản dữ liệu, chính sách mua bán dữ liệu, đưa dữ liệu trở thành một loại tài sản được pháp luật bảo vệ và tạo thị trường dữ liệu; xây dựng các quy định về mua bán, trao đổi dữ liệu riêng, dữ liệu có bản quyền để tạo thị trường dữ liệu; quy định về các dạng dữ liệu đủ điều kiện tham gia mua bán, trao đổi, chuyển nhượng; xây dựng các quy định về nghĩa vụ, trách nhiệm của các đơn vị vận hành nền tảng số, hệ thống giao dịch điện tử trong việc thu thập, lưu trữ, sử dụng, kết nối, chia sẻ, giao dịch dữ liệu số; xây dựng các quy định về tiêu chuẩn, quy chuẩn, các danh mục lưu trữ, kết nối và chia sẻ dữ liệu, các quy định về dữ liệu phi danh tính. Ban hành các quy định hướng dẫn liên quan đến quản lý chất lượng dữ liệu.
+7. Dữ liệu không được phép giao dịch:
+Dữ liệu gây nguy hại đến quân sự, quốc phòng, an ninh quốc gia, trật tự, an toàn xã hội;
+Dữ liệu không được chủ thể dữ liệu đồng ý;
+Dữ liệu khác bị nghiêm cấm theo quy định của luật.
+8. Chính phủ quy định chi tiết Điều này.
+Trách nhiệm của tổ chức cung cấp sản phẩm, dịch vụ trung gian dữ liệu, phân tích, tổng hợp dữ liệu, sàn giao dịch dữ liệu
+1. Cung cấp dịch vụ cho tổ chức, cá nhân trên cơ sở thỏa thuận bằng hợp đồng cung cấp dịch vụ.
+2. Bảo đảm kênh tiếp nhận thông tin và việc sử dụng dịch vụ là liên tục 24 giờ trong ngày và 7 ngày trong tuần.
+3. Thực hiện công tác quản lý, kiểm tra, giám sát an toàn dữ liệu, bảo mật dữ liệu thường xuyên; thực hiện các biện pháp phòng ngừa, ngăn chặn và xử lý rủi ro dữ liệu; giám sát các hành vi có thể ảnh hưởng đến việc bảo mật dữ liệu như sao chép, giải mã và huỷ dữ liệu, bảo vệ thông tin cá nhân.
+4. Tuân thủ các quy định pháp luật về an toàn thông tin mạng, an ninh mạng, giao dịch điện tử, tiêu chuẩn, quy chuẩn kỹ thuật về dữ liệu.
+5. Tuân thủ phương án, quy trình hoạt động cung cấp dịch vụ đã được Bộ Công an thẩm định.
+6. Gửi báo cáo định kỳ hoặc đột xuất về hoạt động cho Bộ Công an khi có yêu cầu. 
+7. Chính phủ quy định chi tiết Điều này.
+Xây dựng hạ tầng kỹ thuật phục vụ phát triển thị trường dữ liệu, cung cấp các sản phẩm, dịch vụ về dữ liệu
+1. Khuyến khích mọi hoạt động thu thập, tạo lập, phân tích, tổng hợp, lưu trữ và chuyển nhượng, chuyển giao công nghệ dữ liệu theo nguyên tắc tự nguyện, bình đẳng, các bên cùng có lợi và tuân thủ quy định của Luật này.
+2. Thực hiện ưu đãi, hỗ trợ đối với sản phẩm, dịch vụ về dữ liệu đang trong thời gian thử nghiệm, sản phẩm, dịch vụ về dữ liệu mới, hiện đại; hỗ trợ hoạt động tư vấn các sản phẩm, dịch vụ về dữ liệu.
+3.  Xây dựng trung tâm đổi mới sáng tạo về khoa học dữ liệu để lưu trữ, phát triển hệ sinh thái khởi nghiệp đổi mới sáng tạo về khoa học công nghệ trên nền tảng dữ liệu trong Cơ sở dữ liệu tổng hợp quốc gia.
+4. Bộ Công an chủ trì phối hợp với các bộ, các cơ quan có liên quan xây dựng trình cấp có thẩm quyền phê duyệt kế hoạch đầu tư xây dựng cơ sở hạ tầng, cơ sở vật chất - kỹ thuật của Trung tâm dữ liệu quốc gia phục vụ cho phát triển, quản lý thị trường dữ liệu.
+
+TỔ CHỨC THỰC HIỆN 
+Trách nhiệm quản lý nhà nước về dữ liệu 
+Văn phòng Trung ương Đảng giúp Ban Bí thư quản lý nhà nước về dữ liệu của các cơ quan Đảng và các tổ chức chính trị - xã hội; Chính phủ quản lý nhà nước về dữ liệu của các cơ quan nhà nước và tổ chức, cá nhân khác.
+Văn phòng Trung ương Đảng là cơ quan đầu mối chịu trách nhiệm trước Ban Bí thư và Ban Chỉ đạo chuyển đổi số cơ quan Đảng trong việc chủ trì, phối hợp với các cơ quan có liên quan thực hiện quản lý nhà nước về dữ liệu của cơ quan Đảng. Bộ Công an là cơ quan đầu mối chịu trách nhiệm trước Chính phủ trong việc chủ trì, phối hợp với các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ và Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương thực hiện quản lý nhà nước về dữ liệu của cơ quan nhà nước và tổ chức, cá nhân khác.
+Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ và Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương phối hợp với Bộ Công an thực hiện quản lý nhà nước về dữ liệu trong lĩnh vực, địa bàn thuộc phạm vi nhiệm vụ, quyền hạn được phân công.
+Các cơ quan Đảng ở Trung ương, các tỉnh uỷ, thành uỷ phối hợp với Văn phòng Trung ương Đảng trong việc thực hiện quản lý nhà nước về dữ liệu trong lĩnh vực, địa bàn thuộc phạm vi nhiệm vụ, quyền hạn được phân công.
+Trách nhiệm của Văn phòng Trung ương Đảng
+1. Chủ trì, phối hợp với các cơ quan có liên quan tổ chức triển khai, hướng dẫn, kiểm tra, đôn đốc việc thực hiện Luật này trong hệ thống cơ quan Đảng.
+2. Xây dựng, trình ban hành kế hoạch thực hiện Chiến lược dữ liệu của các cơ quan đảng.
+3. Chủ trì, phối hợp với các cơ quan có liên quan quản lý hoạt động lưu trữ, bảo vệ dữ liệu, bảo đảm an ninh dữ liệu; quản lý, theo dõi, giám sát đối với các dịch vụ về dữ liệu trong hệ thống cơ quan Đảng.
+4. Tổ chức thực hiện kết nối, chia sẻ, điều phối dữ liệu giữa hệ thống thông tin, cơ sở dữ liệu của cơ quan, tổ chức, cá nhân trong hệ thống cơ quan Đảng với Cơ sở dữ liệu tổng hợp quốc gia thông qua Nền tảng chia sẻ, điều phối dữ liệu của cơ quan Đảng và Trung tâm dữ liệu quốc gia.
+5. Chủ trì, phối hợp với các cơ quan có liên quan xây dựng tiêu chuẩn, quy chuẩn kỹ thuật hoặc hướng dẫn kỹ thuật về tổ chức, kết nối, chia sẻ, đồng bộ dữ liệu trong cơ quan Đảng với Trung tâm dữ liệu quốc gia.
+6. Hướng dẫn tổ chức phân loại dữ liệu của cơ quan Đảng ở Trung ương, các tỉnh uỷ, thành uỷ.
+Trách nhiệm của các cơ quan Đảng ở Trung ương, các tỉnh ủy, thành ủy
+1. Chủ trì, phối hợp với Văn phòng Trung ương Đảng và các cơ quan có liên quan quản lý hoạt động thu thập, cập nhật, điều chỉnh, sao chép, chia sẻ, chuyển giao, xoá, hủy dữ liệu, lưu trữ, bảo vệ dữ liệu thuộc phạm vi quản lý.
+2. Thực hiện đồng bộ dữ liệu thuộc phạm vi quản lý về Trung tâm dữ liệu của cơ quan Đảng và Trung tâm dữ liệu quốc gia theo quy định của Đảng và Luật này.
+ Trách nhiệm của Bộ Công an
+1. Chủ trì, phối hợp với Văn phòng Chính phủ, Bộ Thông tin và Truyền thông và bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân cấp tỉnh tổ chức triển khai, hướng dẫn, kiểm tra, đôn đốc việc thực hiện Luật này.
+2. Chủ trì, phối hợp với Bộ Thông tin và Truyền thông và cơ quan có liên quan quản lý hoạt động lưu trữ, bảo vệ dữ liệu, bảo đảm an ninh dữ liệu; đấu tranh phòng, chống tội phạm, xử lý vi phạm pháp luật trong hoạt động xử lý, quản trị, điều phối dữ liệu; chủ động phòng ngừa, tham gia đấu tranh với các hành vi vi phạm pháp luật về dữ liệu, hoạt động sử dụng dữ liệu gây phương hại đến an ninh quốc gia, lợi ích của Nhà nước, quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân; quản lý, theo dõi, giám sát đối với hoạt động kinh doanh các sản phẩm, dịch vụ về dữ liệu quy định tại khoản 2 Điều 48 Luật này.
+3. Chủ trì, phối hợp với các cơ quan có liên quan triển khai xây dựng Trung tâm dữ liệu quốc gia đáp ứng các quy định, tiêu chuẩn, quy chuẩn kỹ thuật đối với trung tâm dữ liệu.
+4. Chủ trì xây dựng, ban hành hoặc trình cơ quan nhà nước có thẩm quyền ban hành và hướng dẫn thi hành văn bản quy phạm pháp luật hướng dẫn thực hiện các quy định pháp luật về dữ liệu.
+5. Chủ trì phối hợp Bộ Tư pháp, Văn phòng Chính phủ, Bộ Thông tin và Truyền thông và các cơ quan liên quan rà soát, tổng hợp đề xuất Chính phủ chỉ đạo các bộ, cơ quan, địa phương xây dựng, sửa đổi, bổ sung các văn bản liên quan đến việc triển khai, quản trị vận hành của Trung tâm dữ liệu quốc gia.
+6. Tổ chức thực hiện kết nối, chia sẻ, điều phối dữ liệu giữa hệ thống thông tin, cơ sở dữ liệu của cơ quan, tổ chức, cá nhân với Cơ sở dữ liệu tổng hợp quốc gia thông qua Nền tảng chia sẻ, điều phối dữ liệu của Trung tâm dữ liệu quốc gia.
+7. Bảo đảm hạ tầng công nghệ thông tin cho cơ quan Đảng, Nhà nước, tổ chức chính trị - xã hội phục vụ việc quản lý, quản trị, xử lý dữ liệu thuộc phạm vi quản lý tại Trung tâm dữ liệu quốc gia.
+8. Chủ trì, phối hợp với Bộ Thông tin và Truyền thông thẩm định, đánh giá, kiểm tra, hỗ trợ giám sát và điều phối ứng phó sự cố an ninh mạng, an toàn thông tin trong quá trình xây dựng, triển khai, vận hành các hệ thống thông tin, cơ sở dữ liệu tại Trung tâm dữ liệu quốc gia.
+9. Chủ trì, phối hợp với Bộ Thông tin và Truyền thông, Bộ Khoa học và Công nghệ xây dựng tiêu chuẩn, quy chuẩn kỹ thuật hoặc hướng dẫn kỹ thuật về tổ chức, kết nối, chia sẻ, đồng bộ dữ liệu với Trung tâm dữ liệu quốc gia.
+10. Xây dựng tiêu chuẩn kiến trúc hệ thống phần mềm tại Trung tâm dữ liệu quốc gia.
+11. Hướng dẫn tổ chức phân loại dữ liệu của cơ quan Đảng, Nhà nước, tổ chức chính trị - xã hội; tổ chức, chỉ đạo công tác đào tạo, bồi dưỡng về chuyên môn, nghiệp vụ về dữ liệu trên phạm vi cả nước.
+Trách nhiệm của Bộ Thông tin và Truyền thông
+1. Chủ trì, phối hợp với Bộ Công an, Bộ Quốc phòng, Bộ Khoa học và Công nghệ và cơ quan có liên quan trình Thủ tướng Chính phủ ban hành Chiến lược dữ liệu quốc gia.
+2. Hướng dẫn cơ quan Đảng, Nhà nước, tổ chức chính trị - xã hội phát triển, hoàn thiện hạ tầng kỹ thuật công nghệ thông tin và việc xây dựng tiêu chuẩn, quy chuẩn kỹ thuật về tổ chức, kết nối, chia sẻ, đồng bộ dữ liệu; thực hiện chuẩn hoá, kết nối, chia sẻ dữ liệu, tính toán tối ưu giữa việc đầu tư hạ tầng mới và sử dụng hạ tầng do Trung tâm dữ liệu quốc gia cung cấp.
+3. Rà soát, đánh giá năng lực mạng truyền số liệu chuyên dùng của các cơ quan để xây dựng phương án nâng cấp, bảo đảm các đơn vị có thể truy cập, quản trị hệ thống đặt tại Trung tâm dữ liệu quốc gia thông qua mạng truyền số liệu chuyên dùng.
+Trách nhiệm của Bộ Quốc phòng
+1. Chịu trách nhiệm trước Chính phủ trong thực hiện công tác quản lý nhà nước đối với các dữ liệu thuộc phạm vi quản lý.
+2. Phối hợp với Bộ Công an, các cơ quan, tổ chức bố trí lực lượng, phương tiện thích hợp để phát hiện, ngăn chặn từ xa mọi hành vi xâm phạm Trung tâm dữ liệu quốc gia cả về địa lý và trên không gian mạng.
+3. Chủ trì quản lý hoạt động lưu trữ, bảo vệ dữ liệu, bảo đảm an ninh dữ liệu; quản lý, theo dõi, giám sát, tổ chức thực hiện kết nối, chia sẻ, điều phối dữ liệu giữa hệ thống thông tin, cơ sở dữ liệu; ứng dụng khoa học trong xử lý, quản lý, khai thác, sử dụng dữ liệu; quản lý, cấp phép chuyển dữ liệu ra nước ngoài; sử dụng quỹ phát triển dữ liệu quốc gia đối với các dữ liệu thuộc phạm vi quản lý của Bộ Quốc phòng.
+Trách nhiệm của Bộ Khoa học và Công nghệ
+Phối hợp với Bộ Công an, Bộ Thông tin và Truyền thông và cơ quan có liên quan trong nghiên cứu làm chủ và ứng dụng các công nghệ số, dữ liệu số hình thành các sản phẩm, dịch vụ phục vụ phát triển chính phủ số, chính quyền số và phát triển kinh tế - xã hội thông qua các Chương trình khoa học và công nghệ trọng điểm cấp quốc gia.
+Trách nhiệm của Bộ Nội vụ
+1. Quản lý đối với dữ liệu về công chức, viên chức.
+2. Chủ trì, phối hợp với Bộ Thông tin và Truyền thông, Bộ Công an, Bộ Quốc phòng và cơ quan có liên quan quản lý hoạt động thu thập, cập nhật, điều chỉnh, sao chép, chia sẻ, chuyển giao, xóa, hủy dữ liệu, lưu trữ, bảo vệ đối với dữ liệu về công chức, viên chức.
+3. Thực hiện đồng bộ đối với dữ liệu công chức, viên chức về Trung tâm dữ liệu quốc gia theo quy định của Luật này.
+Trách nhiệm của Ban Cơ yếu Chính phủ
+1. Chủ trì phối hợp với các đơn vị có liên quan triển khai các sản phẩm mã hóa, giải mã dữ liệu.
+2. Ban Cơ yếu Chính phủ giúp Bộ trưởng Bộ Quốc phòng thực hiện nhiệm vụ quản lý nhà nước đối với dữ liệu về cơ yếu.
+3. Phối hợp với Bộ Công an, Bộ Thông tin và Truyền thông triển khai các giải pháp bảo đảm an toàn, xác thực và bảo mật thông tin dùng mật mã; triển khai dịch vụ chứng thực chữ ký số chuyên dùng Chính phủ cho các hệ thống thông tin và cơ sở dữ liệu của cơ quan Đảng, Nhà nước, tổ chức chính trị - xã hội.
+Trách nhiệm của các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ và Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương
+1. Quản lý đối với dữ liệu thuộc phạm vi quản lý theo quy định của pháp luật.
+2. Chủ trì, phối hợp với Bộ Thông tin và Truyền thông, Bộ Công an, Bộ Quốc phòng và cơ quan có liên quan quản lý hoạt động thu thập, cập nhật, điều chỉnh, sao chép, chia sẻ, chuyển giao, xóa, hủy dữ liệu, lưu trữ, bảo vệ dữ liệu thuộc phạm vi quản lý.
+3. Thực hiện đồng bộ dữ liệu thuộc phạm vi quản lý về Trung tâm dữ liệu quốc gia theo quy định của Luật này.
+
+ĐIỀU KHOẢN THI HÀNH
+Sửa đổi, bổ sung một số điều của các luật có liên quan
+1. Bổ sung Mục 6 vào Phần IV - Phí thuộc lĩnh vực an ninh, quốc phòng trong Danh mục Phí, lệ phí ban hành kèm theo Luật Phí và lệ phí số 97/2015/QH13 đã được sửa đổi, bổ sung một số điều theo Luật Du lịch số 09/2017/QH14, Luật Cạnh tranh số 23/2018/QH14, Luật Bảo vệ môi trường số 72/2020/QH14 và Luật Giá số 16/2023/QH15, Luật Giao dịch điện tử số 20/2023/QH15 như sau:
+Bổ sung Mục 5 vào Phần XIII - Phí trong lĩnh vực khác trong Danh mục Phí, lệ phí ban hành kèm theo Luật Phí và lệ phí số 97/2015/QH13 đã được sửa đổi, bổ sung một số điều theo Luật Du lịch số 09/2017/QH14, Luật Cạnh tranh số 23/2018/QH14, Luật Bảo vệ môi trường số 72/2020/QH14 và Luật Giá số 16/2023/QH15, Luật Giao dịch điện tử số 20/2023/QH15 như sau:
+Sửa đổi, bổ sung Luật Đầu tư số 61/2020/QH14 đã được sửa đổi, bổ sung một số điều theo Luật Bảo vệ môi trường số 72/2020/QH14, Luật sửa đổi, bổ sung một số điều của Luật đầu tư công, Luật đầu tư theo phương thức đối tác công tư, Luật Đầu tư, Luật nhà ở, Luật đấu thầu, Luật điện lực, Luật doanh nghiệp, Luật thuế tiêu thụ đặc biệt và Luật thi hành án dân sự số 03/2022/QH15, Luật Điện ảnh số 05/2022/QH15, Luật Kinh doanh bảo hiểm số 08/2022/QH15, Luật sửa đổi, bổ sung một số điều của Luật tần số vô tuyến điện số 09/2022/QH15, Luật Giao dịch điện tử số 20/2023/QH15, Luật Căn cước số 26/2023/QH15 và Luật Lưu trữ số 33/2024/QH15:
+Bổ sung điểm 230 tại Phụ lục IV - Danh mục ngành, nghề đầu tư kinh doanh có điều kiện: kinh doanh sản phẩm, dịch vụ trung gian dữ liệu;
+Bổ sung điểm 231 tại Phụ lục IV - Danh mục ngành, nghề đầu tư kinh doanh có điều kiện: kinh doanh sản phẩm, dịch vụ phân tích, tổng hợp dữ liệu;
+Bổ sung điểm 232 tại Phụ lục IV - Danh mục ngành, nghề đầu tư kinh doanh có điều kiện: kinh doanh dịch vụ sàn giao dịch dữ liệu.
+4. Chỉnh lý điểm a khoản 4 Điều 42 Luật Giao dịch điện tử số 20/2023/QH15 như sau: “a) Kết nối, chia sẻ qua các hệ thống trung gian bao gồm: Nền tảng chia sẻ, điều phối dữ liệu của Trung tâm dữ liệu quốc gia; Nền tảng tích hợp, chia sẻ dữ liệu quốc gia; hạ tầng kết nối, chia sẻ dữ liệu cấp Bộ, cấp tỉnh theo Khung kiến trúc tổng thể quốc gia số;”.
+Hiệu lực thi hành
+Luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2026.
+Luật này  được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XV, kỳ họp thứ 9 thông qua ngày     tháng 6 năm 2025.
+      CHỦ TỊCH QUỐC HỘI
+QUỐC HỘI	CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+Luật số:      /2025/QH15	
+6	Phí khai thác và sử dụng thông tin 
+trong Cơ sở dữ liệu tổng hợp quốc gia	Bộ Tài chính
+5	Phí khai thác và sử dụng thông tin trong cơ sở dữ liệu quốc gia, cơ sở dữ liệu chuyên ngành khác	Bộ Tài chính

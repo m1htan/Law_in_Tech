@@ -1,0 +1,126 @@
+TỜ TRÌNH 
+Dự án Luật Phòng bệnh
+Kính gửi:  Chính phủ.
+Thực hiện quy định của Luật Ban hành văn bản quy phạm pháp luật năm 2025, Nghị quyết số 75/2025/UBTVQH15 ngày 26 tháng 3 năm 2025 của Ủy ban Thường vụ Quốc hội về việc đề nghị điều chỉnh Chương trình xây dựng luật, pháp lệnh (Chương trình lập pháp) năm 2025, Bộ Y tế kính trình Chính phủ dự án Luật Phòng bệnh như sau:
+I. SỰ CẦN THIẾT BAN HÀNH LUẬT 
+1. Cơ sở chính trị, pháp lý
+Nghị quyết số 20-NQ/TW ngày 25/10/2017 Hội nghị lần thứ sáu của Ban Chấp hành Trung ương khóa XII về tăng cường công tác bảo vệ, chăm sóc và nâng cao sức khỏe nhân dân trong tình hình mới trong đó đưa ra các quan điểm chỉ đạo liên quan đến lĩnh vực y tế dự phòng như phòng bệnh hơn chữa bệnh; y tế dự phòng là then chốt, y tế cơ sở là nền tảng với mục tiêu tổng quát là “Nâng cao sức khoẻ cả về thể chất và tinh thần, tầm vóc, tuổi thọ, chất lượng cuộc sống của người Việt Nam” và các mục tiêu cụ thể như bảo đảm mọi người dân đều được quản lý, chăm sóc sức khỏe, tăng tuổi thọ, tăng tỷ lệ tiêm chủng, giảm tỷ suất tử vong trẻ em, giảm tỷ lệ suy dinh dưỡng, khống chế tỷ lệ béo phì, tăng chiều cao trung bình và dự phòng, quản lý, điều trị một số bệnh không lây nhiễm; 
+Văn kiện Đại hội Đảng toàn quốc lần thứ XIII đã đề ra chỉ tiêu đến năm 2025 tuổi thọ trung bình đạt khoảng 74,5 tuổi với định hướng: chú trọng nâng cao chất lượng dịch vụ y tế, chất lượng dân số, gắn dân số với phát triển; không ngừng cải thiện toàn diện đời sống vật chất và tinh thần của nhân dân; chủ động thích ứng có hiệu quả với biến đổi khí hậu, phòng, chống và giảm nhẹ thiên tai, dịch bệnh, quản lý, khai thác, sử dụng hợp lý, tiết kiệm, hiệu quả và bền vững tài nguyên; lấy bảo vệ môi trường sống và sức khoẻ nhân dân làm mục tiêu hàng đầu.
+Chỉ thị số 25-CT/TW ngày 25/10/2023 của Ban Bí thư Trung ương Đảng về tiếp tục củng cố, hoàn thiện, nâng cao chất lượng hoạt động của y tế cơ sở trong tình hình mới có yêu cầu: hoàn thiện chính sách, pháp luật về y tế cơ sở đồng bộ với chính sách, pháp luật về bảo hiểm y tế, khám bệnh, chữa bệnh, dược, phòng, chống bệnh truyền nhiễm, an toàn thực phẩm; khuyến khích y tế tư nhân, tổ chức, cá nhân tham gia cung cấp dịch vụ chăm sóc sức khoẻ ban đầu, y tế dự phòng và kết nối với y tế cơ sở trong quản lý sức khoẻ cá nhân; tăng cường nguồn lực cho y tế dự phòng, sàng lọc và phát hiện bệnh sớm.
+2. Cơ sở thực tiễn
+Luật Phòng, chống bệnh truyền nhiễm số 03/2007/QH12 được Quốc hội khóa XII, kỳ họp thứ 2 thông qua ngày 21 tháng 11 năm 2007, có hiệu lực từ 01 tháng 7 năm 2008. Trong hơn 17 năm triển khai, đã đạt được nhiều kết quả tích cực trong công tác bảo vệ, chăm sóc và nâng cao sức khỏe nhân dân. Mặc dù vậy, vẫn còn tồn tại những bất cập về chất lượng sống, gánh nặng bệnh tật, nguyên nhân liên quan đến dinh dưỡng và yếu tố môi trường cũng như khoảng trống chính sách điều chỉnh phòng bệnh không lây nhiễm và sức khỏe tâm thần. Việc xây dựng Luật mới với phạm vi điều chỉnh bao quát toàn diện các hoạt động phòng bệnh là hết sức cần thiết. Nhằm:
+Khắc phục các tồn tại, bất cập trong công tác bảo vệ, chăm sóc và nâng cao sức khỏe nhân dân đáp ứng yêu cầu thực tiễn trong tình hình mới. Trong thời gian qua, bên cạnh những kết quả tích cực đã đạt được trong công tác bảo vệ, chăm sóc và nâng cao sức khỏe nhân dân, việc thực hiện vẫn còn những tồn tại, bất cập đó là: chất lượng sống của người dân còn hạn chế do bệnh tật; người Việt Nam có tuổi thọ tương đối cao nếu so với các quốc gia có cùng mức sống, nhưng lại có số năm sống với bệnh tật nhiều hơn. Nguyên nhân là do: chế độ dinh dưỡng chưa hợp lý dẫn đến hạn chế phát triển thể lực, tầm vóc người Việt cũng như gia tăng bệnh không lây nhiễm liên quan đến dinh dưỡng; sự gia tăng nhanh của các bệnh không lây nhiễm và gánh nặng bệnh tật; sự gia tăng các yếu tố nguy cơ về môi trường như ô nhiễm môi trường, ý thức giữ gìn vệ sinh cá nhân, vệ sinh môi trường của người dân còn hạn chế, biến đổi khí hậu và các hiện tượng thời tiết cực đoan,.... ảnh hưởng đến sức khỏe của nhiều cộng đồng dân cư, góp phần làm gia tăng các trường hợp nhập viện.
+Giải quyết các vướng mắc từ cơ chế chính sách, khoảng trống pháp luật trong hoạt động phòng bệnh. Qua rà soát hệ thống pháp luật Việt Nam cho thấy, mặc dù có tới 63 văn bản cấp độ luật có quy định điều chỉnh các hoạt động liên quan đến lĩnh vực phòng bệnh, nâng cao sức khỏe nhưng trên thực tế thì hệ thống pháp luật hiện hành chủ yếu tập trung vào 03 vấn đề chính là: (1) Điều trị bệnh; (2) Phòng, chống bệnh truyền nhiễm; (3) Quản lý một số hành vi có hại cho sức khỏe (rượu bia, thuốc lá, hủy hoại môi trường, bao lực gia đình,…) mà hoàn toàn chưa có quy định để điều chỉnh các vấn đề liên quan đến dinh dưỡng với sức khỏe, sức khỏe tâm thần, quản lý bệnh không lây nhiễm, quỹ phòng bệnh.
+Để khắc phục các tồn tại, bất cập nêu trên cũng như thể chế hóa các chủ trương, định hướng của Đảng, nhiệm vụ của Quốc hội, Chính phủ, Thủ tướng Chính phủ giao, việc xây dựng một đạo luật mới với phạm vi điều chỉnh bao gồm các hoạt động về phòng, chống bệnh truyền nhiễm; phòng, chống bệnh không lây nhiễm; phòng, chống các rối loạn sức khỏe tâm thần; bảo đảm dinh dưỡng trong phòng bệnh; phòng bệnh trước tác động của các yếu tố nguy cơ khác; các điều kiện bảo đảm để phòng bệnh nhằm giải quyết các khoảng trống về pháp luật, các hoạt động liên quan đến dự phòng và nâng cao sức khỏe đồng thời thay thế Luật Phòng, chống bệnh truyền nhiễm là hoàn toàn phù hợp, không gây chồng chéo trong hệ thống pháp luật và hết sức cần thiết trong giai đoạn hiện nay. 
+II. MỤC ĐÍCH BAN HÀNH, QUAN ĐIỂM XÂY DỰNG DỰ ÁN LUẬT 
+1. Mục đích ban hành luật
+a) Mục đích chung
+Góp phần nâng cao sức khoẻ cả về thể chất và tinh thần, tầm vóc, tuổi thọ, chất lượng cuộc sống của người Việt Nam. 
+b) Mục đích cụ thể
+- Kiểm soát tốt bệnh truyền nhiễm, nâng cao năng lực cho hệ thống phòng, chống bệnh truyền nhiễm;
+- Khống chế tốc độ gia tăng tiến tới làm giảm tỷ lệ người mắc bệnh tại cộng đồng, hạn chế tàn tật và tử vong sớm do mắc các bệnh không lây nhiễm.
+2. Quan điểm xây dựng dự án luật 
+a) Thể chế hóa đường lối, chính sách của Đảng về dự phòng và nâng cao sức khỏe đã được định hướng tại Nghị quyết số 20-NQ/TW ngày 25 tháng 10 năm 2017 của Ban Chấp hành Trung ương Đảng khóa XII về tăng cường công tác bảo vệ, chăm sóc và nâng cao sức khoẻ nhân dân trong tình hình mới.
+b) Kế thừa các quy định của Luật Phòng, chống bệnh truyền nhiễm năm 2007 đang phát huy hiệu quả; bãi bỏ các quy định bất cập; cập nhật, sửa đổi, bổ sung các quy định hiện hành cho phù hợp với thực tiễn và yêu cầu trong quản lý nhà nước về phòng, chống bệnh truyền nhiễm trong tình hình mới.
+c) Khắc phục các tồn tại, bất cập, khoảng trống pháp luật để tạo hàng lang pháp lý thuận lợi cho các hoạt động phòng bệnh.
+d) Khuyến khích và huy động sự tham gia tích cực của toàn xã hội từ hệ thống chính trị, bộ máy nhà nước đến mọi người dân và các tổ chức xã hội vào công tác phòng bệnh.
+đ) Bảo đảm tính dự báo trong tương lai, dự liệu những quan hệ xã hội nảy sinh liên quan đến dự phòng và nâng cao sức khỏe, bên cạnh đó phải phù hợp, hài hòa với xu hướng pháp luật quốc tế trong xu thế hội nhập sâu rộng với nền kinh tế toàn cầu.
+III. QUÁ TRÌNH XÂY DỰNG DỰ ÁN LUẬT
+Theo quy định của Luật Ban hành văn bản quy phạm pháp luật năm 2025, Bộ Y tế đã chủ trì, phối hợp với các cơ quan liên quan thực hiện các công việc sau: 
+1. Ngày 14/4/2025, Bộ Y tế đã có Công văn số 2158/BYT-PB gửi Bộ Tư pháp đề nghị cho ý kiến đối với đề xuất của Bộ Y tế thực hiện ngay quy trình soạn thảo đối với Luật Phòng bệnh mà không phải thực hiện lại quy trình xây dựng chính sách để kịp trình Quốc hội cho ý kiến và thông qua tại Kỳ họp thứ 10. Ngày 21/4/2025, Bộ Tư pháp đã có Công văn số 2158/BTP-CTXDVBQPPL đề nghị Bộ Y tế báo cáo Lãnh đạo Chính phủ để thực hiện ngay việc soạn thảo Luật Phòng bệnh theo quy định của Luật năm 2025 và Nghị định số 78/2025/NĐ-CP song song với quá trình hoàn thiện hồ sơ chính sách đồng thời chủ động tiến hành quy phạm hóa các chính sách đã được Chính phủ thông qua để đảm bảo tiến độ, chất lượng của dự án Luật.
+2. Bộ Y tế đã tổ chức các hoạt động nghiên cứu, rà soát xây dựng dự án Luật; thành lập Tổ soạn thảo với sự tham gia của đại diện các cơ quan, các chuyên gia, nhà khoa học.
+	3. Đăng tải hồ sơ dự án Luật trên Cổng Thông tin điện tử của Bộ Y tế để lấy ý kiến. 
+4. Lấy ý kiến bộ, cơ quan ngang bộ và địa phương về hồ sơ dự án Luật. Tổ chức hội thảo, tọa đàm, lấy ý kiến chuyên gia, nhà khoa học về dự án Luật.
+	5. Căn cứ ý kiến góp ý của các ban, bộ, ngành, địa phương, Bộ Y tế đã tổng hợp nghiên cứu, tiếp thu, giải trình, chỉnh lý hồ sơ dự án Luật. 
+6. Gửi Hồ sơ dự án Luật để thẩm định. 
+	7. Tiếp thu ý kiến thẩm định, Bộ Y tế đã chủ trì, phối hợp với các cơ quan, tổ chức có liên quan chỉnh lý, hoàn thiện dự thảo Luật.
+IV. BỐ CỤC VÀ NỘI DUNG CƠ BẢN CỦA DỰ ÁN LUẬT
+1. Phạm vi điều chỉnh, đối tượng áp dụng
+Phạm vi điều chỉnh: Dự thảo Luật Phòng bệnh quy định về thông tin, giáo dục, truyền thông về phòng bệnh; phòng, chống bệnh truyền nhiễm; phòng, chống bệnh không lây nhiễm, các rối loạn sức khỏe tâm thần và các yếu tố nguy cơ khác; dinh dưỡng trong phòng bệnh và các điều kiện bảo đảm để phòng bệnh.
+Đối tượng áp dụng: Dự thảo Luật Phòng bệnh áp dụng đối với cơ quan, tổ chức, cá nhân trong nước và nước ngoài tại Việt Nam.
+2. Bố cục của dự thảo Luật
+Dự thảo Luật Phòng bệnh gồm 06 Chương với 46 điều: 
+- Chương 1: Những quy định chung, gồm các điều từ Điều 1 đến Điều 13;
+- Chương 2: Phòng, chống bệnh truyền nhiễm, gồm các điều từ Điều 14 đến Điều 24;
+- Chương 3: Phòng, chống bệnh không lây nhiễm, các rối loạn sức khỏe tâm thần và các yếu tố nguy cơ khác, gồm các điều từ Điều 25 đến Điều 31;
+- Chương 4: Dinh dưỡng trong phòng bệnh, gồm các điều từ Điều 32 đến Điều 35;
+- Chương 5: Các điều kiện bảo đảm để phòng bệnh, gồm các điều từ Điều 36 đến Điều 43;
+- Chương 6: Điều khoản thi hành, gồm các điều từ Điều 44 đến Điều 46.
+3. Nội dung cơ bản 
+3.1. Những nội dung sửa đổi, hoàn thiện
+a) Vấn đề thứ nhất: Nhóm những quy định chung
+Dự thảo Luật hoàn thiện các quy định liên quan đến giải thích từ ngữ, theo đó, bổ sung các cụm từ cần giải thích để tạo cách hiểu thống nhất trong quá trình áp dụng pháp luật, ví dụ: sinh phẩm phòng bệnh, sức khỏe tâm thần, rối loạn sức khỏe tâm thần,…
+Dự thảo Luật đưa ra tổng thể các chính sách của Nhà nước về phòng bệnh và các nội dung về quản lý nhà nước về phòng bệnh, tập trung vào các chính sách của Nhà nước về thực hiện viêc phòng bệnh (bao gồm cả bệnh truyền nhiệm, bệnh không lây nhiễm…); ưu tiên trong hỗ trợ, khuyến khích các cá nhân, tổ chức tham gia phòng bệnh, các chính sách tạo nguồn lực để thực hiện công tác phòng bệnh…
+Dự thảo Luật quy định các trách nhiệm của cơ quan, tổ chức trong hoạt động phòng bệnh, các hành vi bị nghiêm cấm trong hoạt động phòng bệnh; đối tượng, nội dung, yêu cầu và hình thức thông tin, giáo dục, truyền thông về phòng bệnh; trách nhiệm thông tin truyền thông về phòng bệnh và hợp tác quốc tế trong phòng, chống dịch bệnh truyền nhiễm.
+b) Vấn đề thứ hai: Quy định về phân loại bệnh truyền nhiễm
+Nội dung: Bỏ quy định về danh mục cụ thể các bệnh truyền nhiễm mà chỉ quy định cách thức xác định nhóm bệnh truyền nhiễm và phân cấp cho Bộ trưởng Bộ Y tế quy định quy định tiêu chí xác định phân loại nhóm bệnh truyền nhiễm và phân loại dịch bệnh truyền nhiễm theo khả năng kiểm soát. Đồng thời bổ sung quy định phân loại và cấp độ dịch bệnh truyền nhiễm.
+Kể từ khi Luật Phòng, chống bệnh truyền nhiễm ban hành và có hiệu lực đến thời điểm hiện nay đã xuất hiện thêm nhiều bệnh truyền nhiễm mới và để bảo đảm tương đồng với quy định về phân loại cấp độ phòng thủ dân sự của Luật phòng thủ dân sự, do vậy, dự thảo Luật sẽ bỏ quy định về danh mục cụ thể các bệnh truyền nhiễm mà chỉ quy định cách thức xác định nhóm bệnh truyền nhiễm và phân cấp cho Bộ trưởng Bộ Y tế quy định về danh mục cụ thể các bệnh truyền nhiễm, đồng thời bổ sung quy định phân loại và cấp độ dịch bệnh truyền nhiễm để phù hợp với tình hình thực tiễn.
+c) Vấn đề thứ ba: Quy định về các biện pháp phòng, chống bệnh truyền nhiễm, dịch bệnh truyền nhiễm và quyền, nghĩa vụ của cơ quan, tổ chức, cá nhận trong phòng, chống bệnh truyền nhiễm
+Dự thảo Luật quy định toàn diện các biện pháp phòng, chống bệnh truyền nhiễm, từ giám sát, đánh giá nguy cơ, điều tra dịch, thông tin, cách ly, kiểm dịch, xét nghiệm, sử dụng vắc‑xin, bảo đảm an toàn sinh học, vệ sinh khử khuẩn, đến thử nghiệm phương pháp mới và thông báo dịch; khi dịch vượt khả năng kiểm soát thì bổ sung các biện pháp theo luật tình trạng khẩn cấp và phòng thủ dân sự; Chính phủ chịu trách nhiệm quy định chi tiết cách ly y tế, đồng thời giao trách nhiệm cho Bộ Y tế ban hành hướng dẫn chuyên môn kỹ thuật cho các nội dung điều tra, khai báo, xét nghiệm, cấp cứu, vệ sinh và thông báo dịch. Trong khi đó, Điều 14 dự thảo Luật nêu rõ quyền được thông tin, tiếp cận dịch vụ y tế, bảo mật và tôn trọng nhân phẩm; quyền khiếu nại, tố cáo, đòi bồi thường nếu chịu thiệt hại; nghĩa vụ khai báo trung thực, tuân thủ hướng dẫn và tự phòng ngừa cho bản thân và cộng đồng. Điều này cũng phân định rõ quyền và nghĩa vụ tương ứng của cơ sở phòng bệnh (như cách ly, báo cáo, trang bị) và của các tổ chức, cá nhân tham gia phòng chống (như chấp hành chỉ đạo, bảo đảm an toàn, cung cấp thông tin, vận động cộng đồng.
+d) Vấn đề thứ tư: Quy định về giám sát bệnh truyền nhiễm
+Dự thảo Luật quy định việc giám sát bệnh truyền nhiễm gồm: (1) Đối tượng giám sát bệnh truyền nhiễm, gồm: (i) Người mắc bệnh truyền nhiễm, người mang bệnh truyền nhiễm và người bị nghi ngờ mắc bệnh truyền nhiễm; (ii) tác nhân gây bệnh truyền nhiễm; (iii) ổ chưa, trung gian truyền bệnh truyền nhiễm và các yêu tố nguy cơ; (2) ĐỐi tượng giám sát bệnh không lây nhiễm; (3) Đối tượng giám sát trong dinh dưỡng; (4) Đối tượng giám sát trong phòng, chống thương tích; (5) Đối tượng giám sát trong quản lý các rối loạn sức khỏe tâm thần; (6) Giám sát trong phòng bệnh được thực hiện trên toàn bộ phạm vi địa bàn quản lý hành chính được phân công giám sát. Đồng thời, dự thảo giao trách nhiệm cho Bộ trưởng Bộ Y tế quy định chi tiết một số nội dung liên quan đến giám sát bệnh truyền nhiễm.  
+Theo quy định tại Điều 22 Luật Phòng, chống bệnh truyền nhiễm thì báo cáo giám sát bệnh truyền nhiễm phải được thực hiện bằng văn bản, các hình thức khác chỉ áp dụng trong các tình huống khẩn cấp. Hiện nay với việc phát triển của công nghệ thông tin, việc thu thập báo cáo sẽ được thực hiện bằng phần mềm báo cáo trực tuyến và sẽ áp dụng báo cáo trực tuyến sẽ bảo đảm yêu cầu nhanh chóng của công tác phòng, chống dịch bệnh và để đề ra các biện pháp ứng phó phù hợp, kịp thời.
+đ) Vấn đề thứ năm: quy định về cách ly y tế
+Dự thảo Luật quy định Người mắc, nghi mắc, mang mầm bệnh hoặc có tiếp xúc với tác nhân gây bệnh truyền nhiễm nhóm A và một số bệnh nhóm B bắt buộc phải cách ly y tế tại nhà, cơ sở y tế hoặc địa điểm được chỉ định. Cơ sở khám chữa bệnh tại vùng có dịch chịu trách nhiệm tổ chức cách ly theo chỉ đạo của UBND. Trường hợp không chấp hành sẽ bị cưỡng chế cách ly theo quy định của Chính phủ.
+e) Vấn đề thứ sáu: quy định về kiểm dịch y tế
+Dự thảo Luật quy định kiểm dịch y tế tại các cửa khẩu đối với người, phương tiện, hàng hóa, thi thể, mẫu phẩm sinh học xuất – nhập – quá cảnh Việt Nam; bao gồm thu thập, xử lý thông tin, khai báo y tế, giám sát, kiểm tra, xử lý y tế và áp dụng biện pháp phòng dịch; người và chủ phương tiện phải khai báo, chấp hành cách ly và nộp phí; tổ chức kiểm dịch cấp giấy chứng nhận và phối hợp với hải quan, xuất nhập cảnh; chính quyền địa phương bảo đảm điều kiện, phối hợp với các cơ quan, tổ chức quốc tế; Chính phủ quy định chi tiết trình tự, biện pháp xử lý trường hợp chưa hoàn thành kiểm dịch và tổ chức thực hiện.
+g) Vấn đề thứ bảy: Quy định về an toàn sinh học trong xét nghiệm
+Dự thảo luật bổ sung thêm quy định về bảo đảm an toàn sinh học đối với xét nghiệm thực hiện ngoài phòng xét nghiệm.
+Mục 4 Chương II Luật Phòng, chống bệnh truyền nhiễm mới quy định về an toàn sinh học trong xét nghiệm tuy nhiên mới chỉ có đề cập đến an toàn sinh học trong phòng xét nghiệm mà chưa đề cập đến an toàn sinh học đối với xét nghiệm thực hiện ngoài phòng xét nghiệm trong khi hiện nay việc xét nghiệm còn được tiến hành lưu động do đó cần có các quy định để điều chỉnh đối với hoạt động này nhằm bảo đảm tính toàn diện của luật. 
+h) Vấn đề thứ tám: các nội dung liên quan đến vắc xin, sinh phẩm phòng bệnh
+Dự thảo Luật quy định các nội dung cơ bản về vắc xin và sinh phẩm phòng bệnh: mọi người có quyền công bằng, trọn đời tiếp cận và sử dụng vắc xin, sinh phẩm phòng bệnh theo lứa tuổi và chương trình tiêm chủng; vắc xin, sinh phẩm phòng bệnh phải đáp ứng tiêu chuẩn pháp luật, được dùng tự nguyện hoặc bắt buộc, đúng đối tượng, liều lượng và quy trình kỹ thuật do Bộ Y tế hướng dẫn. Tiêm chủng – kể cả mở rộng, chủ động chống dịch (miễn phí) và tự nguyện – được Nhà nước tổ chức hoặc cho phép cơ sở ngoài công lập tham gia khi đủ điều kiện; Danh mục bệnh truyền nhiễm và đối tượng tiêm do Bộ Y tế ban hành. Về tài chính và bồi thường, ngân sách trung ương bảo đảm kinh phí tiêm bắt buộc miễn phí, người tiêm có quyền bồi thường nếu bị tai biến; Nhà nước và cơ sở ngoài công lập có trách nhiệm bồi thường thiệt hại theo quy định chi tiết của Chính phủ và hướng dẫn chuyên môn của Bộ Y tế.
+3.2. Nội dung bổ sung
+a) Bảo đảm dinh dưỡng trong phòng bệnh
+Ban hành các quy định về bảo đảm dinh dưỡng hợp lý theo từng lứa tuổi, từng đối tượng; ban hành các quy định về bảo đảm dinh dưỡng hợp lý phòng chống các bệnh không lây nhiễm liên quan đến dinh dưỡng.
+b) Phòng, chống các rối loạn sức khỏe tâm thần
+Quy định về kiểm soát yếu tố nguy cơ gây rối loạn tâm thần liên quan đến lối sống và cung cấp dịch vụ tư vấn, dự phòng và hỗ trợ, chăm sóc tại cộng đồng.
+c) Phòng, chống bệnh không lây nhiễm
+Quy định nội dung hoạt động phòng, chống bệnh không lây nhiễm liên quan đến việc phòng, chống các yếu tố nguy cơ; phát hiện sớm bệnh không lây nhiễm; dự phòng cho người nguy cơ cao; chăm sóc, điều trị, phục hồi chức năng cho người mắc bệnh và quản lý bệnh không lây nhiễm tại cộng đồng.
+d) Các điều kiện bảo đảm để phòng bệnh
+Ban hành các quy định về Quỹ Phòng bệnh.
+3.3. Nội dung cắt giảm, đơn giản hóa thủ tục hành chính
+Dự thảo Luật không có nội dung liên quan đến cắt giảm, đơn giản hóa thủ tục hành chính; không có vấn đề về giới.
+ Dự thảo Luật có lồng ghép chính sách dân tộc nhằm bảo đảm quyền của người dân tộc thiểu số. Cụ thể, khoản 3 Điều 3 quy định Nhà nước ưu tiên hỗ trợ chăm sóc dinh dưỡng cho trẻ em dân tộc thiểu số, trẻ em nghèo, cận nghèo, vùng khó khăn, thể hiện sự quan tâm đến nhóm yếu thế. Điều 9 yêu cầu hoạt động thông tin, truyền thông về phòng bệnh phải phù hợp với văn hóa, phong tục, tín ngưỡng của các dân tộc, qua đó bảo đảm quyền tiếp cận thông tin y tế và tôn trọng bản sắc văn hóa của đồng bào dân tộc thiểu số. 
+3.4. Nội dung phân quyền, phân cấp
+Dự thảo Luật không có nội dung liên quan đến phân quyền, phân cấp. 
+3.5. Vấn đề còn ý kiến khác nhau và kiến nghị phương án giải quyết
+Hiện dự thảo Luật đang quy định về việc thành lập Quỹ Phòng bệnh, trong đó Quỹ Phòng bệnh là quỹ tài chính nhà nước ngoài ngân sách, có tư cách pháp nhân, có con dấu, tài khoản riêng, do Thủ tướng Chính phủ thành lập, phê duyệt Điều lệ tổ chức và hoạt động. 
+Trong đó, về các nguồn hình thành Quỹ Phòng bệnh, hiện còn có ý kiến khác nhau, dự thảo Luật đưa ra 02 phương án, cụ thể:
+Phương án 1: 
+Quỹ Phòng bệnh được hình thành từ các nguồn sau đây:
+a) Vốn điều lệ do ngân sách nhà nước cấp; 
+b) Ngân sách nhà nước bổ sung hằng năm theo khả năng cân đối; 
+c) Trích một phần từ nguồn thu thuế tiêu thụ đặc biệt từ các sản phẩm không có lợi cho sức khỏe; 
+d) Nguồn tài trợ, đóng góp tự nguyện, hợp pháp của doanh nghiệp, tổ chức, cá nhân trong nước và nước ngoài;
+đ) Nguồn từ Quỹ Phòng, chống tác hại của thuốc lá;
+e) Các nguồn thu hợp pháp khác theo quy định của pháp luật.
+Phương án 2:
+Quỹ Phòng bệnh được hình thành từ các nguồn sau đây:
+a) Vốn điều lệ do ngân sách nhà nước cấp; 
+b) Ngân sách nhà nước bổ sung hằng năm theo khả năng cân đối; 
+c) Khoản đóng góp bắt buộc của cơ sở sản xuất, nhập khẩu các sản phẩm không có lợi cho sức khỏe, không bao gồm thuốc lá được tính theo tỷ lệ phần trăm (%) trên giá tính thuế tiêu thụ đặc biệt theo lộ trình: 1,0% từ ngày 01 tháng 01 năm 2027; 1,5% từ ngày 01 tháng 01 năm 2028; 2,0% từ ngày 01 tháng 01 năm 2029. Khoản đóng góp bắt buộc được khai, nộp cùng với thuế tiêu thụ đặc biệt do cơ sở sản xuất, nhập khẩu các sản phẩm không có lợi cho sức khỏe tự khai, tự tính, tự nộp vào tài khoản của Quỹ;
+d) Nguồn tài trợ, đóng góp tự nguyện, hợp pháp của doanh nghiệp, tổ chức, cá nhân trong nước và nước ngoài;
+đ) Nguồn từ Quỹ Phòng, chống tác hại của thuốc lá;
+e) Các nguồn thu hợp pháp khác theo quy định của pháp luật.
+V. DỰ KIẾN NGUỒN LỰC, ĐIỀU KIỆN BẢO ĐẢM CHO VIỆC THI HÀNH LUẬT VÀ THỜI GIAN TRÌNH QUỐC HỘI BAN HÀNH LUẬT
+Việc thi hành Luật Phòng bệnh có thể phát sinh một số điều kiện về nguồn lực và điều kiện bảo đảm như sau:
+Trước hết, cần có kinh phí thực hiện việc triển khai thi hành, phổ biến Luật Phòng bệnh, trong đó Nhà nước phải ban hành hệ thống các nghị định, thông tư quy định chi tiết được giao trong Luật Phòng bệnh. Tiếp theo, cần có cơ chế để xây dựng, củng cố hệ thống các cơ sở y tế, các đơn vị phòng bệnh trong bệnh viện, trường học, doanh nghiệp (Điều 37) để thực thi giám sát dịch tễ, sàng lọc, tiêm chủng. Về nhân lực, cần quy hoạch, đào tạo, với chế độ đãi ngộ, phụ cấp chuyên ngành, phụ cấp chống dịch và rủi ro. 
+Về tài chính, ngân sách trung ương hàng năm bảo đảm đủ và kịp thời cho phòng bệnh; thiết lập Quỹ Phòng bệnh ngoài ngân sách để bổ sung nguồn lực, kèm cơ chế minh bạch, kiểm toán (Điều 42-43). Về công nghệ và dữ liệu, cần tích hợp, liên thông các ứng dụng công nghệ thông tin bảo mật, phát triển nền tảng giám sát - dự báo. Cuối cùng, dự trữ và cung ứng: xây dựng kho dự trữ quốc gia thuốc, hóa chất, vật tư y tế, đồng bộ với mạng lưới phân phối về đến trạm y tế; ban hành tiêu chuẩn “cơ sở tiêm chủng đủ điều kiện” (Điều 41).
+VI. NHỮNG VẤN ĐỀ XIN Ý KIẾN 
+Trên đây là Tờ trình về dự án Luật Phòng bệnh, xin kính trình Chính phủ xem xét, quyết định./.
+(Xin gửi kèm theo: (1) Dự thảo Luật Phòng bệnh; (2) Bản so sánh dự thảo Luật; (3) Bản tổng hợp ý kiến, tiếp thu, giải trình, ý kiến góp ý của cơ quan, tổ chức, cá nhân của dự thảo Luật; (4) Báo cáo thẩm định; (5) Báo cáo tiếp thu, giải trình ý kiến thẩm định....)
+BỘ Y TẾ	CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc	CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+Số:          /TTr-BYT	Số:          /TTr-BYT	Hà Nội, ngày       tháng     năm 2025
+Nơi nhận:
+- Như trên;
+- Thủ tướng Chính phủ (để báo cáo);
+- Các Phó Thủ tướng Chính phủ (để báo cáo);
+- Ủy ban Văn hóa và Xã hội của Quốc hội;
+- Ủy ban Pháp luật và Tư pháp của Quốc hội;
+- VPCP: BTCN, các PCN, Vụ KGVX;
+- Bộ Tư pháp;
+- Lưu: VT, PC, PB.	BỘ TRƯỞNG
+
+Đào Hồng Lan

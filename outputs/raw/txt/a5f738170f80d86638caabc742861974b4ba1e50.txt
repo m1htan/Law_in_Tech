@@ -1,0 +1,76 @@
+Các công cụ quản lý chi phí đám mây đáng tham khảo
+Những nền tảng này sẽ giúp bạn nắm được thông tin về việc sử dụng đám mây và các chi phí liên quan.
+Sau đây là danh sách (theo thứ tự bảng chữ cái) các công cụ theo dõi chi phí đám mây tốt. Lĩnh vực này đang nhanh chóng phát triển khi các nhà quản lý doanh nghiệp (DN) nhận ra rằng họ cần biết rõ các hóa đơn liên quan đến dịch vụ đám mây. Tất cả chúng đều có thể giúp quản lý máy chủ đám mây trải dài khắp thế giới.
+Anodot
+Công việc đầu tiên đối với bộ sưu tập các công cụ giám sát đám mây của Anodot là theo dõi luồng dữ liệu thông qua các dịch vụ và ứng dụng khác nhau.
+Nếu có sự bất thường hoặc trục trặc ảnh hưởng đến người dùng, nó sẽ cảnh báo. Theo dõi chi phí của các phiên bản và nhóm trên nhiều đám mây của DN là một phần của công việc này. Bảng điều khiển tạo ra một bộ sưu tập đồ họa thông tin giúp DN có thể nghiên cứu từng dịch vụ siêu nhỏ hoặc API (phương thức trung gian kết nối) và xác định chi phí duy trì hoạt động của dịch vụ đó trong thời điểm nhu cầu cao hoặc thấp. Chi tiết này cung cấp cho người dùng khả năng phát hiện khối lượng công việc tốn kém và tìm cách cắt giảm chúng.
+Tính năng nổi bật: Được tích hợp với hệ thống giám sát để mang lại trải nghiệm tốt hơn cho người dùng với mức giá hợp lý; Có sẵn dưới dạng nền tảng "white-label" (nhãn trắng) để tích hợp và bán lại.
+AppDynamics
+Theo dõi và kiểm soát môi trường container (giải pháp để giải quyết vấn đề làm sao để chuyển giao phần mềm một cách đáng tin cậy giữa các môi trường máy tính khác nhau. Chẳng hạn như giữa máy tính của lập trình viên với máy của tester, giữa môi trường tiền thực tế với môi trường thực tế hay thậm trí giữa máy chủ riêng đặt tại trung tâm dữ liệu với máy ảo trên Cloud) trong Kubernetes (một nền tảng nguồn mở, khả chuyển, có thể mở rộng để quản lý các ứng dụng được đóng gói và các service, giúp thuận lợi trong việc cấu hình và tự động hoá việc triển khai ứng dụng) là mục tiêu của Cisco's AppDynamics, trước đây gọi là Replex.
+Công cụ này hiện là một phần của hệ thống lớn hơn theo dõi các cụm trong đám mây công cộng hoặc chạy cục bộ để đảm bảo chúng hoạt động chính xác. Theo dõi chi phí chỉ là một phần nhỏ của hệ thống liên tục thu thập số liệu thống kê và theo dõi sự bất thường.
+Một quy trình báo cáo quan trọng tính lại chi phí cho các nhóm chịu trách nhiệm về chúng để mọi người có thể hiểu điều gì đã tạo ra hóa đơn hàng tháng. Ứng dụng cũng cung cấp một công cụ học máy độc quyền để biến dữ liệu lịch sử thành một kế hoạch để triển khai hiệu quả. Lớp kiểm soát chính sách đưa ra các hạn chế chi tiết để đảm bảo các nhóm có quyền truy cập vào những gì họ cần và bị khóa khỏi những gì họ không cần.
+Tính năng nổi bật: Tích hợp quản lý chi phí với giám sát ứng dụng chung; Kết nối trải nghiệm người dùng và kết quả kinh doanh cho mọi lớp của ngăn xếp phần mềm.
+Apptio Cloudability
+Apptio tạo ra một bộ sưu tập lớn các công cụ để quản lý các cửa hàng CNTT và Cloudability là công cụ để xử lý chi phí đám mây.
+Công cụ chia nhỏ các phiên bản đám mây khác nhau đang được sử dụng, phân bổ chúng tới các nhóm cho mục đích kế toán.
+Lý tưởng nhất là các nhóm có thể kiểm soát được chi phí của chính mình và dự đoán việc sử dụng trong tương lai với các báo cáo và bảng điều khiển. Chẳng hạn, "Trình khám phá chi phí thực" của Cloudability cung cấp các biểu đồ có thể chuyển đổi giữa các biến được tổng hợp nhằm thiết lập các kế hoạch chính xác và dự đoán việc sử dụng trong tương lai.
+Tính năng nổi bật: Lập kế hoạch mua các phiên bản dự trữ trong tương lai; Phân bổ khối lượng công việc trong tương lai cho các phiên bản khả dụng.
+CloudAdmin
+Trang tổng quan do CloudAdmin tạo ra rất đơn giản. Công cụ này theo dõi việc sử dụng đám mây và đưa ra các đề xuất để cấp quyền cho máy chủ hoặc chuyển đổi chúng thành các phiên bản dành riêng.
+Phiên bản máy chủ có thể được phân bổ cho các nhóm và sau đó được theo dõi bằng ngân sách. Nếu chi tiêu vượt quá giới hạn xác định, các cảnh báo sẽ được tích hợp với email hoặc các công cụ liên lạc phổ biến khác để thông báo cho nhân viên.
+Tính năng nổi bật: Nguồn cấp dữ liệu được lọc cẩn thận, trích xuất các chi tiết chính về chi tiêu để tiết kiệm thời gian tìm hiểu thông tin; Cảnh báo tự động để có thể ngừng việc chi tiêu quá mức khi vượt quá ngưỡng.
+CloudCheckr
+Tập trung vào việc kiểm soát chi phí đám mây và bảo mật. Công cụ này là một phần của NetApp’s Spot để quản lý đám mây và chịu trách nhiệm quản lý chi phí bằng cách theo dõi các chi tiêu tiêu chuẩn, chẳng hạn như mức tiêu thụ, dự báo và cấp quyền cho các phiên bản. 
+Công cụ này hỗ trợ cho các công ty thêm các lớp của riêng họ vào các phiên bản đám mây. Tùy chọn "nhãn trắng" cho phép chuyển qua tất cả các báo cáo và biểu đồ để giúp khách hàng hiểu được hóa đơn của họ. Ngoài ra còn có sự tập trung vào việc hỗ trợ các đám mây công cộng được các chính phủ sử dụng.
+Tính năng nổi bật: Giám sát việc tuân thủ các quy định về quyền riêng tư bằng cách theo dõi cấu hình bảo mật; Cấp quyền cho các phiên bản dành riêng bằng cách theo dõi mức tiêu thụ cơ sở.
+Datadog 
+Theo dõi máy, mạng, nền tảng không có máy chủ và các ứng dụng khác trên đám mây là công việc đầu tiên đối với bộ sưu tập công cụ của Datadog. 
+Theo dõi chi phí đám mây là một phần của công cụ. Phép đo từ xa giúp thu thập dữ liệu về hiệu suất và chi phí. Datadog xây dựng dữ liệu này thành bảng điều khiển để giúp các tổ chức hiểu về cả chi phí và hiệu suất của ứng dụng. Mục tiêu là tạo điều kiện thuận lợi cho các quyết định về hiệu suất có tính đến giá. Hiểu được sự cân bằng giữa hai yếu tố này có thể dẫn đến việc tiết kiệm chi phí.
+Tính năng nổi bật: Đủ mạnh để giám sát cơ sở hạ tầng trên nhiều đám mây; Giám sát người dùng thực và người dùng mô phỏng, giúp mang lại trải nghiệm người dùng tốt hơn.
+Densify
+Theo Densify, cách tốt nhất để chạy các cụm ứng dụng của DN là lưu giữ các bản ghi tải một cách chính xác, tỉ mỉ và sau đó sử dụng dữ liệu này để tăng và giảm quy mô nhanh chóng. 
+Trình tối ưu hóa của Densify tập trung vào các tài nguyên đám mây như các phiên bản, cụm Kubernetes và máy VMware. Công cụ FinOps của Densify tạo ra các báo cáo mở rộng giúp các nhà phát triển ứng dụng hài lòng.
+Tính năng nổi bật: Theo dõi tải trên máy để đảm bảo phân bổ phiên bản đúng kích cỡ; Xây dựng báo cáo tóm tắt mức tiêu thụ phù hợp với phần cứng.
+Flexera One
+Bộ quản lý đám mây Flexera One giải quyết nhiều nhiệm vụ trong việc quản lý đám mây, chẳng hạn như theo dõi tài sản hoặc tổ chức quản trị để điều phối kiểm soát. 
+Một phần quan trọng của nó được dành để kiểm soát ngân sách. Công cụ này cung cấp giải pháp kế toán đa đám mây để theo dõi chi tiêu với báo cáo phức tạp được chia nhỏ theo nhóm và dự án.
+Flexera One cũng đưa ra các đề xuất để tối ưu hóa mức tiêu thụ bằng cách phân bổ và nó cung cấp các hệ thống tự động để đưa những quan sát này vào thực tế. Công cụ này tích hợp máy học và trí tuệ nhân tạo (AI) để giúp phân tích các mô hình tiêu thụ trên nhiều đám mây khác nhau.
+Tính năng nổi bật: Tích hợp báo cáo trên nhiều đám mây khác nhau để giúp các nhóm kinh doanh hiểu rõ hơn về chi phí; Xác định các tùy chọn để cấp quyền cho các phiên bản và loại bỏ chi tiêu lãng phí.
+Harness
+
+Các nhóm DevOps (phát triển - vận hành) có thể sử dụng quy trình CI/CD (làm việc liên tục và tự động hóa) là phần trung tâm của khai thác để tự động hóa việc triển khai và sau đó, khi mã đang chạy, hãy theo dõi mức sử dụng để duy trì ngân sách phù hợp.
+Các tính năng quản lý chi phí theo dõi sự bất thường so với chi tiêu lịch sử, tạo cảnh báo cho các nhóm. Một tính năng tự động cho phép dừng các phiên bản không được sử dụng đến nhưng vẫn phát sinh chi phí.
+Tính năng nổi bật: Tích hợp sâu với quy trình phát triển để tiết kiệm chi phí; Tuân thủ tích hợp tự động quản lý chi phí với quản lý chung.
+Kubecost
+Các DN dựa vào Kubernetes để triển khai các nhóm vùng có thể cài đặt Kubecost để theo dõi chi tiêu. Nó sẽ hoạt động trên tất cả các đám mây chính (và phụ) cũng như các nhóm được lưu trữ tại cơ sở. 
+Chi phí được theo dõi khi Kubernetes điều chỉnh để xử lý tải và được trình bày trong một bộ báo cáo thống nhất. Các hoạt động bất thường hoặc triển khai đột xuất có thể kích hoạt cảnh báo về sự can thiệp của con người.
+Tính năng nổi bật: Được tối ưu hóa để theo dõi cách triển khai Kubernetes ảnh hưởng đến chi phí; Đề xuất động theo dõi các cơ hội để giảm chi tiêu.
+ManageEngine
+Các nhóm DevOps dựa vào ManageEngine để theo dõi một loạt các vấn đề tiềm ẩn từ bảo mật đến quá tải điểm cuối API. Công cụ CloudSpend trong ManageEngine sẽ trích xuất dữ liệu từ các hóa đơn bảng tính trên đám mây và tổng hợp dữ liệu đó để cung cấp mức độ hiểu biết hữu ích, có thể hành động. 
+Chi phí có thể được tính lại cho các nhóm cụ thể và phân tích dự đoán của ManageEngine sẽ lên kế hoạch cho các phiên bản dự phòng dựa trên dữ liệu lịch sử. Hiện có sẵn cho AWS và Azure.
+Tính năng nổi bật: Phân tích chi tiêu đi sâu vào dữ liệu đến từng chi tiết nhỏ; Hỗ trợ đa tiền tệ để triển khai trên toàn thế giới.
+Nutanix
+Các tổ chức triển khai nhiều đám mây lớn có thể sử dụng Nutanix Cost Governance (trước đây là Beam) để theo dõi chi phí trên một loạt cài đặt, bao gồm cả các máy đám mây riêng được lưu trữ tại đơn vị. 
+Công cụ này có thể được tùy chỉnh để tạo ước tính chi phí chính xác cho các cài đặt riêng bằng cách tính đến cả chi phí sưởi ấm và làm mát, phần cứng và tiền thuê trung tâm dữ liệu. Điều này giúp dễ dàng đưa ra quyết định chính xác về việc phân bổ khối lượng công việc để triển khai với chi phí thấp nhất. Quy trình này có thể được tự động hóa để đơn giản hóa việc quản lý và lập kế hoạch chuyển tiếp cho việc lập ngân sách cho các phiên bản dự phòng.
+Tính năng nổi bật: Việc đo lường các đám mây riêng giúp xây dựng cái nhìn sâu sắc trực tiếp về chi phí phần cứng tại chỗ; Cảnh báo ngân sách và tối ưu hóa động giúp điều chỉnh mức tiêu thụ phù hợp để giảm thiểu chi phí.
+ServiceNow
+Có thể dựa vào ServiceNow để quản lý một số ngăn xếp. Nhiều công cụ là giải pháp hướng tới khách hàng như tự động hóa CNTT, nhưng cũng có nhiều công cụ phụ trợ hơn để tối ưu hóa hoạt động CNTT bằng cách quản lý hiệu suất một cách thông minh. AIOps mới hơn cũng có thể cung cấp các giải pháp trí tuệ nhân tạo.
+Tính năng nổi bật: Nhiều lựa chọn công cụ để theo dõi và tối ưu hóa tài sản CNTT; Quản lý rủi ro tích hợp tốt với các công cụ quản trị
+Turbonomic
+IBM dựa vào Turbonomic để cung cấp giải pháp do AI cung cấp để quản lý việc triển khai nhằm đáp ứng nhu cầu ứng dụng với cơ sở hạ tầng. 
+Công cụ này sẽ tự động khởi động, dừng và di chuyển các ứng dụng theo yêu cầu. Dữ liệu thúc đẩy các quyết định này được lưu trữ trong kho để huấn luyện AI sẽ đưa ra các quyết định trong tương lai. Phiên bản mới nhất bao gồm bảng điều khiển mới và khung báo cáo dựa trên Grafana.
+Tính năng nổi bật: Đồ họa tích hợp toàn ngăn xếp để hiểu nhu cầu và chi phí trên một ứng dụng; Được thiết kế để tự động phân bổ tài nguyên.
+VMware Aria CloudHealth
+VMware đã xây dựng Aria Cost và Aria Automation dưới thương hiệu CloudHealth để quản lý việc triển khai trên tất cả các nền tảng đám mây chính cũng như đám mây lai. 
+Mô-đun kế toán theo dõi chi phí chi tiêu, phân bổ chi tiêu cho các nhóm kinh doanh đồng thời tối ưu hóa việc triển khai để giảm thiểu chi phí. Lớp mô hình hóa có thể xây dựng lịch trình khấu hao và tiêu thụ để dự báo nhu cầu trong tương lai. 
+Các nhà quản lý tài chính và nhóm phát triển có thể đi sâu vào các dự báo này để tập trung vào các ứng dụng hoặc cụm dịch vụ cụ thể. Dòng sản phẩm đầy đủ hơn tích hợp khả năng quản lý chi phí với triển khai tự động và thực thi bảo mật.
+Tính năng nổi bật: Quản trị chi tiêu đảm bảo rằng các nhóm tuân theo ngân sách; Tích hợp chi phí đám mây với các số liệu kinh doanh và chỉ số hiệu suất chính.
+Yotascale
+Phần lớn trách nhiệm về chi phí đám mây đến từ các kỹ sư viết và triển khai mã. Họ đưa ra các quyết định chi tiết để khởi động nhiều phiên bản hơn và lưu trữ nhiều dữ liệu hơn. Yotascale muốn cung cấp thêm thông tin để cho phép họ tối ưu hóa mức tiêu thụ phần cứng bằng các công cụ được thiết kế để theo dõi máy móc và phân bổ chi phí trực tiếp cho các nhóm chịu trách nhiệm. Các công cụ dự báo cũng có thể phát hiện ra những điểm bất thường, đưa ra cảnh báo để ngăn chặn bất kỳ hóa đơn bất thường nào.
+Tính năng nổi bật: Các công cụ nhắm mục tiêu cung cấp thông tin ngân sách trực tiếp cho các nhóm xây dựng phần mềm; Theo dõi tự động, cung cấp dự báo và gắn cờ các vấn đề liên quan đến việc tiêu thụ quá mức.
+Zesty
+Trong khi nhiều trình quản lý đám mây cung cấp thông tin chi tiết thông qua các báo cáo chi tiết, Zesty được thiết kế để tự động hóa công việc khởi động và tắt các phiên bản bổ sung. 
+Zesty cung cấp một công cụ được phát triển bởi các thuật toán trí tuệ nhân tạo có thể hoạt động với API của AWS để đưa ra các quyết định giúp máy chạy vừa đủ để đáp ứng nhu cầu của người dùng mà không phá vỡ ngân sách. 
+Công cụ này thậm chí có thể kiểm soát được dung lượng ổ đĩa được phân bổ cho các máy riêng lẻ. 
+Tính năng nổi bật: Quản lý sâu các chi tiết như phân bổ không gian lưu trữ để giảm thiểu chi phí; Tích hợp với thị trường giao ngay để tận dụng chi phí thấp nhất có thể./.
+Gia Bách, Tạp chí điện tử Thông tin và Truyền thông cập nhật 17/02/2023 05:58

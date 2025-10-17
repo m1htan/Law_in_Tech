@@ -1,0 +1,140 @@
+TỜ TRÌNH
+Dự án, dự thảo Luật Chuyển đổi số
+Kính gửi: Quốc hội
+Thực hiện quy định của Luật Ban hành văn bản quy phạm pháp luật 64/2025/QH15 và Nghị định số 78/2025/NĐ-CP, Chính phủ kính trình Quốc hội dự án, dự thảo Luật Chuyển đổi số như sau:
+I. SỰ CẦN THIẾT BAN HÀNH LUẬT CHUYỂN ĐỔI SỐ
+1. Cơ sở chính trị, pháp lý
+Chủ trương của Đảng và Nhà nước về chuyển đổi số đã được xác lập nhất quán và thể hiện rõ trong các văn kiện chỉ đạo ở cấp độ cao nhất. Nghị quyết Đại hội Đại biểu toàn quốc lần thứ XIII của Đảng đã xác định các định hướng chiến lược phát triển đất nước giai đoạn 2021 -2030, trong đó nhấn mạnh “Tiếp tục đổi mới mạnh mẽ tư duy, xây dựng, hoàn thiện đồng bộ thể chế phát triển bền vững về kinh tế, chính trị, văn hóa, xã hội, môi trường..., tháo gỡ kịp thời những khó khăn, vướng mắc; khơi dậy mọi tiềm năng và nguồn lực, tạo động lực mới cho sự phát triển nhanh và bền vững đất nước”, đồng thời đặt ra yêu cầu “…đẩy mạnh chuyển đổi số quốc gia, phát triển kinh tế số trên nền tảng khoa học và công nghệ, đổi mới sáng tạo. 
+Nghị quyết số 57-NQ/TW ngày 22/12/2024 của Bộ Chính trị về đột phá phát triển khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số quốc gia đã nêu rõ quan điểm chỉ đạo: "Thể chế, nhân lực, hạ tầng, dữ liệu và công nghệ chiến lược là những nội dung trọng tâm, cốt lõi, trong đó thể chế là điều kiện tiên quyết, cần hoàn thiện và đi trước một bước". Nghị quyết cũng xác định nhiệm vụ, giải pháp là "Khẩn trương, quyết liệt hoàn thiện thể chế; xoá bỏ mọi tư tưởng, quan niệm, rào cản đang cản trở sự phát triển; đưa thể chế thành một lợi thế cạnh tranh trong phát triển khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số".
+Tại Văn bản số 04-TB/BCĐTW ngày 30/5/2025, Ban Chỉ đạo Trung ương về phát triển khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số quốc gia (Ban Chỉ đạo) đã giao Đảng ủy Chính phủ chỉ đạo Bộ Khoa học và Công nghệ và các cơ quan liên quan đề xuất xây dựng dự án Luật Chuyển đổi số, trình Quốc hội thông qua tại Kỳ họp thứ 10, Quốc hội khoá XV để thúc đẩy phát triển Chính phủ số, kinh tế số, xã hội số. 
+Tại Nghị quyết số 217/NQ-CP ngày 25/7/2025, Chính phủ đã thống nhất trình Ủy ban thường vụ Quốc hội về việc bổ sung dự án Luật Chuyển đổi số vào chương trình lập pháp của Quốc hội năm 2025.
+2. Cơ sở thực tiễn
+Luật Công nghệ thông tin năm 2006 (CNTT), sau gần 20 năm thi hành, đã bộc lộ nhiều hạn chế và bất cập, không còn theo kịp tốc độ phát triển rất nhanh của công nghệ số và yêu cầu của quá trình chuyển đổi số toàn diện. Luật CNTT được xây dựng trong bối cảnh các công nghệ đột phá như Trí tuệ nhân tạo (AI), Dữ liệu lớn (Big Data), Internet vạn vật (IoT), Điện toán đám mây (Cloud Computing), Chuỗi khối (Blockchain)... cùng với các mô hình kinh doanh mới còn chưa xuất hiện hoặc chưa phổ biến, chưa bao quát được những yêu cầu mới phát sinh trong thực tiễn hiện nay. 
+Hệ thống pháp luật còn những khoảng trống pháp lý, còn nhiều nội dung chưa được điều chỉnh hoặc đã được điều chỉnh ở nhiều văn bản khác nhau, như: số hóa thế giới thực, kết nối thế giới thực và số thành một thế giới thống nhất; hạ tầng cho chuyển đổi số; chính phủ số và chuyển đổi số trong các cơ quan thuộc hệ thống chính trị; kinh tế số nền tảng; công dân số; văn hóa số... 
+Luật Chuyển đổi số được xây dựng nhằm số hoá toàn diện, tạo ra môi trường số, tương tác với môi trường thực để thay đổi cách tổ chức hoạt động, cung cấp dịch vụ và tạo ra giá trị mới; tạo khung pháp lý toàn diện, tổng thể, đáp ứng yêu cầu chuyển đổi số hiện nay và trong giai đoạn sắp tới. 
+3. Kinh nghiệm quốc tế và xu thế phát triển
+Các quốc gia, khu vực trên thế giới đã và đang chủ động trong việc xây dựng, hoàn thiện hành lang pháp lý cho chuyển đổi số, cụ thể:
+- Vương quốc Anh: Đạo Luật Kinh tế số (Digital Economy Act), trong đó quy định về: hạ tầng số, chính phủ số, quản lý tiếp thị trực tuyến và thống kê.
+- Nhật Bản: Luật khung về hình thành xã hội số (Basic Act on the Formation of a Digital Society), trong đó có quy định về: các nguyên tắc và chính sách cơ bản, xác định trách nhiệm của chính phủ, chính quyền địa phương và các doanh nghiệp, cũng như việc thiết lập cơ quan số.
+- Hàn Quốc: (1) Luật Khung về Số hóa Thông minh (Framework Act on Intelligent Informatization), (2) Luật cơ bản về phát triển trí tuệ nhân tạo và xây dựng nền tảng niềm tin (Basic  Law  on  the Development  of  Artificial  Intelligence  and  Creation  of  a  Trust  Base), Luật khung về thúc đẩy giáo dục từ xa dựa trên nền tảng số (Framework Act on the Promotion of Digital-Based Distance Education), Đạo luật Thúc đẩy chuyển đổi số công nghiệp (Industrial digital transformation promotion act), trong đó có điều chỉnh các vấn đề việc số hóa thông minh toàn diện xã hội; phát triển và ứng dụng trí tuệ nhân tạo; đào tạo, phát triển nguồn nhân lực số; chuyển đổi số trong hoạt động công nghiệp, cơ sở hạ tầng và tiện ích phục vụ chuyển đổi số công nghiệp.
+- Liên minh châu Âu (EU): (1) Đạo luật Thị trường kỹ thuật số (Digital Markets Act - DMA), (2) Đạo luật Dịch vụ Kỹ thuật số (Digital Services Act - DSA), (3) Đạo luật về Trí tuệ Nhân tạo (AI Act)... trong đó đảm bảo phát triển thị trường kỹ thuật số công bằng, cạnh tranh; tăng cường minh bạch và bảo vệ các quyền cơ bản của người dùng; phát triển, triển khai và sử dụng các hệ thống trí tuệ nhân tạo trong EU đảm bảo an toàn, tin cậy, minh bạch và tôn trọng các quyền cơ bản cũng như các giá trị của EU.
+Việc tiếp thu có chọn lọc kinh nghiệm quốc tế là cần thiết nhằm góp phần thúc đẩy hội nhập quốc tế và hoàn thiện hệ thống pháp luật về chuyển đổi số cho Việt Nam.
+II. MỤC ĐÍCH BAN HÀNH, QUAN ĐIỂM XÂY DỰNG LUẬT
+1. Mục đích
+Việc xây dựng Luật Chuyển đổi số là cần thiết nhằm đạt các mục tiêu chủ yếu sau đây:
+- Thể chế hoá đường lối, chính sách của Đảng, Nhà nước (đặc biệt Nghị quyết số 57-NQ/TW ngày 22/12/2024), phù hợp với Hiến pháp và tạo sự đồng bộ trong hệ thống pháp luật Việt Nam và quốc tế trong hoạt động chuyển đổi số. 
+- Hoàn thiện hệ thống pháp luật để số hóa quốc gia, tạo nền tảng pháp lý liên ngành về chuyển đổi số trong ngành, lĩnh vực: số hóa, kết nối thế giới thực và thế giới số; hạ tầng cho chuyển đổi số; kinh tế số; xã hội số; các biện pháp bảo đảm chuyển đổi số.
+- Điều chỉnh mối quan hệ giữa các chủ thể trong hệ sinh thái số; thúc đẩy phát triển chính phủ số và chuyển đổi số các cơ quan thuộc hệ thống chính trị, phát triển kinh tế số, xã hội số, tăng cường hợp tác quốc tế và hội nhập. 
+2. Quan điểm 
+Quan điểm xây dựng Luật Chuyển đổi số như sau:
+- Là luật khung, không phải là luật kỹ thuật; điều phối liên ngành, không trùng với luật cụ thể.
+- Là luật kế thừa, kết nối với các luật đã có liên quan chuyển đổi số, bổ sung các khoảng trống pháp lý của pháp luật hiện hành để hình thành hệ thống pháp luật hoàn chỉnh cho chuyển đổi số.
+- Luật Chuyển đổi số không quy định lại nội dung đã được pháp luật khác quy định, không làm thay đổi về trách nhiệm quản lý nhà nước của các bộ, ngành trong các lĩnh vực. Các bộ, ngành chịu trách nhiệm thực hiện chuyển đổi số trong lĩnh vực quản lý nhà nước được phân công.
+- Đẩy mạnh phân quyền cho Chính phủ, các cơ quan trong bộ máy nhà nước trong việc tiếp tục cụ thể hóa các quy định của luật và thực hiện phân cấp bảo đảm phù hợp với năng lực tổ chức thực hiện của từng cơ quan, tổ chức, chính quyền địa phương các cấp và kịp thời đáp ứng yêu cầu phát triển kinh tế - xã hội trong từng giai đoạn.
+- Bảo đảm việc thực hiện chủ trương phân quyền, phân cấp; giải quyết vấn đề bất cập, phát sinh từ thực tiễn; vấn đề mới, xu hướng mới; yêu cầu quản lý nhà nước và khuyến khích sáng tạo, khơi thông mọi nguồn lực, thúc đẩy phát triển kinh tế - xã hội.
+III. QUÁ TRÌNH XÂY DỰNG DỰ ÁN LUẬT
+- Ngày 10/6/2025, Bộ Khoa học và Công nghệ đã có các Văn bản số 2270/BKHCN-CĐSQG gửi các bộ, ngành, địa phương; 2271/BKHCN-CĐSQG gửi các hội, hiệp hội, doanh nghiệp lớn về công nghệ thông tin, chuyển đổi số về việc phối hợp triển khai, đánh giá, tổng kết thi hành Luật Công nghệ thông tin năm 2006 (trừ nội dung về công nghiệp công nghệ thông tin). Bộ Khoa học và Công nghệ đang tổng hợp ý kiến của các cơ quan, tổ chức, doanh nghiệp phục vụ cho việc xây dựng Luật Chuyển đổi số.
+- Ngày 	18/6/2025, Bộ Khoa học và Công nghệ có Văn bản số 2487/BKHCN-PC gửi Bộ Tư pháp về việc lấy ý kiến đối với đề xuất xây dựng luật bổ sung vào Chương trình lập pháp năm 2025.
+- Ngày 19/6/2025, Bộ Tư pháp đã có Văn bản số 3575/BTP-CTXDVBQPPL gửi Bộ Khoa học và Công nghệ về việc cho ý kiến đối với đề xuất bổ sung vào Chương trình lập pháp năm 2025, trong đó, Bộ Tư pháp có ý kiến nhất trí đề xuất của Bộ Khoa học và Công nghệ 04 dự án luật vào Chương trình lập pháp năm 2025 trình Quốc hội khóa XV xem xét thông qua vào kỳ họp thứ 10 (tháng 10/2025), trong đó có dự án Luật Chuyển đổi số. 
+- Tại Văn bản số 3575/BTP-CTXDVBQPPL ngày 19/6/2025, Bộ Tư pháp cũng đề nghị báo cáo Chính phủ cho ý kiến, thông qua đề xuất bổ sung Luật Chuyển đổi số vào Chương trình lập pháp năm 2025; sau đó theo quy định tại điểm a) khoản 1 Điều 26 Luật Ban hành quy phạm pháp luật và khoản 3 Điều 13 Nghị định số 78/2025/NĐ-CP ngày 01/4/2025 của Chính phủ quy định chi tiết một số điều và biện pháp để tổ chức, hướng dẫn thi hành Luật Ban hành văn bản quy phạm pháp luật, Bộ trưởng Bộ Khoa học và Công nghệ thừa ủy quyền 
+Thủ tướng Chính phủ, thay mặt Chính phủ ký tờ trình gửi Ủy ban Thường vụ Quốc hội.
+- Ngày 30/6/2025, Bộ Khoa học và Công nghệ đã có Tờ trình số 78/TTr-BKHCN trình Chính phủ về việc đề xuất xây dựng dự án Luật Chuyển đổi số.
+- Ngày 25/7/2025, Chính phủ đã có Nghị quyết số 217/NQ-CP về việc bổ sung dự án Luật Chuyển đổi số vào chương trình lập pháp của Quốc hội năm 2025.
+- Ngày 06/8/2025, Chính phủ đã có Tờ trình số .../TTr-CP trình Ủy ban thường vụ Quốc hội việc đề nghị bổ sung dự án Luật Chuyển đổi số vào Chương trình lập pháp năm 2025.
+- Tháng 8/2025, Chính phủ đã tổ chức xây dựng Luật Chuyển đổi số theo quy định của pháp luật về xây dựng văn bản quy phạm pháp luật trình tự, thủ tục rút gọn.
+IV. BỐ CỤC VÀ NỘI DUNG CƠ BẢN CỦA DỰ ÁN LUẬT CHUYỂN ĐỔI SỐ
+1. Phạm vi điều chỉnh, đối tượng áp dụng
+a) Phạm vi điều chỉnh
+Luật này quy định về hoạt động chuyển đổi số; các biện pháp thúc đẩy, bảo đảm hoạt động chuyển đổi số; quyền và nghĩa vụ của tổ chức, cá nhân tham gia hoạt động chuyển đổi số tại Việt Nam; quản lý nhà nước về chuyển đổi số.
+b) Đối tượng áp dụng
+Luật này áp dụng đối với cơ quan, tổ chức, cá nhân trực tiếp tham gia hoặc có hoạt động liên quan đến chuyển đổi số tại Việt Nam.
+2. Bố cục của dự thảo văn bản
+Bố cục của Luật Chuyển đổi số dự kiến như sau:
+- Chương I. Những quy định chung (gồm 07 Điều: từ Điều 1 đến Điều 7);
+- Chương II. Hạ tầng cho chuyển đổi số (gồm 06 Điều: từ Điều 8 đến Điều 13);
+- Chương III. Chính phủ số và chuyển đổi số hoạt động các cơ quan thuộc hệ thống chính trị (gồm 18 Điều: từ Điều 14 đến Điều 31);
+- Chương IV. Kinh tế số (gồm 13 Điều: từ Điều 32 đến Điều 44);
+- Chương V. Xã hội số (gồm 07 Điều: từ Điều 45 đến Điều 51);
+- Chương VI. Các biện pháp bảo đảm chuyển đổi số (gồm 19 Điều: từ Điều 52 đến Điều 70);
+- Chương VII. Quản lý nhà nước về chuyển đổi số (gồm 05 Điều: từ Điều 71 đến Điều 75);
+- Chương VIII. Điều khoản thi hành (gồm 04 Điều: từ Điều 76 đến Điều 79).
+3. Nội dung cơ bản 
+3.1. Những quy định chung
+Chương này quy định về:
+- Giải thích từ ngữ: định nghĩa các từ, cụm từ trong Luật Chuyển đổi số nhằm đảm bảo cách hiểu thống nhất như: chuyển đổi số, số hóa, bản sao số, hạ tầng cho chuyển đổi số hạ tầng số, hạ tầng số, chuyển đổi số các cơ quan thuộc hệ thống chính trị, kinh tế số, xã hội số, nền tảng số, nền tảng số trung gian, công dân số, nhân lực số, ngôn ngữ số, kỹ năng số, văn hóa số...
+- Chính sách của Nhà nước về chuyển đổi số, dự kiến như sau: khẳng định các chính sách lớn của Nhà nước, xác định chuyển đổi số là đột phá hàng đầu; lấy người dân làm trung tâm; ưu tiên phát triển hạ tầng, dữ liệu, nhân lực và thúc đẩy hợp tác quốc tế được nêu tại các văn bản như Nghị quyết số 57-NQ/TW ngày 22/12/2024, Nghị quyết số 71/NQ-CP ngày 01/4/2025...
+- Các hành vi bị nghiêm cấm, dự kiến: lợi dụng chuyển đổi số để xâm phạm an ninh, phát tán dữ liệu trái phép, can thiệp hoặc phá hoại hệ thống số, dữ liệu số; vi phạm bảo vệ dữ liệu cá nhân, gây cản trở chuyển đổi số hợp pháp, thao túng người dùng qua nền tảng số; sử dụng công nghệ số để lừa đảo, cạnh tranh không lành mạnh; tạo nội dung bằng trí tuệ nhân tạo mà không dán nhãn gây nhầm lẫn...
+- Thúc đẩy số hóa toàn diện thế giới thực và kết nối thực ảo; "Bản sao số" (Digital Twin) và dữ liệu từ hạ tầng vật lý-số (IoT).
+3.2. Hạ tầng cho chuyển đổi số
+Chương này quy định về:
+- Xác định các thành phần cấu thành hạ tầng cho chuyển đổi số (hạ tầng số, hạ tầng số công cộng, dữ liệu cho chuyển đổi số, hạ tầng công nghiệp công nghệ số cho chuyển đổi số, hạ tầng trí tuệ nhân tạo cho chuyển đổi số); yêu cầu phát triển đối với hạ tầng bảo đảm đồng bộ, hiện đại, an toàn đáp ứng nhu cầu triển khai chuyển đổi số một cách toàn diện tại Việt Nam. 
+- Thể chế hóa chủ trương của Đảng, Nhà nước về phát triển hạ tầng cho chuyển đổi số quốc gia đã được nêu tại Nghị quyết số 57-NQ/TW.
+3.3. Chính phủ số và chuyển đổi số các cơ quan thuộc hệ thống chính trị 
+Chương này quy định các nội dung chính:
+- Luật hóa các nguyên tắc chuyển đổi số hiện đại, yêu cầu các cơ quan nhà nước phải tuân thủ trong mọi hoạt động như: lấy người dùng làm trung tâm; số hóa ngay từ đầu; quản lý dựa trên dữ liệu; chính phủ như một nền tảng; mặc định mở dữ liệu; chủ động phục vụ;...
+- Ứng dụng trí tuệ nhân tạo trong các cơ quan thuộc hệ thống chính trị: nguyên tắc sử dụng hệ thống trí tuệ nhân tạo trong hoạt động công vụ; cung cấp thông tin và sử dụng tài khoản trí tuệ nhân tạo; trách nhiệm của cơ quan, tổ chức, cá nhân trong quản lý hệ thống trí tuệ nhân tạo; phát triển, ứng dụng trí tuệ nhân tạo trong cơ quan nhà nước;...
+- Khung kiến trúc tổng thể quốc gia số: quy định Khung kiến trúc tổng thể, thống nhất để các cơ quan nhà nước xây dựng, triển khai các hệ thống thông tin, nền tảng số, đảm bảo tính đồng bộ và liên thông; các thành phần của Khung kiến trúc tổng thể quốc gia số như: khung kiến trúc của các cơ quan Đảng, Quốc hội, Chính phủ, các bộ, ngành và địa phương;...
+- Nền tảng số dùng chung trong các cơ quan thuộc hệ thống chính trị: quy định tiêu chí xác định nền tảng số dùng chung; quản lý nền tảng số dùng chung; phát triển nền tảng số dùng chung bảo đảm hiệu quả;...
+- Cung cấp dịch vụ công: quy định về dịch vụ công trực tuyến toàn trình; đảm bảo chất lượng và hiệu quả dịch vụ công trực tuyến; cá thể hóa dịch vụ công trực tuyến;...
+3.4. Kinh tế số
+Chương này quy định các nội dung chính: 
+- Các thành phần của kinh tế số: kinh tế số lõi; kinh tế số nền tảng; kinh tế số ngành và kinh tế dữ liệu. Dữ liệu trong kinh tế số: Xác lập dữ liệu là tài sản, có thể định giá, giao dịch và góp vốn. 
+- Quản lý nền tảng số: Quy định rõ trách nhiệm của các chủ thể tham gia, gồm: chủ quản nền tảng, người tiêu dùng, người kinh doanh; phân biệt quản lý đối với nền tảng số trung gian và nền tảng số chuyên ngành; yêu cầu minh bạch, bảo vệ dữ liệu, cơ chế giải quyết tranh chấp và tuân thủ quy định pháp luật.
+- Quản lý nền tảng số có vị trí thống lĩnh thị trường: Xác định nền tảng có sức ảnh hưởng lớn cần chịu nghĩa vụ minh bạch, báo cáo định kỳ, tuân thủ chống độc quyền và bị giám sát để ngăn ngừa hành vi lạm dụng vị thế thị trường.
+- Phát triển kinh tế số: Thiết lập hệ thống tiêu chuẩn, quy chuẩn kỹ thuật; xây dựng khung dữ liệu và cơ chế chia sẻ dữ liệu số; phát triển hệ thống thống kê, báo cáo kinh tế số; thúc đẩy chuyển đổi số theo ngành, lĩnh vực trọng điểm; phát triển kinh tế số gắn liền với kinh tế xanh.
+3.5. Xã hội số
+Chương này quy định về các nguyên tắc cơ bản, quyền công dân số và việc bảo đảm quyền này trên không gian số; an sinh và cơ hội việc làm; ngôn ngữ số, văn hóa số và công nghiệp văn hóa số; bảo đảm niềm tin, an toàn và đạo đức trên không gian số; tổ chức triển khai giám sát.
+3.6. Các biện pháp bảo đảm chuyển đổi số
+Chương này quy định về các nội dung chính như sau: 
+- Đào tạo, phát triển nguồn nhân lực chuyển đổi số: chính sách đào tạo, bồi dưỡng nguồn nhân lực chuyển đổi số; thu hút, trọng dụng chuyên gia về chuyển đổi số; ưu đãi cán bộ, công chức, viên chức làm công tác chuyển đổi số trong các cơ quan thuộc hệ thống chính trị; phát triển nguồn nhân lực số của cơ quan nhà nước;...
+- Đầu tư, tài chính cho chuyển đổi số: tỷ lệ chi ngân sách nhà nước cho chuyển đổi số; nội dung chi ngân sách nhà nước cho chuyển đổi số; lập dự toán, phân bổ, quản lý, sử dụng, quyết toán ngân sách nhà nước cho chuyển đổi số; sử dụng Quỹ đổi mới công nghệ cho chuyển đổi số; ưu đãi đầu tư, mua sắm cho chuyển đổi số; quản lý đầu tư, mua sắm, thuê dịch vụ phục vụ chuyển đổi số;...
+- Tiêu chuẩn, quy chuẩn và quản lý chất lượng sản phẩm, hàng hóa, dịch vụ chuyển đổi số: tiêu chuẩn, quy chuẩn kỹ thuật chuyển đổi số; quản lý chất lượng sản phẩm, hàng hóa, dịch vụ chuyển đổi số; đánh giá sự phù hợp với tiêu chuẩn quy chuẩn;...
+- Công nghệ cho chuyển đổi số: quy định việc thúc đẩy phát triển, làm chủ công nghệ (như: nghiên cứu, phát triển, sản xuất và thương mại hóa các sản phẩm, dịch vụ cho chuyển đổi số…) theo quy định của Luật Công nghiệp, công nghệ số; cơ quan nhà nước ưu tiên mua sắm các sản phẩm, dịch vụ "Make in Vietnam"; 
+- Bảo đảm an toàn không gian số: cơ quan, tổ chức, cá nhân tham gia hoặc có liên quan đến hoạt động chuyển đổi số phải tuân thủ quy định của pháp luật về an toàn thông tin mạng, an ninh mạng, pháp luật về dữ liệu, dữ liệu cá nhân và pháp luật khác có liên quan; trách nhiệm của doanh nghiệp nền tảng số trong việc bảo vệ người sử dụng khỏi các nội dung xấu, độc hại;… 
+- Bảo đảm chủ quyền số quốc gia: Định nghĩa nội hàm của "Chủ quyền số quốc gia"; nguyên tắc thực thi chủ quyền số; việc cân bằng giữa an ninh và phát triển; ưu tiên năng lực nội tại; chủ động hội nhập quốc tế;...
+- Thống kê, đo lường, giám sát, đánh giá hiệu quả chuyển đổi số: thống kê, đo lường, giám sát, đánh giá kế hoạch, chương trình, nhiệm vụ, dự án, hiệu quả chuyển đổi số; trách nhiệm cung cấp, thu thập, cập nhật và quản lý cơ sở dữ liệu thông tin thống kê, giám sát, đánh giá hiệu quả chuyển đổi số; đánh giá mức độ chuyển đổi số.
+3.7. Quản lý nhà nước về chuyển đổi số
+Chương này quy định về các nội dung chính về: 
+- Quy định nội dung quản lý nhà nước về chuyển đổi số; xác định Chính phủ thống nhất quản lý; Bộ Khoa học và Công nghệ là cơ quan đầu mối chịu trách nhiệm trước Chính phủ thực hiện quản lý nhà nước về chuyển đổi số; trách nhiệm của bộ, ngành, địa phương chủ trì, phối hợp với Bộ Khoa học và Công nghệ trong việc quản lý nhà nước về chuyển đổi số trong các ngành, lĩnh vực, địa bàn thuộc phạm vi nhiệm vụ, quyền hạn được phân công;...
+- Hợp tác quốc tế về chuyển đổi số.
+- Tổ chức, giải thưởng chuyển đổi số: Ngày chuyển đổi số quốc gia; Giải thưởng về chuyển đổi số.
+V. DỰ KIẾN NGUỒN LỰC, ĐIỀU KIỆN BẢO ĐẢM CHO VIỆC THI HÀNH VĂN BẢN VÀ THỜI GIAN TRÌNH THÔNG QUA/BAN HÀNH
+1. Dự kiến nguồn lực, điều kiện bảo đảm thực thi 
+a) Bộ Khoa học và Công nghệ chủ trì, phối hợp với các bộ, ngành, địa phương, tổ chức cá nhân có liên quan xây dựng Luật Chuyển đổi số.
+b) Dự kiến nguồn lực
+Nguồn lực tài chính để thi hành Luật sẽ được huy động chủ yếu từ nguồn ngân sách Trung ương và ngân sách địa phương. Ngoài ra, có thể xem xét huy động từ các nguồn kinh phí hợp pháp khác (nếu có). Tại Nghị quyết số 57-NQ/TW ngày 22/12/2024 có đặt ra mục tiêu tới năm 2030 “bố trí ít nhất 3% tổng chi ngân sách hằng năm cho phát triển khoa học, công nghệ, đổi mới sáng tạo, chuyển đổi số quốc gia và tăng dần theo yêu cầu phát triển”. 
+Mặc dù việc triển khai Luật sẽ phát sinh các chi phí gián tiếp cho các bộ, ngành, địa phương để rà soát, nâng cấp và chuẩn hóa hạ tầng kỹ thuật, các hệ thống thông tin, cơ sở dữ liệu, nhưng đây không chỉ là chi phí hoạt động mà là những khoản đầu tư chiến lược vào sự phát triển quốc gia. Lợi ích dự kiến về tăng trưởng kinh tế, hiệu quả quản trị và an sinh xã hội được kỳ vọng sẽ vượt xa các chi phí này.
+2. Điều kiện bảo đảm cho việc thi hành Luật
+Để đảm bảo việc thi hành Luật, các điều kiện sau đây được đề xuất:
+- Ban hành văn bản quy định chi tiết: Các cơ quan có thẩm quyền sẽ cần khẩn trương ban hành các văn bản được giao trong Luật để hướng dẫn thi hành, đảm bảo phù hợp và đồng bộ với các quy định pháp luật khác có liên quan.
+- Tuyên truyền, phổ biến, tập huấn về Luật: Các bộ, ngành liên quan như Bộ Khoa học và Công nghệ, Bộ Công an, Văn phòng Chính phủ, Đài Truyền hình Việt Nam, Đài Tiếng nói Việt Nam, cùng với các cơ quan quản lý nhà nước ở các tỉnh, thành phố, trong phạm vi chức năng, nhiệm vụ của mình, sẽ thực hiện công tác tuyên truyền, phổ biến cho các tổ chức, cá nhân. Đồng thời, cần tổ chức tập huấn chuyên sâu cho đội ngũ cán bộ trực tiếp thực hiện chuyển đổi số để có nhận thức, kỹ năng đầy đủ về các quy định của Luật và thực hiện kịp thời.
+- Bảo đảm nhân lực thực hiện: Cơ bản không phát sinh so với hiện tại. Bộ Khoa học và Công nghệ chịu trách nhiệm trước Chính phủ về việc tổ chức triển khai thi hành Luật và không làm phát sinh thêm tổ chức mới mà chỉ trên cơ sở các đơn vị đã có kiện toàn lại và đội ngũ cán bộ sẵn có để tổ chức thực thi nhiệm vụ quản lý nhà nước được giao trong Luật. Các bộ, ngành, địa phương sẽ tổ chức, sắp xếp, bố trí đội ngũ cán bộ có chuyên môn, kỹ năng phù hợp để thực hiện nhiệm vụ trên cơ sở kế thừa, tổ chức lại cán bộ làm công tác ứng dụng công nghệ thông tin của đơn vị chuyên trách về công nghệ thông tin, Sở Khoa học và Công nghệ, Phòng Văn hóa - Xã hội tại cấp cơ sở. 
+- Đảm bảo cơ sở vật chất và kinh phí: Cần rà soát, bố trí hệ thống máy tính, trang thiết bị, nâng cấp hệ thống thông tin, cơ sở dữ liệu, đảm bảo khả năng kết nối, khai thác, quản lý, lưu trữ, an toàn, an ninh mạng phục vụ thực thi công vụ trên môi trường số (thông qua đầu tư công trung hạn). Đồng thời, bố trí kinh phí thường xuyên hỗ trợ thực hiện chuyển đổi số phục vụ các nội dung chi cho chuyển đổi số theo quy định của pháp luật.
+- Công tác chuyển đổi số sẽ kế thừa kinh nghiệm từ công tác ứng dụng công nghệ thông tin, chuyển đổi số đã được tổ chức thực hiện chuyên nghiệp, bài bản thời gian qua. Các cơ quan đều đã bố trí cán bộ và kinh phí cho công tác này, đồng thời đã có kinh nghiệm tổ chức thực hiện. Luật Chuyển đổi số luật hóa các nội dung từ thực tiễn triển khai ứng dụng công nghệ thông tin, chuyển đổi số thời gian vừa qua theo chủ trương, định hướng mới của Đảng, Nhà nước. Các điều kiện chi tiết để thực hiện cho thấy rằng hành động lập pháp chỉ là bước đầu tiên. Chuyển đổi số thành công đòi hỏi một hệ sinh thái mạnh mẽ gồm các quy định hỗ trợ, nhân sự có kỹ năng, cơ sở hạ tầng đầy đủ và giám sát liên tục. Điều này ngụ ý một cam kết dài hạn, bền vững ngoài việc chỉ thông qua luật.
+VI. NHỮNG VẤN ĐỀ XIN Ý KIẾN
+Thực hiện chỉ đạo tại Văn bản số 04-TB/BCĐTW ngày 30/5/2025 của Ban Chỉ đạo Trung ương về phát triển khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số; 
+Thực hiện Nghị quyết số .../NQ-UBTVQH ngày .../8/2025 về việc bổ sung dự án Luật Chuyển đổi số vào Chương trình lập pháp 2025, Chính phủ đã xây dựng dự án Luật Chuyển đổi số theo trình tự, thủ tục rút gọn.
+Trên đây là Tờ trình về dự án, dự thảo Luật Chuyển đổi số xin kính trình Quốc hội xem xét, quyết định.
+Kính trình./.
+BỘ KHOA HỌC VÀ CÔNG NGHỆ
+
+Số:            /TTr-CP	CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập – Tự do – Hạnh phúc
+
+   Hà Nội, ngày        tháng        năm 2025
+Nơi nhận:
+- Như trên;
+- Thủ tướng (để b/c);
+- Các Phó Thủ tướng Chính phủ;
+- Văn phòng Trung ương Đảng;
+- Ban Nội chính Trung ương;
+- Các Ủy ban của QH: Quốc phòng, An ninh và Đối ngoại, Pháp luật và Tư pháp;
+- Văn phòng Quốc hội;
+- Các Bộ: Công an, Quốc phòng, Tư pháp;
+- VPCP: BTCN, các PCN, Trợ lý, Thư ký TTgCP;
+các Vụ: PL, NC, TH;
+- Lưu: VT, KSTT(02).		TM. CHÍNH PHỦ
+TUQ. THỦ TƯỚNG
+BỘ TRƯỞNG BỘ KHOA HỌC VÀ CÔNG NGHỆ
+
+Nguyễn Mạnh Hùng

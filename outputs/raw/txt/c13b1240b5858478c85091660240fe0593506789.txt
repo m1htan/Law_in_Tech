@@ -1,0 +1,306 @@
+BẢN SO SÁNH, THUYẾT MINH DỰ THẢO LUẬT SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA 
+LUẬT THỐNG KÊ SỐ 89/2015/QH13 VÀ LUẬT SỐ 01/2021/QH15 SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU 
+VÀ PHỤ LỤC DANH MỤC CHỈ TIÊU THỐNG KÊ QUỐC GIA CỦA LUẬT THỐNG KÊ 
+
+BỘ TÀI CHÍNH	CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+
+Hà Nội, ngày      tháng     năm 2025
+LUẬT THỐNG KÊ SỐ 89/2015/QH13	LUẬT SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA LUẬT THỐNG KÊ SỐ 89/2015/QH13 VÀ LUẬT SỐ 01/2021/QH15 SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU VÀ PHỤ LỤC DANH MỤC CHỈ TIÊU THỐNG KÊ 
+QUỐC GIA CỦA LUẬT THỐNG KÊ	THUYẾT MINH
+	Điều 1. Sửa đổi, bổ sung một số điều của Luật Thống kê số 89/2015/QH13	
+Điều 3. Giải thích từ ngữ	1. Sửa đổi, bổ sung một số khoản của Điều 3 như sau:	
+5. Cơ sở dữ liệu thống kê là tập hợp những dữ liệu, thông tin thống kê có liên quan với nhau được sắp xếp, tổ chức theo một cấu trúc nhất định để quản lý, cập nhật và khai thác phục vụ cho mục đích thống kê và mục đích khác theo quy định của pháp luật. Cơ sở dữ liệu thống kê được hình thành chủ yếu từ dữ liệu, thông tin thống kê của điều tra thống kê, hồ sơ hành chính, báo cáo thống kê và cơ sở dữ liệu quốc gia, cơ sở dữ liệu của bộ, ngành, cơ sở dữ liệu của địa phương.	a) Sửa đổi, bổ sung khoản 5 như sau: 
+“5. Cơ sở dữ liệu thống kê là tập hợp những dữ liệu, thông tin thống kê có liên quan với nhau được sắp xếp, tổ chức theo một cấu trúc nhất định để truy cập, khai thác, chia sẻ, quản lý và cập nhật phục vụ cho mục đích thống kê và mục đích khác theo quy định của pháp luật. Cơ sở dữ liệu thống kê được hình thành chủ yếu từ dữ liệu, thông tin thống kê của điều tra thống kê, hồ sơ hành chính, báo cáo thống kê và cơ sở dữ liệu quốc gia, cơ sở dữ liệu của bộ, ngành, cơ sở dữ liệu của địa phương.”.	Phù hợp với quy định tại khoản 9 Điều 3 Luật Dữ liệu
+8. Điều tra thống kê là hình thức thu thập dữ liệu, thông tin thống kê về đối tượng nghiên cứu cụ thể theo phương pháp khoa học, thống nhất được xác định trong phương án điều tra thống kê cho mỗi lần điều tra.	b) Sửa đổi, bổ sung khoản 8 như sau: 
+“8. Điều tra thống kê là hình thức thu thập dữ liệu, thông tin thống kê về đối tượng nghiên cứu cụ thể theo phương pháp khoa học, thống nhất được xác định trong phương án điều tra thống kê cho mỗi cuộc điều tra.”.	Phù hợp với thuật ngữ thống kê vì mỗi cuộc điều tra có thể gồm nhiều kỳ điều tra (lần)
+9. Điều tra viên thống kê là người được cơ quan, tổ chức tiến hành điều tra thống kê trưng tập, huy động để thực hiện việc thu thập thông tin của cuộc điều tra thống kê.	c) Sửa đổi, bổ sung khoản 9 như sau: 
+“9. Điều tra viên thống kê là người được cơ quan, tổ chức tiến hành điều tra thống kê trưng tập, huy động, tập huấn về chuyên môn, nghiệp vụ để thực hiện, hướng dẫn việc thu thập thông tin của cuộc điều tra thống kê.”.	- Khái niệm điều tra viên hiện hành không còn phù hợp với hình thức thu thập thông tin thông qua Webform
+- Phù hợp với quy định tại Điều 34 của Luật này
+11. Hoạt động thống kê là hoạt động xác định nhu cầu thông tin cần thu thập; chuẩn bị thu thập; thu thập; xử lý và tổng hợp; phân tích và dự báo; công bố, phổ biến và lưu trữ thông tin thống kê về hiện tượng nghiên cứu trong điều kiện không gian và thời gian cụ thể.	d) Sửa đổi, bổ sung khoản 11 như sau: 
+“11. Hoạt động thống kê là hoạt động xác định nhu cầu thông tin cần thu thập; chuẩn bị thu thập; thu thập; xử lý và tổng hợp; phân tích và dự báo; công bố; phổ biến và lưu trữ; đánh giá chất lượng thông tin thống kê về hiện tượng nghiên cứu trong điều kiện không gian và thời gian cụ thể.”.	Phù hợp với Quy trình sản xuất thông tin thống kê mới của quốc tế
+	e) Bổ sung khoản 21 như sau: 
+“21. Cơ sở dữ liệu thống kê quốc gia là tập hợp các cơ sở dữ liệu thống kê, thông tin thống kê được tích hợp, chuẩn hóa, lưu trữ, cập nhật, quản lý tập trung và vận hành thống nhất trên phạm vi toàn quốc.”.	Bổ sung giải thích làm rõ khái niệm “Cơ sở dữ liệu thống kê quốc gia”
+Điều 5. Nguyên tắc cơ bản của hoạt động thống kê và sử dụng dữ liệu, thông tin thống kê
+3. Nguyên tắc cơ bản của sử dụng dữ liệu và thông tin thống kê gồm:
+a) Trích dẫn nguồn dữ liệu, thông tin thống kê khi sử dụng; 
+b) Bình đẳng trong tiếp cận và sử dụng dữ liệu, thông tin thống kê nhà nước đã được công bố;
+c) Bảo mật dữ liệu, thông tin thống kê theo quy định của pháp luật.	2. Sửa đổi, bổ sung điểm b khoản 3 Điều 5 như sau:
+“b) Bình đẳng trong tiếp cận, khai thác và sử dụng dữ liệu, thông tin thống kê nhà nước đã được công bố;”.	Phù hợp với khoản 2 Điều 5 của Luật Dữ liệu
+Điều 6. Quản lý nhà nước về thống kê 
+7. Thanh tra, kiểm tra việc chấp hành pháp luật và xử lý vi phạm pháp luật về thống kê.	3. Sửa đổi, bổ sung khoản 7 Điều 6 như sau:
+“7. Thanh tra, kiểm tra, xử lý vi phạm pháp luật về thống kê.”.	Phù hợp Luật Thanh tra số 84/2025/QH15
+Điều 8. Thanh tra chuyên ngành thống kê 
+1. Thanh tra chuyên ngành thống kê là hoạt động thanh tra của cơ quan nhà nước có thẩm quyền đối với tổ chức, cá nhân trong việc chấp hành pháp luật về thống kê, quy định về chuyên môn, nghiệp vụ thuộc lĩnh vực thống kê.
+Cơ quan thống kê Trung ương chịu trách nhiệm chỉ đạo, tổ chức thực hiện thanh tra chuyên ngành thống kê trong phạm vi cả nước.
+Cơ quan thống kê tập trung tại tỉnh, thành phố trực thuộc Trung ương (sau đây gọi chung là cơ quan thống kê cấp tỉnh) chịu trách nhiệm tổ chức thực hiện thanh tra chuyên ngành thống kê tại địa phương.
+2. Thanh tra chuyên ngành thống kê có nhiệm vụ, quyền hạn sau đây:
+a) Thanh tra việc chấp hành pháp luật về thống kê và các quy định về chuyên môn, nghiệp vụ trong lĩnh vực thống kê của cơ quan, tổ chức, cá nhân;
+b) Phát hiện, ngăn chặn và xử lý theo thẩm quyền hoặc kiến nghị cơ quan nhà nước có thẩm quyền xử lý vi phạm pháp luật về thống kê.
+3. Hoạt động thanh tra chuyên ngành thống kê, quyền và nghĩa vụ của trưởng đoàn thanh tra, thanh tra viên, công chức được giao nhiệm vụ thanh tra chuyên ngành thống kê thực hiện theo quy định của pháp luật về thanh tra.
+4. Chính phủ quy định chi tiết về thanh tra chuyên ngành thống kê.	4. Sửa đổi, bổ sung Điều 8 như sau:
+“Điều 8. Kiểm tra chuyên ngành thống kê
+1. Kiểm tra chuyên ngành thống kê là hoạt động kiểm tra việc chấp hành chính sách, pháp luật, quy định về thống kê của cơ quan, tổ chức, cá nhân; phát hiện, ngăn chặn và xử lý theo thẩm quyền hoặc kiến nghị cơ quan nhà nước có thẩm quyền xử lý vi phạm pháp luật về thống kê.
+Bộ Tài chính chịu trách nhiệm chỉ đạo, tổ chức thực hiện kiểm tra việc chấp hành các quy định về trách nhiệm quản lý nhà nước về thống kê trong phạm vi cả nước.
+Cơ quan thống kê quốc gia chịu trách nhiệm chỉ đạo, tổ chức thực hiện kiểm tra chuyên ngành thống kê trong phạm vi cả nước.
+Thống kê tỉnh, thành phố trực thuộc Trung ương chịu trách nhiệm tổ chức thực hiện kiểm tra chuyên ngành thống kê tại địa phương.
+2. Nội dung kiểm tra chuyên ngành thống kê:
+a) Kiểm tra việc chấp hành các quy định về trách nhiệm quản lý nhà nước về thống kê. 
+b) Kiểm tra việc chấp hành các quy định về điều tra thống kê. 
+c) Kiểm tra việc chấp hành các quy định về báo cáo thống kê. 
+d) Kiểm tra việc chấp hành các quy định về công bố, phổ biến và sử dụng thông tin thống kê.
+đ) Kiểm tra việc chấp hành các quy định về sử dụng cơ sở dữ liệu thống kê, thông tin thống kê. 
+e) Kiểm tra việc chấp hành các quy định về lưu trữ tài liệu thống kê. 
+g) Kiểm tra việc thực hiện Chiến lược phát triển Thống kê Việt Nam. 
+h) Kiểm tra việc chấp hành các quy định khác của pháp luật về thống kê.”.	Phù hợp Luật Thanh tra số 84/2025/QH15
+Điều 8. Thanh tra chuyên ngành thống kê 
+1. Thanh tra chuyên ngành thống kê là hoạt động thanh tra của cơ quan nhà nước có thẩm quyền đối với tổ chức, cá nhân trong việc chấp hành pháp luật về thống kê, quy định về chuyên môn, nghiệp vụ thuộc lĩnh vực thống kê.
+Cơ quan thống kê Trung ương chịu trách nhiệm chỉ đạo, tổ chức thực hiện thanh tra chuyên ngành thống kê trong phạm vi cả nước.
+Cơ quan thống kê tập trung tại tỉnh, thành phố trực thuộc Trung ương (sau đây gọi chung là cơ quan thống kê cấp tỉnh) chịu trách nhiệm tổ chức thực hiện thanh tra chuyên ngành thống kê tại địa phương.
+2. Thanh tra chuyên ngành thống kê có nhiệm vụ, quyền hạn sau đây:
+a) Thanh tra việc chấp hành pháp luật về thống kê và các quy định về chuyên môn, nghiệp vụ trong lĩnh vực thống kê của cơ quan, tổ chức, cá nhân;
+b) Phát hiện, ngăn chặn và xử lý theo thẩm quyền hoặc kiến nghị cơ quan nhà nước có thẩm quyền xử lý vi phạm pháp luật về thống kê.
+3. Hoạt động thanh tra chuyên ngành thống kê, quyền và nghĩa vụ của trưởng đoàn thanh tra, thanh tra viên, công chức được giao nhiệm vụ thanh tra chuyên ngành thống kê thực hiện theo quy định của pháp luật về thanh tra.
+4. Chính phủ quy định chi tiết về thanh tra chuyên ngành thống kê.	4. Sửa đổi, bổ sung Điều 8 như sau:
+“Điều 8. Kiểm tra chuyên ngành thống kê
+1. Kiểm tra chuyên ngành thống kê là hoạt động kiểm tra việc chấp hành chính sách, pháp luật, quy định về thống kê của cơ quan, tổ chức, cá nhân; phát hiện, ngăn chặn và xử lý theo thẩm quyền hoặc kiến nghị cơ quan nhà nước có thẩm quyền xử lý vi phạm pháp luật về thống kê.
+Bộ Tài chính chịu trách nhiệm chỉ đạo, tổ chức thực hiện kiểm tra việc chấp hành các quy định về trách nhiệm quản lý nhà nước về thống kê trong phạm vi cả nước.
+Cơ quan thống kê quốc gia chịu trách nhiệm chỉ đạo, tổ chức thực hiện kiểm tra chuyên ngành thống kê trong phạm vi cả nước.
+Thống kê tỉnh, thành phố trực thuộc Trung ương chịu trách nhiệm tổ chức thực hiện kiểm tra chuyên ngành thống kê tại địa phương.
+2. Nội dung kiểm tra chuyên ngành thống kê:
+a) Kiểm tra việc chấp hành các quy định về trách nhiệm quản lý nhà nước về thống kê. 
+b) Kiểm tra việc chấp hành các quy định về điều tra thống kê. 
+c) Kiểm tra việc chấp hành các quy định về báo cáo thống kê. 
+d) Kiểm tra việc chấp hành các quy định về công bố, phổ biến và sử dụng thông tin thống kê.
+đ) Kiểm tra việc chấp hành các quy định về sử dụng cơ sở dữ liệu thống kê, thông tin thống kê. 
+e) Kiểm tra việc chấp hành các quy định về lưu trữ tài liệu thống kê. 
+g) Kiểm tra việc thực hiện Chiến lược phát triển Thống kê Việt Nam. 
+h) Kiểm tra việc chấp hành các quy định khác của pháp luật về thống kê.”.	
+Điều 15. Hệ thống thông tin thống kê cấp tỉnh	5. Sửa đổi, bổ sung một số điểm, khoản của Điều 15 như sau:	
+2. Hệ thống thông tin thống kê cấp tỉnh gồm: 
+a) Thông tin thống kê do cơ quan thống kê cấp tỉnh thực hiện;
+b) Thông tin thống kê do cơ quan chuyên môn thuộc Ủy ban nhân dân cấp tỉnh, Tòa án nhân dân cấp tỉnh, Viện kiểm sát nhân dân cấp tỉnh, cơ quan chuyên môn thuộc bộ, cơ quan ngang Bộ tại đơn vị hành chính cấp tỉnh thực hiện, cung cấp cho cơ quan thống kê cấp tỉnh tổng hợp.	a) Sửa đổi, bổ sung khoản 2 như sau:
+“2. Hệ thống thông tin thống kê cấp tỉnh gồm:
+a) Thông tin thống kê do cơ quan thống kê tỉnh, thành phố trực thuộc trung ương thực hiện.
+b) Thông tin thống kê do cơ quan chuyên môn thuộc Ủy ban nhân dân cấp tỉnh, Tòa án nhân dân cấp tỉnh, Viện kiểm sát nhân dân cấp tỉnh, cơ quan chuyên môn thuộc bộ, cơ quan ngang Bộ tại đơn vị hành chính cấp tỉnh thực hiện, cung cấp cho cơ quan thống kê tỉnh, thành phố trực thuộc trung ương tổng hợp.”.	- Phù hợp với việc sắp xếp đơn vị hành chính theo mô hình chính quyền địa phương 2 cấp
+- Nghị định số 166/2025/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 29/2025/NĐ-СР ngày 24/2/2025 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính
+3. Người đứng đầu cơ quan thống kê cấp tỉnh chịu trách nhiệm quản lý hệ thống thông tin thống kê cấp tỉnh.
+Người đứng đầu cơ quan quy định tại điểm b khoản 2 Điều này chịu trách nhiệm quản lý thông tin thống kê trong phạm vi ngành, lĩnh vực được phân công phụ trách.	b) Sửa đổi, bổ sung khoản 3 như sau:
+“3. Người đứng đầu cơ quan thống kê tỉnh, thành phố trực thuộc trung ương chịu trách nhiệm quản lý hệ thống thông tin thống kê cấp tỉnh.
+Người đứng đầu cơ quan quy định tại điểm b khoản 2 Điều này chịu trách nhiệm quản lý thông tin thống kê trong phạm vi ngành, lĩnh vực được phân công phụ trách”.	- Phù hợp với việc sắp xếp đơn vị hành chính theo mô hình chính quyền địa phương 2 cấp
+- Nghị định số 166/2025/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 29/2025/NĐ-СР ngày 24/2/2025 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính
+Điều 16. Hệ thống thông tin thống kê cấp huyện	6. Sửa đổi, bổ sung Điều 16 như sau:
+“Điều 16. Hệ thống thông tin thống kê cấp xã	Phù hợp với việc sắp xếp đơn vị hành chính theo mô hình chính quyền địa phương 2 cấp
+1. Hệ thống thông tin thống kê cấp huyện gồm: 
+a) Thông tin thống kê do cơ quan thống kê tập trung tại đơn vị hành chính cấp huyện (sau đây gọi chung là cơ quan thống kê cấp huyện) thực hiện;
+b) Thông tin thống kê do cơ quan chuyên môn thuộc Ủy ban nhân dân cấp huyện, Tòa án nhân dân cấp huyện, Viện kiểm sát nhân dân cấp huyện, cơ quan chuyên môn thuộc bộ, cơ quan ngang Bộ tại đơn vị hành chính cấp huyện, Ủy ban nhân dân cấp xã thực hiện, cung cấp cho cơ quan thống kê cấp huyện tổng hợp.	1. Hệ thống thông tin thống kê cấp xã gồm:
+a) Thông tin thống kê do cơ quan thống kê cơ sở thực hiện.
+b) Thông tin thống kê do phòng, ban chuyên môn thuộc Ủy ban nhân dân cấp xã, Tòa án nhân dân khu vực, Viện kiểm sát nhân dân khu vực, cơ quan chuyên môn thuộc bộ, cơ quan ngang Bộ tại đơn vị hành chính cấp xã thực hiện, cung cấp cho cơ quan thống kê cơ sở tổng hợp.	Phù hợp với việc sắp xếp đơn vị hành chính theo mô hình chính quyền địa phương 2 cấp
+2. Người đứng đầu cơ quan thống kê cấp huyện chịu trách nhiệm quản lý hệ thống thông tin thống kê cấp huyện.
+Người đứng đầu cơ quan quy định tại điểm b khoản 1 Điều này chịu trách nhiệm quản lý thông tin thống kê trong phạm vi ngành, lĩnh vực được phân công phụ trách.	2. Người đứng đầu cơ quan thống kê cơ sở chịu trách nhiệm quản lý hệ thống thông tin thống kê cấp xã.
+Người đứng đầu cơ quan quy định tại điểm b khoản 1 Điều này chịu trách nhiệm quản lý thông tin thống kê trong phạm vi ngành, lĩnh vực được phân công phụ trách.”.	Phù hợp với việc sắp xếp đơn vị hành chính theo mô hình chính quyền địa phương 2 cấp
+Điều 17. Hệ thống chỉ tiêu thống kê quốc gia	7. Sửa đổi, bổ sung khoản 4 Điều 17 như sau:	
+4. Danh mục chỉ tiêu thống kê quốc gia được quy định tại Phụ lục ban hành kèm theo Luật này.	“4. Chính phủ quy định hệ thống chỉ tiêu thống kê quốc gia.”.	Danh mục chỉ tiêu thống kê quốc gia phản ánh tình tình kinh tế - xã hội của đất nước trong một thời kỳ nhất định. Vì vậy, danh mục này thường có sự thay đổi (thường là 5 năm) để kịp thời cung cấp thống tin phục vụ nhu cầu của Đảng, Nhà nước. Việc quy định danh mục chỉ tiêu thống kê quốc gia ban hành kèm theo Luật Thống kê dẫn đến khó khăn khi thay đổi danh mục chỉ tiêu.
+Điều 18. Điều chỉnh, bổ sung Danh mục chỉ tiêu thống kê quốc gia
+Căn cứ vào nhiệm vụ phát triển kinh tế - xã hội, yêu cầu quản lý nhà nước và hội nhập quốc tế trong từng thời kỳ, Chính phủ rà soát, trình Quốc hội sửa đổi, bổ sung Danh mục chỉ tiêu thống kê quốc gia theo thủ tục rút gọn.	8. Sửa đổi, bổ sung Điều 18 như sau:
+“Điều 18. Điều chỉnh, bổ sung Danh mục chỉ tiêu thống kê quốc gia
+Căn cứ vào nhiệm vụ phát triển kinh tế - xã hội, yêu cầu quản lý nhà nước và hội nhập quốc tế trong từng thời kỳ, Chính phủ rà soát, sửa đổi, bổ sung hệ thống chỉ tiêu thống kê quốc gia theo thủ tục rút gọn.”.	Thống nhất với quy định tại khoản 4 Điều 17 Luật này
+	9. Bổ sung Điều 20 sau Điều 19 như sau:
+ “Điều 20. Hệ thống chỉ tiêu thống kê liên quan đến nhiều ngành, nhiều lĩnh vực, liên kết vùng
+1. Hệ thống chỉ tiêu thống kê liên quan đến nhiều ngành, nhiều lĩnh vực, liên kết vùng là tập hợp các chỉ tiêu thống kê có tính chất tổng hợp, đa ngành, đa lĩnh vực, phục vụ đánh giá, giám sát việc thực hiện pháp luật chuyên ngành, chiến lược, chính sách, chương trình, mục tiêu quốc gia.
+2. Hệ thống chỉ tiêu thống kê liên quan đến nhiều ngành, nhiều lĩnh vực, liên kết vùng được xây dựng phù hợp với hệ thống chỉ tiêu thống kê quốc gia, hệ thống chỉ tiêu thống kê bộ,  ngành và thông lệ quốc tế. Hệ thống chỉ tiêu thống kê liên quan đến nhiều ngành, nhiều lĩnh vực, liên kết vùng là cơ sở phân công, phối hợp giữa các cơ quan nhà nước trong việc xây dựng chương trình điều tra thống kê, sử dụng dữ liệu hành chính cho hoạt động thống kê và chế độ báo cáo thống kê liên quan đến nhiều ngành, nhiều lĩnh vực, liên kết vùng.
+3. Bộ, ngành có trách nhiệm xây dựng, trình Thủ tướng Chính phủ ban hành hệ thống chỉ tiêu thống kê liên quan đến nhiều ngành, nhiều lĩnh vực, liên kết vùng hoặc ban hành theo phân công của Thủ tướng Chính phủ.”.	Nâng cấp từ Nghị định số 94/2016/NĐ-CP ngày 01/7/2016 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Thống kê (Điều 10)
+Điều 22. Hệ thống chỉ tiêu thống kê cấp tỉnh, cấp huyện, cấp xã	10. Sửa đổi, bổ sung tên Điều 22 và khoản 1 Điều 22 như sau:
+a) Sửa đổi, bổ sung tên Điều 22 như sau:
+“Điều 22. Hệ thống chỉ tiêu thống kê cấp tỉnh, cấp xã”	Phù hợp với việc sắp xếp đơn vị hành chính theo mô hình chính quyền địa phương 2 cấp
+1. Hệ thống chỉ tiêu thống kê cấp tỉnh là tập hợp các chỉ tiêu thống kê để hình thành hệ thống thông tin thống kê quốc gia và hệ thống thông tin thống kê cấp tỉnh.
+Hệ thống chỉ tiêu thống kê cấp huyện là tập hợp các chỉ tiêu thống kê để hình thành hệ thống thông tin thống kê cấp tỉnh và hệ thống thông tin thống kê cấp huyện.
+Hệ thống chỉ tiêu thống kê cấp xã là tập hợp các chỉ tiêu thống kê để hình thành hệ thống thông tin thống kê cấp huyện.	b) Sửa đổi, bổ sung khoản 1 như sau:
+“1. Hệ thống chỉ tiêu thống kê cấp tỉnh là tập hợp các chỉ tiêu thống kê để hình thành hệ thống thông tin thống kê quốc gia và hệ thống thông tin thống kê cấp tỉnh.
+Hệ thống chỉ tiêu thống kê cấp xã là tập hợp các chỉ tiêu thống kê để hình thành hệ thống thông tin thống kê cấp tỉnh, hệ thống thông tin thống kê cấp xã.”.	Phù hợp với việc sắp xếp đơn vị hành chính theo mô hình chính quyền địa phương 2 cấp
+Điều 28. Chương trình điều tra thống kê quốc gia	11. Sửa đổi, bổ sung một số khoản của Điều 28 như sau:	
+1. Chương trình điều tra thống kê quốc gia do Thủ tướng Chính phủ quyết định, được tiến hành định kỳ nhằm thu thập thông tin chủ yếu để tổng hợp các chỉ tiêu thống kê thuộc hệ thống chỉ tiêu thống kê quốc gia
+Chương trình điều tra thống kê quốc gia gồm tên cuộc điều tra, mục đích, đối tượng, đơn vị, loại điều tra, nội dung điều tra, thời kỳ, thời điểm điều tra và cơ quan chủ trì, cơ quan phối hợp thực hiện.	a) Sửa đổi, bổ sung khoản 1 như sau:
+“1. Chương trình điều tra thống kê quốc gia do Thủ tướng Chính phủ quyết định, được tiến hành định kỳ nhằm thu thập thông tin chủ yếu để tổng hợp các chỉ tiêu thống kê thuộc hệ thống chỉ tiêu thống kê quốc gia
+a) Chương trình điều tra thống kê quốc gia gồm tên cuộc điều tra, mục đích, đối tượng, đơn vị, loại điều tra, nội dung điều tra chủ yếu, kỳ điều tra và cơ quan chủ trì, cơ quan phối hợp thực hiện.
+b) Chương trình điều tra thống kê quốc gia là căn cứ để các bộ, ngành xây dựng kế hoạch các cuộc điều tra thống kê, phương án điều tra, dự toán kinh phí và thực hiện các cuộc điều tra thống kê.”.	- Phù hợp với thực tế khi triển khai thực hiện chương trình điều tra thống kê quốc gia
+- Bổ sung căn cứ để các bộ, ngành xây dựng kế hoạch các cuộc điều tra thống kê, phương án điều tra, dự toán kinh phí và thực hiện các cuộc điều tra thống kê trong Chương trình điều tra thống kê quốc gia
+3. Thẩm quyền quyết định tiến hành điều tra trong chương trình điều tra thống kê quốc gia được quy định như sau:
+a) Thủ tướng Chính phủ quyết định tiến hành tổng điều tra thống kê quốc gia;
+b) Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Chánh án Tòa án nhân dân tối cao, Viện trưởng Viện kiểm sát nhân dân tối cao, Tổng Kiểm toán nhà nước quyết định tiến hành điều tra thống kê được phân công trong chương trình điều tra thống kê quốc gia.	b) Sửa đổi, bổ sung khoản 3 như sau:
+“3. Thẩm quyền quyết định tiến hành điều tra trong chương trình điều tra thống kê quốc gia được quy định như sau:
+a) Bộ trưởng Bộ Tài chính quyết định tiến hành tổng điều tra thống kê quốc gia.
+b) Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Chánh án Tòa án nhân dân tối cao, Viện trưởng Viện kiểm sát nhân dân tối cao, Tổng Kiểm toán nhà nước quyết định tiến hành điều tra thống kê được phân công trong chương trình điều tra thống kê quốc gia.
+c) Thủ trưởng cơ quan thống kê quốc gia quyết định tiến hành điều tra đối với các cuộc điều tra thống kê phân công Bộ Tài chính thực hiện trong chương trình điều tra thống kê quốc gia.”.	Nghị định số 130/2025/NĐ-CP của Chính phủ quy định về phân quyền, phân cấp trong lĩnh vực thống kê (sau đây viết gọn là Nghị định số 130/2025/NĐ-CP)
+Điều 29. Tổng điều tra thống kê quốc gia	12. Sửa đổi, bổ sung một số khoản của Điều 29 như sau:	
+2. Cơ quan thực hiện tổng điều tra thống kê quốc gia gồm:
+a) Cơ quan thống kê Trung ương chủ trì, phối hợp với các Bộ, ngành, địa phương thực hiện tổng điều tra quy định tại các điểm a, b và c khoản 1 Điều này;
+b) Thủ tướng Chính phủ phân công cơ quan thực hiện tổng điều tra quy định tại điểm d khoản 1 Điều này.	a) Sửa đổi, bổ sung điểm b khoản 2 như sau:
+“b) Bộ trưởng Bộ Tài chính phân công cơ quan thực hiện tổng điều tra quy định tại điểm d khoản 1 Điều này.”.	Khoản 3 Điều 3 Nghị định số 130/2025/NĐ-CP
+3. Bộ Kế hoạch và Đầu tư chủ trì, phối hợp với các Bộ, ngành xây dựng, trình Thủ tướng Chính phủ điều chỉnh, bổ sung tổng điều tra thống kê quốc gia.	b) Sửa đổi, bổ sung khoản 3 như sau:
+“3. Bộ trưởng Bộ Tài chính quyết định điều chỉnh, bổ sung tổng điều tra thống kê quốc gia.”.	Khoản 2 Điều 3 Nghị định số 130/2025/NĐ-CP
+Điều 30. Điều tra thống kê ngoài chương trình điều tra thống kê quốc gia	13. Sửa đổi, bổ sung khoản 2 Điều 30 như sau:	
+2. Thẩm quyền quyết định điều tra thống kê ngoài chương trình điều tra thống kê quốc gia được quy định như sau:
+a) Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Chánh án Tòa án nhân dân tối cao, Viện trưởng Viện kiểm sát nhân dân tối cao, Tổng Kiểm toán nhà nước quyết định chương trình và tổ chức thực hiện điều tra thống kê quy định tại điểm a và điểm b khoản 1 Điều này;
+b) Chủ tịch Ủy ban nhân dân cấp tỉnh quyết định chương trình và tổ chức thực hiện điều tra thống kê quy định tại điểm c khoản 1 Điều này.	“2. Thẩm quyền quyết định điều tra thống kê ngoài chương trình điều tra thống kê quốc gia được quy định như sau:
+a) Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Chánh án Tòa án nhân dân tối cao, Viện trưởng Viện kiểm sát nhân dân tối cao, Tổng Kiểm toán nhà nước quyết định chương trình và tổ chức thực hiện điều tra thống kê quy định tại điểm a và điểm b khoản 1 Điều này;
+b) Thủ trưởng cơ quan thống kê quốc gia quyết định chương trình và tổ chức thực hiện điều tra thống kê quy định tại điểm a và điểm b khoản 1 Điều này thuộc lĩnh vực quản lý của Bộ Tài chính.
+c) Chủ tịch Ủy ban nhân dân cấp tỉnh quyết định chương trình và tổ chức thực hiện điều tra thống kê quy định tại điểm c khoản 1 Điều này.”.	
+Điều 31. Phương án điều tra thống kê	14. Sửa đổi, bổ sung một số điểm của khoản 2 Điều 31 như sau:	
+2. Phương án điều tra thống kê gồm các nội dung chủ yếu sau đây:
+a) Mục đích, yêu cầu điều tra; 
+b) Phạm vi, đối tượng, đơn vị điều tra; 
+c) Loại điều tra; 
+d) Thời điểm, thời gian và phương pháp điều tra; 
+đ) Nội dung, phiếu điều tra; 
+e) Phân loại thống kê sử dụng trong điều tra; 
+g) Quy trình xử lý và biểu đầu ra của điều tra; 
+h) Kế hoạch tiến hành điều tra; 
+i) Tổ chức điều tra; 
+k) Kinh phí và các điều kiện vật chất cho điều tra.	a) Sửa đổi, bổ sung điểm d như sau:
+“d) Thời điểm, thời kỳ, thời gian thu thập thông tin và phương pháp điều tra;”.
+
+b) Sửa đổi, bổ sung điểm g như sau:
+“g) Quy trình xử lý thông tin, tổng hợp kết quả điều tra;”.	Phù hợp với thực tế triển khai thực hiện điều tra
+Điều 32. Thẩm định phương án điều tra thống kê	15. Sửa đổi, bổ sung khoản 5 của Điều 32 như sau:	
+5. Bộ, ngành, Ủy ban nhân dân cấp tỉnh có trách nhiệm nghiên cứu, giải trình bằng văn bản gửi cơ quan thống kê Trung ương, trong đó nêu rõ những nội dung tiếp thu hoặc không tiếp thu ý kiến thẩm định và chỉnh lý, ban hành phương án điều tra thống kê. Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Chánh án Tòa án nhân dân tối cao, Viện trưởng Viện kiểm sát nhân dân tối cao, Tổng Kiểm toán nhà nước, Chủ tịch Ủy ban nhân dân cấp tỉnh chịu trách nhiệm về phương án điều tra thống kê do mình ban hành.	“5. Bộ, ngành, Ủy ban nhân dân cấp tỉnh có trách nhiệm nghiên cứu, giải trình bằng văn bản gửi cơ quan thống kê quốc gia, trong đó nêu rõ những nội dung tiếp thu hoặc không tiếp thu ý kiến thẩm định và chỉnh lý, ban hành phương án điều tra thống kê. Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Chánh án Tòa án nhân dân tối cao, Viện trưởng Viện kiểm sát nhân dân tối cao, Tổng Kiểm toán nhà nước, Chủ tịch Ủy ban nhân dân cấp tỉnh chịu trách nhiệm về phương án điều tra thống kê thuộc thẩm quyền ban hành.”.	
+Điều 33. Quyền và nghĩa vụ của tổ chức, cá nhân được điều tra thống kê	16. Sửa đổi, bổ sung điểm c khoản 2 Điều 33 như sau:	
+2. Tổ chức, cá nhân được điều tra thống kê có các nghĩa vụ sau đây:
+a) Cung cấp thông tin trung thực, chính xác, đầy đủ và đúng thời hạn theo yêu cầu của điều tra viên thống kê hoặc cơ quan tiến hành điều tra thống kê; 
+b) Không được từ chối hoặc cản trở việc cung cấp thông tin điều tra thống kê;
+c) Chịu sự kiểm tra của cơ quan tiến hành điều tra thống kê và thanh tra chuyên ngành thống kê về thông tin đã cung cấp.	“c) Chịu sự kiểm tra của cơ quan tiến hành điều tra thống kê và kiểm tra chuyên ngành thống kê về thông tin đã cung cấp.”.	- Phù hợp mô hình thanh tra mới
+- Phù hợp với quy định pháp luật về thanh tra không còn hoạt động thanh tra chuyên ngành, bổ sung hoạt động kiểm tra chuyên ngành
+Điều 34. Quyền và nghĩa vụ của điều tra viên thống kê	17. Sửa đổi, bổ sung điểm a khoản 2 Điều 34 như sau:	
+2. Điều tra viên thống kê có các nghĩa vụ sau đây:
+a) Thực hiện thu thập thông tin theo đúng phương án điều tra thống kê và hướng dẫn của cơ quan tiến hành điều tra thống kê;
+b) Giữ bí mật thông tin thu thập từ tổ chức, cá nhân được điều tra thống kê;
+c) Giao nộp tài liệu, phiếu điều tra theo hướng dẫn của cơ quan tiến hành điều tra thống kê.	“a) Thực hiện, hướng dẫn thu thập thông tin theo đúng phương án điều tra thống kê và hướng dẫn của cơ quan tiến hành điều tra thống kê;”.	Phù hợp với hình thức thu thập thông tin thông qua Webform hiện nay của ngành Thống kê
+Điều 35. Trách nhiệm của cơ quan tiến hành điều tra thống kê		
+6. Việc báo cáo kết quả điều tra thống kê cho cơ quan thuộc hệ thống tổ chức thống kê tập trung được thực hiện như sau:
+a) Cơ quan thực hiện điều tra thống kê quy định tại điểm a và điểm b khoản 1 Điều 30 của Luật này có trách nhiệm báo cáo kết quả điều tra thống kê cho cơ quan thống kê Trung ương;
+b) Cơ quan thực hiện điều tra thống kê quy định tại điểm c khoản 1 Điều 30 của Luật này có trách nhiệm báo cáo kết quả điều tra thống kê cho cơ quan thống kê cấp tỉnh.	“b) Cơ quan thực hiện điều tra thống kê quy định tại điểm c khoản 1 Điều 30 của Luật này có trách nhiệm báo cáo kết quả điều tra thống kê cho cơ quan thống kê tỉnh, thành phố trực thuộc trung ương.”.	- Phù hợp với việc sắp xếp đơn vị hành chính theo mô hình chính quyền địa phương 2 cấp
+- Nghị định số 166/2025/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 29/2025/NĐ-СР ngày 24/2/2025 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính
+Điều 36. Sử dụng dữ liệu hành chính cho hoạt động thống kê nhà nước	19. Sửa đổi, bổ sung khoản 3 Điều 36 như sau:	
+3. Cơ sở dữ liệu hành chính được sử dụng trong hoạt động thống kê nhà nước gồm:
+a) Cơ sở dữ liệu về con người; 
+b) Cơ sở dữ liệu về đất đai;
+c) Cơ sở dữ liệu về cơ sở kinh tế;
+d) Cơ sở dữ liệu về thuế;
+đ) Cơ sở dữ liệu về hải quan;
+e) Cơ sở dữ liệu về bảo hiểm;
+g) Cơ sở dữ liệu hành chính khác.	“3. Cơ sở dữ liệu hành chính được sử dụng trong hoạt động thống kê nhà nước gồm:
+a) Các cơ sở dữ liệu được quản lý tập trung tại Trung tâm dữ liệu quốc gia;
+b) Cơ sở dữ liệu hành chính khác.”.	Phù hợp với quy định của Luật Dữ liệu số 60/2024/QH15
+Điều 40. Chế độ báo cáo thống kê	20. Sửa đổi, bổ sung khoản 1 Điều 40 như sau:	
+1. Chế độ báo cáo thống kê gồm: 
+a) Chế độ báo cáo thống kê cấp quốc gia;
+b) Chế độ báo cáo thống kê cấp bộ, ngành.	“1. Chế độ báo cáo thống kê gồm:
+a) Chế độ báo cáo thống kê cấp quốc gia;
+b) Chế độ báo cáo thống kê cấp bộ, ngành;
+c) Chế độ báo cáo thống kê liên quan đến nhiều ngành, nhiều lĩnh vực, liên kết vùng;
+d) Chế độ báo cáo thống kê cấp tỉnh, cấp xã.”.	- Phù hợp và tương ứng với quy định hệ thống chỉ tiêu liên quan đến nhiều ngành, nhiều lĩnh vực, liên kết vùng
+- Bảo đảm thu thập đầy đủ thông tin cấp cơ sở quy định tại Điều 22 của Luật này
+Điều 42. Chế độ báo cáo thống kê cấp bộ, ngành	21. Sửa đổi, bổ sung điểm a khoản 2 Điều 42 như sau:	
+2. Cơ quan, tổ chức thực hiện chế độ báo cáo thống kê cấp bộ, ngành gồm: 
+a) Cơ quan chuyên môn thuộc Ủy ban nhân dân cấp tỉnh, cấp huyện; Tòa án nhân dân, Viện kiểm sát nhân dân cấp tỉnh, cấp huyện; cơ quan chuyên môn thuộc bộ, cơ quan ngang Bộ đặt tại địa phương;
+b) Cơ quan, tổ chức khác theo quy định của pháp luật.	“a) Cơ quan chuyên môn thuộc Ủy ban nhân dân cấp tỉnh, Tòa án nhân dân, Viện kiểm sát nhân dân cấp tỉnh, cơ quan chuyên môn thuộc bộ, cơ quan ngang Bộ đặt tại địa phương;”.	Phù hợp với việc sắp xếp đơn vị hành chính theo mô hình chính quyền địa phương 2 cấp
+	22. Bổ sung Điều 43, Điều 44 sau Điều 42 như sau:
+“Điều 43. Chế độ báo cáo thống kê liên quan đến nhiều ngành, nhiều lĩnh vực, liên kết vùng
+1. Chế độ báo cáo thống kê liên quan đến nhiều ngành, nhiều lĩnh vực, liên kết vùng được thực hiện để thu thập thông tin thống kê thuộc hệ thống chỉ tiêu thống kê liên quan đến nhiều ngành, nhiều lĩnh vực, liên kết vùng và tổng hợp các thông tin thống kê khác phục vụ yêu cầu quản lý đa ngành, đa lĩnh vực.
+2. Bộ, ngành có trách nhiệm xây dựng, trình Thủ tướng Chính phủ ban hành chế độ báo cáo thống kê liên quan đến nhiều ngành, nhiều lĩnh vực, liên kết vùng hoặc ban hành theo phân công của Thủ tướng Chính phủ để thu thập thông tin phục vụ yêu cầu quản lý, điều hành.
+Điều 44. Chế độ báo cáo thống kê cấp tỉnh, cấp xã
+1. Chế độ báo cáo thống kê cấp tỉnh, cấp xã được thực hiện để thu thập thông tin thống kê thuộc hệ thống chỉ tiêu thống kê cấp tỉnh, cấp xã và tổng hợp các thông tin thống kê khác phục vụ yêu cầu quản lý trên địa bàn.
+2. Cơ quan, tổ chức thực hiện chế độ báo cáo thống kê cấp tỉnh, cấp xã gồm:
+a) Cơ quan chuyên môn thuộc Ủy ban nhân dân cấp tỉnh, Tòa án nhân dân, Viện kiểm sát nhân dân cấp tỉnh, khu vực; cơ quan chuyên môn thuộc bộ, cơ quan ngang Bộ đặt tại địa phương;
+b) Cơ quan, tổ chức khác theo quy định của pháp luật.
+3. Bộ Tài chính chịu trách nhiệm xây dựng, trình Thủ tướng Chính phủ ban hành chế độ báo cáo thống kê cấp tỉnh, cấp xã.”.	- Phù hợp và tương ứng với quy định hệ thống chỉ tiêu liên quan đến nhiều ngành, nhiều lĩnh vực, liên kết vùng
+- Quy định chi tiết điểm c khoản 1 Điều 40 của Luật này
+Điều 44. Quyền và nghĩa vụ của cơ quan, tổ chức thực hiện chế độ báo cáo thống kê	23. Sửa đổi, bổ sung, bãi bỏ một số điểm, khoản của Điều 44 như sau:	
+2. Cơ quan, tổ chức thực hiện chế độ báo cáo thống kê có các nghĩa vụ sau đây: 
+a) Thu thập, tổng hợp, lập và nộp báo cáo theo quy định của chế độ báo cáo thống kê và hướng dẫn của cơ quan nhà nước có thẩm quyền; chịu trách nhiệm về tính chính xác của thông tin thống kê;
+b) Bảo đảm bí mật thông tin liên quan đến cơ quan, tổ chức, cá nhân trong quá trình thực hiện chế độ báo cáo thống kê;
+c) Không được từ chối hoặc cản trở việc thực hiện chế độ báo cáo thống kê; 
+d) Chịu sự kiểm tra về nghiệp vụ của cơ quan nhận báo cáo;
+đ) Chịu sự kiểm tra, thanh tra về chuyên môn, nghiệp vụ thống kê của thanh tra chuyên ngành thống kê.	a) Sửa đổi, bổ sung điểm d khoản 2 như sau:
+“d) Chịu sự kiểm tra, thanh tra của cơ quan có thẩm quyền.”.
+b) Bãi bỏ điểm đ khoản 2.	- Phù hợp mô hình thanh tra mới
+- Phù hợp với quy định pháp luật về thanh tra không còn hoạt động thanh tra chuyên ngành, bổ sung hoạt động kiểm tra chuyên ngành
+Điều 46. Trách nhiệm của bộ, ngành đối với các chỉ tiêu thống kê thuộc hệ thống chỉ tiêu thống kê quốc gia	24. Sửa đổi, bổ sung điểm a khoản 2 Điều 46 như sau:	
+2. Bộ, ngành có trách nhiệm thu thập, tổng hợp số liệu thống kê được phân công trong hệ thống chỉ tiêu thống kê quốc gia và gửi hồ sơ thẩm định theo quy định tại khoản 1 Điều 47 của Luật này cho cơ quan thống kê Trung ương thẩm định, công bố.	“2. Bộ, ngành có trách nhiệm thu thập, tổng hợp số liệu thống kê được phân công trong hệ thống chỉ tiêu thống kê quốc gia và gửi cho cơ quan thống kê quốc gia công bố.”.	Bảo đảm quy định phù hợp với đề xuất bỏ Điều 47 của Luật Thống kê 2015
+Điều 48. Công bố thông tin thống kê nhà nước	25. Sửa đổi, bổ sung điểm a khoản 2 Điều 48 như sau:	
+2. Thẩm quyền công bố thông tin thống kê được quy định như sau:
+a) Thủ trưởng cơ quan thống kê Trung ương công bố thông tin thống kê thuộc hệ thống chỉ tiêu thống kê quốc gia;	“a) Thủ trưởng cơ quan thống kê quốc gia công bố thông tin thống kê thuộc hệ thống chỉ tiêu thống kê quốc gia và hệ thống chỉ tiêu thống kê liên quan đến nhiều ngành, nhiều lĩnh vực, liên kết vùng do Thủ tướng Chính phủ ban hành;”.	Phù hợp với quy định tại khoản 9 Điều 1 dự thảo Luật sửa đổi
+Điều 49. Phổ biến thông tin thống kê nhà nước	26. Sửa đổi, bổ sung khoản 5 Điều 49 như sau:	
+5. Chính phủ quy định chi tiết về việc phổ biến thông tin thống kê nhà nước.	“5. Thủ trưởng cơ quan thống kê quốc gia ban hành quy chế phổ biến thông tin thống kê nhà nước thuộc hệ thống tổ chức thống kê tập trung.”.	Khoản 1 Điều 4 Nghị định số 130/2025/NĐ-CP
+Điều 50. Nghiên cứu, ứng dụng phương pháp thống kê tiên tiến	27. Sửa đổi, bổ sung khoản 3 Điều 50 như sau:	
+3. Bộ trưởng Bộ Kế hoạch và Đầu tư tổ chức, điều phối hoạt động nghiên cứu, ứng dụng phương pháp thống kê tiên tiến trong hoạt động thống kê nhà nước. Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Chánh án Tòa án nhân dân tối cao, Viện trưởng Viện kiểm sát nhân dân tối cao, Tổng Kiểm toán nhà nước, Chủ tịch Ủy ban nhân dân cấp tỉnh, cấp huyện tổ chức thực hiện việc nghiên cứu, ứng dụng các phương pháp thống kê tiên tiến đối với ngành, lĩnh vực, địa bàn mình quản lý.	“3. Thủ trưởng cơ quan thống kê quốc gia tổ chức, điều phối hoạt động nghiên cứu, ứng dụng phương pháp thống kê tiên tiến trong hoạt động thống kê nhà nước. Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Chánh án Tòa án nhân dân tối cao, Viện trưởng Viện kiểm sát nhân dân tối cao, Tổng Kiểm toán nhà nước, Chủ tịch Ủy ban nhân dân cấp tỉnh tổ chức thực hiện việc nghiên cứu, ứng dụng các phương pháp thống kê tiên tiến đối với ngành, lĩnh vực, địa bàn mình quản lý.”.	Khoản 3 Điều 4 Nghị định số 130/2025/NĐ-CP
+Điều 51. Phát triển và ứng dụng công nghệ thông tin - truyền thông	28. Sửa đổi, bổ sung tên Điều 51 và khoản 1 Điều 51 như sau:
+a) Sửa đổi, bổ sung tên Điều 51 như sau:
+“Điều 51. Ứng dụng công nghệ thông tin - truyền thông và chuyển đổi số”	Phù hợp với quy định tại Nghị quyết số 57-NQ/TW, ngày 22/12/2024 của Bộ Chính trị về đột phá phát triển khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số quốc gia (sau đây viết gọn là Nghị quyết số 57-NQ/TW)
+1. Nhà nước ưu tiên đầu tư phát triển và ứng dụng công nghệ thông tin - truyền thông tiên tiến trong hoạt động thống kê nhà nước bao gồm: 
+a) Hệ thống cơ sở hạ tầng thông tin của hệ thống tổ chức thống kê nhà nước;
+
+b) Hệ thống cơ sở dữ liệu thống kê quốc gia tập trung, thống nhất do cơ quan thống kê Trung ương quản lý, gồm các cơ sở dữ liệu thống kê của hệ thống thống kê tập trung và các cơ sở dữ liệu thống kê được hình thành từ nguồn dữ liệu hành chính quy định tại Luật này; kết nối hệ thống cơ sở dữ liệu thống kê quốc gia với các cơ sở dữ liệu quốc gia khác, cơ sở dữ liệu bộ, ngành để cung cấp, cập nhật thông tin;
+c) Hệ thống cơ sở dữ liệu thống kê của bộ, ngành và kết nối với hệ thống cơ sở dữ liệu thống kê quốc gia;
+d) Phần mềm ứng dụng;
+đ) Các phương tiện, phương pháp thu thập và phổ biến thông tin tiên tiến gồm máy tính bảng, điện thoại thông minh, máy tính xách tay, phiếu điện tử, phiếu thu thập thông tin trực tuyến, công nghệ ảnh vệ tinh, hệ thống thông tin địa lý và các phương tiện, phương pháp thu thập, phổ biến thông tin thống kê tiên tiến khác.
+3. 3. Bộ trưởng Bộ Kế hoạch và Đầu tư tổ chức, điều phối hoạt động phát triển và ứng dụng công nghệ thông tin - truyền thông thống nhất, bảo đảm đồng bộ hóa, tin học hóa, quy trình hóa trong hoạt động thống kê nhà nước. Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Chánh án Tòa án nhân dân tối cao, Viện trưởng Viện kiểm sát nhân dân tối cao, Tổng Kiểm toán nhà nước, Chủ tịch Ủy ban nhân dân cấp tỉnh, cấp huyện tổ chức thực hiện việc phát triển, ứng dụng công nghệ thông tin - truyền thông trong hoạt động thống kê của bộ, ngành, địa phương.	b) Sửa đổi, bổ sung khoản 1 như sau:
+1. Nhà nước ưu tiên đầu tư phát triển khoa học công nghệ, đổi mới sáng tạo và chuyển đổi số trong hoạt động thống kê nhà nước bao gồm:
+a) Hệ thống cơ sở hạ tầng thông tin của hệ thống tổ chức thống kê nhà nước đáp ứng yêu cầu về an toàn thông tin, bảo mật dữ liệu và an ninh mạng;
+b) Kết nối cơ sở dữ liệu thống kê quốc gia với các cơ sở dữ liệu quốc gia khác, cơ sở dữ liệu bộ, ngành để cung cấp, cập nhật thông tin;
+
+c) Cơ sở dữ liệu thống kê của bộ, ngành;
+
+d) Phần mềm ứng dụng;
+đ) Các phương tiện, phương pháp thu thập, xử lý, tích hợp, phân tích và phổ biến thông tin tiên tiến.
+
+3. Bộ trưởng Bộ Tài chính tổ chức, điều phối hoạt động phát triển và ứng dụng công nghệ thông tin - truyền thông thống nhất, bảo đảm đồng bộ hóa, tin học hóa, quy trình hóa trong hoạt động thống kê nhà nước. Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Chánh án Tòa án nhân dân tối cao, Viện trưởng Viện kiểm sát nhân dân tối cao, Tổng Kiểm toán nhà nước, Chủ tịch Ủy ban nhân dân cấp tỉnh tổ chức thực hiện việc phát triển, ứng dụng công nghệ thông tin - truyền thông và chuyển đổi số trong hoạt động thống kê của bộ, ngành, địa phương.	Phù hợp với quy định của các luật liên quan: Nghị quyết số 57-NQ/TW, Luật Dữ liệu, luật An ninh mạng,…
+	29. Bổ sung Điều 53 sau Điều 52 như sau:
+“Điều 53. Cơ sở dữ liệu thống kê quốc gia
+1. Cơ sở dữ liệu thống kê quốc gia do cơ quan thống kê quốc gia chủ trì xây dựng, quản lý và cập nhật.
+2. Cơ sở dữ liệu thống kê quốc gia được cập nhật định kỳ từ các nguồn: điều tra thống kê, chế độ báo cáo thống kê, dữ liệu hành chính, các cơ sở dữ liệu quốc gia và các nguồn hợp pháp khác.
+3. Cơ sở dữ liệu thống kê quốc gia được kết nối, chia sẻ với cơ sở dữ liệu thống kê bộ, ngành và cơ sở dữ liệu quốc gia khác. Khi kết nối, chia sẻ dữ liệu phải bảo đảm bảo mật và an toàn thông tin theo quy định.”.	Phù hợp với quy định của các luật liên quan: Nghị quyết số 57-NQ/TW, Luật Dữ liệu, luật An ninh mạng,…
+Điều 62. Hệ thống tổ chức thống kê tập trung	30. Sửa đổi, bổ sung một số khoản của Điều 62 như sau:	
+3. Cơ quan thống kê Trung ương là cơ quan thống kê quốc gia, thực hiện chức năng tham mưu giúp Bộ trưởng Bộ Kế hoạch và Đầu tư quản lý nhà nước về thống kê, điều phối hoạt động thống kê, tổ chức các hoạt động thống kê và cung cấp thông tin thống kê kinh tế - xã hội cho các tổ chức, cá nhân.	a) Sửa đổi, bổ sung khoản 3 như sau:
+“3. Cơ quan thống kê quốc gia thực hiện chức năng tham mưu giúp Bộ trưởng Bộ Tài chính quản lý nhà nước về thống kê; tổ chức thực hiện hoạt động thống kê; điều phối hoạt động thống kê; cung cấp thông tin thống kê kinh tế - xã hội cho các cơ quan, tổ chức, cá nhân theo quy định; trung tâm kết nối, tích hợp, quản lý thống nhất cơ sở dữ liệu thống kê quốc gia; dự báo, xây dựng các kịch bản kinh tế vĩ mô ngắn hạn, trung hạn, dài hạn.”.	Nghị định số 29/2025/NĐ-СР ngày 24/2/2025 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính (được sửa đổi, bổ sung bởi Nghị định số 166/2025/NĐ-CP ngày 30/6/2025 của Chính phủ)
+4. Cơ quan thống kê địa phương gồm cơ quan thống kê cấp tỉnh và cơ quan thống kê cấp huyện.	b) Sửa đổi, bổ sung khoản 4 như sau:
+“4. Cơ quan thống kê địa phương gồm cơ quan thống kê tỉnh, thành phố trực thuộc trung ương và cơ quan thống kê cơ sở.”.	- Phù hợp với việc sắp xếp đơn vị hành chính theo mô hình chính quyền địa phương 2 cấp
+- Nghị định số 166/2025/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 29/2025/NĐ-СР ngày 24/2/2025 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính
+5. Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của hệ thống tổ chức thống kê tập trung.	c) Sửa đổi, bổ sung khoản 5 như sau:
+“5. Bộ trưởng Bộ Tài chính quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của hệ thống tổ chức thống kê tập trung.”.	Nghị quyết số 18-NQ/TW và Nghị quyết 190/2025/QH15
+Điều 64. Hoạt động thống kê tại đơn vị hành chính cấp xã	31. Sửa đổi, bổ sung Điều 64 như sau:	
+Ủy ban nhân dân cấp xã chịu trách nhiệm tổ chức thực hiện công tác thống kê phục vụ yêu cầu quản lý của cấp xã, thực hiện điều tra thống kê và chế độ báo cáo thống kê của nhà nước.	“Điều 64. Hoạt động thống kê tại đơn vị hành chính cấp xã
+Ủy ban nhân dân cấp xã chịu trách nhiệm tổ chức thực hiện công tác thống kê theo quy định phục vụ yêu cầu quản lý của cấp xã; phối hợp, thực hiện điều tra thống kê và chế độ báo cáo thống kê của nhà nước.”.	Phù hợp với tổ chức chính quyền địa phương 2 cấp
+Điều 66. Người làm công tác thống kê	32. Sửa đổi, bổ sung khoản 1 Điều 66 như sau:	
+1. Người làm công tác thống kê gồm người làm công tác thống kê trong hệ thống tổ chức thống kê nhà nước, người làm thống kê ở cấp xã, cơ quan nhà nước, đơn vị sự nghiệp công lập và điều tra viên thống kê.	“1. Người làm công tác thống kê gồm người làm công tác thống kê trong hệ thống tổ chức thống kê nhà nước, người làm thống kê ở ủy ban nhân dân cấp xã, cơ quan nhà nước, đơn vị sự nghiệp công lập và điều tra viên thống kê.”.	Phù hợp với tổ chức chính quyền địa phương 2 cấp
+	33. Bãi bỏ, thay thế một số cụm từ như sau:
+a) Bãi bỏ cụm từ “, cấp huyện” tại khoản 3 Điều 13; khoản 2, khoản 3, khoản 4 Điều 22; khoản 1 Điều 42; điểm d khoản 2 Điều 48; khoản 3 Điều 51; khoản 3 Điều 52; khoản 2 Điều 59.
+b) Thay thế cụm từ “Cơ quan thống kê Trung ương” bằng cụm từ “Cơ quan thống kê quốc gia” tại điểm b khoản 2 Điều 13; khoản 1, khoản 5 của Điều 20; khoản 2 Điều 21; khoản 1, khoản 5 Điều 26; điểm a khoản 2 Điều 29; khoản 1, Điều 32; điểm a khoản 6 Điều 35; khoản 3 Điều 37; Điều 39; khoản 1, khoản 5 Điều 43; khoản 2 Điều 46; điểm a, khoản 2 Điều 48; Điều 53; Điều 54; khoản 3 Điều 55; khoản 6 Điều 58; Điều 59.
+c) Thay thế cụm từ “Bộ Kế hoạch và Đầu tư” bằng cụm từ “Bộ Tài chính” tại khoản 2 Điều 7; khoản 3 Điều 13; khoản 6 Điều 17; khoản 4 Điều 22; khoản 4 Điều 24; khoản 2 Điều 28; khoản 3 Điều 51; khoản 3 Điều 52; khoản 3 Điều 60.
+d) Thay thế cụm từ “cấp huyện” bằng cụm từ “cấp xã” tại khoản 4 Điều 12.	- Phù hợp với việc sắp xếp đơn vị hành chính theo mô hình chính quyền địa phương 2 cấp
+- Nghị định số 166/2025/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 29/2025/NĐ-СР ngày 24/2/2025 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính
+- Nghị quyết số 18-NQ/TW và Nghị quyết 190/2025/QH15
+	34. Bãi bỏ Điều 47.	Cơ quan thống kê quốc gia không được tham gia toàn bộ quá trình thu thập, xử lý thông thông tin thống kê của bộ, ngành cho nên khó bảo đảm năng lực thẩm định
+LUẬT SỐ 01/2021/QH15 SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU VÀ PHỤ LỤC DANH MỤC CHỈ TIÊU THỐNG KÊ QUỐC GIA CỦA LUẬT THỐNG KÊ	LUẬT SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA LUẬT THỐNG KÊ SỐ 89/2015/QH13 VÀ LUẬT SỐ 01/2021/QH15 SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU VÀ PHỤ LỤC DANH MỤC CHỈ TIÊU THỐNG KÊ 
+QUỐC GIA CỦA LUẬT THỐNG KÊ	THUYẾT MINH
+	Điều 2. Sửa đổi, bổ sung một số điều của Luật số 01/2021/QH15 sửa đổi, bổ sung một số điều và phụ lục danh mục chỉ tiêu thống kê quốc gia của Luật Thống kê	
+Điều 1. Sửa đổi, bổ sung một số điều và Phụ lục Danh mục chỉ tiêu thống kê quốc gia của Luật Thống kê
+1. Sửa đổi, bổ sung khoản 6 Điều 17 như sau:
+“6. Bộ trưởng Bộ Kế hoạch và Đầu tư chủ trì, phối hợp với bộ, ngành và địa phương thực hiện các nhiệm vụ sau đây:
+a) Xây dựng, trình Chính phủ ban hành nội dung chỉ tiêu thống kê thuộc hệ thống chỉ tiêu thống kê quốc gia và quy trình biên soạn chỉ tiêu tổng sản phẩm trong nước, chỉ tiêu tổng sản phẩm trên địa bàn tỉnh, thành phố trực thuộc trung ương;
+b) Hướng dẫn, kiểm tra tình hình và báo cáo kết quả thực hiện hệ thống chỉ tiêu thống kê quốc gia;
+c) Định kỳ 05 năm, rà soát quy mô tổng sản phẩm trong nước báo cáo Chính phủ để trình Quốc hội xem xét, quyết định về việc đánh giá lại quy mô tổng sản phẩm trong nước.”.	1. Sửa đổi, bổ sung, bãi bỏ một số khoản của Điều 1 như sau:
+a) Sửa đổi, bổ sung khoản 1 như sau:
+“1. Sửa đổi, bổ sung khoản 6 Điều 17 như sau:
+“6. Bộ trưởng Bộ Tài chính chủ trì, phối hợp với bộ, ngành và địa phương thực hiện các nhiệm vụ sau đây:
+a) Ban hành quy trình biên soạn chỉ tiêu tổng sản phẩm trong nước, chỉ tiêu tổng sản phẩm trên địa bàn tỉnh, thành phố trực thuộc trung ương;
+b) Hướng dẫn, kiểm tra tình hình và báo cáo kết quả thực hiện hệ thống chỉ tiêu thống kê quốc gia;
+c) Định kỳ 05 năm, rà soát quy mô tổng sản phẩm trong nước báo cáo Chính phủ để trình Quốc hội xem xét, quyết định về việc đánh giá lại quy mô tổng sản phẩm trong nước.”.”	Thống nhất với khoản 4 Điều 17 Luật này
+2. Sửa đổi, bổ sung điểm d khoản 2 Điều 48 như sau:
+“d) Người đứng đầu cơ quan thống kê cấp tỉnh công bố thông tin thống kê thuộc hệ thống chỉ tiêu thống kê cấp tỉnh, cấp huyện, cấp xã; đối với thông tin thống kê của chỉ tiêu thống kê cấp tỉnh là phân tổ của chỉ tiêu thống kê quốc gia phải thống nhất về chuyên môn, nghiệp vụ với cơ quan thống kê trung ương trước khi công bố.”.	b) Sửa đổi, bổ sung khoản 2 như sau:
+“2. Sửa đổi, bổ sung điểm d khoản 2 Điều 48 như sau:
+“d) Người đứng đầu cơ quan thống kê tỉnh, thành phố trực thuộc Trung ương công bố thông tin thống kê thuộc hệ thống chỉ tiêu thống kê cấp tỉnh, cấp xã; đối với thông tin thống kê của chỉ tiêu thống kê cấp tỉnh là phân tổ của chỉ tiêu thống kê quốc gia phải thống nhất về chuyên môn, nghiệp vụ với cơ quan thống kê quốc gia trước khi công bố.”.”	
+3. Thay thế Phụ lục Danh mục chỉ tiêu thống kê quốc gia ban hành kèm theo Luật Thống kê số 89/2015/QH13 bằng Phụ lục Danh mục chỉ tiêu thống kê quốc gia ban hành kèm theo Luật này.	c) Bãi bỏ khoản 3.	Danh mục chỉ tiêu thống kê quốc gia phản ánh tình tình kinh tế - xã hội của đất nước trong một thời kỳ nhất định. Vì vậy, danh mục này thường có sự thay đổi (thường là 5 năm) để kịp thời cung cấp thống tin phục vụ nhu cầu của Đảng, Nhà nước. Việc quy định danh mục chỉ tiêu thống kê quốc gia ban hành kèm theo Luật Thống kê dẫn đến khó khăn khi thay đổi danh mục chỉ tiêu.
+	Điều 3. Điều khoản thi hành
+1. Luật này có hiệu lực thi hành từ ngày       tháng       năm 2025.
+2. Chương trình điều tra thống kê quốc gia, chế độ báo cáo thống kê cấp quốc gia phục vụ biên soạn các chỉ tiêu thống kê quy định tại Luật số 01/2021/QH15 ngày 12 tháng 11 năm 2021 của Quốc hội sửa đổi, bổ sung một số điều và Phụ lục Danh mục chỉ tiêu thống kê quốc gia của Luật Thống kê, có hiệu lực đến ngày 01 tháng 7 năm 2026.

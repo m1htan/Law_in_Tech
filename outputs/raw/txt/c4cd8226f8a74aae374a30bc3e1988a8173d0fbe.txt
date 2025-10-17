@@ -1,0 +1,311 @@
+Tạp chí khoa học Đại học Thủ Dầu Một Số 6(55)-2021
+QUẢN LÝ NHÀ NƢỚC VỀ LƢU TRỮ TÀI LIỆU ĐIỆN TỬ
+CỦA CÁC CƠ QUAN, DOANH NGHIỆP
+Nguyễn Văn Báu(1)
+(1) Trường Đại học Khoa học Xã hội và Nhân văn
+Ngày nhận bài 15/8/2021; Ngày gửi phản biện 26/8/2021; Chấp nhận đăng 30/10/2021
+Liên hệ Email: bauussh@gmail.com
+https://doi.org/10.37550/tdmu.VJS/2021.06.243
+Tóm tắt
+Ở Việt Nam, những năm gần đây, Chính phủ cũng như các doanh nghiệp đã
+rất tích cực trong việc chuyển đổi từ cách làm việc thủ công sang phương pháp làm
+việc theo mô hình Chính phủ điện tử, văn phòng không giấy, doanh nghiệp chuyển
+đổi số. Bối cảnh công nghệ số đòi hỏi các văn bản pháp luật về bảo quản và lưu trữ
+tài liệu điện tử cũng cần thay đổi, bổ sung cho phù hợp với thực tế đang diễn ra. Bài
+viết này, chúng tôi tổng hợp, hệ thống các quy định về quản lý và lưu trữ tài liệu
+điện tử đối với các cơ quan, doanh nghiệp như là Luật Giao dịch điện tử, Luật Công
+nghệ Thông tin, Luật Lưu trữ, Luật Bảo hiểm, Luật Kế toán; Nghị định quy định chi
+tiết thi hành Luật Giao dịch điện tử về chữ ký số và dịch vụ chứng thực chữ ký số,
+Nghị định về thương mại điện tử, Nghị định quy định chi tiết thi hành một số điều
+của Luật Lưu trữ, Nghị định về công tác văn thư. Từ những văn bản pháp luật,
+nghiên cứu hệ thống các quy định về quản lý và lưu trữ tài liệu điện tử theo từng nội
+dung. Qua đó, có những nhận xét về thực trạng pháp luật đối với quản lý tài liệu
+điện tử hiện nay, bài viết cũng đặt ra một số nội dung trao đổi, những “khoảng
+trống” của pháp luật đối với quản lý tài liệu điện tử và một số quy định đến nay
+không còn phù hợp, để các cơ quan quản lý nhà nước tham khảo, bổ sung hoàn
+thiện.
+Từ khóa: lưu trữ tài liệu điện tử, quản lý tài liệu điện tử
+Abstract
+STATE MANAGEMENT ON STORAGE OF ELECTRONIC DOCUMENTS
+OF OFFICES, ENTERPRISES
+In Vietnam, in recent years, the Government as well as businesses has been
+very active in converting from manual work to working methods following the model
+of E-Government, paperless offices, digital transformation business. The context of
+digital technology requires that legal records on the preservation and storage of
+electronic records also need to be changed, supplemented to consistent with the
+actual happening. In this article, we summarize and systemize regulations on
+21
+http://doi.org/10.37550/tdmu.VJS/2021.06.243
+management and archiving of electronic records for agencies and businesses such as
+the Law on Electronic Transactions, the Law on Information Technology, the Law on
+Archives, Law on Insurance, Law on Accounting; The Decree details the
+implementation of the Law on Electronic Transactions on digital signatures and
+digital signature authentication services, the Decree on e-commerce, the Decree
+details the implementation of a number of articles of the Law on Archives, Decree on
+clerical work. From legal records, study the system of regulations on management
+and archiving of electronic records according to each content. Thereby, there are
+comments on the current legal status of electronic records management, the article
+also sets out some exchange contents, the "space" of the law for electronic records
+management. regulations and a number of regulations so far are no longer
+appropriate, for state management agencies to refer to, supplement and complete.
+1. Đặt vấn đề
+Trong những năm qua, Chính phủ rất quan tâm và coi trọng việc ứng dụng công
+nghệ tin học vào giải quyết công việc, Chính phủ đã ban hành Nghị quyết 36a/NQ-CP
+ngày 14/10/2015 về Chính phủ điện tử “Văn phòng không giấy”. Để phục vụ hoạt động
+của văn phòng điện tử, các văn bản giấy cần được scan, số hóa,… Trước đây, khi sử
+dụng văn bản giấy, người lãnh đạo nhận thông tin từ cơ quan cấp trên hoặc từ đối tác
+phải qua nhiều địa chỉ trung gian (bưu điện, dịch vụ chuyển fax, văn thư đơn vị). Tổ
+chức văn phòng điện tử, tài liệu gửi qua kết nối mạng người lãnh đạo nhận văn bản trực
+tiếp từ các cơ quan gửi (hoặc cùng lúc với văn thư đơn vị). Nếu thông tin qua tài liệu
+giấy cần nhiều thời gian mới tới được lãnh đạo thì tài liệu điện tử chỉ cần tính bằng giờ,
+bằng phút. Điều này góp phần quan trọng vào hoạt động tổ chức quản lý và thực hiện
+công việc chuyên môn của cơ quan, doanh nghiệp.
+Sử dụng tài liệu điện tử giải quyết công việc, cơ quan, doanh nghiệp giảm bớt
+nhân lực, giảm bớt chi phí. Ngoài ra, việc xử lý công việc cũng “mở” hơn không còn
+những giới hạn về không gian, thời gian và nhiều giới hạn khác. Sử dụng tài liệu giấy,
+không được mang khỏi văn phòng công việc chỉ giải quyết trong giờ hành chính, sử
+dụng tài liệu điện tử công việc giải quyết ở mọi lúc, mọi nơi. Sử dụng tài liệu điện tử
+công việc không chỉ tăng năng suất, giảm chi phí mà còn có tác dụng rất lớn trong việc
+quản lý và lưu trữ về sau. Công việc kết thúc lưu trữ tài liệu điện tử một cách dễ dàng và
+đặc biệt là không cần nhiều chi phí cho việc đầu tư giá kệ, phòng kho bảo quản tài liệu.
+Điều này cũng đồng nghĩa giảm chi phí cho hoạt động lưu trữ.
+Quản lý nhà nước về lưu trữ tài liệu điện tử được thể hiện qua nhiều nội dung như
+là ban hành các văn bản pháp luật về lưu trữ tài liệu; đảm bảo cơ sở vật chất, thiết bị
+bảo quản tài liệu; tổ chức và thực hiện các nghiệp vụ chuyên môn về lưu trữ tài liệu
+điện tử; thanh tra, kiểm tra và xử lý vi phạm pháp luật về lưu trữ tài liệu điện tử. Nghiên
+cứu này, chúng tôi tập trung trình bày các quy định về quản lý lưu trữ tài liệu điện tử
+22
+Tạp chí khoa học Đại học Thủ Dầu Một Số 6(55)-2021
+trong các văn bản luật, nghị định về giao dịch, lưu trữ tài liệu điện tử.
+2. Tổng quan tài liệu và phƣơng pháp nghiên cứu
+2.1. Tài liệu nghiên cứu
+Để trình bày quản lý nhà nước về lưu trữ tài liệu điện tử bài viết căn cứ vào các
+văn bản luật, nghị định, thông tư về tài liệu điện tử. Cụ thể: Luật Giao dịch điện tử số
+51/2005/QH11 ngày 29/11/2005 (Luật Giao dịch điện tử); Luật Công nghệ thông tin số
+67/2006/QH11 ngày 29/6/2006 (Luật Công nghệ thông tin); Luật Lưu trữ số
+01/2013/QH13 ngày 11/11/2011 (Luật Lưu trữ); Luật Kế toán số 88/2015/QH13, ngày
+20/11/2015 (Luật Kế toán) và các nghị định quy định về lưu trữ tài liệu điện tử. Các
+nghị định có Nghị định số 26/2007/NĐ-CP của Chính phủ ban hành ngày 15/02/2007
+quy định chi tiết thi hành Luật Giao dịch điện tử về chữ ký số và dịch vụ chứng thực
+chữ ký số (Nghị định số 26/2007/NĐ-CP); Nghị định số 64/2007/NĐ-CP ngày
+10/4/2007 của Chính phủ về ứng dụng công nghệ thông tin trong hoạt động của các cơ
+quan nhà nước (Nghị định số 64/2007/NĐ-CP); Nghị định số 71/2007/NĐ-CP của
+Chính phủ ban hành ngày 03/05/2007 quy định chi tiết và hướng dẫn thực hiện một số
+điều của Luật Công nghệ thông tin về công nghiệp Công nghệ thông tin (Nghị định số
+71/2007/NĐ-CP); Nghị định số 01/2013/NĐ-CP ngày 03/01/2013 của Chính phủ quy
+định chi tiết thi hành một số điều của Luật Lưu trữ (Nghị định số 01/2013/NĐ-CP);
+Nghị định số 30/2020/NĐ-CP ngày 05/3/2007 của Chính phủ định về công tác văn thư
+(Nghị định số 30/2020/NĐ-CP); Nghị quyết 36a/NQ-CP ngày 14/10/2015 của Chính
+phủ về Chính phủ điện tử.
+Với mục đích đánh giá thực trạng công tác lập hồ sơ điện tử tại các cơ quan, tổ
+chức và cơ sở pháp lý về lập hồ sơ điện tử; cơ sở hạ tầng công nghệ thông tin; trình độ,
+kỹ năng tin học của công chức, viên chức; trách nhiệm, thói quen xử lý công việc trên
+môi trường mạng. Năm 2016, Cục Văn thư và Lưu trữ nhà nước tổ chức Hội thảo khoa
+học với chủ đề Thực tiễn lập hồ sơ điện tử tại các cơ quan, tổ chức ở Việt Nam. Tại
+Hội thảo đã có nghiên cứu Quy định pháp luật về quản lý tài liệu điện tử – cơ sở của
+việc lập hồ sơ điện tử trong các cơ quan, tổ chức. Nghiên cứu cũng đã có nhận xét
+“Trong các luật và văn bản hướng dẫn còn quy định chung chung, chưa có các chế định,
+quy định và chế tài xử phạt đối với các cơ quan, tổ chức, cá nhân không ứng dụng việc
+trao đổi, quản lý hoặc làm hạn chế sự phát triển giao dịch điện tử, quản lý tài liệu điện
+tử.
+2.2. Phương pháp nghiên cứu
+Để thực hiện nghiên cứu quản lý nhà nước đối với tài liệu điện tử trong các cơ
+quan, doanh nghiệp bài viết đặt câu hỏi: Thứ nhất, pháp luật đã quy định về lưu trữ tài
+liệu điện tử như thế nào? Thứ hai, tại sao cần nghiên cứu những quy định về quản lý tài
+liệu điện tử và pháp luật về quản lý tài liệu điện tử có gì bất cập cần thay đổi?
+Trả lời câu hỏi thứ nhất, nghiên cứu tổng hợp các quy định về quản lý và lưu trữ
+tài liệu điện tử từ Luật Lưu trữ, Luật Công nghệ thông tin, Luật Giao dịch điện tử, Luật
+23
+http://doi.org/10.37550/tdmu.VJS/2021.06.243
+Kế toán, các nghị định của Chính phủ hướng dẫn luật, quy định về tài liệu điện tử hoặc
+trong các văn bản các bộ ban hành.
+Trả lời câu hỏi thứ hai, nghiên cứu lấy thực tiễn quản lý tài liệu điện tử trong các
+cơ quan để đối chiếu với các quy định về quản lý tài liệu điện tử trong các văn bản pháp
+luật để thấy được những “khoảng trống” của pháp luật về nội dung này. Từ đó cho thấy
+được những quy định pháp luật kịp thời hay “lạc hậu” so với thực tiễn.
+3. Quy định về quản lý tài liệu điện tử trong các văn bản pháp luật
+Về trách nhiệm quản lý tài liệu điện tử quy định người đứng đầu cơ quan, tổ chức
+có trách nhiệm chỉ đạo thực hiện việc quản lý tài liệu lưu trữ điện tử theo quy định của
+pháp luật. Người làm lưu trữ có trách nhiệm tham mưu, đề xuất cho người đứng đầu cơ
+quan, tổ chức thực hiện đúng quy định của pháp luật về lưu trữ tài liệu điện tử. Người
+trực tiếp theo dõi, giải quyết công việc có trách nhiệm thực hiện các quy định về tạo lập,
+quản lý, lập hồ sơ điện tử trong quá trình theo dõi, giải quyết công việc và giao nộp hồ
+sơ, tài liệu, điện tử vào lưu trữ cơ quan (Chính phủ, 2013).
+Các hành vi bị nghiêm cấm đó là truy cập, thay đổi, giả mạo, sao chép, tiết lộ, gửi,
+hủy trái phép tài liệu lưu trữ điện tử; Tạo ra hoặc phát tán chương trình phần mềm làm
+rối loạn, thay đổi, phá hoại hệ thống điều hành hoặc có hành vi khác nhằm phá hoại
+phương tiện quản lý tài liệu lưu trữ điện tử (Chính phủ, 2013).
+Về hồ sơ và lập hồ sơ điện tử được quy định, Hồ sơ điện tử là tập hợp các tài liệu
+điện tử có liên quan với nhau về một vấn đề, một sự việc, một đối tượng cụ thể hoặc có
+đặc điểm chung, hình thành trong quá trình theo dõi, giải quyết công việc thuộc phạm vi
+chức năng, nhiệm vụ của cơ quan, tổ chức, cá nhân (Chính phủ, 2013).
+Xác định giá trị tài liệu lưu trữ điện tử được quy định, Tài liệu lưu trữ điện tử được
+xác định giá trị theo nguyên tắc, phương pháp và tiêu chuẩn xác định giá trị nội dung như
+tài liệu lưu trữ trên các vật mang tin khác và phải đáp ứng các yêu cầu sau: Bảo đảm độ tin
+cậy, tính toàn vẹn và xác thực của thông tin chứa trong tài liệu điện tử kể từ khi tài liệu điện
+tử được khởi tạo lần đầu dưới dạng một thông điệp dữ liệu hoàn chỉnh; Thông tin chứa
+trong tài liệu lưu trữ điện tử có thể truy cập, sử dụng được dưới dạng hoàn chỉnh (Chính
+phủ, 2013).
+Thu thập tài liệu lưu trữ điện tử vào Lưu trữ cơ quan được thực hiện theo quy
+trình: Lưu trữ cơ quan thông báo cho đơn vị giao nộp tài liệu Danh mục hồ sơ nộp lưu;
+Lưu trữ cơ quan và đơn vị giao nộp tài liệu thống nhất về yêu cầu, phương tiện, cấu trúc
+và định dạng chuyển; Đơn vị, cá nhân giao nộp hồ sơ và dữ liệu đặc tả kèm theo; Lưu
+trữ cơ quan kiểm tra để bảo đảm hồ sơ nhận đủ và đúng theo Danh mục, dạng thức và
+cấu trúc đã thống nhất; liên kết chính xác dữ liệu đặc tả với hồ sơ; kiểm tra virút; Lưu
+trữ cơ quan chuyển hồ sơ vào hệ thống quản lý tài liệu lưu trữ điện tử của cơ quan và
+thực hiện các biện pháp sao lưu dự phòng; Lập hồ sơ về việc nộp lưu tài liệu lưu trữ
+điện tử vào Lưu trữ cơ quan (Chính phủ, 2013).
+24
+Tạp chí khoa học Đại học Thủ Dầu Một Số 6(55)-2021
+Về bảo đảm an toàn, bảo mật và lưu trữ thông tin điện tử hình thành từ hoạt động tổ
+chức, quản lý của cơ quan được quy định Bảo đảm bí mật thông tin liên quan đến giao
+dịch điện tử, không được sử dụng thông tin vào mục đích khác trái với quy định về việc
+sử dụng thông tin đó, không tiết lộ thông tin cho bên thứ ba theo quy định của pháp luật.
+Bảo đảm tính toàn vẹn của thông điệp dữ liệu trong giao dịch điện tử do mình tiến hành;
+bảo đảm an toàn trong vận hành của hệ thống mạng máy tính của cơ quan mình (Quốc
+hội, 2005).
+Về bảo quản tài liệu lưu trữ điện tử, tài liệu lưu trữ điện tử phải được bảo quản an
+toàn và được chuyển đổi theo công nghệ phù hợp. Lưu trữ cơ quan, Lưu trữ lịch sử phải
+thường xuyên kiểm tra, sao lưu để bảo đảm an toàn, tính toàn vẹn, khả năng truy cập
+của tài liệu lưu trữ điện tử và sử dụng các biện pháp kỹ thuật để việc phân loại, lưu trữ
+được thuận lợi nhưng phải bảo đảm không thay đổi nội dung tài liệu. Phương tiện lưu
+trữ tài liệu lưu trữ điện tử phải được bảo quản trong môi trường lưu trữ thích hợp (Chính
+phủ, 2013). Quy định việc sử dụng và lưu trữ chứng từ điện tử là phải được quản lý,
+kiểm tra chống các hình thức lợi dụng khai thác, xâm nhập, sao chép, đánh cắp hoặc sử
+dụng chứng từ điện tử không đúng quy định. Chứng từ điện tử được quản lý như tài liệu
+kế toán ở dạng nguyên bản mà nó được tạo ra, gửi đi hoặc nhận nhưng phải có đủ thiết
+bị phù hợp để sử dụng (Quốc hội, 2015).
+Về bảo đảm an toàn và bảo mật tài liệu lưu trữ điện tử quy định cơ quan, tổ chức
+có trách nhiệm định kỳ kiểm tra và bảo đảm an toàn hệ thống quản lý tài liệu điện tử.
+Cơ quan, tổ chức thực hiện các biện pháp bảo đảm an ninh, an toàn và bảo mật phù hợp
+với quy định của pháp luật trong việc quản lý tài liệu lưu trữ điện tử (Chính phủ, 2013).
+Về giao nộp hồ sơ, tài liệu điện tử vào lưu trữ cơ quan, pháp luật quy định, cá
+nhân được giao nhiệm vụ giải quyết công việc và lập hồ sơ thực hiện nộp lưu hồ sơ điện
+tử vào Lưu trữ cơ quan trên Hệ thống. Lưu trữ cơ quan có trách nhiệm kiểm tra, nhận hồ
+sơ theo danh mục; liên kết chính xác dữ liệu đặc tả với hồ sơ; tiếp nhận và đưa hồ sơ về
+chế độ quản lý hồ sơ lưu trữ điện tử trên Hệ thống (Chính phủ, 2013).
+Về việc sử dụng tài liệu lưu trữ điện tử quy định cơ quan, tổ chức có trách nhiệm
+đăng tải thông tin về quy trình, thủ tục, chi phí thực hiện dịch vụ sử dụng tài liệu lưu trữ
+điện tử trên trang tin điện tử của cơ quan, tổ chức (Chính phủ, 2013).
+Về hủy tài liệu lưu trữ điện tử hết giá trị quy định tài liệu lưu trữ điện tử hết giá trị
+được hủy theo thẩm quyền, thủ tục như tài liệu lưu trữ trên các vật mang tin khác hết giá
+trị. Việc hủy tài liệu lưu trữ điện tử phải được thực hiện đối với toàn bộ hồ sơ thuộc
+Danh mục tài liệu hết giá trị đã được phê duyệt và phải bảo đảm thông tin đã bị hủy
+không thể khôi phục lại được (Chính phủ, 2013).
+Pháp luật đã quy định những nội dung của quản lý tài liệu điện tử như là sự hình
+thành của tài liệu điện tử, văn bản điện tử, giá trị pháp lý của văn bản điện tử, tính xác
+thực tài liệu điện tử, chữ ký điện tử, trách nhiệm của các cơ quan, tổ chức cá nhân đối
+với quản lý tài liệu điện tử, thiết bị lưu trữ tài liệu điện tử. Pháp luật cũng quy định các
+25
+http://doi.org/10.37550/tdmu.VJS/2021.06.243
+nội dung về chuyên môn lưu trữ tài liệu điện tử như là xác định giá trị tài liệu, lập hồ sơ,
+thu thập tài liệu lưu trữ, tiếp nhận tài liệu lưu trữ bảo quản tài liệu lưu trữ loại hủy tài
+liệu, giao nộp tài liệu, sử dụng tài liệu và các nội dung xử phạt vi phạm về tài liệu điện
+tử. Ngoài ra, pháp luật cũng quy định các biện pháp bảo đảm quyền và nghĩa vụ của cơ
+quan, tổ chức, cá nhân tham gia hoạt động ứng dụng và phát triển công nghệ thông tin,
+cung cấp thông tin và dịch vụ công trực tuyến trên trang thông tin điện tử hoặc cổng
+thông tin điện tử và các điều kiện bảo đảm hoạt động cho cổng thông tin điện tử của cơ
+quan nhà nước, quy định về hoạt động công nghiệp công nghệ thông tin, các biện pháp
+bảo đảm phát triển công nghiệp công nghệ thông tin, quy định việc áp dụng tiêu chuẩn
+định dạng tài liệu mở trong việc đăng tải, trao đổi, lưu trữ thông tin số của cơ quan
+nhà nước.
+4. Những vấn đề đặt ra đối với lƣu trữ tài liệu điện tử của các cơ quan,
+doanh nghiệp
+Hiện tại, quản lý và lưu trữ tài liệu điện tử của các cơ quan doanh nghiệp được quy
+định trong các văn bản pháp luật về công nghệ thông tin, giao dịch điện từ, về ứng dụng
+thông tin trong hoạt động của cơ quan nhà nước, về công tác văn thư, lưu trữ. Những điều
+khoản của văn bản pháp luật chuyên ngành công nghệ thông tin về quản lý tài liệu điện tử
+là những quy định cơ bản. Các hoạt động quản lý tài liệu điện tử, tổ chức tài liệu điện tử
+và lưu trữ tài liệu điện tử được quy định “tập trung” tại Nghị định số 30/2020/NĐ-CP về
+công tác văn thư và Nghị định số 01/2013/NĐ-CP chi tiết thi hành một số điều của Luật
+Lưu trữ.
+Pháp luật quy định quản lý tài liệu điện tử, nhưng không giải thích khái niệm tài
+liệu điện tử, hiện tại có khái niệm văn bản điện tử, tài liệu lưu trữ điện tử. Khái niệm này
+được hiểu đồng nghĩa với tài liệu điện tử? Nghị định 30/2020/NĐ-CP giải thích “Văn bản
+điện tử” là văn bản dưới dạng thông điệp dữ liệu được tạo lập hoặc được số hóa từ văn
+bản giấy và trình bày đúng thể thức, kỹ thuật, định dạng theo quy định” giải thích yêu cầu
+các tiêu chí về thể thức, kỹ thuật trình bày, Luật Giao dịch 51/2005/QH11(Điều 15) quy
+định: “Nội dung của thông điệp dữ liệu đó được lưu trong chính khuôn dạng mà nó được
+khởi tạo, gửi, nhận hoặc trong khuôn dạng cho phép thể hiện chính xác nội dung dữ liệu
+đó; Thông điệp dữ liệu đó được lưu trữ theo một cách thức nhất định cho phép xác định
+nguồn gốc khởi tạo, nơi đến, ngày giờ gửi hoặc nhận thông điệp dữ liệu”. Chúng tôi cho
+rằng để quản lý và thực hiện chuyên môn về lưu trữ tài liệu điện rất cần hiểu thống nhất
+khái niệm này.
+Nghị định số 01/2013/NĐ-CP quy định đầy đủ những nội dung về quản lý và chuyên
+môn về lưu trữ tài liệu điện tử như là nguồn gốc, hình thức của tài liệu lưu trữ điện tử, xác
+định giá trị tài liệu lưu trữ điện tử, thu thập tài liệu lưu trữ điện tử, bảo quản tài liệu lưu trữ
+điện tử, sử dụng tài liệu lưu trữ điện tử, bảo đảm an toàn và bảo mật tài liệu lưu trữ điện tử,
+hủy tài liệu lưu trữ điện tử hết giá trị, các hành vi bị nghiêm cấm. Các quy định này được
+26
+Tạp chí khoa học Đại học Thủ Dầu Một Số 6(55)-2021
+“phiên bản” từ quản lý tài liệu giấy. Tuy nhiên, đặc điểm của tài liệu điện tử khác với tài
+liệu giấy vì vậy các nghiệp vụ chuyên môn về lưu trữ tài liệu điện tử cũng không thể vận
+dụng máy móc. Rất cần có quy định, hướng dẫn cụ thể để các cơ quan, doanh nghiệp thực
+hiện được tốt. Nếu không sẽ dẫn tới việc áp dụng máy móc các nghiệp vụ lưu trữ tài liệu
+điện tử gây khó khăn và ảnh hưởng đến cấu trúc dữ liệu điện tử. Tài liệu giấy của cơ quan,
+doanh nghiệp cần loại hủy (tài liệu hết giá trị, tài liệu trùng thừa, tài liệu dự thảo,…). Tuy
+nhiên, những dự thảo, trùng thừa, hết giá trị của tài liệu điện tử có cần loại hủy không? Đó
+cũng là câu hỏi, nội dung cần nghiên cứu, trao đổi kỹ để có những quy định phù hợp.
+Pháp luật hiện hành quy định giá trị pháp lý của văn bản điện tử tương tự văn bản
+giấy. Nghị định 30/2020/NĐ-CP quy định, “Văn bản điện tử được ký số bởi người có
+thẩm quyền và ký số của cơ quan, tổ chức theo quy định của pháp luật có giá trị pháp lý
+như bản gốc văn bản giấy”; Nghị định số 01/2013/NĐ-CP quy định, “Văn bản điện tử
+phù hợp với pháp luật về giao dịch điện tử có giá trị pháp lý tương đương với văn bản
+giấy trong giao dịch giữa các cơ quan nhà nước”. Tuy nhiên, thực tế cơ quan chức năng,
+đơn vị giải quyết công việc vẫn “nghi ngờ” tài liệu điện tử, gây khó khăn trong giải
+quyết công việc và lưu trữ hồ sơ, tài liệu. Chúng tôi cho rằng để đảm bảo “lộ trình” xây
+dựng Chính phủ điện tử, Chính phủ số pháp luật về quản lý tài liệu điện tử cần quy định
+rõ chế độ xử phạt đối với các hành vi vi phạm tài liệu điện tử. Pháp luật cũng cần quy
+định tính pháp lý của tài liệu điện tử trong công việc, công khai công việc bằng các
+“kênh điện tử“ trên hệ thống mạng của cơ quan để trao đổi văn bản...
+Ngày 14/10/2015, Chính phủ ban hành Nghị quyết 36a/NQ-CP về Chính phủ điện
+tử “văn phòng không giấy”. Nghị quyết số 17/NQ-CP, ngày 07/3/2019 của Chính phủ
+về một số nhiệm vụ, giải pháp trọng tâm phát triển Chính phủ điện tử giai đoạn 2019-
+2020, định hướng đến 2025 xác định mục tiêu giai đoạn 2021-2025: 100% Cổng Dịch
+vụ công, hệ thống thông tin một cửa điện tử cấp bộ, cấp tỉnh được kết nối, chia sẻ dữ
+liệu với Cổng Dịch vụ công quốc gia. Những năm gần đây, trong các văn bản của Đảng,
+Chính phủ đặt mục tiêu xây dụng xã hội số, Chính phủ số. Từ “xu thế thời đại” Chính
+phủ đã xây dựng đề án và hướng dẫn đối với lưu trữ điện tử tại lưu trữ cơ quan: Bảo
+đảm tối thiểu 80% tài liệu lưu trữ tại các cơ quan nhà nước được tạo lập dạng điện tử
+theo quy định của pháp luật về giao dịch điện tử và lưu trữ điện tử (trừ những trường
+hợp pháp luật có quy định khác); Bảo đảm tối thiểu 90% Lưu trữ cơ quan thực hiện quy
+trình khai thác, sử dụng tài liệu lưu trữ trong môi trường mạng. Mục tiêu đặt ra yêu cầu
+cần nhanh chóng hoàn thiện các quy định pháp luật về tổ chức và quản lý tài liệu điện tử
+của các cơ quan, doanh nghiệp được hiệu quả, góp phần tích cực vào việc xây dựng xã
+hội số, chính phủ số thúc, đẩy sự phát triển xã hội như trong các nghị quyết của Đảng và
+Chỉnh phủ đặt ra.
+5. Kết luận
+Cuộc cách mạng khoa học công nghệ lần thứ Tư đã và đang diễn ra trên phạm vi
+27
+http://doi.org/10.37550/tdmu.VJS/2021.06.243
+toàn cầu, đòi hỏi mỗi cơ quan, doanh nghiệp cần ứng dụng các thành tựu về công nghệ
+số để không bị bỏ lại phía sau. Việc ứng dụng công nghệ số đã sản sinh ra một khối
+lượng lớn tài liệu điện tử, những tài liệu này cần được bảo quản phục vụ hoạt động quản
+lý nhà nước. Để thực hiện được mục đích đó trước hết cần có một hệ thống pháp luật rõ
+ràng, đầy đủ về quản lý tài liệu điện tử. Bài viết đã hợp các văn bản pháp luật về hoạt
+động của các “cơ quan điện tử”. Qua đó tập hợp, hệ thống lại các quy định về quản lý và
+lưu trữ tài liệu điện tử trong các cơ quan, doanh nghiệp. Từ những thông tin tổng hợp,
+bài viết cũng chỉ ra những nội dung còn thiếu, chưa hợp lý hoặc chưa đầy và có những
+trao đổi để các cơ quan chức năng, thấy được những quy định cần thay đổi, bổ sung
+chỉnh sửa. Là cơ sở đào tạo về lưu trữ học, chúng tôi hy vọng trong thời gian tới, các cơ
+quan chức năng tổ chức hội thảo, tọa đàm khoa học để đánh giá, tổng kết đầy đủ, toàn
+diện thực trạng quá trình thực hiện, để xây dựng, ban hành văn bản quy định về lưu trữ
+tài liệu điện tử của các cơ quan, doanh nghiệp một cách khoa học và hợp lý, đáp ứng
+yêu cầu quản lý, lưu trữ, bảo quản, khai thác, sử dụng thông tin, tài liệu điện tử trong
+bối cảnh tổ chức Chính phủ điện tử, doanh nghiệp số đang diễn ra hiện nay.
+TÀI LIỆU THAM KHẢO
+[1] Chính phủ (2013). Nghị định quy định chi tiết thi hành một số điều của Luật Lưu trữ. Số
+01/2013/NĐ-CP, ngày 03/01/2013.
+[2] Chính phủ (2006). Nghị định về thương mại điện tử. Số 57/2006/NĐ-CP, ngày 09/6/2006.
+[3] Chính phủ (2007). Nghị định quy định chi tiết thi hành Luật Giao dịch điện tử về chữ ký số
+và dịch vụ chứng thực chữ ký số. Số 26/2007/NĐ-CP, ngày 15/02/2007.
+[4] Chính phủ (2020). Nghị định về công tác văn thư. Số 30/2020/NĐ-CP, ngày 05/3/2020.
+[5] Nguyễn Văn Báu, Nguyễn Phạm Ngọc Hân, Lê Thị Vị, Hà Minh Minh Đức (2020). Quản lý
+văn bản và Lưu trữ hồ sơ doanh nghiệp. Nxb Tổng hợp Thành phố Hồ Chí Minh.
+[6] Phạm Anh Tuấn (2020). Chuyển đổi số (Dịch). Nxb Tổng hợp Thành phố Hồ Chí Minh.
+[7] Quốc hội (2005). Luật Giao dịch điện tử. Số 51/2005/QH11, ngày 29/11/2005.
+[8] Quốc hội (2011). Luật Lưu trữ. Số 01/2011/QH13 ngày 11/11/2011.
+[9] Quốc hội (2014). Luật Bảo hiểm. Số 58/2014/QH13, ngày 20/11/2014.
+[10] Quốc hội (2015). Luật Kế toán. Số 88/2015/QH13, ngày 20/11/2015.
+[11] Quốc hội (2016). Luật Công nghệ thông tin. Số 67/2006/QH11, ngày 29/6/2006.
+28

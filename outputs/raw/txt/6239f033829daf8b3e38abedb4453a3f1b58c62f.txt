@@ -1,0 +1,86 @@
+Xác định thuế tiêu thụ đặc biệt: Những vấn đề lý thuyết và hướng sửa đổi
+Thuế tiêu thụ đặc biệt là một sắc thuế thuộc loại thuế tiêu dùng, có ảnh hưởng trực tiếp đến giá cả hàng hóa và quan hệ cung cầu trên thị trường, từ đó tác động đến thu nhập và hành vi của người tiêu dùng cũng như người sản xuất. Các quốc gia thường sử dụng thuế tiêu thụ đặc biệt nhằm định hướng sản xuất và tiêu dùng, điều tiết thu nhập và góp phần thực hiện các mục tiêu kinh tế - xã hội cụ thể. Bài viết phân tích các cơ sở lý thuyết trong việc xác định cách tính thuế tiêu thụ đặc biệt, tổng hợp và đánh giá việc thiết lập chính sách thuế ở Việt Nam và một số quốc gia và đưa ra những hàm ý chính sách cho việc điều chỉnh các quy định về cách xác định thuế tiêu thụ đặc biệt ở Việt Nam trong thời gian tới.
+Cơ sở lý thuyết xác định thuế tiêu thụ đặc biệt 
+Tùy vào cách xác định thuế suất, việc xác định số thuế phải nộp của một sắc thuế tiêu dùng nói chung, thuế tiêu thụ đặc biệt (TTĐB) nói riêng được chia thành 3 cách thức cơ bản đó là: áp dụng thuế suất theo giá; áp dụng thuế suất theo đơn vị hàng hóa và áp dụng thuế suất hỗn hợp- vừa theo giá và vừa theo đơn vị. Cụ thể: 
+- Áp dụng thuế suất theo giá (còn gọi là thuế tương đối): Số thuế phải nộp sẽ được tính bằng một tỷ lệ phần trăm dựa trên giá cả hàng hóa dịch vụ. (Ví dụ: Giá bán một lon coca là 12.000đồng, thuế suất áp dụng là 10% thì số thuế phải nộp sẽ là 10% x 12.000 = 1200 đồng) 
+- Áp dụng thuế suất theo đơn vị (Thuế tuyệt đối): Mức thuế được xác định bằng một con số cụ thể dựa trên đơn vị hàng hóa là số lượng, trọng lượng, dung tích, thể tích... của hàng hóa. (Ví dụ: thuế bảo vệ môi trường: 8.000 đồng/lít xăng)
+- Áp dụng thuế hỗn hợp: Áp dụng đồng thời cả thuế suất theo tỷ lệ phần trăm và mức thuế theo đơn vị.
+Ngoài ra, có quốc gia còn áp dụng cách tính thuế lũy tiến: Mức thuế tăng lên theo mức độ tăng của cơ sở thuế (Ví du: Mức thuế tăng dựa trên dung tích của động cơ, lượng khí thải của động cơ hoặc theo nồng độ cồn...) 
+Việc tính thuế theo mỗi cách xác định thuế suất nêu trên có những ưu điểm và nhược điểm riêng, tùy vào định hướng và mục tiêu của nhà hoạch định chính sách trong từng giai đoạn nhất định. Cụ thể như sau: 
+Đối với cách tính thuế dựa trên thuế suất theo giá trị (thuế tương đối)
+Cách tính thuế này có thể có các ưu điểm sau:
+Thứ nhất, áp dụng thuế suất theo giá trị có thể đảm bảo công bằng hơn trong điều tiết thu nhập: Việc xác định số thuế phải nộp theo hình thức này được tính bằng một tỷ lệ phần trăm theo giá nên khi giá bán hàng hóa dịch vụ tăng lên thì số thuế thu được cũng tăng và do đó, những người tiêu dùng nhiều những hàng hóa dịch vụ này sẽ nộp thuế nhiều hơn. Do đối tượng chịu thuế TTĐB chỉ là một số ít hàng hóa dịch vụ có tính chất đặc biệt, đa số không thực sự thiết yếu và người tiêu dùng những hàng hóa dịch vụ này thường là những người có thu nhập cao nên việc tiêu dùng những hàng hóa dịch vụ (HHDV) này sẽ đóng góp số thu cho ngân sách nhà nước (NSNN) nhiều hơn, hay nói cách khác, việc đánh thuế TTĐB theo giá có thể giảm bớt tính lũy thoái của thuế TTĐB, góp phần đảm bảo công bằng trong điều tiết thu nhập của những người tiêu dùng có thu nhập cao.
+Thứ hai, việc xác định số thuế phải nộp bằng một tỷ lệ phần trăm nhất định trên giá có thể hạn chế sự ảnh hưởng của lạm phát đối với nguồn thu NSNN: Khi lạm phát tăng sẽ có ảnh hưởng trực tiếp đến giá cả hàng hóa dịch vụ, làm cho giá của hàng hóa dịch vụ có xu hướng tăng, dẫn đến số thuế thu được cũng tăng lên, đảm bảo giá trị thực số thu cho NSNN, giảm thiểu sự suy giảm thu ngân sách do lạm phát. 
+Tuy nhiên, để đảm bảo phát huy được đúng các ưu điểm của cách tính thuế nêu trên thì thông tin về giá bán phải rõ ràng, minh bạch và hệ thống quản lý giá có thể kiểm soát được. 
+Bên cạnh đó, việc áp dụng cách tính thuế này cũng có một số nhược điểm sau: 
+Thứ nhất, hầu hết các quốc gia áp dụng cơ chế tự khai tự tính tự nộp thuế nên việc kê khai giá bán hay doanh thu tiêu thụ do bản thân người nộp thuế cung cấp, vì vậy, nếu không có cơ chế quản lý tốt thì sẽ có thể có gian lận trong kê khai giá bán và khó quản lý giá trị/căn cứ tính thuế. 
+Thứ hai, số thu phụ thuộc vào giá cả HHDV: Số thu thuế khi áp dụng cách tính theo giá thường không ổn định, phụ thuộc vào sự thay đổi của giá cả hàng hóa dịch vụ. Mà giá cả hàng hóa dịch vụ phụ thuộc lớn vào cung cầu thị trường nên có thể sẽ gây ra một số khó khăn cho việc dự toán số thu cho NSNN và cân đối các nội dung chi. 
+Đối với cách tính thuế dựa trên đơn vị hàng hóa dịch vụ: 
+Các ưu điểm chính của cách tính thuế này bao gồm: 
+Thứ nhất, đơn giản trong quản lý: Việc xác định số lượng, trọng lượng, dung tích, thể tích của hàng hóa dịch vụ sẽ dễ dàng hơn so với xác định giá, vì vậy, công tác quản lý sẽ dễ dàng hơn. 
+Thứ hai, nguồn thu cho NSNN ổn định và có thể dự đoán được: Mặc dù số thu NSNN phụ thuộc vào đơn vị tính thuế nhưng doanh thu thuế có thể thu được sẽ dễ tính toán hơn và dễ dự đoán hơn do số lượng HHDV tiêu thụ có tính ổn định hơn. 
+Thứ ba, Chính phủ có thể tác động trực tiếp vào giá và cầu hàng hóa trong trường hợp cầu HHDV đó có độ co dãn so với giá: do mức thu được xác định là một con số nhất định nên khi áp dụng thuế theo đơn vị, có thể dễ dàng nhìn thấy giá bán hàng hóa tăng lên và cầu hàng hóa vì thế sẽ thay đổi một cách rõ nét hơn (theo lý thuyết thì khi giá tăng lên thì cầu sẽ giảm), như vậy, đảm bảo được việc thực hiện mục tiêu điều tiết của thuế TTĐB. 
+Tuy nhiên, khi thực hiện cách tính thuế này có thể phát sinh một số nhược điểm: 
+- Gia tăng tính chất lũy thoái của thuế TTĐB: Mức thuế là một con số thống nhất trên các hàng hóa có giá trị khác nhau nên tỷ suất thuế trên thu nhập (tỷ suất thuế bình quân) của những người có thu nhập cao sẽ thấp hơn so với người có thu nhập thấp và do đó, tính lũy thoái của thuế TTĐB theo cách tính theo đơn vị sẽ cao hơn so với cách tính theo giá.
+- Nguồn thu dễ bị ảnh hưởng bởi yếu tố lạm phát: Khi lạm phát gia tăng, giá cả của hàng hóa dịch vụ tăng nhưng số thuế thu được không thay đổi nên giá trị thực tế của khoản thu sẽ giảm. 
+- Khó khăn khi thuyết phục người dân: việc thu một mức thuế nhất định đối với hàng hóa dịch vụ có giá trị chênh lệch lớn sẽ khó được chấp nhận khi áp dụng vì gây cho người chịu thuế cảm giác không công bằng. 
+Tuy nhiên, cũng giống như hình thức áp dụng thuế theo giá, cách tính thuế này sẽ phát huy được thế mạnh của mình một cách hiệu quả nhất trong các điều kiện cụ thể sau: 
+Thứ nhất, khi giá trị hàng hóa không có sự chênh lệch đang kể theo đơn vị tính thuế.
+Thứ hai, khi khó xác định giá tính thuế/trị giá tính thuế. 
+Cách tính thuế theo Luật thuế Tiêu thụ đặc biệt ở Việt Nam
+Nguồn: Tác giả tổng hợp
+Nguồn: Tác giả tổng hợp
+Những năm qua, Luật thuế TTĐB ở Việt Nam đã từng bước được hoàn thiện. Các quy định về việc xác định số thuế TTĐB phải nộp hiện tại dựa trên các văn bản pháp luật cơ bản sau: Luật thuế TTĐB số 27/2008/QH12 hiệu lực thi hành từ ngày 01/4/2009. Luật số 70/2014/QH13 ngày 26/11/2014 của Quốc hội sửa đổi, bổ sung một số điều của Luật Thuế tiêu thụ đặc biệt, có hiệu lực kể từ ngày 01/01/2016.
+Luật số 71/2014/QH13 ngày 26/11/2014 của Quốc hội sửa đổi, bổ sung một số điều của các luật về thuế, có hiệu lực kể từ ngày 01/01/2015. Luật số 71/2004/QH13 sửa đổi quy định về tỷ giá khi xác định doanh thu bằng ngoại tệ tại Điều 6 của Luật thuế TTĐB số 27/2008/QH12, thay vào đó tỷ giá được xác định bằng tỷ giá giao dịch thực tế tại thời điểm phát sinh.
+Luật số 106/2016/QH13 ngày 06/4/2016 của Quốc hội sửa đổi, bổ sung một số điều của Luật Thuế GTGT, Luật Thuế TTĐB và Luật Quản lý thuế, có hiệu lực kể từ ngày 01/7/2016.
+Luật số 03/2022/QH15 ngày 11/01/2022 của Quốc hội có hiệu lực kể từ ngày 01/3/2022.
+Dựa trên các văn bản pháp luật này, việc xác định số thuế TTĐB mà người nộp thuế phải nộp dựa trên cách thứ nhất: Thuế TTĐB được tính trên cơ sở giá tính thuế của hàng hóa, dịch vụ chịu thuế và thuế suất thuế TTĐB của từng mặt hàng.
+Về giá tính thuế
+Giá tính thuế TTĐB đối với hàng hóa, dịch vụ là giá bán ra, giá cung ứng dịch vụ chưa có thuế TTĐB, chưa có thuế bảo vệ môi trường và chưa có thuế GTGT được quy định như sau:
+- Đối với hàng hóa sản xuất trong nước, hàng hóa nhập khẩu bán ra: giá tính thuế là giá chưa thuế GTGT, chưa thuế bảo vệ môi trường/(1+ thuế suất thuế TTĐB là giá do cơ sở sản xuất, cơ sở nhập khẩu bán ra.
+- Đối với hàng hóa nhập khẩu: Giá tính thuế là giá nhập khẩu cộng (+) thuế nhập khẩu (Nếu có).
+Về thuế suất
+Hiện nay, Việt Nam đang áp dụng thuế suất theo tỷ lệ phần trăm đối với tất cả các loại hàng hoá, dịch vụ chịu thuế TTĐB. Mức thuế suất thuế TTĐB khác nhau theo từng loại hàng hoá, dịch vụ, từ mức thuế suất thấp nhất là 5% đến mức thuế suất cao nhất là 150% tuỳ theo mức độ điều tiết của Nhà nước đối với mặt hàng đó.
+Như vậy, hiện nay quy định về cách tính thuế TTĐB ở Việt Nam dựa trên giá trị mà chưa áp dụng cách tính thuế theo đơn vị.
+Kinh nghiệm về cách tính thuế tiêu thụ đặc biệt ở một số quốc gia 
+Xu hướng hiện nay các quốc gia đang áp dụng cả 4 cách tính thuế TTĐB như đã phân tích, bao gồm: Thuế theo giá, thuế theo đơn vị, thuế hỗn hợp và thuế lũy tiến nhưng tùy theo từng mặt hàng cụ thể. Đối với các mặt hàng có giá trị lớn như ô tô thì hầu hết các nước đều áp thuế theo thuế suất tỷ lệ phần trăm (Trung Quốc, Thái Lan, Indonesia, Philippines..). Ngoài ra, một số quốc gia áp dụng biểu thuế lũy tiến theo giá trị bán ra của hàng hóa như mặt hàng ô tô, rượu, bia ở Philippines.
+Đối với mặt hàng như thuốc lá, theo điều tra của WHO công bố 2010 và 2016, khoảng 90% số nước (163/182 nước tại thời điểm điều tra) áp thuế TTĐB đối với thuốc lá điếu. Về cơ bản có ba phương thức đánh thuế chủ yếu: thuế suất theo tỷ lệ phần trăm; thuế tuyệt đối; và thuế hỗn hợp. Xu hướng hiện nay, ngày càng có nhiều quốc gia áp dụng thuế hỗn hợp đối với thuốc lá, số lượng các nước này tăng từ 51 nước năm 2010 lên 64 nước vào 2020.
+Thuế TTĐB đối với thuốc lá theo mức tuyệt đối: Trong ASEAN, có 6 nước áp dụng thuế suất tuyệt đối như: Brunei, Indonesia, Malaysia, Myanma, Philippines, Singapore.
+Thuế TTĐB đối với thuốc lá theo phương thức hỗn hợp, gồm cả mức thuế tuyệt đối và thuế suất theo tỷ lệ phần trăm: Đây là phương thức được nhiều nước áp dụng. Hầu hết các nước đang phát triển áp dụng thuế hỗn hợp (thuế tuyệt đối và thuế tỷ lệ). Ví dụ: Trung Quốc, Thái Lan.
+Đối với thuốc lá điện tử, shisha: có 71 quốc gia thu thuế TTĐB đối với thuốc lá điện tử, trong đó, 23 nước áp dụng thuế tuyệt đối, 07 nước áp dụng thuế theo tỷ lệ phần trăm, còn lại là các nước áp dụng thuế hỗn hợp cả tuyệt đối và phần trăm theo các tỷ lệ giống nhau. Nhìn chung, các nước này áp thuế đối với thuốc lá điện tử ở mức ngang bằng với thuốc lá truyền thống.
+Như vậy, có thể thấy, việc áp dụng cách tính thuế TTĐB theo giá mặc dù có những ưu điểm nhất định nhưng chưa thực sự đảm bảo được mục tiêu định hướng sản xuất và hướng dẫn tiêu dùng của thuế TTĐB.
+Một số đề xuất hoàn thiện chính sách thuế tiêu thụ đặc biệt
+Để đảm bảo các quy định về thuế TTĐB ở Việt Nam phù hợp với thông lệ quốc tế và phát huy được tối đa mục tiêu của thuế TTĐB là hạn chế tiêu dùng các sản phẩm không có lợi cho sức khỏe và môi trường, xã hội, thời gian tới, cần nghiên cứu và bổ sung một số nội dung sau:
+Thứ nhất, bổ sung cách tính thuế theo đơn vị áp dụng đối với một số nhóm hàng hóa dịch vụ chịu thuế TTĐB, trước mắt, có thể áp dụng đối với mặt hàng thuốc lá (bao gồm cả thuốc lá điếu, xì gà.. và các sản phẩm thuốc lá điện tử) và có thể nghiên cứu để áp dụng mức thuế lũy tiến áp dụng đối với một số hàng hóa có tiêu thức xác định ngoại ứng rõ ràng.
+Căn cứ tính thuế TTĐB áp dụng phương pháp tính thuế tuyệt đối sẽ được xác định là số lượng đơn vị hàng hóa, dịch vụ chịu thuế và mức thuế tuyệt đối. Số thuế TTĐB phải nộp được xác định bằng số lượng hàng hóa, dịch vụ chịu thuế nhân với mức thuế tuyệt đối.
+Thứ hai, có thể bổ sung quy định về căn cứ tính thuế TTĐB áp dụng phương pháp tính thuế hỗn hợp là số thuế TTĐB phải nộp theo phương pháp tính thuế theo tỷ lệ phần trăm và phương pháp tính thuế tuyệt đối. Số thuế TTĐB mà một người nộp thuế phải nộp sẽ bằng tổng số thuế phải nộp theo cả hai phương pháp này.
+Các quy định này sẽ bao quát được hết các phương pháp tính thuế, tạo sự linh hoạt trong chính sách thuế. Tạo điều kiện để tăng thu NSNN khi có thêm các phương pháp tính thuế được áp dụng. Tuy nhiên, khi áp dụng bổ sung phương pháp tính thuế, mở rộng cơ sở thuế có thể làm tăng giá bán hàng hóa, tác động đến doanh thu của các mặt hàng chịu tác động chính sách và trong dài hạn có thể giảm cầu tiêu dùng, giảm thu NSNN.
+Thứ ba, bên cạnh việc điều chỉnh cách tính thuế TTĐB đối với mặt hàng thuốc lá điếu, xì gà như đã nêu thì có thể bổ sung các sản phẩm thuốc lá điện tử vào danh mục đối tượng chịu thuế TTĐB và sử dụng cách tính thuế giống như mặt hàng thuốc lá truyền thống.
+Tuy nhiên, để có thể áp dụng thuế TTĐB đối với thuốc lá điện tử, cần có các quy định hết sức cụ thể như: Khái niệm thế nào là thuốc lá điện tử, thuế suất tính theo giá hay theo đơn vị dung tích nguyên liệu sử dụng...
+Có một số ý kiến cho rằng việc tiêu thụ các sản phẩm thuốc lá thế hệ mới gây hại cho sức khỏe con người và gây lãng phí cho xã hội nên cần phải bị cấm sản xuất, nhập khẩu và sử dụng. Và việc áp dụng thuế TTĐB đối với mặt hàng này có thể coi như một sự thừa nhận tính hợp pháp của loại thuốc lá này. Tuy nhiên, việc lựa chọn để bổ sung cách tính thuế cũng như bổ sung đối tượng chịu thuế mới sẽ không chỉ nhằm đảm bảo tính phù hợp với các thông lệ quốc tế mà còn thể hiện tính hiện đại và tiên tiến của Luật thuế TTĐB, góp phần tăng thu cho NSNN và đảm bảo các mục tiêu điều tiết kinh tế của Nhà nước thông qua công cụ thuế.
+Tài liệu tham khảo:
+Nguyễn Thị Thanh Hoài (2021), Mở rộng cơ sở thuế gián thu ở Việt Nam, Đề tài Nghiên cứu khoa học cấp Học viện Tài chính; 
+Nguyễn Thị Thanh Hoài và Tôn Thu Hiền - đồng chủ biên (2019), Giáo trình Thuế, Học viện Tài chính, Nhà xuất bản Tài chính;
+Lê Thùy Linh (2020), Điều chỉnh chính sách thuế tiêu thụ đặc biệt để giảm sử dụng thuốc lá ở Việt Nam;
+IMF, Victor Thurony, Tax Law Design and Drafting (volume 1; International Monetary Fund: 1996; , ed.) Chapter 8, Excises;
+OECD (2012), “Consumption Tax Trends 2022, VAT/GST and Excise Rates, Trends and Administration Issues”.
+Tác giả: PGS. TS. Lý Phương Duyên - Khoa Thuế và Hải quan– Học viện Tài chính
+Nguồn: Tạp chí Tài chính điện tử
+Bảng 1: Tổng hợp ưu điểm và nhược điểm của từng cách tính thuế	Bảng 1: Tổng hợp ưu điểm và nhược điểm của từng cách tính thuế	Bảng 1: Tổng hợp ưu điểm và nhược điểm của từng cách tính thuế	Bảng 1: Tổng hợp ưu điểm và nhược điểm của từng cách tính thuế
+	Ưu điểm	Nhược điểm	Điều kiện áp dụng
+Cách xác định thuế theo giá	- Tăng cùng với việc tăng của cơ sở tính thuế, đảm bảo tính công bằng 
+- Hạn chế sự ảnh hưởng của lạm phát đối với Nguồn thu NSNN	- Khó quản lý giá trị/ căn cứ tính thuế
+- Số thu phụ thuộc vào giá cả HHDV	- Thông tin về giá rõ ràng, minh bạch
+- Hệ thống quản lý giá có thể kiểm soát
+Cách xác định thuế theo đơn vị	- Đơn giản trong quản lý 
+- Nguồn thu NSNN ổn định và có thể dự đoán
+- Có thể tác động trực tiếp vào giá và cầu hàng hóa trong trường hợp cầu HHDV đó có độ co dãn so với giá	- Thu một con số thống nhất trên các hàng hóa có giá trị khác nhau nên có tính lũy thoái cao
+- Nguồn thu dễ bị ảnh hưởng bởi yếu tố lạm phát
+- Khó khăn khi thuyết phục người dân	- Khi giá trị hàng hóa không có sự chênh lệch đang kể theo đơn vị tính thuế
+- Khi khó xác định giá tính thuế/ trị giá tính thuế
+Bảng 2: Cách tính thuế tiêu thụ đặc biệt ở các nước ASEAN	Bảng 2: Cách tính thuế tiêu thụ đặc biệt ở các nước ASEAN	Bảng 2: Cách tính thuế tiêu thụ đặc biệt ở các nước ASEAN
+Sử dụng thuế theo đơn vị	Sử dụng thuế theo giá	Sử dụng tỷ lệ hỗn hợp
+Brunei	Campuchia	Malaysia
+Indonesia	CHDCND Lào	Philippines
+Philippines (Bia, Rượu, Thuốc lá, Nhiên liệu)	Myanma	Thái Lan (thuế theo giá hoặc thuế theo đơn vụ cao hơn đối với bia, rượu, rượu mạnh, nhiên liệu và thuốc lá)
+Singapore	Việt Nam

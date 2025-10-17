@@ -1,0 +1,556 @@
+LUẬT CHUYỂN ĐỔI SỐ
+Căn cứ Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam;
+Quốc hội ban hành Luật Chuyển đổi số.
+Chương I
+NHỮNG QUY ĐỊNH CHUNG
+Phạm vi điều chỉnh
+Luật này quy định về hoạt động chuyển đổi số; các biện pháp thúc đẩy, bảo đảm hoạt động chuyển đổi số; quyền và nghĩa vụ của tổ chức, cá nhân tham gia hoạt động chuyển đổi số tại Việt Nam; quản lý nhà nước về chuyển đổi số.
+Đối tượng áp dụng
+Luật này áp dụng đối với cơ quan, tổ chức, cá nhân trực tiếp tham gia hoặc có hoạt động liên quan đến chuyển đổi số tại Việt Nam.
+Giải thích từ ngữ
+1. Chuyển đổi số: là số hoá toàn diện, tạo ra môi trường số và tương tác với môi trường thực để thay đổi cách tổ chức hoạt động, cung cấp dịch vụ và tạo ra giá trị mới.
+2. Số hóa: là việc chuyển đổi thông tin, dữ liệu từ dạng vật lý sang dạng số.
+3. Bản sao số: là phiên bản số hóa phản ánh đầy đủ và chính xác trạng thái, hành vi, thông số kỹ thuật của một đối tượng, sự vật, hiện tượng, sự kiện trong thế giới thực, được cập nhật theo thời gian thực và có khả năng tương tác hai chiều với đối tượng, sự vật, hiện tượng, sự kiện trong thế giới thực. Quy định này không bao gồm việc chuyển đổi từ bản giấy sang thông điệp dữ liệu và ngược lại được quy định tại pháp luật về giao dịch điện tử.
+4. Hạ tầng cho chuyển đổi số là hạ tầng để chuyển đổi số toàn diện, phục vụ việc sản xuất, truyền đưa, thu thập, xử lý, lưu trữ và trao đổi dữ liệu số. Hạ tầng cho chuyển đổi số bao gồm hạ tầng số, hạ tầng số công cộng, hạ tầng công nghiệp công nghệ số, dữ liệu cho chuyển đổi số, hệ thống trí tuệ nhân tạo.
+5. Hạ tầng số là hạ tầng chiến lược quốc gia, bao gồm cơ sở hạ tầng viễn thông, trung tâm dữ liệu, điện toán đám mây, hạ tầng truyền dẫn cho kết nối máy tới máy, nền tảng quản lý và chia sẻ dữ liệu Internet vạn vật.
+6. Chuyển đổi số trong các cơ quan thuộc hệ thống chính trị: là việc thực hiện chuyển đổi số các cơ quan thuộc hệ thống chính trị để đổi mới phương thức hoạt động, nâng cao hiệu quả quản lý, điều hành, cung cấp dịch vụ công chất lượng hơn, nhanh hơn, chi phí thấp hơn; hoạt động minh bạch, hiệu quả, lấy người dân làm trung tâm.
+7. Kinh tế số: là hoạt động kinh tế sử dụng công nghệ số và dữ liệu số làm yếu tố đầu vào chính, sử dụng môi trường số làm không gian hoạt động chính, sử dụng công nghệ thông tin - viễn thông để tăng năng suất lao động, đổi mới mô hình kinh doanh và tối ưu hóa cấu trúc nền kinh tế.
+8. Xã hội số: là xã hội tích hợp công nghệ số một cách tự nhiên và mặc định vào mọi mặt đời sống, người dân được kết nối, có khả năng tương tác và thành thạo kỹ năng số để sử dụng các dịch vụ số, từ đó, hình thành các mối quan hệ mới trong môi trường số, hình thành thói quen số và văn hóa số.
+9. Nền tảng số là hệ thống thông tin được triển khai trên hạ tầng điện toán đám mây, cung cấp dưới dạng dịch vụ, cho phép hai hoặc nhiều bên tương tác, giao dịch với nhau, hoặc sử dụng để phát triển sản phẩm, dịch vụ. Nền tảng số bao gồm:
+- Nền tảng số chuyên ngành. 
+- Nền tảng số trung gian.
+10. Nền tảng số chuyên ngành là nền tảng số được xây dựng và vận hành để hỗ trợ hoạt động chuyển đổi số chuyên sâu trong một ngành hoặc lĩnh vực cụ thể, nhằm nâng cao hiệu quả quản lý, điều hành và cung cấp dịch vụ công hoặc dịch vụ kinh doanh. Chủ quản nền tảng số là bên duy nhất cung cấp dịch vụ cho toàn bộ người sử dụng.
+11. Nền tảng số trung gian là nền tảng số trong đó chủ quản nền tảng đóng vai trò là bên trung gian, tạo môi trường kết nối giữa bên cung cấp dịch vụ hoặc sản phẩm với bên có nhu cầu sử dụng
+12. Công dân số: là người dân có quốc tịch Việt Nam, có khả năng tìm kiếm, truy cập, sử dụng, tạo thông tin một cách hiệu quả; tham gia đối thoại, trao đổi với người khác và trao đổi nội dung số một cách chủ động, phản biện, có đạo đức; đồng thời tham gia vào môi trường trực tuyến một cách an toàn, có trách nhiệm, với ý thức đầy đủ về quyền của bản thân.
+13. Nhân lực số: là lực lượng lao động trong mọi ngành, lĩnh vực có sử dụng hoặc được công nghệ số hỗ trợ để thực hiện công việc, bao gồm cả các chuyên gia trong lĩnh vực công nghệ số và người lao động trong các lĩnh vực khác.
+14. Kỹ năng số: là tập hợp các kiến thức, kỹ năng và thái độ cần thiết để sử dụng công nghệ số một cách tự tin, có tư duy phản biện và có trách nhiệm cho các mục đích học tập, làm việc và tham gia vào hoạt động của xã hội.
+15. Văn hóa số: là hệ thống các giá trị, niềm tin, chuẩn mực và các thực hành xã hội đặc trưng được hình thành, biểu hiện và lan tỏa trong môi trường số, bao gồm cách thức con người tương tác, giao tiếp, sáng tạo, chia sẻ thông tin và tham gia vào các hoạt động xã hội thông qua công nghệ số.
+Chính sách của Nhà nước về chuyển đổi số
+1. Xác định chuyển đổi số là đột phá chiến lược hàng đầu, lấy người dân và doanh nghiệp làm trung tâm, chủ thể và động lực. Nhà nước giữ vai trò kiến tạo thể chế, dẫn dắt và thúc đẩy quá trình chuyển đổi số quốc gia theo hướng nhanh, bền vững, bao trùm và an toàn.   
+2. Ưu tiên đầu tư từ ngân sách nhà nước và huy động nguồn lực xã hội để xây dựng, hiện đại hóa hạ tầng cho chuyển đổi số bảo đảm tính đồng bộ, an toàn, bền vững và xanh.   
+3. Đổi mới toàn diện phương thức hoạt động của các cơ quan trong hệ thống chính trị, hướng tới Chính phủ số hoạt động hiệu quả, minh bạch dựa trên dữ liệu và cung cấp dịch vụ công lấy người dùng làm trung tâm.   
+4. Thúc đẩy phát triển kinh tế số trở thành động lực tăng trưởng quan trọng thông qua việc hỗ trợ doanh nghiệp chuyển đổi số, đặc biệt là doanh nghiệp vừa và nhỏ, hộ kinh doanh, hợp tác xã thực hiện chuyển đổi số; khuyến khích đổi mới sáng tạo và phát triển các nền tảng số nội địa; đồng thời thiết lập môi trường cạnh tranh lành mạnh, bảo vệ quyền và lợi ích hợp pháp của người tiêu dùng và người lao động trên các nền tảng số.
+5. Xây dựng xã hội số công bằng, bao trùm và an toàn thông qua việc đưa ngôn ngữ số vào chương trình đào tạo bắt buộc phổ cập kỹ năng số toàn dân, khuyến khích học tập suốt đời; bảo đảm các quyền cơ bản của công dân số và kiến tạo môi trường mạng văn minh, lành mạnh.
+6. Ưu tiên nguồn lực quốc gia để bảo đảm các điều kiện thiết yếu cho chuyển đổi số, tập trung vào phát triển nhân lực số chất lượng cao; bảo đảm tài chính; làm chủ các công nghệ cho chuyển đổi số, đặc biệt thúc đẩy nghiên cứu, phát triển, ứng dụng và làm chủ công nghệ trí tuệ nhân tạo, coi đây là một yếu tố cốt lõi để bảo đảm chủ quyền số quốc gia; khai thác hiệu quả tài nguyên dữ liệu; và bảo đảm an toàn, an ninh, chủ quyền số quốc gia.   
+7. Hoàn thiện hệ thống quản lý nhà nước về chuyển đổi số theo hướng tinh gọn, hiệu lực, hiệu quả, đồng thời chủ động, tích cực hội nhập và hợp tác quốc tế.
+Các hành vi bị nghiêm cấm trong chuyển đổi số
+1. Lợi dụng chuyển đổi số để xâm phạm an ninh quốc gia, trật tự an toàn xã hội, đạo đức, thuần phong mỹ tục; tạo lập, lan truyền nội dung sai sự thật, xuyên tạc giá trị văn hóa, hoặc xúc phạm danh dự, nhân phẩm; quyền và lợi ích hợp pháp của tổ chức, cá nhân.
+2. Phát tán, tuyên truyền, lưu trữ, sử dụng trái phép dữ liệu số, công nghệ số phục vụ cho mục đích vi phạm pháp luật.
+3. Cản trở, can thiệp, phá hoại, làm sai lệch, chiếm đoạt, hủy hoại hạ tầng cho chuyển đổi số, các nền tảng số, cơ sở dữ liệu quốc gia, dữ liệu số của tổ chức, cá nhân, cơ quan nhà nước.
+4. Cản trở, gây khó khăn cho hoạt động chuyển đổi số hợp pháp của tổ chức, cá nhân, cơ quan, doanh nghiệp.
+5. Vi phạm quy định về bảo vệ dữ liệu cá nhân, an toàn thông tin, an ninh mạng trong quá trình triển khai chuyển đổi số.
+6. Lợi dụng nền tảng số, công nghệ số để thực hiện hành vi gian lận, lừa đảo, trục lợi hoặc sử dụng giao diện lừa đảo nhằm thao túng, ngăn cản người dùng đưa ra lựa chọn có hiểu biết và tự do.
+7. Tạo ra hoặc chỉnh sửa nội dung (văn bản, hình ảnh, âm thanh, video) bằng trí tuệ nhân tạo mà không dán nhãn rõ ràng, gây nhầm lẫn hoặc có mục đích lừa đảo.
+8. Lạm dụng vị trí thống lĩnh thị trường của nền tảng số để thực hiện các hành vi cạnh tranh không lành mạnh, theo pháp luật về cạnh tranh như: định giá không công bằng, phân biệt đối xử, tự ưu tiên sản phẩm, dịch vụ của nền tảng nhằm cản trở sự gia nhập thị trường, loại bỏ đối thủ cạnh tranh của các doanh nghiệp khác.
+9. Cán bộ, công chức, viên chức, người lao động trong các cơ quan thuộc hệ thống chính trị đưa vào hệ thống trí tuệ nhân tạo các thông tin thuộc danh mục bí mật Nhà nước, dữ liệu cá nhân chưa được sự đồng ý của chủ thể, hoặc thông tin nội bộ ảnh hưởng đến an ninh quốc gia, trật tự an toàn xã hội; sử dụng trí tuệ nhân tạo cho các hành vi vi phạm pháp luật như lừa đảo, tạo thông tin sai lệch, phá hoại hệ thống, hoặc xâm nhập trái phép vào hệ thống thông tin; khai thác trí tuệ nhân tạo tại nơi công cộng theo cách có thể rò rỉ thông tin; lưu trữ mật khẩu công vụ trên thiết bị hoặc nền tảng trí tuệ nhân tạo.
+Hoạt động chuyển đổi số
+1. Hoạt động chuyển đổi số bao gồm:
+a) Xây dựng, phát triển các yếu tố nền tảng cho chuyển đổi số; 
+b) Ứng dụng công nghệ số, dữ liệu số để xây dựng, phát triển chính phủ số và chuyển đổi số các cơ quan thuộc hệ thống chính trị, phát triển kinh tế số, phát triển xã hội số.
+2. Hoạt động xây dựng và phát triển các yếu tố nền tảng cho chuyển đổi số bao gồm:
+a) Số hóa thế giới thực là việc chuyển đổi các đối tượng, quy trình, hoạt động từ môi trường thực sang môi trường số, tạo ra các bản sao số để mô phỏng, phân tích và tối ưu hóa hoạt động. 
+b) Phát triển hạ tầng cho chuyển đổi số là việc xây dựng, phát triển các thành phần hạ tầng phục vụ nhu cầu chuyển đổi số quốc gia.
+c) Phát triển nền tảng số là việc xây dựng, phát triển các nền tảng số dùng chung phục vụ chuyển đổi số quốc gia.
+d) Quản trị dữ liệu số là thiết lập cơ chế thu thập, làm giàu, kết nối, chia sẻ và khai thác dữ liệu như một tài nguyên chiến lược, một tư liệu sản xuất mới.
+3. Chính phủ quy định chi tiết nội dung này.
+Giá trị pháp lý của bản sao số
+1. Bản sao số được công nhận giá trị pháp lý như bản gốc nếu đáp ứng đầy đủ các yêu cầu sau:
+a) Tính toàn vẹn và xác thực của dữ liệu trong quá trình số hóa;
+b) Tính thống nhất với bản gốc được số hóa;
+c) Tính truy xuất nguồn gốc và khả năng kiểm tra, xác minh bằng công nghệ phù hợp;
+d) Được số hóa bởi cơ quan, tổ chức, cá nhân có thẩm quyền hoặc theo quy trình được pháp luật công nhận.
+2. Việc công nhận giá trị pháp lý của bản sao số trong từng lĩnh vực cụ thể được quy định chi tiết tại các văn bản quy phạm pháp luật chuyên ngành, căn cứ vào đặc thù của từng lĩnh vực, bảo đảm:
+a) Tuân thủ các yêu cầu chung được quy định tại khoản 1 điều này;
+b) Phù hợp yêu cầu quản lý, nghiệp vụ, khả năng ứng dụng công nghệ, quy định đặc thù của pháp luật chuyên ngành.
+3. Chính phủ quy định chi tiết nội dung này.
+Chương II
+HẠ TẦNG CHO CHUYỂN ĐỔI SỐ
+Hạ tầng cho chuyển đổi số
+1. Hạ tầng số bao gồm:
+a) Cơ sở hạ tầng viễn thông theo quy định của pháp luật về viễn thông
+b) Trung tâm dữ liệu, điện toán đám mây theo quy định của pháp luật về viễn thông
+c) Hạ tầng truyền dẫn cho kết nối máy tới máy, nền tảng quản lý và chia sẻ dữ liệu Internet vạn vật.
+Trong từng thời kỳ, Bộ Khoa học và Công nghệ xây dựng trình Thủ tướng Chính phủ ban hành Chiến lược hạ tầng số, trong đó xác định các thành phần hạ tầng số, mục tiêu phát triển hạ tầng số, nhiệm vụ và giải pháp thực hiện.
+2. Hạ tầng số công cộng gồm nền tảng định danh, xác thực điện tử theo pháp luật về căn cước; nền tảng thanh toán số; hóa đơn điện tử; nền tảng tích hợp chia sẻ dữ liệu; hạ tầng chứng thực điện tử quốc gia theo quy định của Luật Giao dịch điện tử, hệ thống thông tin phục vụ giao dịch điện tử và các thành phần khác.
+3. Hạ tầng công nghiệp công nghệ số theo pháp luật về công nghiệp công nghệ số.
+4. Dữ liệu cho chuyển đổi số là dữ liệu hình thành từ việc số hóa và cơ chế quản lý, khai thác dữ liệu phục vụ chuyển đổi số.
+5. Hệ thống trí tuệ nhân tạo theo pháp luật công nghiệp công nghệ số.
+6. Chính sách của Nhà nước về phát triển hạ tầng cho chuyển đổi số  
+a)  Các dự án đầu tư phát triển hạ tầng cho chuyển đổi số được hưởng các cơ chế ưu đãi về đất đai, thuế, tín dụng và các cơ chế ưu đãi khác theo quy định của pháp luật về đầu tư, công nghệ cao, công nghiệp công nghệ số và pháp luật khác có liên quan.
+b) Nhà nước ưu tiên bố trí nguồn vốn ngân sách để đầu tư xây dựng các thành phần hạ tầng cho chuyển đổi số. Hạ tầng cho chuyển đổi số được nhà nước đầu tư là một loại tài sản kết cấu hạ tầng và được quản lý, khai thác, vận hành theo quy định của pháp luật về quản lý, sử dụng tài sản công.
+c) Tạo điều kiện cho tổ chức, cá nhân thuộc các thành phần kinh tế tham gia đầu tư, kinh doanh, phát triển hạ tầng số đáp ứng tiêu chí dung lượng siêu lớn, băng thông siêu rộng, phổ cập, bền vững, hiện đại, xanh, thông minh, mở và an toàn. Hạ tầng số, được ưu tiên đầu tư trước, đáp ứng yêu cầu phát triển kinh tế số, xã hội số, Chính phủ số, góp phần bảo đảm quốc phòng, an ninh. Trong từng thời kỳ, Bộ Khoa học và Công nghệ xây dựng, trình Thủ tướng Chính phủ ban hành Chiến lược hạ tầng số, trong đó xác định các thành phần hạ tầng số, mục tiêu phát triển hạ tầng số, nhiệm vụ và giải pháp thực hiện.
+Phát triển trung tâm dữ liệu, điện toán đám mây
+1. Đầu tư xây dựng trung tâm dữ liệu trí tuệ nhân tạo là ngành, nghề đặc biệt ưu đãi đầu tư, được hưởng ưu đãi, hỗ trợ theo quy định của pháp luật về công nghiệp công nghệ số, đầu tư; thuế; đất đai và pháp luật khác có liên quan. 
+2. Bộ Công Thương chủ trì, phối hợp với Bộ Khoa học và Công nghệ, các địa phương các cơ quan liên quan rà soát ban hành theo thẩm quyền hoặc đề xuất cấp có thẩm quyền điều chỉnh, bổ sung quy hoạch phát triển điện lực quốc gia để đảm bảo đáp ứng nguồn điện xanh, sạch, đảm bảo dự phòng cho các trung tâm dữ liệu ; chỉ đạo các đơn vị điện lực ưu tiên bố trí nguồn điện ổn định, chất lượng cao tại các khu vực được quy hoạch phát triển trung tâm dữ liệu, phù hợp với Quy hoạch hạ tầng thông tin và truyền thông, Chiến lược hạ tầng số và quy hoạch tỉnh.
+3. Ủy ban nhân dân cấp tỉnh có trách nhiệm bố trí quỹ đất phù hợp trong quy hoạch, kế hoạch sử dụng đất tại địa phương cho các dự án trung tâm dữ liệu, ưu tiên việc bố trí tại các khu công nghệ cao, khu công nghiệp công nghệ số và các khu vực có điều kiện thuận lợi về hạ tầng kỹ thuật trên cơ sở phù hợp với Quy hoạch hạ tầng thông tin và truyền thông, Chiến lược hạ tầng số và quy hoạch tỉnh.
+4. Các bộ, ngành, địa phương trong các hoạt động đầu tư, thuê, mua sắm ứng dụng công nghệ thông tin phục vụ hoạt động của cơ quan nhà nước có trách nhiệm đánh giá, ưu tiên xem xét phương án lựa chọn mô hình triển khai ứng dụng công nghệ thông tin trên nền tảng điện toán đám mây trên nguyên tắc hiệu quả, tối ưu hóa nguồn lực, bảo đảm an toàn thông tin, bảo mật dữ liệu, khả năng mở rộng và phù hợp với tính chất của hệ thống thông tin, mức độ nhạy cảm của dữ liệu.
+5. Bộ Khoa học và Công nghệ chủ trì xây dựng, ban hành các tiêu chuẩn quốc gia, quy chuẩn kỹ thuật quốc gia về trung tâm dữ liệu, quy định về công bố sự phù hợp của trung tâm dữ liệu với các tiêu chuẩn, quy chuẩn kỹ thuật đối với trung tâm dữ liệu.
+Phát triển hạ tầng truyền dẫn cho kết nối máy tới máy, nền tảng quản lý và chia sẻ dữ liệu Internet vạn vật
+1. Nhà nước khuyến khích và tạo điều kiện tích hợp thiết bị cảm biến và các ứng dụng công nghệ số khác vào hạ tầng thiết yếu như giao thông, năng lượng, cấp thoát nước, đô thị, tòa nhà công cộng, môi trường và hạ tầng kỹ thuật khác, bảo đảm sự vận hành rộng khắp, nâng cao năng suất lao động, tối ưu hóa sử dụng tài nguyên, tăng sự linh hoạt trong triển khai các hệ thống giúp giảm thiểu thời gian triển khai, nâng cao hiệu quả. 
+2. Việc triển khai các dự án tích hợp vào các công trình hạ tầng kỹ thuật quy định tại khoản 1 Điều này phải bảo đảm:
+a) Bảo đảm khả năng kết nối và chia sẻ dữ liệu thiết yếu phát sinh từ các hệ thống cảm biến, Internet vạn vật qua nền tảng dữ liệu dùng chung, tuân thủ quy định của pháp luật về dữ liệu và bảo vệ dữ liệu cá nhân;
+b) Đảm bảo tuân thủ tiêu chuẩn, quy chuẩn kỹ thuật liên quan, an toàn thông tin và khả năng mở rộng, tương thích, liên thông và vận hành liên tục giữa các hệ thống và thúc đẩy chuyển đổi số toàn diện trong từng lĩnh vực.
+3. Các bộ, cơ quan ngang bộ, Ủy ban nhân dân cấp tỉnh theo thẩm quyền quy định tại pháp luật có liên quan có trách nhiệm:
+a) Ban hành hoặc trình cấp có thẩm quyền ban hành quy định về công trình hạ tầng kỹ thuật thuộc phạm vi quản lý bắt buộc tích hợp thiết bị cảm biến và các ứng dụng công nghệ số khác, kèm theo lộ trình áp dụng phù hợp với Chiến lược hạ tầng số, các quy hoạch, chiến lược trong từng lĩnh vực;
+b) Các bộ, cơ quan ngang bộ ban hành tiêu chuẩn, quy chuẩn kỹ thuật, yêu cầu về kết nối, chia sẻ, khai thác phù hợp với từng lĩnh vực;
+c) Phối hợp với Bộ Khoa học và Công nghệ, Bộ Công an ban hành các tiêu chuẩn, quy chuẩn kỹ thuật, hướng dẫn để đảm bảo dữ liệu từ nền tảng quản lý và chia sẻ dữ liệu Internet vạn vật có khả năng kết nối, chia sẻ và khai thác thống nhất trên nền tảng dữ liệu dùng chung; ban hành tiêu chuẩn, quy chuẩn về an toàn thông tin đối với dữ liệu được tạo ra, xử lý, truy xuất từ hạ tầng vật lý - số. 
+4. Các dự án triển khai hạ tầng truyền dẫn cho kết nối máy tới máy, nền tảng quản lý và chia sẻ dữ liệu Internet vạn vật tại địa phương được hỗ trợ chi phí từ ngân sách địa phương theo quy định của pháp luật về ngân sách nhà nước và quy định của pháp luật có liên quan phù hợp với điều kiện của địa phương. 
+Phát triển hạ tầng số công cộng
+1. Hạ tầng số công cộng là hạ tầng thiết yếu phục vụ chuyển đổi số quốc gia, gồm các nền tảng số dùng chung có khả năng tương tác, kết nối mở, bảo đảm an toàn, phục vụ lợi ích công cộng và thúc đẩy phát triển chính phủ số, kinh tế số và xã hội số.
+2. Nhà nước có trách nhiệm thiết lập và bảo đảm vận hành hạ tầng số công cộng, bao gồm: 
+a) Ban hành tiêu chuẩn mở, quy chuẩn kỹ thuật, bảo đảm khả năng kết nối, liên thông và tái sử dụng; 
+b) Đầu tư, triển khai và duy trì vận hành các nền tảng cốt lõi, gồm: định danh số, thanh toán số, địa chỉ số và chia sẻ dữ liệu;
+c) Bảo đảm an toàn thông tin mạng, bảo vệ dữ liệu cá nhân, quyền riêng tư và chủ quyền số quốc gia;
+d) Thực hiện bảo trì, nâng cấp, mở rộng và tích hợp công nghệ mới, bảo đảm vận hành ổn định, liên tục
+3. Nhà nước khuyến khích tổ chức, doanh nghiệp tham gia phát triển, vận hành các thành phần của hạ tầng số công cộng theo mô hình đối tác công – tư (PPP), trên cơ sở tuân thủ tiêu chuẩn kỹ thuật, quy định bảo mật và bảo vệ dữ liệu
+4. Trên hạ tầng số công cộng, các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ và địa phương xây dựng nền tảng số chuyên ngành, phù hợp với chức năng, nhiệm vụ, bảo đảm hiệu quả, tiết kiệm, kết nối liên thông và phát triển dịch vụ số toàn diện.
+5. Hạ tầng số công cộng được vận hành theo nguyên tắc công bằng, minh bạch, không phân biệt đối xử; bảo đảm quyền tiếp cận bình đẳng giữa các cơ quan, tổ chức, doanh nghiệp và cá nhân; không tạo ra độc quyền hoặc lợi thế cạnh tranh không công bằng.
+6. Việc chia sẻ và khai thác hạ tầng số công cộng được thực hiện theo cơ chế cấp quyền sử dụng rõ ràng, minh bạch, có kiểm soát, bảo đảm an toàn hệ thống, quyền và lợi ích hợp pháp của các bên liên quan, đồng thời tạo điều kiện thuận lợi cho đổi mới sáng tạo.
+Phát triển dữ liệu cho chuyển đổi số
+1. Nhà nước có chính sách quản lý, thúc đẩy phát triển dữ liệu trong hoạt động chuyển đổi số, lấy người dân, doanh nghiệp làm trung tâm, nâng cao hiệu lực, hiệu quả quản trị trong nội bộ cơ quan nhà nước.
+2. Việc đầu tư, khai thác, quản lý, điều phối, kết nối, chia sẻ dữ liệu cho chuyển đổi số tuân theo quy định của pháp luật về dữ liệu, đầu tư và pháp luật liên quan.
+Phát triển hạ tầng công nghiệp công nghệ số, hệ thống trí tuệ nhân tạo cho chuyển đổi số
+Việc phát triển hạ tầng công nghiệp công nghệ số, hệ thống trí tuệ nhân tạo cho chuyển đổi số được hưởng các hỗ trợ, ưu đãi theo pháp luật công nghiệp công nghệ số và các quy định pháp luật liên quan.
+Chương III
+CHÍNH PHỦ SỐ VÀ CHUYỂN ĐỔI SỐ HOẠT ĐỘNG CÁC CƠ QUAN THUỘC HỆ THỐNG CHÍNH TRỊ
+Mục 1. NGUYÊN TẮC CHUYỂN ĐỔI SỐ
+Lấy người dùng làm trung tâm
+1. Cơ quan nhà nước có trách nhiệm phát triển dịch vụ công trên môi trường số trên cơ sở nghiên cứu nhu cầu, trải nghiệm của người dân, doanh nghiệp; ưu tiên giao diện thân thiện, truy cập dễ dàng, đa kênh và hỗ trợ đa thiết bị, giảm thiểu số bước, thao tác để hoàn thành giao dịch.
+2. Việc xây dựng chính sách, chương trình, dự án, dịch vụ công số phải có sự tham gia của người dùng cuối thông qua các hình thức lấy ý kiến công khai, khảo sát trực tuyến, thử nghiệm và đánh giá độc lập.
+3. Cơ quan nhà nước có trách nhiệm vận hành hệ thống phản hồi người dùng theo thời gian thực, tích hợp dữ liệu đánh giá chất lượng dịch vụ công để cải tiến liên tục, bảo đảm người dân là trung tâm của quá trình chuyển đổi số.
+Số hóa ngay từ đầu
+1. Mọi hoạt động của cơ quan nhà nước được thực hiện trên môi trường số theo nguyên tắc số là mặc định, giấy là ngoại lệ.
+2. Cơ quan nhà nước các cấp có trách nhiệm bảo đảm mọi chính sách, chiến lược, chương trình, đề án phát triển, hoạt động chuyển đổi và vận hành dịch vụ công đều phải được thiết kế, xây dựng và triển khai theo nguyên tắc số hóa ngay từ đầu, lấy công nghệ số, dữ liệu số làm nền tảng xuyên suốt.
+3. Quy trình hoạch định, soạn thảo, ban hành và tổ chức thực hiện chính sách, pháp luật, dịch vụ công phải được tích hợp đồng bộ các giải pháp công nghệ số, dữ liệu số, bảo đảm tự động hóa, số hóa toàn bộ quy trình.
+4. Cơ quan nhà nước có trách nhiệm:
+a) Công nhận hiệu lực pháp lý toàn diện của bản sao số, văn bản điện tử trong mọi giao dịch. 
+b) Định kỳ rà soát, đánh giá, cải tiến quy trình, giải pháp công nghệ số để đáp ứng yêu cầu phát triển, thích ứng linh hoạt với thay đổi của môi trường số.
+Quản lý dựa trên dữ liệu
+1. Cơ quan nhà nước có trách nhiệm tổ chức xây dựng, duy trì và phát triển dữ liệu số bảo đảm an toàn, bảo mật, tạo nền tảng vững chắc cho quản trị, vận hành hoạt động công vụ trên môi trường số.
+2. Cơ quan nhà nước có trách nhiệm xây dựng, hoàn thiện hệ thống văn bản quy phạm pháp luật, tiêu chuẩn, quy chuẩn kỹ thuật, quy chế, quy trình nội bộ nhằm bảo đảm quản lý, vận hành, khai thác và bảo vệ dữ liệu nhà nước một cách có hiệu lực, hiệu quả.
+3. Cơ quan nhà nước có trách nhiệm xây dựng, triển khai các công cụ nhằm bảo đảm khả năng truy cập, kết nối, chia sẻ và sử dụng lại dữ liệu giữa các cơ quan nhà nước cũng như với các tổ chức, cá nhân liên quan.
+4. Cơ quan nhà nước phải tổ chức vận hành, quản trị công vụ dựa trên việc thu thập, phân tích, xử lý và sử dụng dữ liệu số, bảo đảm các quyết định quản lý, chỉ đạo điều hành được thực hiện dựa trên minh chứng, số liệu khách quan, kịp thời.
+Chính phủ như một nền tảng
+1. Cơ quan nhà nước có trách nhiệm triển khai và sử dụng các nền tảng số dùng chung nhằm bảo đảm sự đồng bộ, thống nhất, giảm thiểu phân mảnh và tối ưu hiệu suất vận hành.
+2. Dịch vụ công phải được xây dựng theo mô hình mở, sử dụng kiến trúc linh hoạt, công khai dịch vụ chia sẻ dữ liệu, có khả năng tích hợp với các hệ thống khác để tạo thành chuỗi giá trị dịch vụ phục vụ người dân và doanh nghiệp.
+3. Cơ quan nhà nước khuyến khích tổ chức, doanh nghiệp và cộng đồng cùng phát triển, tích hợp hoặc sử dụng lại các thành phần, dịch vụ số từ các nền tảng số dùng chung của Nhà nước, bảo đảm tuân thủ tiêu chuẩn, quy chuẩn kỹ thuật và pháp luật hiện hành.
+Mặc định mở dữ liệu
+1. Cơ quan nhà nước có trách nhiệm công bố đầy đủ, chính xác, kịp thời thông tin về hoạt động, ngân sách, kết quả thực hiện chính sách và dữ liệu công mà pháp luật không cấm công khai để người dân dễ dàng truy cập, giám sát.
+2. Dữ liệu công không thuộc danh mục hạn chế phải được cung cấp dưới dạng dữ liệu mở, máy có thể đọc được, có thể truy cập tự động, tải về và sử dụng lại, góp phần thúc đẩy đổi mới sáng tạo, phát triển chính phủ số, kinh tế số, xã hội số.
+3. Cơ quan nhà nước có trách nhiệm thiết lập cơ chế giải trình việc từ chối công khai thông tin hoặc dữ liệu; định kỳ đánh giá, kiểm tra việc thực hiện quyền tiếp cận thông tin và dữ liệu công của người dân, tổ chức, doanh nghiệp.
+Chủ động phục vụ
+1. Cơ quan nhà nước phải xây dựng, triển khai các thủ tục hành chính, dịch vụ theo hướng tự động phát hiện và chủ động đề xuất dịch vụ phù hợp cho người dân, doanh nghiệp, cán bộ công chức, viên chức, người lao động dựa trên dữ liệu hiện có và ngữ cảnh của từng người sử dụng.
+2. Cơ quan nhà nước phải ứng dụng phân tích dữ liệu lớn, trí tuệ nhân tạo để phát hiện sớm xu hướng, rủi ro, nhu cầu mới phát sinh trong xã hội nhằm điều chỉnh chính sách và cung cấp dịch vụ công kịp thời.
+Mục 2. ỨNG DỤNG TRÍ TUỆ NHÂN TẠO TRONG CÁC CƠ QUAN THUỘC HỆ THỐNG CHÍNH TRỊ
+Nguyên tắc sử dụng hệ thống trí tuệ nhân tạo trong hoạt động công vụ
+1. Cán bộ, công chức, viên chức và người lao động trong cơ quan nhà nước khi sử dụng hệ thống trí tuệ nhân tạo, bao gồm mô hình ngôn ngữ lớn, phải tuân thủ pháp luật Việt Nam, đảm bảo an toàn, bảo mật và tôn trọng quyền con người.
+2. Việc sử dụng trí tuệ nhân tạo trong hoạt động công vụ phải phù hợp với thuần phong mỹ tục, đạo đức xã hội, và không gây ảnh hưởng tiêu cực đến uy tín, hoạt động của cơ quan, tổ chức.
+Cung cấp thông tin và sử dụng tài khoản trí tuệ nhân tạo
+1. Thông tin cung cấp cho hệ thống trí tuệ nhân tạo phải được kiểm soát, đảm bảo không vi phạm quyền sở hữu trí tuệ, bản quyền, chủ quyền lãnh thổ, hoặc các giá trị lịch sử, văn hóa của Việt Nam.
+2. Việc sử dụng tài khoản trí tuệ nhân tạo phải độc lập với tài khoản công vụ và không sử dụng các mật khẩu trùng lặp nhằm đảm bảo an toàn thông tin.
+Trách nhiệm của cơ quan, tổ chức, cá nhân trong quản lý hệ thống trí tuệ nhân tạo
+1. Cơ quan, đơn vị sử dụng trí tuệ nhân tạo có trách nhiệm tổ chức đào tạo, hướng dẫn cán bộ sử dụng đúng chức năng, mục đích; bảo đảm quản lý truy cập, phân quyền và bảo mật tài khoản; trường hợp phát hiện mất kiểm soát hoặc giả mạo tài khoản trí tuệ nhân tạo, cần phải thông báo kịp thời đến đơn vị triển khai để xử lý và báo cáo lên cơ quan chức năng.
+2. Cơ quan, đơn vị sử dụng trí tuệ nhân tạo có trách nhiệm giám sát, xử lý vi phạm trong quá trình triển khai và sử dụng trí tuệ nhân tạo trong phạm vi quản lý.
+3. Các cơ quan, đơn vị cần xây dựng cơ sở dữ liệu tri thức chuyên ngành để triển khai hệ thống trí tuệ nhân tạo phù hợp với nghiệp vụ của mình.
+4. Cá nhân sử dụng trí tuệ nhân tạo trong công vụ phải tự chịu trách nhiệm về hành vi và nội dung cung cấp lên hệ thống.
+Phát triển, ứng dụng trí tuệ nhân tạo trong cơ quan nhà nước
+1. Nhà nước ưu tiên nguồn lực đầu tư xây dựng các bộ dữ liệu lớn, chất lượng của Việt Nam, đặc biệt là dữ liệu cho việc huấn luyện các mô hình ngôn ngữ lớn tiếng Việt và các mô hình trí tuệ nhân tạo chuyên ngành phục vụ quản trị 
+quốc gia. 
+2. Nhà nước quy định các yêu cầu đối với các hệ thống trí tuệ nhân tạo được sử dụng trong các cơ quan thuộc hệ thống chính trị.
+Mục 3. KHUNG KIẾN TRÚC TỔNG THỂ QUỐC GIA SỐ 
+Quy định chung về Khung kiến trúc tổng thể quốc gia số
+1. Khung kiến trúc tổng thể quốc gia số khái quát mô hình kiến trúc số tổng thể cho quốc gia, trong đó xác định những thành phần dùng chung, cơ bản nhất cho các cơ quan trong hệ thống chính trị các cấp; bảo đảm kết nối, chia sẻ, dùng chung tài nguyên, dữ liệu; tránh trùng lặp trên quy mô quốc gia. 
+2. Các hợp phần chính của Khung kiến trúc tổng thể quốc gia số gồm: 
+a)  Khung kiến trúc số của cơ quan Đảng 
+b) Khung kiến trúc số của Quốc hội
+c) Khung kiến trúc số của Mặt trận Tổ quốc Việt Nam 
+d) Khung Kiến trúc chính phủ số Việt Nam
+e) Khung Kiến trúc số cấp bộ
+g) Khung Kiến trúc số cấp tỉnh
+h) Khung kiến trúc số của các cơ quan, tổ chức khác
+Tổ chức thực hiện Khung kiến trúc tổng thể quốc gia số
+1. Bộ Khoa học và Công nghệ chủ trì, phối hợp với Văn phòng Trung ương Đảng, Văn phòng Quốc hội và các cơ quan liên quan tổ chức xây dựng, cập nhật và triển khai Khung kiến trúc tổng thể quốc gia số, bảo đảm khai thác hiệu quả các thành phần dùng chung, kết nối, chia sẻ dữ liệu thông suốt trên quy mô quốc gia trong hệ thống chính trị.
+2. Việc xây dựng, phát triển, kết nối, chia sẻ giữa các hệ thống thông của các cơ quan trong hệ thống chính trị cần tuân thủ chặt chẽ Khung kiến trúc tổng thể quốc gia số
+Mục 4. NỀN TẢNG SỐ DÙNG CHUNG TRONG CÁC CƠ QUAN THUỘC HỆ THỐNG CHÍNH TRỊ
+Tiêu chí xác định nền tảng số dùng chung
+1. Nền tảng số dùng chung là nền tảng số được thiết lập để đáp ứng nhu cầu sử dụng chung của nhiều cơ quan, tổ chức.
+2. Chính phủ quy định chi tiết các tiêu chí để xác định nền tảng số dùng chung cấp quốc gia, cấp bộ và cấp tỉnh.
+Quản lý nền tảng số dùng chung 
+1. Bộ Khoa học và Công nghệ chủ trì, phối hợp với các bộ, ngành, địa phương xây dựng, trình Thủ tướng Chính phủ ban hành và cập nhật định kỳ Danh mục nền tảng số dùng chung cấp quốc gia.
+2. Các bộ, cơ quan ngang bộ, Ủy ban nhân dân cấp tỉnh, căn cứ vào Danh mục nền tảng số dùng chung cấp quốc gia và nhu cầu thực tiễn, xây dựng và ban hành danh mục các nền tảng, ứng dụng dùng chung trong phạm vi quản lý của mình, sau khi có ý kiến thống nhất của Bộ Khoa học và Công nghệ để bảo đảm tính đồng bộ và không trùng lặp.
+3. Cơ quan nhà nước không được đầu tư mới hoặc nâng cấp các phần mềm, ứng dụng riêng lẻ có tính năng, chức năng tương tự với các nền tảng số dùng chung đã có trong danh mục được cấp có thẩm quyền ban hành và có kế hoạch triển khai.
+Phát triển nền tảng số dùng chung
+1. Chủ quản nền tảng số dùng chung có trách nhiệm tổ chức xây dựng, phát triển, vận hành, duy trì nền tảng ổn định, an toàn, hiệu quả, tuân thủ Khung kiến trúc tổng thể quốc gia số và các tiêu chuẩn, quy chuẩn kỹ thuật liên quan.
+2. Chủ quản nền tảng số dùng chung có trách nhiệm ban hành và công khai quy chế quản lý, vận hành, sử dụng nền tảng; tổ chức đào tạo, hướng dẫn, hỗ trợ kỹ thuật cho người sử dụng.
+Mục 5. CUNG CẤP DỊCH VỤ CÔNG
+Dịch vụ công trực tuyến toàn trình
+1. Dịch vụ công trực tuyến toàn trình là dịch vụ công được thực hiện hoàn toàn trên môi trường điện tử, bao gồm tiếp nhận hồ sơ, xử lý, thanh toán (nếu có) và trả kết quả, không yêu cầu tương tác vật lý trực tiếp. Cơ quan nhà nước có trách nhiệm ưu tiên và bắt buộc triển khai đối với các thủ tục hành chính có đủ điều kiện.
+2. Dữ liệu điện tử khai thác từ cơ sở dữ liệu quốc gia hoặc cơ sở dữ liệu chuyên ngành có giá trị pháp lý tương đương bản gốc, được sử dụng để tự động hóa quy trình và thay thế các thành phần hồ sơ. Cơ quan nhà nước không được yêu cầu cá nhân, tổ chức nộp lại các giấy tờ đã được cấp bởi cơ quan nhà nước; thay vào đó, phải kết nối và khai thác dữ liệu điện tử từ các cơ sở dữ liệu chứa dữ liệu gốc theo quy định của pháp luật về dữ liệu.
+3. Kết quả giải quyết thủ tục hành chính phải được trả bằng văn bản điện tử có ký số theo quy định pháp luật về giao dịch điện tử, có giá trị pháp lý tương đương văn bản giấy.
+4. Việc cung cấp dịch vụ công trực tuyến toàn trình cần được tổ chức theo chuỗi sự kiện cuộc sống (sinh con, học tập, lập nghiệp, nghỉ hưu…) thay vì phân mảnh theo ngành dọc, giúp người dân được phục vụ chủ động, liền mạch, không yêu cầu kê khai lặp lại.
+Đảm bảo chất lượng và hiệu quả dịch vụ công trực tuyến
+1. Hệ thống thông tin phục vụ dịch vụ công trực tuyến phải được thiết kế để tự động đo lường và giám sát chất lượng, hiệu năng, bao gồm tốc độ xử lý, tính ổn định, an toàn thông tin và trải nghiệm người dùng.
+2. Chất lượng dịch vụ công trực tuyến được cải tiến liên tục dựa trên đánh giá và phản hồi từ người dân, doanh nghiệp, thu thập qua các kênh số hóa và công cụ khảo sát trực tuyến.
+3. Cơ quan nhà nước có trách nhiệm xử lý kịp thời lỗi kỹ thuật, vấn đề phát sinh và công khai kết quả cải thiện chất lượng dịch vụ.
+Cá thể hóa dịch vụ công trực tuyến
+1. Các công nghệ số tiên tiến được ưu tiên ứng dụng để tối ưu hóa quy trình cung cấp dịch vụ công trực tuyến, bao gồm tự động hóa xử lý hồ sơ, phân tích dữ liệu để dự đoán và đề xuất dịch vụ phù hợp.
+2. Dịch vụ công trực tuyến hướng tới cá thể hóa, sử dụng dữ liệu từ hồ sơ số công dân và lịch sử tương tác để cung cấp giao diện, quy trình và thông tin phù hợp với nhu cầu cụ thể của từng cá nhân, tổ chức.
+Chương IV
+KINH TẾ SỐ
+Nguyên tắc phát triển kinh tế số
+1. Bảo đảm môi trường cạnh tranh lành mạnh, công bằng và minh bạch trên không gian số; phòng ngừa và xử lý các hành vi hạn chế cạnh tranh, cạnh tranh không lành mạnh; bảo vệ đầy đủ quyền và lợi ích hợp pháp của mọi tổ chức, cá nhân tham gia hoạt động kinh tế số, không phân biệt đối xử dưới bất kỳ hình thức nào.
+2. Bảo vệ quyền tiếp cận, khai thác và sử dụng hợp pháp dữ liệu của các bên; thúc đẩy chia sẻ, kết nối và mở dữ liệu theo quy định của pháp luật; khuyến khích nghiên cứu, đổi mới sáng tạo, ứng dụng công nghệ số, và phát triển các sản phẩm, dịch vụ số có giá trị gia tăng cao.
+3. Bảo đảm cơ chế giải quyết tranh chấp trên môi trường số một cách nhanh chóng, hiệu quả, minh bạch và công bằng; tăng cường hòa giải, trọng tài và các phương thức giải quyết tranh chấp ngoài tố tụng; củng cố niềm tin và sự an toàn của các chủ thể trong giao dịch số.
+4. Phát triển môi trường số toàn diện, an toàn, tin cậy và bền vững, tạo điều kiện cho mọi tổ chức, cá nhân tham gia, thụ hưởng thành quả của kinh tế số; thúc đẩy ứng dụng công nghệ số và dữ liệu số trong mọi lĩnh vực của nền kinh tế, gắn kết chặt chẽ với mục tiêu tăng trưởng xanh, kinh tế tuần hoàn và phát triển bền vững.
+	MỤC 2: CÁC THÀNH PHẦN CỦA KINH TẾ SỐ
+Kinh tế số lõi
+Kinh tế số lõi là bộ phận của kinh tế số, bao gồm:
+ 1. Các hoạt động công nghiệp công nghệ số được quản lý, thúc đẩy và phát triển theo pháp luật về Công nghiệp công nghệ số.
+2. Các dịch vụ số gồm: dịch vụ Viễn thông được thực hiện theo quy định tại pháp luật về Viễn thông, dịch vụ tin cậy theo quy định tại pháp luật về Giao dịch điện tử và pháp luật có liên quan.
+Kinh tế số nền tảng
+1. Kinh tế số nền tảng là bộ phận của kinh tế số, dựa trên các nền tảng số trung gian để kết nối người dùng, doanh nghiệp và các bên liên quan tạo ra giá trị kinh tế.
+2. Các bên tham gia nền tảng số trung gian
+a) Chủ quản nền tảng số trung gian;
+b) Người dùng kinh doanh là người cung cấp hàng hóa hoặc dịch vụ cho người tiêu dùng thông qua dịch vụ nền tảng số trung gian;
+c) Người tiêu dùng là người nhận hàng hóa, dịch vụ, hoặc được chủ quản nền tảng số trung gian hoặc người dùng kinh doanh cung cấp hoặc mời nhận hàng hóa, dịch vụ.
+3. Trách nhiệm của chủ quản nền tảng số trung gian
+a) Xây dựng, công khai chính sách, quy trình cung cấp dịch vụ; minh bạch điều khoản, điều kiện sử dụng, chính sách xếp hạng và ưu tiên hiển thị;
+b) Thiết lập cơ chế tiếp nhận, xử lý phản hồi và khiếu nại; cung cấp thông tin về cơ chế hòa giải;
+c) Bảo đảm an toàn thông tin, an ninh mạng; bảo vệ dữ liệu cá nhân, bí mật kinh doanh và quyền truy cập, sử dụng dữ liệu hợp pháp của các bên tham gia;
+d) Thông báo rõ lý do khi đình chỉ hoặc chấm dứt dịch vụ; thông báo trước về thay đổi điều khoản, điều kiện sử dụng;
+đ) Không phân biệt đối xử với dịch vụ cạnh tranh; tuân thủ quy định về chống độc quyền và không lạm dụng vị trí thống lĩnh thị trường;
+e) Bảo vệ quyền lợi của người dùng kinh doanh; không áp đặt điều khoản bất công;
+g) Thực hiện báo cáo, đánh giá định kỳ theo yêu cầu của cơ quan quản lý nhà nước có thẩm quyền.
+4. Trách nhiệm của người dùng kinh doanh trên nền tảng số trung gian 
+a) Thực hiện trách nhiệm của người sử dụng bao gồm: cung cấp thông tin đầy đủ, chính xác khi sử dụng dịch vụ; tuân thủ các quy định, hướng dẫn sử dụng của nền tảng; chịu trách nhiệm về hành vi vi phạm pháp luật khi sử dụng nền tảng;
+b) Tuân thủ điều khoản và điều kiện sử dụng của nền tảng;
+c) Cung cấp thông tin chính xác về sản phẩm, dịch vụ và hoạt động kinh doanh bảo đảm tính minh bạch theo quy định pháp luật;
+d) Chịu trách nhiệm về nội dung, tính hợp pháp và chất lượng sản phẩm/dịch vụ;
+đ) Hợp tác trong giải quyết tranh chấp bao gồm cung cấp thông tin cần thiết hoặc tham gia vào quá trình hòa giải nếu được yêu cầu.
+e) Tuân thủ các quy định pháp luật liên quan
+5. Trách nhiệm của người tiêu dùng trên nền tảng số
+a) Cung cấp thông tin đầy đủ, chính xác khi sử dụng dịch vụ; 
+b) Tuân thủ các quy định, hướng dẫn sử dụng của nền tảng; 
+c) chịu trách nhiệm về hành vi vi phạm pháp luật khi sử dụng nền tảng.
+Kinh tế số ngành, lĩnh vực
+1. Kinh tế số ngành, lĩnh vực là bộ phận của kinh tế số, dựa trên các nền tảng số chuyên ngành để số hóa, kết nối và tối ưu hoạt động sản xuất, kinh doanh, quản lý trong từng ngành, lĩnh vực, nhằm nâng cao năng suất, chất lượng, hiệu quả và sức cạnh tranh.
+2. Các bên tham gia nền tảng số chuyên ngành
+a) Chủ quản nền tảng số chuyên ngành: tổ chức, doanh nghiệp hoặc cơ quan nhà nước sở hữu, quản lý, vận hành và phát triển nền tảng;
+b) Người sử dụng nền tảng số chuyên ngành: cá nhân, tổ chức khai thác, sử dụng dịch vụ, tiện ích trên nền tảng;
+3. Trách nhiệm của chủ quản nền tảng số chuyên ngành:
+a) Tuân thủ các tiêu chuẩn, quy chuẩn kỹ thuật chuyên ngành do cơ quan nhà nước có thẩm quyền ban hành;
+b) Đánh giá chất lượng và hiệu quả của nền tảng định kỳ, báo cáo cơ quan quản lý nhà nước có thẩm quyền theo quy định.
+4. Người dùng dịch vụ nền tảng số chuyên ngành có trách nhiệm thực hiện:
+a) Cung cấp thông tin đầy đủ, chính xác khi sử dụng dịch vụ.
+b) Tuân thủ các quy định, hướng dẫn sử dụng của nền tảng.
+c) Chịu trách nhiệm về hành vi vi phạm pháp luật khi sử dụng nền tảng.
+Kinh tế dữ liệu
+1. Dữ liệu là tài nguyên trong nền kinh tế số, bao gồm dữ liệu dùng chung, dữ liệu mở, dữ liệu gốc, dữ liệu quan trọng (được quy định trong Luật Dữ liệu) và các loại dữ liệu khác phát sinh từ hoạt động của hệ thống thông tin, thiết bị kết nối Internet vạn vật (IoT), hoặc được hình thành, xây dựng, phát triển, bảo vệ, quản trị, xử lý và sử dụng trong phát triển kinh tế số.
+2. Dữ liệu được coi là tài sản khi được thu thập, tạo lập, chia sẻ và thuộc quyền sở hữu hợp pháp của cơ quan, tổ chức, cá nhân, đồng thời được pháp luật dân sự công nhận quyền tài sản và bảo vệ theo quy định.
+3. Quyền đối với dữ liệu:
+a) Quyền sở hữu hoặc quyền nắm giữ và kiểm soát dữ liệu;
+b) Quyền tiếp cận và sử dụng dữ liệu;
+c) Quyền kinh doanh, khai thác và định đoạt dữ liệu;
+d) Quyền tham gia vào cơ chế chia sẻ giá trị từ dữ liệu.
+4. Thúc đẩy, phát triển thị trường và chia sẻ dữ liệu:
+a) Nhà nước khuyến khích tạo lập, phát triển thị trường dữ liệu và các mô hình kinh tế dữ liệu;
+b) Khuyến khích hợp tác, chia sẻ dữ liệu giữa khu vực công và khu vực tư trên nguyên tắc minh bạch, bình đẳng, bảo đảm quyền và lợi ích hợp pháp của các bên;
+c) Khuyến khích thương mại hóa dữ liệu thông qua mua bán, trao đổi, cấp phép sử dụng hoặc các hình thức hợp pháp khác.
+5. Nguyên tắc khai thác dữ liệu trong kinh tế số:
+Việc sử dụng, khai thác, chia sẻ, mua bán hoặc trao đổi dữ liệu được thực hiện trên cơ sở một trong các căn cứ sau:
+a) Có sự đồng ý của chủ sở hữu hoặc chủ thể có quyền khai thác, thể hiện trực tiếp hoặc thông qua hợp đồng, giấy phép, hoặc giao dịch hợp pháp khác;
+b) Được pháp luật cho phép đối với dữ liệu công khai, dữ liệu mở hoặc dữ liệu thuộc phạm vi sử dụng không yêu cầu sự chấp thuận riêng của chủ sở hữu.
+Mục 3. QUẢN LÝ NỀN TẢNG SỐ THỐNG LĨNH THỊ TRƯỜNG
+Xác định nền tảng số có vị trí thống lĩnh thị trường
+1. Nền tảng số có vị trí thống lĩnh thị trường là nền tảng số có sức mạnh thị trường đáng kể, ảnh hưởng đến cạnh tranh, người dùng và sự vận hành bình đẳng của nền kinh tế số.
+2. Việc xác định một nền tảng số có vị trí thống lĩnh thị trường được xem xét dựa trên một hoặc một số tiêu chí sau đây:
+a) Quy mô hoạt động, năng lực tài chính và thị phần của nền tảng số trên thị trường liên quan;
+b) Vai trò trung gian số, khả năng kiểm soát điều kiện gia nhập, duy trì và phát triển trên thị trường của người dùng kinh doanh;
+c) Mức độ phụ thuộc của người tiêu dùng hoặc người dùng kinh doanh vào nền tảng số trong việc tiếp cận thị trường, khách hàng hoặc dữ liệu;
+d) Khả năng của nền tảng số trong việc đơn phương áp đặt các điều kiện bất lợi đối với người dùng kinh doanh mà không thông qua đàm phán công bằng;
+đ) Phạm vi hoạt động xuyên biên giới, đa quốc gia hoặc toàn cầu của nền tảng;
+e) Mức độ kiểm soát các nguồn lực chiến lược như công nghệ, dữ liệu lớn, cơ sở hạ tầng số và chuỗi phân phối;
+g) Khả năng tác động tiêu cực hoặc gây méo mó đối với cạnh tranh trên thị trường hoặc một phần đáng kể của thị trường.
+3. Chính phủ quy định chi tiết tiêu chí, ngưỡng định lượng và phương pháp xác định nền tảng số có vị trí thống lĩnh thị trường hoặc nền tảng số cung cấp dịch vụ cốt lõi.
+Hành vi lạm dụng vị trí thống lĩnh thị trường, lạm dụng vị trí độc quyền bị cấm đối với nền tảng số 
+1. Tổ chức, cá nhân vận hành nền tảng số có vị trí thống lĩnh thị trường không được sử dụng dữ liệu, thuật toán, công nghệ, lợi thế tài chính, quy tắc vận hành hoặc vị thế thị trường để thực hiện các hành vi hạn chế cạnh tranh, hành vi độc quyền bị cấm theo quy định của Luật Cạnh tranh.
+2. Các hành vi bị cấm bao gồm:
+a) Định giá không công bằng, không minh bạch, hoặc không tương xứng với giá trị hàng hóa, dịch vụ cung cấp;
+b) Bán hàng hóa, dịch vụ dưới giá thành nhằm loại bỏ hoặc gây thiệt hại cho đối thủ cạnh tranh;
+c) Từ chối giao dịch, hạn chế giao dịch, áp đặt điều kiện bất hợp lý hoặc gây cản trở hoạt động của người dùng kinh doanh, đối thủ cạnh tranh;
+d) Thực hiện phân biệt đối xử hoặc định giá khác biệt đối với cùng loại dữ liệu, dịch vụ, người dùng;
+đ) Ưu tiên hiển thị, phân phối hoặc tiếp cận cho sản phẩm, dịch vụ của chính nền tảng, gây bất lợi cho nhà cung cấp bên thứ ba;
+e) Thực hiện bất kỳ hành vi nào khác bị coi là lạm dụng vị trí thống lĩnh theo quy định của pháp luật cạnh tranh hiện hành.
+Nghĩa vụ minh bạch và trách nhiệm giải trình của nền tảng số thống lĩnh thị trường
+1. Chủ quản nền tảng số thống lĩnh thị trường có trách nhiệm:
+a) Thực hiện báo cáo định kỳ và đột xuất theo yêu cầu của cơ quan quản lý nhà nước có thẩm quyền về hoạt động, doanh thu, cơ chế phân phối dữ liệu, thuật toán và các yếu tố có thể ảnh hưởng đến thị trường hoặc người tiêu dùng;
+b) Công bố công khai các thay đổi lớn trong chính sách vận hành nền tảng có thể ảnh hưởng đến quyền, lợi ích hợp pháp của người dùng kinh doanh, người tiêu dùng hoặc các đối thủ cạnh tranh.
+2. Đối với các giao dịch mua bán, sáp nhập, chuyển nhượng tài sản giữa các doanh nghiệp công nghệ có dấu hiệu gây ảnh hưởng đến cạnh tranh thị trường, chủ thể vận hành nền tảng số có trách nhiệm:
+a) Gửi văn bản thông báo trước cho cơ quan quản lý cạnh tranh quốc gia;
+b) Chỉ được thực hiện giao dịch sau khi được cơ quan có thẩm quyền thẩm định, phê duyệt hoặc không phản đối bằng văn bản theo quy định của pháp luật.
+Cơ chế giám sát và nghĩa vụ tuân thủ của nền tảng số thống lĩnh thị trường
+1. Cơ quan quản lý cạnh tranh quốc gia chủ trì thực hiện theo dõi, đánh giá và xử lý vi phạm đối với các nền tảng số có vị trí thống lĩnh thị trường, bao gồm:
+a) Giám sát hành vi lạm dụng vị thế thống lĩnh, độc quyền trong hoạt động cung ứng dịch vụ số, xử lý dữ liệu, phân phối hàng hóa và cung cấp dịch vụ;
+b) Theo dõi và thẩm định các giao dịch mua bán, sáp nhập có khả năng gây tác động tiêu cực đến cấu trúc hoặc mức độ cạnh tranh của thị trường số;
+c) Thực hiện thanh tra, kiểm tra định kỳ hoặc đột xuất khi có dấu hiệu vi phạm pháp luật cạnh tranh.
+2. Cơ quan quản lý cạnh tranh phối hợp với Bộ Khoa học và Công nghệ và các bộ, ngành liên quan để:
+a) Đánh giá tác động của các hoạt động sáp nhập, mua lại, chuyển nhượng công nghệ, dữ liệu số;
+b) Ban hành, cập nhật các hướng dẫn, quy định kỹ thuật chuyên ngành liên quan đến nền tảng số thống lĩnh hoặc dịch vụ cốt lõi nhằm đảm bảo hiệu quả quản lý nhà nước.
+MỤC 4. KINH TẾ SỐ GẮN LIỀN VỚI KINH TẾ XANH
+Kinh tế số xanh
+1. Kinh tế xanh là mô hình phát triển kinh tế hướng tới tăng trưởng bền vững đồng thời giảm thiểu tác động tiêu cực đến môi trường và nâng cao chất lượng cuộc sống. 
+2. Phát triển kinh tế số gắn liền với kinh tế xanh:
+a) Gắn kinh tế số với kinh tế xanh, giảm phát thải khí nhà kính và thúc đẩy sử dụng năng lượng tái tạo;
+b) Ban hành tiêu chuẩn, quy chuẩn giảm phát thải khí nhà kính cho hạ tầng số và các ứng dụng công nghệ, nền tảng số sử dụng nhiều năng lượng;
+b) Ưu đãi thuế, tín dụng xanh cho dự án số-xanh.
+MỤC 5. PHÁT TRIỂN KINH TẾ SỐ
+Khung dữ liệu phát triển kinh tế số
+1. Khuyến khích tổ chức, cá nhân quản lý và vận hành các nền tảng số chia sẻ dữ liệu có giá trị với cơ quan nhà nước có thẩm quyền nhằm phục vụ công tác xây dựng chính sách, quản lý và phát triển kinh tế số.
+2. Việc chia sẻ dữ liệu được thực hiện trên nguyên tắc:
+a) Ưu tiên chia sẻ dữ liệu được tạo ra từ hoạt động của các hệ thống thông tin, nền tảng số trong thời gian thực;
+b) Tổ chức chia sẻ thông qua các giao diện lập trình ứng dụng (API) bảo đảm an toàn, bảo mật, hiệu quả.
+3. Cơ quan nhà nước có trách nhiệm:
+a) Đầu tư, hoàn thiện hạ tầng kỹ thuật tiếp nhận, xử lý và khai thác dữ liệu do các chủ thể nền tảng số chia sẻ;
+b) Bảo đảm an toàn thông tin, bí mật dữ liệu, chỉ sử dụng dữ liệu đúng mục đích theo cam kết và quy định của pháp luật.
+Báo cáo thống kê về kinh tế số
+1. Hệ thống thống kê phát triển kinh tế số được xây dựng và vận hành nhằm theo dõi, đánh giá, phản ánh toàn diện hoạt động kinh tế số, làm cơ sở cho việc hoạch định chính sách.
+2. Chủ quản các nền tảng số, hệ thống số có trách nhiệm:
+a) Thực hiện thống kê, báo cáo định kỳ hoặc đột xuất theo yêu cầu của cơ quan nhà nước về các chỉ số liên quan đến kinh tế số, bao gồm nhưng không giới hạn: số lượng người dùng, doanh thu, lưu lượng giao dịch, loại hình dịch vụ, dữ liệu tạo ra, mức độ chia sẻ dữ liệu, các chỉ số tương tác,…;
+b) Cung cấp số liệu đúng thời hạn, chính xác, đầy đủ theo biểu mẫu, hướng dẫn của cơ quan có thẩm quyền.
+3. Bộ Tài chính chủ trì, phối hợp với Bộ Khoa học và Công nghệ và các cơ quan liên quan xây dựng hệ thống chỉ tiêu thống kê, cơ chế báo cáo về phát triển kinh tế số phù hợp với yêu cầu thực tiễn và thông lệ quốc tế.
+Phát triển kinh tế số ngành, lĩnh vực
+1. Nhà nước khuyến khích và tạo điều kiện thúc đẩy phát triển kinh tế số trong từng ngành, lĩnh vực theo hướng:
+a) Ứng dụng công nghệ số để đổi mới mô hình sản xuất, kinh doanh, nâng cao năng suất, chất lượng và hiệu quả quản lý;
+b) Tăng cường tích hợp dữ liệu, nền tảng số và các công cụ số hóa để phát triển sản phẩm, dịch vụ giá trị gia tăng.
+2. Chính phủ ban hành các chính sách hỗ trợ và ưu tiên phát triển kinh tế số trong một số ngành, lĩnh vực trọng điểm, bao gồm nhưng không giới hạn: công nghiệp, nông nghiệp, y tế, giáo dục, logistics, tài chính – ngân hàng, văn hóa – du lịch, thương mại điện tử.
+3. Các bộ, cơ quan ngang bộ có trách nhiệm:
+a) Xây dựng tiêu chuẩn, quy chuẩn kỹ thuật phát triển kinh tế số theo từng ngành, lĩnh vực được phân công;
+b) Tổ chức thực hiện thống kê, đánh giá, báo cáo định kỳ tình hình phát triển kinh tế số trong phạm vi ngành, lĩnh vực quản lý;
+c) Phối hợp với Bộ Tài chính trong việc xây dựng chiến lược, chính sách, chương trình hỗ trợ chuyển đổi số và phát triển kinh tế số ngành, lĩnh vực.
+Chương V
+XÃ HỘI SỐ
+Nguyên tắc cơ bản về phát triển xã hội số
+1. Phát triển xã hội số lấy con người là trung tâm; bảo đảm mọi công dân được tiếp cận, sử dụng bình đẳng, an toàn và thụ hưởng thành quả từ chuyển đổi số, không phân biệt giới tính, dân tộc, tín ngưỡng, hoàn cảnh kinh tế – xã hội hoặc nơi cư trú.
+2. Tôn trọng, bảo đảm và bảo vệ bình đẳng các quyền con người, quyền công dân trên môi trường số như trong đời sống xã hội truyền thống
+3. Xây dựng xã hội số tin cậy, minh bạch, an toàn, bảo mật thông tin và quyền riêng tư của người dân. Tăng cường trách nhiệm giải trình của các tổ chức, cá nhân tham gia hoạt động trên môi trường số.
+4. Tôn trọng, bảo tồn và phát huy các giá trị văn hóa, bản sắc dân tộc; kết hợp hài hòa giữa đổi mới sáng tạo với gìn giữ truyền thống văn hóa.
+5. Gắn kết phát triển xã hội số với mục tiêu phát triển bền vững, bảo vệ môi trường, sử dụng tiết kiệm tài nguyên và thích ứng với biến đổi khí hậu.
+6. Nhà nước và xã hội bảo đảm phổ cập kỹ năng số và tư duy phản biện cho toàn dân; thúc đẩy giáo dục, đào tạo, học tập suốt đời để nâng cao năng lực thích ứng với thay đổi do chuyển đổi số và phát triển công nghệ mới.
+Ngôn ngữ số và hỗ trợ phát triển ngôn ngữ số 
+1. Ngôn ngữ số là hệ thống ký hiệu, quy tắc và định dạng dữ liệu được mã hóa, kết hợp với kỹ năng sử dụng của con người và nội dung cần truyền đạt, nhằm giao tiếp với máy để máy xử lý và phản hồi thông tin cho con người.
+2. Tổ chức triển khai việc phổ cập năng lực hiểu, sử dụng ngôn ngữ số trong các chương trình đào tạo, bồi dưỡng kỹ năng số quốc gia.
+3. Khuyến khích nghiên cứu, phát triển giao diện người – máy sử dụng ngôn ngữ số tự nhiên, bảo đảm đa dạng phương thức tương tác, bao gồm văn bản, giọng nói, hình ảnh và các phương thức hợp pháp khác.
+Quyền của công dân trong xã hội số
+1. Quyền công dân số là một bộ phận của quyền con người và quyền công dân, được Nhà nước thừa nhận, bảo đảm, bảo vệ. Quyền công dân số được thực hiện bình đẳng trên môi trường số và không bị hạn chế, trừ trường hợp luật quy định vì lý do quốc phòng, an ninh quốc gia, trật tự, an toàn xã hội, đạo đức xã hội hoặc sức khỏe cộng đồng.
+2. Ngoài các quyền được quy định tại Hiến pháp và các luật khác, Công dân nước Cộng hòa xã hội chủ nghĩa Việt Nam có các quyền cơ bản sau đây:
+a) Quyền tiếp cận và kết nối số: Được bảo đảm khả năng tiếp cận hạ tầng số, dịch vụ kết nối Internet băng rộng và thiết bị đầu cuối với chất lượng, giá cả hợp lý, an toàn, đáp ứng yêu cầu kỹ thuật, phù hợp điều kiện vùng, miền và đặc thù nhóm dân cư.
+b) Quyền giáo dục, bồi dưỡng và nâng cao năng lực số: Được học tập, đào tạo, bồi dưỡng kỹ năng số, kỹ năng thông tin, tư duy phản biện và an toàn số, bảo đảm khả năng tham gia đầy đủ vào đời sống kinh tế – xã hội số.
+c) Quyền lao động và an sinh trong môi trường số: Được bảo đảm điều kiện lao động an toàn, công bằng; được hưởng chế độ an sinh xã hội khi làm việc qua nền tảng số.
+d) Quyền an toàn, bảo mật và bảo vệ dữ liệu cá nhân: Được bảo đảm an toàn thông tin, bảo mật; được bảo vệ quyền riêng tư, bí mật cá nhân, bí mật gia đình; được quyền kiểm soát dữ liệu cá nhân.
+e) Quyền lựa chọn, quyết định việc sử dụng dịch vụ số: được biết, lựa chọn hoặc từ chối tương tác với hệ thống thuật toán và AI; được yêu cầu giải thích và can thiệp của con người đối với các quyết định tự động ảnh hưởng đến quyền và lợi ích hợp pháp
+g) Quyền lựa chọn dịch vụ số trong môi trường cạnh tranh công bằng: Được sử dụng dịch vụ số trong môi trường cạnh tranh lành mạnh, minh bạch; không bị ép buộc hoặc bị áp đặt hạn chế trái pháp luật.
+3. Chính phủ ban hành và thực thi chính sách, quy định để bảo đảm, bảo vệ và thúc đẩy các quyền của công dân trên môi trường số.
+An sinh xã hội và cơ hội nghề nghiệp trong xã hội số
+1. Nhà nước xây dựng và phát triển nền tảng an sinh xã hội tập trung, đồng bộ, liên thông giữa các cơ quan, tổ chức và hệ thống thông tin nhằm bảo đảm mọi người dân được tiếp cận, sử dụng thuận tiện và thụ hưởng các chính sách an sinh xã hội, không phân biệt giới tính, dân tộc, độ tuổi, vùng miền, trình độ học vấn, tình trạng khuyết tật hoặc điều kiện kinh tế – xã hội.
+2. Nhà nước bảo đảm quyền làm việc và quyền tiếp cận cơ hội nghề nghiệp trong xã hội số cho mọi công dân một cách công bằng, bằng cách tạo điều kiện tiếp cận công nghệ thiết yếu, phổ cập kỹ năng số thông qua: hỗ trợ thiết bị đầu cuối, kết nối Internet; triển khai chương trình đào tạo kỹ năng số cơ bản; cung cấp dữ liệu thị trường lao động, hỗ trợ người lao động tự định hướng nghề nghiệp trên môi trường số.
+3. Chính phủ quy định chi tiết quy trình, thẩm quyền và hình thức công nhận các kết quả đào tạo, bồi dưỡng kỹ năng số từ các hình thức học tập chính quy, không chính quy và phi chính quy khi đáp ứng chuẩn kỹ năng số quốc gia. 
+Văn hóa số và công nghiệp văn hóa số
+1. Văn hóa số bao gồm toàn bộ các giá trị, hành vi, chuẩn mực, phương thức giao tiếp, sáng tạo nội dung và biểu đạt văn hóa phát triển trên môi trường số – trong đó đặc biệt bao gồm cả hiện tượng tin giả, thông tin sai lệch, tin dồn nhảm. 
+2. Công nghiệp văn hóa số là ngành sử dụng công nghệ số để tạo, phân phối, tiêu thụ sản phẩm và dịch vụ văn hóa số – như xuất bản, truyền thông, phim ảnh, âm nhạc, trò chơi, di sản số... nghiêm cấm các nội dung sai lệch, xuyên tạc, …trái với thuần phong mỹ tục, đạo đức, truyền thống văn hóa của dân tộc; có nội dung đồi trụy, kích dục, bạo lực, mê tín dị đoan; xúc phạm tín ngưỡng, tôn giáo, danh nhân, anh hùng dân tộc…
+3. Chính phủ ban hành và tổ chức thực hiện chiến lược, chính sách, chương trình, tiêu chuẩn, quy chuẩn kỹ thuật; hướng dẫn, thanh tra, kiểm tra, xử lý vi phạm; khuyến khích, hỗ trợ tổ chức, cá nhân tham gia sáng tạo, phân phối và tiêu thụ sản phẩm, dịch vụ văn hóa số đáp ứng yêu cầu phát triển bền vững và hội nhập quốc tế.
+Bảo đảm niềm tin, an toàn và đạo đức trên môi trường số
+1. Nhà nước, tổ chức, cá nhân có trách nhiệm xây dựng và duy trì môi trường số an toàn, lành mạnh, tôn trọng pháp luật, bảo đảm quyền con người và tuân thủ các chuẩn mực đạo đức xã hội.
+2. Trách nhiệm của Nhà nước:
+a) Ban hành và tổ chức thực thi quy định pháp luật, các bộ quy tắc ứng xử trên môi trường số nhằm bảo đảm an toàn, đạo đức, quyền con người, khuyến khích hài hòa với chuẩn mực quốc tế;
+b) Giám sát, thanh tra, xử lý kịp thời hành vi vi phạm pháp luật, gây tổn hại đến an toàn, đạo đức xã hội và quyền con người trong môi trường số;
+c) Tham gia, thực hiện đầy đủ các điều ước quốc tế và thỏa thuận song phương, đa phương liên quan đến an toàn, đạo đức và quyền con người trên môi trường số.
+3. Trách nhiệm của Tổ chức:
+a) Thiết kế, cung cấp sản phẩm, dịch vụ số theo nguyên tắc “an toàn ngay từ thiết kế” và “đạo đức ngay từ thiết kế”;
+b) Tuân thủ nghĩa vụ bảo đảm an toàn, bảo vệ quyền và lợi ích hợp pháp của người sử dụng;
+c) Thực hiện biện pháp phòng ngừa, phát hiện, ngăn chặn và xử lý kịp thời nội dung, hành vi gây hại hoặc vi phạm pháp luật.
+4. Trách nhiệm của cá nhân
+a) Tôn trọng pháp luật, quyền và lợi ích hợp pháp của tổ chức, cá nhân khác;
+b) Giữ gìn đạo đức, văn hóa, thuần phong mỹ tục trong giao tiếp, ứng xử trên môi trường số;
+c) Không tạo ra, chia sẻ, phát tán nội dung trái pháp luật hoặc gây hại đến an toàn, đạo đức xã hội và quyền con người.
+Tổ chức triển khai, giám sát, đánh giá
+1. Trách nhiệm của cơ quan nhà nước:
+a) Triển khai chính sách xã hội số đảm bảo quyền tiếp cận, sử dụng công nghệ bình đẳng;
+b) Hỗ trợ nhóm yếu thế, khu vực khó tiếp cận dịch vụ số;
+c) Hướng dẫn người dân, tổ chức trong sử dụng môi trường số, giao tiếp trực tuyến lành mạnh;
+d) Phối hợp liên ngành và hợp tác công – tư trong quản trị nội dung số.
+2.  Cơ chế giám sát và đánh giá:
+a) Hoàn thiện tiêu chí, phương pháp đo lường, đánh giá mức độ phát triển xã hội số, mức độ phổ cập, an toàn và minh bạch;
+c) Kiểm tra, thanh tra vi phạm, xử lý nội dung xấu, tin giả, thông tin sai lệch gây hại đến quyền con người và chuẩn mực đạo đức.
+Chương VI
+CÁC BIỆN PHÁP BẢO ĐẢM CHUYỂN ĐỔI SỐ
+Mục 1. ĐÀO TẠO, PHÁT TRIỂN NGUỒN NHÂN LỰC SỐ
+Đào tạo, phát triển nguồn nhân lực số
+1. Nhà nước có chính sách tổng thể để phát triển nguồn nhân lực số một cách toàn diện, từ giáo dục phổ thông, đào tạo nghề đến giáo dục đại học nhằm đáp ứng yêu cầu của quá trình chuyển đổi số quốc gia; đưa ngôn ngữ số vào chương trình giáo dục bắt buộc; tổ chức chương trình phổ cập kỹ năng số cơ bản cho toàn dân, ưu tiên các nhóm yếu thế.     
+2. Chính phủ xây dựng, ban hành và cập nhật khung năng lực số quốc gia làm cơ sở cho các hoạt động đào tạo, bồi dưỡng và đánh giá, bảo đảm phù hợp với yêu cầu phát triển kinh tế – xã hội.
+3. Nhà nước khuyến khích, tạo điều kiện hợp tác giữa cơ quan quản lý, cơ sở đào tạo và doanh nghiệp để nâng cao kỹ năng số cho người lao động.   
+4. Chính phủ quy định chi tiết việc công nhận kết quả đào tạo kỹ năng số từ các hình thức học tập chính quy, không chính quy và phi chính quy theo Khung năng lực số quốc gia. 
+Thu hút, trọng dụng chuyên gia về chuyển đổi số
+1. Nhà nước ban hành cơ chế, chính sách đặc biệt nhằm thu hút, trọng dụng nhân tài, nhân lực chất lượng cao trong lĩnh vực chuyển đổi số để đóng góp vào quá trình chuyển đổi số quốc gia theo quy định của pháp luật về cán bộ, công chức; khoa học công nghệ, đổi mới sáng tạo; công nghiệp công nghệ số.
+2. Cơ quan nhà nước được phép thuê chuyên gia, cộng tác viên theo cơ chế đặc thù đáp ứng yêu cầu chuyển đổi số.
+3. Người có thành tích xuất sắc tiêu biểu trong chuyển đổi số, ứng dụng trí tuệ nhân tạo được vinh danh, hỗ trợ nghiên cứu, tạo điều kiện chuyển giao công nghệ, thương mại hóa kết quả.
+Ưu đãi cán bộ, công chức, viên chức làm công tác chuyển đổi số trong các cơ quan thuộc hệ thống chính trị 
+Cơ quan nhà nước thực hiện chế độ đãi ngộ đặc thù cho cán bộ, công chức, viên chức làm việc trong lĩnh vực chuyển đổi số trong cơ quan nhà nước nhằm khuyến khích và thu hút vào làm việc trong khu vực công. Các hình thức đãi ngộ bao gồm: tiền lương, phụ cấp, điều kiện làm việc, cơ hội phát triển nghề nghiệp và các hình thức khen thưởng khác.
+Phát triển nguồn nhân lực số của cơ quan nhà nước
+1. Nhà nước có chính sách phát triển nguồn nhân lực chuyển đổi số trong các cơ quan thuộc hệ thống chính trị, đảm bảo cán bộ, công chức, viên chức có đủ năng lực và kỹ năng số cần thiết để triển khai chuyển đổi số.
+2. Việc đào tạo, bồi dưỡng, tập huấn về chuyển đổi số được tổ chức thường xuyên cho đội ngũ cán bộ, công chức, viên chức, người lao động và tập trung vào: 
+a) Nâng cao năng lực lãnh đạo, quản lý cho cán bộ quản lý; 
+b) Bồi dưỡng kỹ năng số chuyên môn nghiệp vụ cho công chức, viên chức, người lao động; 
+c) Đào tạo lại lực lượng chưa có năng lực số đáp ứng yêu cầu nhiệm vụ.
+Mục 2. ĐẦU TƯ, TÀI CHÍNH CHO CHUYỂN ĐỔI SỐ
+Ngân sách nhà nước cho chuyển đổi số 
+1. Nhà nước bảo đảm tối thiểu 1% trong tổng chi ngân sách nhà nước hàng năm và tăng dần theo yêu cầu cho triển khai chuyển đổi số quốc gia.
+2. Ngân sách nhà nước chi cho chuyển đổi số phải được quản lý, sử dụng có trọng tâm, trọng điểm, không dàn trải và gắn với hiệu quả thực hiện.
+Nội dung chi ngân sách nhà nước cho chuyển đổi số
+1. Các nội dung chi cho chuyển đổi số được sử dụng ngân sách nhà nước bao gồm nhưng không giới hạn:
+a) Xây dựng, quản lý, vận hành, duy trì hạ tầng, nền tảng số, hệ thống thông tin, cơ sở dữ liệu, ứng dụng, dịch vụ số, an toàn, an ninh mạng phục vụ cho chuyển đổi số.
+b) Thuê dịch vụ hạ tầng, nền tảng số, hệ thống thông tin, cơ sở dữ liệu, ứng dụng, dịch vụ số, an toàn, an ninh mạng phục vụ cho chuyển đổi số.
+c) Đào tạo, bồi dưỡng, tập huấn, phát triển nguồn nhân lực số.
+d) Tuyên truyền, phổ biến kỹ năng số.
+đ) Hợp tác quốc tế về chuyển đổi số; nghiên cứu, thử nghiệm công nghệ mới.
+e) Các hoạt động quản lý nhà nước về chuyển đổi số.
+g) Chi thực hiện chính sách hỗ trợ thu hút, sử dụng, đãi ngộ cá nhân tham gia hoạt động chuyển đổi số.
+h) Các khoản chi khác theo quy định của pháp luật phục vụ phát triển chính phủ số, kinh tế số, xã hội số.
+2. Chính phủ quy định chi tiết Điều này.
+Lập dự toán, phân bổ, quản lý, sử dụng, quyết toán ngân sách nhà nước cho chuyển đổi số
+1. Việc lập dự toán chi đầu tư phát triển cho chuyển đổi số trong kế hoạch tài chính 05 năm và kế hoạch đầu tư công trung hạn thực hiện theo quy định của Luật Ngân sách nhà nước, Luật Đầu tư công, bảo đảm phù hợp với chiến lược, chương trình về chuyển đổi số, kế hoạch 5 năm về chuyển đổi số.
+2. Việc lập dự toán chi ngân sách nhà nước hàng năm cho chuyển đổi số phải được thực hiện như sau:
+a) Bao gồm dự toán chi đầu tư phát triển, dự toán chi thường xuyên cho chuyển đổi số từ ngân sách trung ương và ngân sách địa phương;
+b) Được lập theo các nội dung chi quy định tại khoản 1 Điều 60 của Luật này theo hướng dẫn của cơ quan quản lý nhà nước ở trung ương về chuyển đổi số;
+c) Căn cứ kế hoạch đầu tư công trung hạn, kế hoạch 5 năm về chuyển đổi số, kế hoạch hàng năm về chuyển đổi số của Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, cơ quan khác ở trung ương và Ủy ban nhân dân cấp tỉnh;
+d) Dự toán chi ngân sách nhà nước cho chuyển đổi của các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, cơ quan khác ở trung ương và các địa phương được gửi cho Bộ Khoa học và Công nghệ tổng hợp chung với dự toán chi ngân sách nhà nước cho khoa học, công nghệ, đổi mới sáng tạo; đề xuất gửi Bộ Tài chính tổng hợp, trình cấp có thẩm quyền xem xét, quyết định.
+3. Việc phân bổ ngân sách nhà nước chi cho chuyển đổi số được thực hiện theo các nguyên tắc sau đây:
+a) Phù hợp với chiến lược phát triển kinh tế - xã hội, quốc phòng, an ninh và chiến lược, chương trình chuyển đổi số quốc gia; gắn với kế hoạch 5 năm, kế hoạch hàng năm về chuyển đổi số đã được phê duyệt;
+b) Ưu tiên bố trí ngân sách nhà nước cho nhiệm vụ, chương trình chuyển đổi số có quy mô lớn, tính liên ngành, liên vùng, có tính đột phá, lan tỏa và có ý nghĩa quyết định đến năng lực cạnh tranh quốc gia;
+c) Phân bổ ngân sách nhà nước được thực hiện trên cơ sở đánh giá kết quả thực hiện các nhiệm vụ, hiệu quả sử dụng ngân sách nhà nước trong các giai đoạn trước và khả năng đóng góp thực tế của nhiệm vụ, chương trình, dự án vào mục tiêu phát triển chuyển đổi số. Việc đánh giá gắn với trách nhiệm giải trình của Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, cơ quan khác ở trung ương và địa phương;
+d) Bảo đảm công khai, minh bạch;
+đ) Phần ngân sách nhà nước không phân bổ qua quỹ được giao dự toán trực tiếp cho đơn vị sử dụng ngân sách nhà nước theo quy định của pháp luật.
+4. Việc quản lý và sử dụng ngân sách nhà nước được thực hiện như sau:
+a) Ngân sách nhà nước phải được sử dụng với mục tiêu bảo đảm hiệu quả tổng thể, tiến độ giải ngân, gắn với trách nhiệm trực tiếp, toàn diện của đơn vị sử dụng ngân sách nhà nước, có sự giám sát, kiểm tra, đánh giá thường xuyên của cơ quan có thẩm quyền;
+b) Thủ trưởng cơ quan, đơn vị sử dụng ngân sách nhà nước có trách nhiệm quản lý, sử dụng ngân sách nhà nước, đánh giá và báo cáo tình hình thực hiện, kết quả, hiệu quả sử dụng ngân sách nhà nước trên Nền tảng số quản lý đầu tư, nhiệm vụ chuyển đổi số;
+c) Kinh phí thực hiện nhiệm vụ chuyển đổi số chi theo ủy nhiệm chi của cơ quan chủ trì; quyết toán sau khi hoàn thành hợp đồng, không phụ thuộc vào năm tài chính; thực hiện quyết toán ngân sách nhà nước hằng năm theo niên độ ngân sách đối với số kinh phí thực chi đã được Kho bạc Nhà nước nơi cơ quan chủ trì mở tài khoản giao dịch xác nhận.
+5 Quyết toán ngân sách nhà nước cho chuyển đổi số thực hiện theo quy định của pháp luật về ngân sách nhà nước, pháp luật về đầu tư công.
+6. Chính phủ quy định chi tiết Điều này.
+Sử dụng Quỹ đổi mới công nghệ cho chuyển đổi số
+1. Quỹ đổi mới công nghệ quốc gia theo quy định của pháp luật được sử dụng hỗ trợ các hoạt động nghiên cứu, phát triển và ứng dụng công nghệ số để tổ chức thực hiện nhiệm vụ chuyển đổi số.
+2. Việc sử dụng quỹ tuân thủ quy định của pháp luật về quản lý quỹ và đảm bảo tính hiệu quả.
+3. Chính phủ quy định chi tiết Điều này.
+Ưu đãi đầu tư, mua sắm cho chuyển đổi số
+1. Nhà nước có chính sách ưu đãi cho các tổ chức, cá nhân đầu tư vào lĩnh vực chuyển đổi số, bao gồm: hạ tầng cho chuyển đổi số theo khoản 6 Điều 8 của Luật này; nền tảng số; sản phẩm, dịch vụ cho chuyển đổi số, các dự án chuyển đổi số có quy mô lớn, tác động lan tỏa.
+2. Các chính sách ưu đãi bao gồm: ưu đãi về thuế, tín dụng, đất đai, vốn đối ứng, bảo lãnh tín dụng và các hình thức hỗ trợ khác theo quy định của pháp luật về đầu tư.
+3. Chính phủ quy định chi tiết Điều này.
+Quản lý đầu tư, mua sắm, thuê dịch vụ phục vụ phục vụ chuyển đổi số
+Chính phủ quy định chi tiết việc đầu tư, mua sắm, thuê dịch vụ phục vụ chuyển đổi số trong cơ quan nhà nước bảo đảm phù hợp tính chất của hoạt động chuyển đổi số, sản phẩm, hàng hóa, dịch vụ công nghệ số; đồng thời bảo đảm phù quy định của pháp luật về đấu thầu, đầu tư công nhằm thúc đẩy triển khai chuyển đổi số nhanh và hiệu quả.
+Mục 3. TIÊU CHUẨN, QUY CHUẨN VÀ ĐÁNH GIÁ SỰ PHÙ HỢP VỚI TIÊU CHUẨN, QUY CHUẨN CHO CHUYỂN ĐỔI SỐ 
+Tiêu chuẩn, quy chuẩn kỹ thuật 
+1. Hệ thống tiêu chuẩn cho chuyển đổi số bao gồm tiêu chuẩn quốc tế, tiêu chuẩn khu vực, tiêu chuẩn nước ngoài, tiêu chuẩn quốc gia và tiêu chuẩn cơ sở đối với sản phẩm, hàng hóa, quy trình, dịch vụ được công bố, áp dụng tại Việt Nam theo quy định của pháp luật về tiêu chuẩn, quy chuẩn kỹ thuật, chất lượng sản phẩm, hàng hóa.
+2. Quy chuẩn kỹ thuật cho chuyển đổi số bao gồm quy chuẩn kỹ thuật quốc gia đối với sản phẩm, hàng hóa, quy trình, dịch vụ được xây dựng, ban hành theo quy định của pháp luật về tiêu chuẩn, quy chuẩn kỹ thuật, chất lượng sản phẩm, hàng hóa.
+Quản lý chất lượng sản phẩm, hàng hóa, dịch vụ
+1. Tổ chức, cá nhân khi đưa vào lưu hành các sản phẩm, hàng hóa, quy trình, dịch vụ phục vụ chuyển đổi số hoặc kết nối vào hệ thống thông tin của cơ quan nhà nước có khả năng ảnh hưởng đến tính tương thích, kết nối, an toàn, an ninh mạng và hiệu quả hoạt động của chuyển đổi số quốc gia phải thực hiện chứng nhận hợp quy, công bố hợp quy và sử dụng dấu hợp quy theo quy định.
+2. Bộ trưởng Bộ Khoa học và Công nghệ:
+a) Ban hành danh mục các sản phẩm, hàng hóa, dịch vụ phục vụ chuyển đổi số bắt buộc phải kiểm định, quản lý chất lượng;
+b) Ban hành quy chuẩn kỹ thuật; yêu cầu kỹ thuật; quy định áp dụng tiêu chuẩn quốc tế, tiêu chuẩn khu vực, tiêu chuẩn nước ngoài, tiêu chuẩn quốc gia trong chuyển đổi số theo quy định của pháp luật về tiêu chuẩn, quy chuẩn kỹ thuật; 
+c) Thực hiện chức năng tổng hợp, điều phối liên ngành về tiêu chuẩn, quy chuẩn kỹ thuật phục vụ chuyển đổi số quốc gia.
+3. Bộ trưởng, Thủ trưởng cơ quan ngang Bộ xây dựng, ban hành quy chuẩn kỹ thuật, đề nghị công bố tiêu chuẩn quốc gia, hướng dẫn áp dụng tiêu chuẩn về chuyển đổi số đối với các sản phẩm, dịch vụ chuyển đổi số ứng dụng trong các ngành, lĩnh vực được phân công.
+4. Bộ, cơ quan ngang Bộ thực hiện quản lý nhà nước về quản lý chất lượng sản phẩm, hàng hóa, quy trình, dịch vụ phục vụ chuyển đổi số; xem xét, quynh của pháp luật về chất lượng sản phẩm, hàng hóa trong các ngành, lĩnh vực được phân cônghuẩn quốc gia, hướng dẫn áp dụng tiêu chuẩn về ng ninh mạng và hiệu qộng quản lý nhà nước theo quy định của pháp luật về tiêu chuẩn, quy chuẩn; về chất lượng sản phẩm, hàng hóa trong các ngành, lĩnh vực được phân công.
+5. Nhà nước khuyến khích việc áp dụng các tiêu chuẩn và thực hiện đánh giá, chứng nhận sự phù hợp để nâng cao chất lượng, năng lực cạnh tranh của sản phẩm, hàng hóa, dịch vụ cho chuyển đổi số.
+Mục 4. CÔNG NGHỆ CHO CHUYỂN ĐỔI SỐ
+Phát triển công nghệ cho chuyển đổi số
+1. Nhà nước có chính sách thúc đẩy phát triển, làm chủ công nghệ cho chuyển đổi số để thực hiện quá trình chuyển đổi số quốc gia hiệu quả, bền vững.
+2. Các cơ quan nhà nước, doanh nghiệp nhà nước ưu tiên thuê, mua sắm các sản phẩm, dịch vụ công nghệ số do Việt Nam sản xuất, làm chủ công nghệ ("Make in Vietnam") trong các dự án đầu tư từ ngân sách nhà nước, được phép áp dụng hình thức chỉ định thầu đối với các sản phẩm, dịch vụ công nghệ số trọng điểm.   
+3. Việc ưu đãi, hỗ trợ và quản lý nhà nước đối với công nghệ số phục vụ chuyển đổi số thực hiện theo pháp luật về công nghiệp công nghệ số. 
+Mục 5. BẢO ĐẢM AN TOÀN MÔI TRƯỜNG SỐ
+Bảo đảm an toàn môi trường số
+1. Cơ quan, tổ chức, cá nhân tham gia hoặc có liên quan đến hoạt động chuyển đổi số phải tuân thủ quy định của pháp luật về an toàn thông tin mạng, an ninh mạng, dữ liệu, bảo vệ dữ liệu cá nhân và pháp luật khác có liên quan.
+2. Doanh nghiệp sở hữu các nền tảng số có trách nhiệm xây dựng các công cụ để chủ động sàng lọc, phát hiện, xử lý nhằm bảo vệ người sử dụng khỏi các nội dung xấu, độc hại, thông tin vi phạm pháp luật, tin giả, nội dung lừa đảo.
+3. Các hệ thống thông tin phục vụ chuyển đổi số, đặc biệt là các hệ thống thông tin của cơ quan nhà nước và các lĩnh vực quan trọng, phải được triển khai các biện pháp bảo đảm an toàn, an ninh mạng, bảo vệ dữ liệu cá nhân và xử lý các hành vi vi phạm trên không gian mạng theo các quy định của pháp luật về an toàn, an ninh mạng và bảo vệ dữ liệu cá nhân.
+Mục 6: BẢO ĐẢM CHỦ QUYỀN SỐ QUỐC GIA
+Chủ quyền số quốc gia
+Chủ quyền số quốc gia là quyền tối cao, tuyệt đối và toàn vẹn của Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam trên không gian mạng quốc gia; là quyền tự quyết đối với các yếu tố: hạ tầng cho chuyển đổi số, dữ liệu số, nền tảng số, công dân số, quy định trên môi trường số và các quyền lập pháp, hành pháp, tư pháp của nhà nước đối với các thành phần này.
+Nguyên tắc thực thi Chủ quyền số quốc gia
+1. Bảo đảm sự cân bằng, hài hòa giữa bảo vệ an ninh quốc gia, thúc đẩy phát triển kinh tế - xã hội và tôn trọng, bảo vệ quyền con người, quyền công dân.
+2. Ưu tiên phát triển năng lực nội tại, làm chủ các công nghệ chiến lược, hạ tầng và nền tảng cho chuyển đổi số để giảm sự phụ thuộc và đảm bảo an ninh, chủ động trong mọi tình huống.
+3. Chủ động hội nhập, tham gia định hình các quy tắc ứng xử toàn cầu trên môi trường số trên cơ sở tôn trọng độc lập, chủ quyền của các quốc gia và luật pháp quốc tế.   
+4. Việc thực thi các quyền cụ thể của chủ quyền số quốc gia được thể chế hóa và tuân thủ theo các quy định tại pháp luật chuyên ngành như: an ninh mạng, bảo vệ dữ liệu cá nhân, dữ liệu, viễn thông, công nghiệp, công nghệ số và các văn bản pháp luật khác có liên quan.
+Mục 7. THỐNG KÊ, ĐO LƯỜNG, GIÁM SÁT, ĐÁNH GIÁ HIỆU QUẢ CHUYỂN ĐỔI SỐ
+Thống kê, đo lường, giám sát, đánh giá kế hoạch, chương trình, nhiệm vụ, dự án, hiệu quả chuyển đổi số
+1. Nhà nước có trách nhiệm xây dựng Nền tảng giám sát, đánh giá việc triển khai chuyển đổi số phục vụ việc giám sát, theo dõi, thống kê, đo lường, đánh giá kết quả các chương trình, chiến lược, kế hoạch, đề án, dự án nhiệm vụ, chuyển đổi số ở các cấp; nâng cao chất lượng, hiệu quả chỉ đạo, điều hành, quản lý nhà nước, thực thi pháp luật về chuyển đổi số.
+2. Việc thống kê, đo lường, đánh giá phải căn cứ trên bộ chỉ tiêu về chuyển đổi số thống nhất, do cơ quan nhà nước có thẩm quyền ban hành, áp dụng trên phạm vi toàn quốc.
+Trách nhiệm cung cấp, thu thập, cập nhật và quản lý cơ sở dữ liệu thông tin thống kê, giám sát, đánh giá hiệu quả chuyển đổi số
+Cơ quan, tổ chức triển khai nhiệm vụ chuyển đổi số có trách nhiệm cung cấp, thu thập, cập nhật dữ liệu đầy đủ, chính xác, kịp thời trên Nền tảng giám sát, đánh giá việc triển khai chuyển đổi số phục vụ công tác quản lý nhà nước và phát triển kinh tế - xã hội.
+Đánh giá mức độ chuyển đổi số
+1. Nhà nước định kỳ hàng năm tổ chức đánh giá mức độ chuyển đổi số của quốc gia, các bộ, ngành, địa phương, tổ chức, doanh nghiệp và cá nhân. 
+2. Kết quả đánh giá được công bố công khai để thúc đẩy thi đua, học hỏi và cải thiện hiệu quả chuyển đổi số; là căn cứ xếp hạng, khen thưởng, điều chỉnh chính sách và ưu tiên đầu tư cho các cơ quan, địa phương, doanh nghiệp triển khai tốt.
+Chương VII
+QUẢN LÝ NHÀ NƯỚC VỀ CHUYỂN ĐỔI SỐ
+Mục 1. CHỨC NĂNG, NHIỆM VỤ, PHÂN CÔNG, PHÂN CẤP
+Quản lý nhà nước về chuyển đổi số
+1. Các nội dung quản lý nhà nước bao gồm: 
+a) Xây dựng, ban hành và tổ chức thực hiện chính sách, pháp luật về chuyển đổi số; tiêu chuẩn, quy chuẩn kỹ thuật; bộ chỉ số chuyển đổi số thống nhất; 
+b) Xây dựng, ban hành và tổ chức thực hiện chiến lược, chương trình chuyển đổi số quốc gia; 
+c) Tuyên truyền, phổ biến chính sách, pháp luật về chuyển đổi số;
+c) Quản lý, giám sát các hoạt động chuyển đổi số;
+d) Báo cáo, thống kê về chuyển đổi số; nghiên cứu, ứng dụng khoa học và công nghệ về chuyển đổi số, sản phẩm, dịch vụ về chuyển đổi số.
+đ) Thanh tra, kiểm tra, giải quyết khiếu nại, tố cáo và xử lý vi phạm pháp luật về chuyển đổi số;
+e) Đào tạo, bồi dưỡng, phát triển nguồn nhân lực số;
+g) Hợp tác quốc tế về chuyển đổi số.
+2. Chính phủ thống nhất quản lý nhà nước về chuyển đổi số trên phạm vi toàn quốc. 
+3. Bộ Khoa học và Công nghệ là cơ quan đầu mối chịu trách nhiệm trước Chính phủ thực hiện quản lý nhà nước về chuyển đổi số.
+4. Các bộ, cơ quan ngang bộ, ủy ban nhân dân cấp tỉnh chủ trì, phối hợp với Bộ Khoa học và Công nghệ thực hiện quản lý nhà nước về chuyển đổi số trong ngành, lĩnh vưc, địa bàn thuộc nhiệm vụ, quyền hạn được phân công.
+Hợp tác quốc tế về chuyển đổi số
+1. Nhà nước đẩy mạnh hợp tác song phương, đa phương với các quốc gia, tổ chức quốc tế, doanh nghiệp toàn cầu trong lĩnh vực chuyển đổi số.
+2. Nội dung hợp tác tập trung vào: 
+a) Trao đổi kinh nghiệm, chuyển giao công nghệ; 
+b) Thu hút đầu tư nước ngoài và mở rộng thị trường cho sản phẩm, hàng hóa, dịch vụ phục vụ chuyển đổi số của Việt Nam; 
+c) Đào tạo, trao đổi chuyên gia; 
+d) Xây dựng tiêu chuẩn, quy chuẩn kỹ thuật có tính tương thích quốc tế; 
+đ) Tham gia tích cực vào các diễn đàn, sáng kiến và thiết lập các khuôn khổ hợp tác quốc tế về quản trị số, trí tuệ nhân tạo và các vấn đề mới nổi khác.
+Trách nhiệm của người đứng đầu cơ quan nhà nước
+Người đứng đầu cơ quan, đơn vị thuộc hệ thống chính trị có trách nhiệm:
+1. Trực tiếp chỉ đạo, tổ chức triển khai và chịu trách nhiệm chính về kết quả chuyển đổi số trong phạm vi cơ quan, đơn vị mình.
+2. Ban hành kế hoạch chuyển đổi số; tổ chức kiểm tra nội bộ và báo cáo định kỳ về kết quả theo quy định.
+3. Đảm bảo nguồn lực, nhân lực và các điều kiện cần thiết để thực hiện chuyển đổi số hiệu quả.
+Mục 2. TỔ CHỨC, GIẢI THƯỜNG, CHUYỂN ĐỔI SỐ
+Ngày chuyển đổi số quốc gia
+1. Ngày 10 tháng 10 hằng năm được xác định là Ngày Chuyển đổi số Quốc gia.
+2. Các cơ quan trong hệ thống chính trị, các bộ, ngành, địa phương căn cứ vào điều kiện thực tiễn tổ chức các hoạt động hưởng ứng Ngày Chuyển đổi số Quốc gia bảo đảm hiệu quả, thiết thực để nâng cao nhận thức của toàn xã hội về vai trò, ý nghĩa và lợi ích của chuyển đổi số đối với phát triển kinh tế - xã hội, cải cách hành chính, nâng cao chất lượng sống của người dân, thúc đẩy đổi mới sáng tạo và nâng cao năng lực cạnh tranh quốc gia.
+3. Bộ Khoa học và Công nghệ là cơ quan chủ trì hướng dẫn, đôn đốc và tổng hợp kết quả triển khai các hoạt động hưởng ứng Ngày Chuyển đổi số Quốc gia trên toàn quốc.
+Giải thưởng về chuyển đổi số
+1. Nhà nước tổ chức xét chọn và trao giải thưởng quốc gia về chuyển đổi số nhằm tôn vinh tổ chức, cá nhân có thành tích xuất sắc, sáng tạo và tác động lan tỏa trong việc thúc đẩy, triển khai và ứng dụng chuyển đổi số.
+2. Bộ Khoa học và Công nghệ chủ trì tổ chức giải thưởng, xây dựng tiêu chí, quy trình xét chọn, thành lập hội đồng chuyên gia, bảo đảm minh bạch, khách quan và phù hợp với thực tiễn.
+Chương VIII
+ĐIỀU KHOẢN THI HÀNH
+Sửa đổi, bổ sung, thay thế, bãi bỏ một số điều của các luật có liên quan
+1. Bãi bỏ Chương I, Chương II, Chương IV của Luật Công nghệ thông tin số 67/2006/QH11.
+2. Thay thế cụm từ “ứng dụng công nghệ thông tin” bằng cụm từ “chuyển đổi số” tại các luật, nghị quyết sau đây:
+a) Điều 69, Luật Kế toán số 88/2015/QH13.
+b) Điều 4, Luật Thư viện số 46/2019/QH14.
+c) Điều 98, Luật Giáo dục số 43/2019/QH14.
+d) Điều 46, Điều 58 của Luật Lưu trữ số 33/2024/QH15.
+đ) Điều 4, Luật Tần số vô tuyến điện số 42/2009/QH12 và Luật số 09/2022/QH15 sửa đổi, bổ sung năm Luật Tần số vô tuyến điện năm 2009.
+e) Mục II. Lĩnh vực Khoa học và Công nghệ, Nghị quyết số 100/2023/QH15 về hoạt động chất vấn tại kỳ họp thứ 6, Quốc hội khóa XV.
+g) Mục II. Nhiệm vụ và giải pháp chủ yếu trong thời gian tới, Nghị quyết số 99/2023/QH15 về giám sát chuyên đề “Việc huy động, quản lý và sử dụng các nguồn lực phục vụ công tác phòng, chống dịch COVID-19; việc thực hiện chính sách, pháp luật về y tế cơ sở, y tế dự phòng”.
+…
+Hiệu lực thi hành
+1. Luật này có hiệu lực thi hành từ ngày … tháng  … năm 2026 trừ trường hợp quy định tại điều 78 của Luật này (Điều khoản chuyển tiếp).
+2. Trường hợp có quy định khác nhau về cùng một vấn đề giữa Luật này với luật, nghị quyết khác của Quốc hội thì áp dụng quy định của Luật này. Trừ trường hợp văn bản quy phạm pháp luật khác có quy định cơ chế, chính sách ưu đãi hoặc thuận lợi hơn Luật này thì đối tượng được ưu đãi được áp dụng mức ưu đãi có lợi nhất.
+Quy định chuyển tiếp
+1. Các chương trình, đề án, dự án, nhiệm vụ về ứng dụng công nghệ thông tin, chuyển đổi số đang triển khai trước ngày Luật này có hiệu lực tiếp tục thực hiện theo kế hoạch đã được phê duyệt, trừ trường hợp các bên lựa chọn áp dụng Luật này.
+2. Trong thời gian luật, nghị quyết của Quốc hội, pháp lệnh, nghị quyết của Ủy ban Thường vụ Quốc hội chưa được sửa đổi, bổ sung trong thời hạn 02 năm từ ngày Luật này có hiệu lực thi hành, giao Chính phủ ban hành văn bản quy phạm pháp luật điều chỉnh để giải quyết khó khăn, vướng mắc trong triển khai chuyển đổi số được quy định tại luật, nghị quyết của Quốc hội, pháp lệnh, nghị quyết của Ủy ban Thường vụ Quốc hội để thống nhất áp dụng, định kỳ báo cáo Ủy ban Thường vụ Quốc hội; trường hợp liên quan đến luật, nghị quyết của Quốc hội thì báo cáo Quốc hội tại kỳ họp gần nhất.
+Hướng dẫn thi hành
+1. Chính phủ, Bộ Khoa học và Công nghệ và các cơ quan có liên quan có trách nhiệm hướng dẫn chi tiết, tổ chức triển khai thực hiện các nội dung được giao trong Luật này.
+2. Các bộ, ngành, địa phương căn cứ vào quy định của Luật này xây dựng kế hoạch triển khai chi tiết, bảo đảm thực thi đầy đủ, thống nhất và hiệu quả.
+Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XV, Kỳ họp thứ 10 thông qua ngày      tháng 11 năm 2025.
+QUỐC HỘI
+
+Luật số:...../20..../QH15	CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập – Tự do – Hạnh phúc
+
+Hà Nội, ngày        tháng        năm 2025
+	CHỦ TỊCH QUỐC HỘI
+
+Trần Thanh Mẫn

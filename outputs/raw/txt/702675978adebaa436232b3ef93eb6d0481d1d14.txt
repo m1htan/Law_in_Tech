@@ -1,0 +1,170 @@
+NGHIÊN CỨU - TRAO ĐỔI
+TRAO ĐỔI VỀ DỰ THẢO LUẬT THUẾ
+GIÁ TRỊ GIA TĂNG (SỬA ĐỔI)
+NGUYỄN THỊ QUỲNH GIAO
+Thuế giá trị giá tăng là một trong những khoản thu đóng góp lớn cho nguồn ngân sách nhà nước. Bộ Tài
+chính đang lấy ý kiến đóng góp rộng rãi về dự án Luật Thuế giá trị gia tăng sửa đổi. Dự án Luật đề xuất
+sửa đổi, bổ sung các quy định nhằm mở rộng cơ sở thu thuế, chống gian lận, thất thu thuế giá trị gia tăng,
+đảm bảo thu đúng, thu đủ vào ngân sách nhà nước. Một số bất cập trong quy định hiện hành trong Luật
+sẽ được sửa đổi nhằm bảo đảm tính minh bạch, dễ hiểu, dễ thực hiện. Bài viết làm rõ một số vấn đề điều
+chỉnh thay đổi trong dự thảo Luật Thuế giá trị gia tăng.
+Từ khoá: Thuế giá trị gia tăng, cơ sở thu thuế, sửa đổi, bổ sung
+REVISED DRAFT LAW ON VALUE ADDED TAX
+tượng chịu thuế GTGT là hàng hóa, dịch vụ sử dụng
+Nguyen Thi Quynh Giao
+cho sản xuất, kinh doanh và tiêu dùng ở Việt Nam,
+Value-added tax is one of the major contributors to trừ các đối tượng quy định tại Điều 5 của Luật Thuế
+the state budget. The Ministry of Finance is collecting GTGT. Người nộp thuế GTGT là tổ chức, cá nhân
+public comments on the revised Law on Value Added sản xuất, kinh doanh hàng hóa, dịch vụ chịu thuế
+Tax. The draft Law proposes to amend and supplement GTGT và tổ chức, cá nhân nhập khẩu hàng hóa chịu
+regulations to expand the tax base, combat fraud and thuế GTGT.
+loss of value-added tax revenue, and ensure sufficient Ngày 3/6/2008, Quốc hội thông qua Luật Thuế
+revenue to the state budget. Some shortcomings in GTGT số 13/2008/QH12 có hiệu lực thi hành từ ngày
+the current provisions of the Law will be amended to 01/01/2009 thay thế Luật Thuế GTGT năm 1997 và
+ensure transparency, understandability, and ease of các Luật sửa đổi, bổ sung một số điều của Luật Thuế
+implementation. The article clarifies some changes in GTGT năm 2003, năm 2005. Để khắc phục những bất
+the draft Law on Value Added Tax. cập phát sinh trong thực tiễn, Luật Thuế GTGT đã
+được sửa đổi, bổ sung ba lần tiếp theo vào các năm
+Keywords: Value added tax, tax base, amendments, supplements
+2013, 2014 và 2016.
+Trong quá trình triển khai thực hiện, Luật Thuế
+Ngày nhận bài: 10/3/2023 GTGT đã tác động tích cực đến nhiều mặt kinh tế -
+Ngày hoàn thiện biên tập: 21/3/2023
+xã hội và đã đạt được mục tiêu đề ra khi ban hành
+Ngày duyệt đăng:28/3/2023
+Luật. Tuy nhiên, trong quá trình phát triển kinh tế -
+Thuế giá trị gia tăng và vấn đề đặt ra xã hội và hội nhập kinh tế quốc tế thì chính sách
+thuế GTGT đã bộc lộ một số tồn tại, hạn chế như:
+Ở Việt Nam, tại kỳ họp lần thứ 11 Quốc hội khoá Luật Thuế GTGT có điểm chưa phù hợp với thông
+IX đã thông qua Luật Thuế (GTGT) và có hiệu lực thi lệ quốc tế, với nguyên tắc của thuế GTGT; Một số
+hành kề từ ngày 01/01/1999. quy định còn phức tạp, không thuận lợi trong quá
+Thuế GTGT là một loại thuế gián thu đánh trên trình thực hiện, gây vướng mắc cho cả cơ quan thuế
+giá trị tăng thêm của hàng hoá, dịch vụ và người và người nộp thuế.
+tiêu dùng cuối cùng sẽ gánh chịu khoản thuế này Luật Thuế GTGT hiện hành cũng chưa có quy
+(Luật Thuế GTGT, năm 1999). Khác với thuế xuất định để xác định đúng cơ chế thu đối với một số loại
+nhập khẩu và tiêu thụ đặc biệt là thuế gián thu một hàng hóa phát sinh theo sự phát triển của kinh tế thị
+giai đoạn, loại thuế này đánh nhiều giai đoạn ở tất trường. Đối tượng không chịu thuế GTGT còn nhiều
+cả các giai đoạn từ sản xuất, lưu thông đến tiêu nên chưa bao quát hết các nguồn thu; doanh thu bán
+dùng. Do đó, nguồn thu từ thuế GTGT trong tổng hàng hóa, dịch vụ không chịu thuế GTGT có mức từ
+thu ngân sách nhà nước (NSNN) là rất lớn. Đối 100 triệu đồng trở xuống/năm cần phải nghiên cứu
+54
+TÀI CHÍNH - Tháng 4/2023
+Về giá tính thuế GTGT
+điều chỉnh cho phù hợp với thực tế; đối tượng chịu
+thuế GTGT thuế suất 5% còn nhiều; mức thuế suất Giá tính thuế GTGT hiên hành cũng được Nhà
+phổ thông 10% cần phải nghiên cứu điều chỉnh cho nước ban hành cụ thể trong Luật Thuế GTGT như:
+phù hợp quá trình chuyển đổi, tái cơ cấu nền kinh Cách xác định giá tính thuế đối với hàng hoá dịch
+tế hiện nay. Quy định về giá tính thuế GTGT đối với vụ bán ra, giá tính thuế đối với hàng hoá nhập khẩu,
+hoạt động kinh doanh bất động sản còn có cách hiểu giá tính thuế đối với hàng hoá dịch vụ trong trường
+khác nhau giữa người nộp thuế và cơ quan thuế. hợp dùng để trao đổi tiêu dùng nội bộ, giá tính thuế
+Quy định về khấu trừ thuế GTGT đầu vào cần đối với hoạt động cho thuê, bán trả chậm trả góp
+phải chặt chẽ hơn nữa để góp phần ngăn chặn gian hoạt động xây dựng xây lắp, hoạt động môi giới…
+lận trong khấu trừ, hoàn thuế GTGT, chống thất thu Dự thảo Luật cũng định hướng sửa đổi, bổ sung giá
+ngân sách nhà nước. tính thuế của một số nhóm hàng hóa, dịch vụ nhằm
+đảm bảo tính thống nhất, đồng bộ của hệ thống
+Đề xuất nhiều điểm mới
+pháp luật như giá tính thuế đối với dịch vụ casino,
+tại dự thảo Luật Thuế giá trị gia tăng sửa đổi
+trò chơi điện tử có thưởng, kinh doanh đặt cược.
+Để khắc phục những tồn tại, hạn chế trong áp Bênh cạnh đó, dự thảo Luật tập trung đề xuất
+dụng Luật Thuế GTGT hiện hành, tại dự thảo Luật sửa đổi giá tính thuế của hoạt đông bất động sản,
+Thuế GTGT (sửa đổi), Bộ Tài chính đã nghiên cứu, thay vì áp dụng giá tính thuế bất động sản là giá bán
+bổ sung và đề xuất một số thủ tục hoàn thuế để tạo bất động sản chưa có thuế GTGT, trừ giá chuyển
+điều kiện hơn nữa cho doanh nghiệp đầu tư, đổi quyền sử dụng đất hoặc tiền thuê đất phải nộp ngân
+mới công nghệ. Một số vấn đề cần trao đổi tại dự sách nhà nước như ở hiện tại. Việc hoàn chỉnh cơ sở
+thảo Luật Thuế GTGT thể hiện ở các nội dung sau: pháp lý để dùng căn cứ tính thuế trong các trường
+hợp là phù hợp; đảm bảo tính minh bạch, cụ thể khi
+Danh mục sản phẩm hàng hoá chịu thuế GTGT
+áp dụng chính sách thuế GTGT.
+Hiện nay, theo quy định tại Điều 5 Luật Thuế
+Về thuế suất thuế GTGT
+GTGT số 13/2008/QH12 và Điều 4 Thông tư số
+219/2013/TT-BTC quy định, có 26 nhóm hàng hoá Hiện tại, Việt Nam áp dụng thuế suất GTGT ở
+dịch vụ không chịu thuế GTGT bao gồm các hàng mức 0%, 5% và 10%. So với các quốc gia trên thế
+hoá dịch vụ liên quan đến nông nghiệp, nhóm hàng giới, thì mức thuế suất thuế GTGT ở Việt Nam vẫn
+hoá thiết yếu và các dịch vụ phi lợi nhuận. Tuy nhiên, còn ở mức thấp. Ví dụ: Tại Đức mức thuế suất phổ
+trong quá trình triển khai áp dụng trên thực tế vẫn thông là 19%; Trung Quốc mức thuế phổ thông là
+tồn tại bất cập như thiếu tính cân đối giữa các nhóm 17%; Áo mức thuế suất phổ thông là 20%.
+hàng hoá dịch vụ chịu thuế và không chịu thuế. Tại dự thảo Luật, chủ trương đưa ra là chuyển
+Việc áp dụng trong thực tiễn cho thấy, cần thay một số hàng hóa, dịch vụ 0% sang đối tượng chịu
+đổi theo hướng thu hẹp Danh mục hàng hoá không thuế 5% hoặc 10%, chuyển một số dịch vụ chịu thuế
+chịu thuế, nhằm đảm bảo mục tiêu cân đối, thu 5% sang đối tượng chịu thuế 10%.
+đúng, thu đủ. Do đó, tại dự thảo Luật Thuế GTGT, Để khuyến khích hoạt động xuất khẩu hàng hóa,
+Bộ Tài chính đề xuất nghiên cứu sửa đổi, bổ sung cũng như phát triển du lịch, dự thảo Luật đề xuất
+quy định tại Điều 5 để thu hẹp đối tượng không nghiên cứu bổ sung quy định đối với hàng hóa bán
+chịu thuế GTGT, cụ thể như: Giảm bớt số lượng tại khu vực cách ly, thiết bị, dụng cụ y tế; giáo cụ
+nhóm hàng hóa, dịch vụ đang thuộc đối tượng dùng để học tập; thực phẩm tươi sống... hàng bán
+không chịu thuế giá trị gia tăng như phân bón; máy tại cửa hàng miễn thuế thuộc đối tượng áp dụng
+móc, thiết bị chuyên dùng cho nông nghiệp; tàu thuế suất 0% và hướng dẫn điều kiện và thủ tục
+đánh bắt xa bờ; dịch vụ bưu chính, viễn thông công được áp dụng thuế suất thuế GTGT 0% cho phù hợp
+ích và internet phổ cập... nhằm tháo gỡ khó khăn cho hoạt động sản xuất kinh
+Như vậy, việc xác định danh mục hàng hoá doanh, cải cách thủ tục hành chính.
+không chịu thuế theo hướng thu hẹp và đưa các Giảm bớt số lượng nhóm hàng hóa, dịch vụ đang
+dịch vụ sản phẩm như trên vào danh mục hàng hoá chịu thuế GTGT ở mức thuế suất 5% thuộc các lĩnh
+chịu thuế là phù hợp. Tuy nhiên, có thể không áp vực đã được xã hội hóa mạnh mẽ để bình đẳng với
+mức thuế suất phổ thông 10% như các mặt hàng ngành nghề, lĩnh vực thông thường khác như: Hoạt
+thông thường khác mà có thể áp dụng các mức thuế động văn hóa, triển lãm, thể dục, thể thao; biểu diễn
+suất thấp hơn như 8% hoặc 5% vì cơ bản nó vẫn nghệ thuật; sản xuất phim; nhập khẩu, phát hành và
+thuộc nhóm hàng hoá dịch vụ thiết yếu. chiếu phim...
+55
+NGHIÊN CỨU - TRAO ĐỔI
+Việc điều chỉnh thuế suất để đảm bảo tính bình Đối với hàng hoá, dịch vụ xuất khẩu, ngoài các
+đẳng giữa các ngành nghề là phù hợp và tiệm cận điều kiện quy định trên còn phải có: Hợp đồng ký
+với quy định quốc tế về mức thuế suất thuế GTGT. kết với bên nước ngoài về việc bán, gia công hàng
+Tuy nhiên, sự thay đổi của chính sách thuế đặc biệt hóa, cung ứng dịch vụ; Hoá đơn bán hàng hoá,
+là thuế suất thuế GTGT sẽ tác động rất lớn đến nền dịch vụ; chứng từ thanh toán không dùng tiền mặt;
+kinh tế thị trường và chi tiêu của người dân. tờ khai hải quan đối với hàng hoá xuất khẩu. Việc
+Trên thực tế, tại Việt Nam và các nước trên thế thanh toán tiền hàng hoá, dịch vụ xuất khẩu dưới
+giới vẫn chưa ổn định về tình hình kinh tế, do đó, hình thức thanh toán bù trừ giữa hàng hóa, dịch vụ
+việc thay đổi mức thuế suất này cần thiết phải có xuất khẩu với hàng hóa, dịch vụ nhập khẩu, trả nợ
+thời gian và lộ trình từng giai đoạn để phù hợp hơn thay Nhà nước được coi là thanh toán không
+với điều kiện kinh tế nước ta hiện nay. dùng tiền mặt.
+Dự thảo Luật đưa ra đề xuất sửa đổi, bổ sung
+Về khấu trừ thuế GTGT đầu vào
+quy định về khấu trừ thuế GTGT đầu vào trong
+Theo quy định tại khoản 1 Điều 12 Luật GTGT trường hợp người nộp thuế phát hiện hồ sơ khai
+năm 2008 (sửa đổi năm 2013) như: Thuế GTGT đầu thuế có sai sót để đảm bảo tính thống nhất, đồng bộ
+vào của hàng hóa, dịch vụ sử dụng cho sản xuất, của hệ thống pháp luật; đảm bảo minh bạch chính
+kinh doanh hàng hóa, dịch vụ chịu thuế GTGT được sách tránh vướng mắc trong thực hiện.
+khấu trừ toàn bộ, kể cả thuế GTGT đầu vào không
+Về hoàn thuế GTGT
+được bồi thường của hàng hoá, dịch vụ chịu thuế
+GTGT bị tổn thất; Thuế GTGT đầu vào của hàng Tại dự thảo Luật đề xuất sửa đổi, bổ sung quy
+hoá, dịch vụ sử dụng; đồng thời cho sản xuất, kinh định về hoàn thuế GTGT đối với một số nhóm hàng
+doanh hàng hóa, dịch vụ chịu thuế và không chịu hóa, dịch vụ để đảm bảo chính sách rõ ràng, dễ hiểu,
+thuế thì chỉ được khấu trừ số thuế GTGT đầu vào dễ thực hiện, tạo thuận lợi cho người nộp thuế như:
+của hàng hoá, dịch vụ sử dụng cho sản xuất, kinh Đối với cơ sở sản xuất hàng hóa, cung ứng dịch vụ
+doanh hàng hóa, dịch vụ chịu thuế giá trị gia tăng. chịu thuế GTGT 5%; dự án đầu tư; dự án đầu tư của
+Cơ sở kinh doanh phải hạch toán riêng thuế GTGT cơ sở kinh doanh ngành, nghề đầu tư kinh doanh có
+đầu vào được khấu trừ và không được khấu trừ; điều kiện; hàng hóa, dịch vụ xuất khẩu... Sửa đổi
+trường hợp không hạch toán riêng được thì thuế đầu quy định về hoàn thuế đối với trường hợp chuyển
+vào được khấu trừ tính theo tỷ lệ % giữa doanh thu đổi sở hữu, chuyển đổi doanh nghiệp, sáp nhập,
+của hàng hóa, dịch vụ chịu thuế giá trị gia tăng so với hợp nhất, chia, tách, chấm dứt hoạt động để phù
+tổng doanh thu hàng hoá, dịch vụ bán ra. Thuế GTGT hợp với Luật Doanh nghiệp.
+đầu vào của hàng hoá, dịch vụ bán cho tổ chức, cá Bên cạnh những định hướng đề xuất trên, việc
+nhân sử dụng nguồn vốn viện trợ nhân đạo, viện trợ quản lý công tác hoàn thuế GTGT hiện nay một là
+không hoàn lại được khấu trừ toàn bộ. Thuế GTGT một vấn đề còn tồn tại và gây thất thoát lớn cho
+đầu vào của hàng hoá, dịch vụ sử dụng cho hoạt nguồn thu NSNN. Do đó, việc quy định ngưỡng
+động tìm kiếm, thăm dò, phát triển mỏ dầu, khí được thuế GTGT đầu vào để được hoàn thuế hay đưa ra
+khấu trừ toàn bộ; Thuế GTGT đầu vào phát sinh yêu cầu kiểm toán trước khi hoàn thuế là vấn đề
+trong tháng nào được kê khai, khấu trừ khi xác định Nhà nước cần xem xét, nghiên cứu để sửa đổi, hoàn
+số thuế phải nộp của tháng đó. thiện với thực tiễn cuộc sống.
+Trường hợp cơ sở kinh doanh phát hiện số thuế
+Tài liệu tham khảo:
+GTGT đầu vào khi kê khai, khấu trừ bị sai sót thì
+được kê khai, khấu trừ bổ sung trước khi cơ quan 1. Quốc hội, Luật Thuế GTGT số 13/2008/QH 12;
+thuế công bố quyết định kiểm tra thuế, thanh tra 2. Bộ Tài chính, Tờ trình về đề nghị xây dựng dự án Luật Thuế GTGT (sửa đổi);
+thuế tại trụ sở người nộp thuế. 3. Pháp luật Việt Nam, Sửa Luật Thuế giá trị gia tăng: Hướng tới áp dụng một
+Điều kiện khấu trừ thuế GTGT đầu vào cũng mức thuế suất, https://baophapluat.vn/sua-luat-thue-gia-tri-gia-tang-
+được quy định tại khoản 2 Điều 12 Luật thuế GTGT huong-toi-ap-dung-mot-muc-thue-suat-post468302.html;
+năm 2008 (sửa đổi năm 2013) như sau: Có hoá đơn 4. https://mof.gov.vn; tapchitaichinh.vn.
+GTGT mua hàng hoá, dịch vụ hoặc chứng từ nộp
+Thông tin tác giả:
+thuế GTGT ở khâu nhập khẩu; Có chứng từ thanh
+ThS. Nguyễn Thị Quỳnh Giao
+toán không dùng tiền mặt đối với hàng hóa, dịch vụ
+Trường Đại học Duy Tân
+mua vào, trừ hàng hoá, dịch vụ mua từng lần có giá
+Email: nguyentquynhgiao1989@gmail.com
+trị dưới hai mươi triệu đồng;
+56

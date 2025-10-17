@@ -1,0 +1,82 @@
+Sự phát triển của công nghệ an toàn cháy và cuộc cách mạng công nghệ 4.0 tại Việt Nam
+Thế giới đang có những thách thức lớn, những biến đổi lớn về kinh tế xã hội, sự tiến bộ về khoa học công nghệ, và thách thức của biến đổi khí hậu. Sự an toàn trở thành tiêu chí đầu tiên và quan trọng trong thế giới công nghệ 4.0. Ở Việt Nam, vấn đề an toàn cháy ngày càng trở nên quan trọng và đặc biệt quan trọng tại các thành phố lớn, với những dự án lớn. Bài viết đề cập khái quát tới tình hình cháy nổ tại Việt Nam, những bước đi ban đầu trong việc củng cố lực lượng phòng cháy, chữa cháy, nghiên cứu cháy. Ở một góc cạnh khác, đối chiếu với các tiến bộ công nghệ của các nước trong khu vực, điển hình là Nhật Bản, để từ đó có một chiến lược phát triển công nghệ cháy hiện đại và phù hợp với điều kiện Việt Nam.
+Tổng quan về an toàn cháy ở Việt Nam – sự phát triển của công nghệ và quản lý đào tạo an toàn cháy (ATC)
+1. Các vụ cháy tại Việt Nam trong thời gian gần đây
+- Số lượng các vụ cháy tăng lên, đặc biệt là các vụ cháy lớn gây hậu quả đặc biệt nghiêm trọng
+Những năm gần đây, quá trình công nghiệp hóa, hiện đại hóa, đô thị hóa diễn ra nhanh ở Việt Nam. Các cơ sở sản xuất, dịch vụ, thương mại… gia tăng cả về số lượng và quy mô. Bên cạnh đó, những tồn tại, bất cập, thiếu đồng bộ trong quy hoạch hạ tầng (hệ thống điện, giao thông, nguồn nước, thông tin liên lạc…) phục vụ công tác phòng cháy chữa cháy (PCCC) và cứu nạn cứu hộ (CNCH) chưa được giải quyết triệt để.
+Trong năm 2017, cả nước xảy ra 4.074 vụ cháy, số vụ cháy tăng 492 vụ (4.074/3.582 vụ), tăng 13,7% so với năm 2016, số vụ cháy lớn gây thiệt hại nghiêm trọng tăng 6,9%; thiệt hại tài sản tăng 546 tỷ đồng (1.477/931 tỷ đồng), tăng 58,6%; số người chết giảm 13 người (0/13 người), giảm 100%; số người bị thương giảm 1 người (3/4 người), giảm 25%.
+Về nguyên nhân cháy:
+Theo điều tra của cảnh sát PCCC, các nguyên nhân cơ bản là:
++) Do sự cố hệ thống và thiết bị điện: 2.004 vụ, chiếm 49,2%;
++) Do sơ suất trong sử dụng lửa, điện, xăng dầu, khí đốt, hóa chất: 1.275 vụ, chiếm 31,3%;
++) Do vi phạm quy trình, quy định an toàn: 82 vụ, chiếm 2%;
++) Do tác động của hiện tượng thiên nhiên: 20 vụ, chiếm 0,5%;
++) Nguyên nhân khác: 49 vụ, chiếm 1,2%.
++) Các vụ chưa rõ nguyên nhân chiếm 12,3%
+2. Sự phát triển của công nghệ và quản lý đào tạo ATC
+Từ những ngày đầu thành lập, lực lượng CS PCCC Việt Nam được trang bị những thiết bị thô sơ như câu liêm, xô chậu… và những xe ZIL 130-131 do Liên Xô tài trợ, nên công tác PCCC gặp nhiều khó khăn.
+Vụ cháy ITC đã làm thay đổi cả suy nghĩ của người dân và lãnh đạo về công tác PCCC, xảy ra ngày 29-10- 2002, vụ cháy khởi phát từ vũ trường Blue, tại tầng 3, số 95 – 101 Nam Kỳ Khởi Nghĩa, quận 1, TP HCM, làm 60 người chết, 70 người bị thương (phỏng, ngạt, chấn thương do nhảy từ trên cao xuống). Tổng thiệt hại vụ cháy trên 40 tỉ đồng.
+Theo thống kê của cục CS PCCC, cả nước có trên 2000 nhà cao tầng và siêu cao tầng do đó công tác đảm bảo an toàn PCCC càng được quan tâm hơn. Một số thành phố lớn được trang bị xe chữa cháy hiện đại của Đức, Áo, Mỹ, xe thang đã có thể vươn cao đến 72m. Quy định các công trình công cộng đều phải trang bị hệ thống báo cháy, chữa cháy tự động, thông gió hút khói, hệ thống tăng áp cầu thang, hệ thống cung cấp nước. Cán bộ chiến sỹ được trang bị các thiết bị hiện đại hơn như: Mặt nạ phòng độc, áo chịu nhiệt, bình khí oxy…
+Trong năm 2017, C66 đã tổ chức tập huấn, cấp phát 71 xe chữa cháy, xe chuyên dùng cùng 1.908 bộ quần áo chữa cháy các loại, 32 máy nạp khí sạch, 11.400 kg thuốc bọt, 45 máy phát hiện khí độc, 54 bộ mặt nạ phòng độc cách ly…
+Trước tình hình cháy nổ phức tạp cũng như cùng với sự phát triển của khoa học kỹ thuật ngành PCCC đang từng bước tiếp cận trang thiết bị hiện đại mới như: Tăng cường trang bị hệ thống thông tin liên lạc giữa các chiến sỹ trong và ngoài đám cháy, hệ thống báo cháy kết nối giữa cơ sở với trung tâm thông tin của sở PCCC, hệ thống Quản lý hồ sơ cơ sở nguy hiểm cháy nổ bằng số hóa…
+Theo đó, công tác đào tạo PCCC cũng từng bước phát triển, cụ thể từng giai đoạn như sau:
+– Thời kỳ thành lập Trường Hạ sĩ quan Cảnh sát PCCC (1976 – 1984): Với 5 khoá Trung cấp, 02 lớp chuyên khoa sỹ quan PCCC với tổng số 695 học viên;
+– Thời kỳ thành lập Trường Cao đẳng Phòng cháy chữa cháy (1984 – 1999): Trường tổ chức đào tạo 15 khoá Cao đẳng (727 học viên), 17 khoá Trung cấp (955 học viên), 02 khoá Cao đẳng vừa làm vừa học (148 học viên), đào tạo cho nước CHDCND Lào 4 khoá (34 học viên);
+– Thành lập Trường Đại học PCCC (1999 – 2014): Năm 2000, trường có quy mô đào tạo là 1000 học viên. Hiện nay, trường có quy mô đào tạo trên 3000 học viên. Trong đó, có các chương trình đào tạo trình độ thạc sĩ, đại học, hệ trung cấp theo 3 chuyên ngành: Phòng cháy, chữa cháy, cứu hộ cứu nạn…
+Từ năm 1976 đến nay, trường đã đào tạo hơn 6000 người (trong đó gần 70 học viên của nước CHDCND Lào và Vương quốc Campuchia). Nhà trường đã ký kết 03 biên bản ghi nhớ với Học viện PCCC Quốc gia Cộng hòa Liên Bang Nga, bộ PCCC thuộc Bộ Tình trạng khẩn cấp Belarus trong lĩnh vực đào tạo, bồi dưỡng cán bộ (2008), đã thực hiện dự án hợp tác kỹ thuật: “Nâng cao năng lực giảng dạy, học tập và NCKH của trường Đại học PCCC” với Chính phủ Nhật Bản thông qua tổ chức JICA ( 2010, 2011). Chính phủ Nhật Bản cũng đã viện trợ cho trường 38 loại thiết bị phục vụ công tác huấn luyện thực hành chữa cháy trị giá hàng tỷ đồng và nhiều tài liệu khoa học kỹ thuật PCCC.
+Thông qua các dự án, các mối quan hệ hợp tác song phương, nhà trường đã nhận được các thiết bị hỗ trợ của JICA, gồm 01 xe thang chữa cháy, 02 xe chữa cháy, phòng học vật liệu chống cháy do các đối tác nước ngoài tặng.
+Sự phát triển công nghệ an toàn cháy tại Nhật Bản
+1. Thiết kế an toàn cháy tại Nhật Bản
+– Đặc điểm của thiết kế an toàn cháy tại Nhật Bản (NB) là hệ thống kết hợp giữa tự thân công trình Kiến trúc và Thiết bị phòng cháy (cửa sập liên động với hệ thống báo khói, cửa chống cháy chống khói tự đóng, hệ thống hút khói, cao áp…).
+– Công nghệ an toàn cháy tại NB tồn tại 2 phương pháp thiết kế:
+Thiết kế dựa theo Tiêu chuẩn (Prescriptive-based codes): Bao gồm các điều luật, tiêu chuẩn qui định công trình phải thiết kế như thế nào nhằm bảo đảm an toàn cháy cho công trình và người sử dụng (bottom-up objectives);
+Thiết kế dựa theo Tiêu chuẩn của NB qui định về mức tối thiểu công trình phải đạt được nhằm bảo đảm an toàn thoát hiểm cho người sử dụng. Chẳng hạn như quy định tối thiểu về khoảng cách thoát hiểm tới cửa thoát hiểm, yêu cầu về số lượng, vị trí lắp đặt sprinker, yêu cầu việc lắp đặt, công suất hệ thống hút khói… Tuy nhiên, nếu lấy quy định về khoảng cách về cửa thoát hiểm làm tiêu chí cho an toàn sinh mạng thì không hợp lý, vì không dự đoán được thời gian khói hạ khi xảy ra cháy tại vị trí bất lợi.
+Thiết kế dựa theo Tính năng (performance based approach). Phương pháp này vẫn dựa trên hệ thống luật kiến trúc cơ bản nhưng áp dụng các phương pháp đánh giá và thiết kế nhằm tăng tính an toàn của người sử dụng và giảm chi phí cho công trình. Trong đó, đáng nói nhất là phương pháp đánh giá an toàn thoát hiểm (đánh giá quá trình thoát hiểm của toàn bộ công trình) và an toàn phòng hỏa (đánh giá mức độ chống chịu hỏa hoạn của cấu kiện – top-down objectives)
+Thiết kế dựa theo Tính năng là phương pháp chỉ có thể sử dụng khi có tiêu chí đánh giá an toàn sinh mạng và công cụ để đánh giá tính an toàn như Simulation, Model. Những công thức, phương trình tính toán về dòng di chuyển của đám đông, tính chất phát triển của ngọn lửa hay phương thức lan truyền khói
+Mục tiêu của Thiết kế an toàn cháy là thiết kế một hệ thống thông minh và an toàn, thông qua sự kết hợp kiến trúc – công nghệ, để dù hỏa hoạn có xảy ra tại bất kỳ địa điểm nào hay do bất kỳ nguyên nhân nào, người sử dụng vẫn thoát hiểm một cách an toàn ngay cả trong tình trạng hỗn loạn.
+2. Các nghiên cứu cho hệ thống thoát hiểm
+Sơ đồ 2 khu vực. Các tính chất vật lý của khói trong khoang cháy E. Nội năng lượng của khói,/ m: khối lượng/ Pint: áp suất khói/ Q; Năng lượng/T; nhiệt độ khói/ V; thể tích/ p: mật độ khói
+Thực hiện các thí nghiệm cơ bản về hành vi thoát hiểm của con người, đặc biệt là trong đám đông, thông qua đó phân tích số liệu thu được, rút ra các công thức nhằm phục vụ cho mục đích dự đoán thời gian thoát hiểm trong từng không gian kiến trúc. Các nghiên cứu liên tục được làm mới, cải tiến và mở rộng để kết quả tính toán tiến gần sát với thực tế.
+Bên cạnh các thí nghiệm về con người, các nghiên cứu về lửa và khói cũng được tiến hành đồng thời nhằm hiểu rõ về tính chất lan truyền trong không gian kiến trúc của chúng. Qua đó, phân tích số liệu, rút ra công thức, xây dựng phần mềm tính toán.
+Dựa trên các phương pháp đánh giá về thời gian hạ khói và thời gian thoát hiểm trong các không gian kiến trúc khác nhau, NB đã xây dựng nên mô hình đánh giá an toàn về thoát hiểm cho con người trong công trình.
+Thiết kế an toàn cháy không giới hạn gò bó thiết kế kiến trúc mà phát triển thiết kế để có thể bảo đảm được người sử dụng công trình thoát hiểm một cách dễ dàng và an toàn thậm chí trong hoàn cảnh hỗn loạn.
+3. Các ứng dụng công nghệ trong thiết kế phòng hỏa
+Vật liệu
+Ứng dụng các hiểu biết về quá trình hình thành hỏa hoạn, một hệ thống tiêu chuẩn về vật liệu chống lửa đã được xây dựng. Các vật liệu mới phải được đánh giá thông qua kiểm tra cháy trước khi đưa vào sử dụng. Bằng việc sử dụng Thiết kế theo tính năng, công trình có thể sử dụng các vật liệu ngoài quy định nếu chứng minh được tính an toàn của công trình.
+Kết cấu
+Về cơ bản, các công trình phải sử dụng vỏ bọc ngăn cháy (Fire insulated Covering) với độ dày, chất liệu tùy theo từng loại kết cấu. Tuy nhiên, bằng việc sử dụng Thiết kế dựa theo Tính năng, có thể tính toán chứng minh tính an toàn của công trình để sử dụng vật liệu hoặc kết cấu mới.
+Trang thiết bị 
+Phương pháp luận cơ bản nhất của Thiết kế an toàn cháy là phân khu cháy (Fire compartment). Các thiết bị phòng cháy chữa cháy cũng phụ thuộc vào phân khu cháy để thiết kế và chế tạo (VD: Với 1 phân khu 1500 m2, tương đương với khoảng cách vòi chữa cháy có thể phun tới, cần từ 3 đầu máy hút khói trở lên (không làm diện tích ống quá to)…).
+Hệ thống cửa sập chống cháy (Fire shutter & Fire shutter door) là một ví dụ điển hình cho trang thiết bị phục vụ thiết kế an toàn. Không giống tường lửa (Fire walls), cửa sập chống cháy chỉ hoạt động thông qua báo cháy, tạo điều kiện cho thiết kế kiến trúc vẫn giữ được các không gian mở phục vụ hoạt động thường ngày. Các cửa sập này, tùy mục đích và vị trí, có thể kết nối trực tiếp với hệ thống báo cháy của tòa nhà (heat dectection ). Ngoài các loại cơ bản, có loại cửa sập chỉ đóng tới 1 khoảng cách nhất định để tránh gây cản trở trong quá trình thoát hiểm, rồi lại đóng hết để ngăn sự lây lan của lửa.
+Mô phỏng FDS
+4. Khả năng vận hành và quản lý tòa nhà dưới góc độ an toàn cháy
+Khi hệ thống an toàn cháy phụ thuộc càng nhiều vào thiết bị phòng cháy thì trách nhiệm quản lý, kiểm tra định kỳ, bảo dưỡng yêu cầu càng lớn
+Các công trình phức hợp hoặc quy mô lớn tại NB thường có ban quản lý ứng phó hỏa hoạn đảm nhiệm các nhiệm vụ như tổ chức kiểm tra định kỳ các thiết bị phòng cháy (báo cháy, cửa chịu lửa…, tập huấn thoát hiểm (đồng thời thoát hiểm toàn công trình hay thoát hiểm theo giai đoạn), kiểm hoạt động của toàn hệ thống một cách đồng bộ thông qua thiết bị kiểm soát an ninh.
+Cửa sập kết nối với hệ thống báo cháy.
+Thí dụ cửa thoát hiểm nối với hành lang thoát nạn
+Cách mạng công nghệ 4.0 và an toàn cháy tại Việt Nam
+Lịch sử đã và đang diễn ra 4 cuộc cách mạng công nghiệp: (1) Cơ khí hóa với máy chạy bằng thủy lực và hơi nước (năm 1784); (2) Động cơ điện và dây chuyền sản xuát hàng loạt (năm 1780); (3) Kỷ nguyên máy tính và tự động hóa (năm 1969) và (4) Các hệ thống liên kết thế giới thực và ảo (liên kết internet). Cuộc cách mạng 4.0 đã xóa ranh giới giữa các ngành vật lý, sinh học và số hóa để tạo nên 4 tác động chính: Gia tăng nhu cầu tiêu dùng, gia tăng sản xuất, thúc đẩy đổi mới sáng tạo, thay đổi các hình thức tổ chức. Cuộc cách mạng 4.0 đang diễn ra trên thế giới với tốc độ cấp số nhân, tạo nên sự biến đổi của toàn bộ hệ thống quản trị quốc gia, hỗ trợ và dẫn dắt cộng đồng, tạo nên nền Kinh tế số.
+Trong lĩnh vực công nghệ, nó tạo nên những đột biến nhờ các ứng dụng như mạng internet, công nghệ nano, công nghệ sinh học, trí thông minh minh nhân tạo, robo t, khoa học về vật liệu, lưu trữ năng lượng, tin học lượng tử…
+Dự báo về những ứng dụng cách mạng công nghệ 4.0 trong lĩnh vực an toàn cháy ở Việt Nam.
+Ở Việt Nam, Chính phủ đã có những nỗ lực để ứng dụng các công nghệ mới vào phát triển kinh tế vĩ mô, và các khu công nghệ cao ở các TP lớn của Việt Nam (khu công nghệ cao Hòa Lạc đi vào hoạt động giống như khu công nghệ mô hình của Mỹ, Nhật). Cộng đồng dân cư được tiếp cận các hàng hóa mới và các dịch vụ thông minh. Đối với các doanh nghiệp, đặc biệt trong lĩnh vực đầu tư BĐS, công nghệ 4D giúp kết nối thị trường, sử dụng nguồn vốn có hiệu quả. Việc xây dựng các khu ĐTM tích hợp công nghệ cao, tiết kiệm năng lượng, cũng là những thách thức trong an toàn cháy nếu ko có những chuyển hóa đồng bộ và phù hợp.
+Cuộc cách mạng 4.0, dưới góc độ quản lý thông minh nhờ mạng internet có thể tác động tới lĩnh vực an toàn cháy ở một số khía cạnh sau:
+– Quản lý và cung cấp thông tin dự báo an toàn cháy và những rủi ro tại các vị trí trong đô thị trên cơ sở phân tích các đột biến về mật độ dân cư, các hoạt động của cư dân đô thị có liên quan tới rủi ro về an toàn cháy;
+– Quản lý hệ thống điều hành và hướng dẫn tự động cộng đồng dân cư thoát hiểm khi xảy ra sự cố trong tòa nhà cao tầng và siêu cao tầng;
+– Quản lý hệ thống cơ sở dữ liệu về các vụ cháy đã xảy ra, nguyên nhân và sự thiệt hại, là cơ sở để phân tích nhằm khắc phục cho các trường hợp tương tự.
+Ứng dụng công nghệ cao vào công tác PCCC giai doạn 4.0 tại Việt Nam
+Cập nhật các tiến bộ công nghệ trong lĩnh vực an toàn cháy
+– Các tiến bộ mới về Vật liệu, kết cấu, trang thiết bị;
+– Quy trình điều hành, hướng dẫn an toàn cháy;
+– Hệ thống quản lý an toàn cháy;
+Nghiên cứu khả năng, báo cháy, kháng cháy, chữa cháy của tòa nhà bằng công nghệ 4D trong giai đoạn thiết kế và xây dựng
+– Ứng dụng phương pháp thiết kế an toàn, thông minh, kết hợp giữa công nghệ, thiết bị thông minh với kiến trúc tòa nhà;
+– Sử dụng vật liệu thông minh;
+– Hệ thống chữa cháy tự động thông minh;
+Nghiên cứu khả năng thóa thoát hiểm của cư dân trong tòa nhà thông minh bằng công nghệ 4D.
+– Cập nhật hệ thống tiêu chuẩn quy chuẩn về an toàn cháy của các nước;
+– Kết hợp mạng lưới hướng dẫn thoát hiểm với điện thoại thông minh;
+– Khả năng tự động hướng dẫn của kiến trúc tòa nhà;
+Kết luận
+Vấn đề ứng dụng công nghệ cao vào lĩnh vực an toàn cháy trong cuộc cách mạng 4.0 là cần thiết. Ở Việt Nam, việc ứng dụng công nghệ và công nghệ cao vào An toàn cháy đang có những nỗ lực nhưng còn ở cấp độ thấp so với các nước trong khu vực. Việc học hỏi kinh nghiệm, trao đổi chuyên môn với các nước là cần thiết để từng bước cải thiện trong lĩnh vực an toàn cháy ở Việt Nam.
+Tác giả: Doãn Minh Khôi, GS TS, Viện trưởng viện QH và KTĐT, UAI, ĐHXD; Đinh Công Hưng, TS, Cán bộ giảng dạy BM Phòng cháy, trường Đại học cảnh sát PCCC; Đặng Văn Cường, NCS của TUS, KTS, Công ty Akeno facility Resilience Inc Nhật Bản.
+(Bài đăng trên Tạp chí Kiến trúc số 06-2018)

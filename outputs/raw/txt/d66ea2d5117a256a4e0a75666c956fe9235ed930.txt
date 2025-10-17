@@ -1,0 +1,52 @@
+HỘI THẢO
+GÓP Ý HOÀN THIỆN LUẬT ĐIỆN LỰC (SỬA ĐỔI) 
+THAM LUẬN
+DOANH NGHIỆP VỪA VÀ NHỎ HOẠT ĐỘNG TRONG LĨNH VỰC NĂNG LƯỢNG TÁI TẠO QUAN TÂM TỚI NHỮNG VẤN ĐỀ GÌ?
+Ông Nguyễn Ngọc Cường
+Giám đốc điều hành Công ty Cổ phần Đầu tư EverSolar
+Email cuong@eversolar.vn
+Kính gửi: Ủy ban Khoa học, Công nghệ và Môi trường Quốc hội
+Tôi xin góp ý kiến về chương 3: “Phát triển Điện NLTT, Năng lượng mới”
+Với xu thế phát triển kinh tế hiện nay, Luật điện lực (sửa đổi) cần mở ra những cơ chế về phát triển nguồn và lưới điện đảm bảo cung ứng đủ điện năng cho nhu cầu Phát triển kinh tế và Hướng tới phát thải ròng về 0 (Net Zero) theo cam kết của Việt Nam tại hội nghị COP 26
+Bản tham luận này đại diện cho Cộng đồng doanh nghiệp vừa và nhỏ trong lĩnh vực NLTT là những người đại diện cho nhu cầu phát triển Điện mặt trời mái nhà tự sản tự tiêu thụ của Hộ gia đình, triển khai lắp đặt cho Trụ sở cơ quan công sở trong và ngoài quốc doanh, nhu cầu phát triển dự án và lắp đặt hệ thống ĐMTMN cho các nhà máy sản xuất, xưởng dịch vụ, khu công nghiệp… 
+Trong 3 loại nguồn Năng lượng mới (khả dụng với Việt Nam) mà thế giới đang trông chờ bao gồm:
+Điện hạt nhân
+Khí và LNG
+Điện NLTT (Điện gió, ĐMT/ĐMTMN/ NLTT khác)
+Trong khi Điện hạt nhân là vấn đề chiến lược vẫn thuộc Bộ Chính trị thì điện khí, LNG chưa phải là lợi thế của Việt Nam trong các vấn đề công nghệ, tỷ lệ nội địa hóa, đây vẫn là nguồn điện quan trọng, ổn định, đáp ứng nhu cầu cân bằng hài hòa lưới điện trong tương lai. Do đó Luật điện lực sửa đổi quy định “mở” về điện khí và nhiệt điện sử dụng LNG là phù hợp.
+Bên cạnh điện khí, thủy điện lớn, vai trò điều tiết tần số lưới chỉ còn có thể trông chờ vào lưu trữ năng lượng quy mô lớn. Đây là điều chưa được nhắc tới trong Luật Điện lực sửa đổi lần này.
+Lưu trữ năng lượng có thể dựa trên trọng lực (thủy điện tích năng), hóa năng (Pin lưu trữ Lithium, pin sắt, pin muối, nhiệt điện với lò hơi đốt nóng bằng muối). Chính phủ cần quy định rõ nét hơn các cơ chế cởi mở hơn, giao vai trò tiên phong trong nghiên cứu, thử nghiệm, phát triển dự án lưu trữ điện năng cho khối doanh nghiệp tư nhân, huy động nguồn lực xã hội vào phát triển NLTT và lưu trữ điều tần.
+Ngày nay, công nghệ lưu trữ hóa năng bằng các loại pin đang phát triển mạnh mẽ. Ngành sản xuất pin lưu trữ đã đạt được những thành tựu đột phá, cả về công nghệ, độ bền, hiệu quả kinh tế hoặc chi phí sản xuất trên 1 đơn vị kwh. Có được điều này một phần là sự hưởng lợi từ ngành sản xuất pin cho xe điện đang trở thành làn sóng trên toàn cầu.
+ 
+Figure 1: Xu hướng giá thành pin lưu trữ trong 15 năm qua
+Giá thành tấm quang năng (mà nhiều nơi gọi là pin mặt trời gây ra dư luận nhầm lẫn về phát thải chất độc ra môi trường) đã có sự thay đổi ngoài dự liệu của tất cả các chuyên gia trong ngành nếu tính từ khi Việt Nam bắt đầu có chính sách ưu đãi về điện mặt trời (QĐ 11/2017-QĐ-TTg ngày 11/42017), giảm tới 70% (từ giá phổ biến trên 30cent/wp về ngưỡng 10 cent/wp), và dung lượng 1 tấm tăng lên gấp đôi (từ phổ biến 330wp lên 680wp tại thời điểm hội thảo này), đây là ngành sản xuất gần gũi và có công nghệ, mô hình phát triển gần gũi với lĩnh vực sản xuất pin lưu trữ. Bài học này cần được nghiên cứu để Luật điện lực sửa đổi mở ra các cơ chế cho phát triển lưu trữ, từ lưu trữ điện năng phân tán phục vụ nhu cầu của doanh nghiệp, cơ quan nhà nước, hộ gia đình tới lưu trữ điều tần quốc gia.
+Vậy lưu trữ điện năng có thể phát triển theo những hướng nào?
+Lưu trữ nhỏ, phân tán, phục vụ nhu cầu “cất trữ” năng lượng tái tạo dư thừa do vấn đề thời điểm.
+Lưu trữ điều hòa năng lượng đối với các hệ thống điện NLTT “tự sản tự tiêu”
+Lưu trữ điều tần.
+Ở các nước phát triển NLTT, để khuyến khích doanh nghiệp đầu tư vào lưu trữ, chính phủ cho phép các hệ thống lưu trữ điều tần “hấp thụ năng lượng từ lưới tại thời điểm thừa năng lượng tái tạo” và hệ thống lưu trữ điều tần được trả tiền cho việc đó (Giá FIT âm), cơ chế này giúp cho doanh nghiệp trong lĩnh vực NLTT mạnh dạn đầu tư vào hệ thống lưu trữ, vừa tận dụng được điện năng dư thừa trong thời điểm nắng/gió cao điểm, vừa hỗ trợ lưới điện tránh được sự căng thẳng, dao động tần số khi cần.
+Thêm nữa, nếu có cơ chế khuyến khích nhằm tạo ra một hệ thống “lưu trữ chia sẻ”, thiết nghĩ nhiều người dân và doanh nghiệp sẵn sàng đồng hành với chính phủ trong việc giải quyết vấn đề thiếu điện trong giờ cao điểm.
+Luật cần trao quyền cho cơ quan chuyên môn trong việc quyết định các cơ chế khuyến khích đối với hoạt động tiên phong, thí điểm, thử nghiệm, làm tiền đề cho việc tiến hành đầu tư ở quy mô lớn trong lĩnh vực lưới điện thông minh quy mô nhỏ (micro grid), đây là việc không khó về mặt kỹ thuật, mà rào cản chính khiến chúng chưa phát triển được trước đây chính là vấn đề giá thành năng lượng quy mô nhỏ không cho phép mà nay đang ở ngưỡng phù hợp.
+Với sự phát triển như vũ bão của lĩnh vực xe điện, mỗi chiếc xe là 1 cục pin lưu trữ khổng lồ quy mô hộ gia đình. Đây là nguồn năng lượng điều tần đáng kể, quan trọng cần được tính tới trong tương lai gần.
+Để huy động được nguồn điện từ hệ thống xe điện không lăn bánh tại thời gian cao điểm tối, Luật Điện lực sửa đổi cần đề cập rõ trách nhiệm ban hành cơ chế ưu tiên cho nguồn điện thông minh này được nối lưới, hỗ trợ bán ngược điện vào lưới điện quốc gia thông qua công nghệ V2H/V2G (Vehicle to Home/Grid).
+Khuyến khích trong thủ tục phát triển Điện mặt trời mái nhà
+Đối với Điện mặt trời mái nhà, quan điểm của đa phần chuyên gia, doanh nghiệp trong ngành là không cần ưu đãi, chỉ cần đừng đưa ra rào cản.
+Với giá thành tấm pin quang năng ngày nay, một hệ thống ĐMTMN được phép nối lưới chỉ còn dưới 10 triệu đồng/1kwp, nếu thêm 1kwh pin lưu trữ thì giá thành ở mức 16 đến 19tr/ (kwp + 1kwh), mức giá này tương đương với giai đoạn 2017-2018 khi chính sách FIT1 đang còn hiệu lực, và chi phí cho pin lưu trữ đang trên đà giảm nhanh.
+Tuy nhiên, việc triển khai hệ thống ĐMTMN tự sử dụng / tự sản tự tiêu đang gặp rất nhiều rào cản pháp lý, cụ thể là:
+Không có thủ tục thỏa thuận đấu nối vào lưới điện quốc gia
+Có khả năng phải thực hiện thủ tục bổ sung vào Quy hoạch điện 8, điều không khả thi đối với người dân, doanh nghiệp vừa và nhỏ. Tuy nhiên đã gần 4 năm kể từ khi chính sách FIT 2 kết thúc (Quyết định 13/2020/QĐ-TTg có hiệu lực hết ngày 31/12/2020) vẫn chưa có hướng dẫn bổ sung vào quy hoạch điện theo thủ tục nào.
+Bị coi là một “công trình xây dựng”, dù không thay đổi về quy hoạch sử dụng đất và doanh nghiệp đã thuê tư vấn có năng lực trình độ thực hiện đánh giá, kiểm định kết cấu chịu lực công trình xây dựng hiện hữu. Thủ tục này đòi hỏi doanh nghiệp phải thực hiện rất nhiều bước theo các Nghị định về Quản lý dự án đầu tư xây dựng như:
+Nghiên cứu khả thi (theo mẫu của nghị định 15)
+Thẩm định nghiên cứu khả thi
+Thực hiện thủ tục tư vấn thiết kế, 
+Khảo sát và thẩm tra hiện trạng, tính toán đánh giá kết cấu công trình xây dựng
+V/v…
+(Đây là các thủ tục chỉ cần thiết trong trường hợp sử dụng vốn ngân sách, trong khi thực tế tại các doanh nghiệp ngoài quốc doanh, một doanh nghiệp cơ điện quy mô vừa và nhỏ nắm chắc công nghệ hoàn toàn có thể chủ động thực hiện 1 dự án Điện mặt trời mái nhà tự sản tự tiêu thụ).
+Kiến nghị, đề xuất:
+Sớm có chính sách rõ ràng, nhất quán trong phát triển Điện mặt trời mái nhà; ĐMTMN kết hợp với lưu trữ điện năng, để tránh làm khó cho lưới điện cần có sự phần loại, phân rõ cấp độ đối với hệ thống điện mặt trời áp mái tự sử dụng/ tự sản tự tiêu và đối tượng đầu tư sử dụng để đơn giản hóa thủ tục đăng ký thực hiện và quản lý hành chính. Ví dụ 
+Đối với hệ thống do người dân tự đầu tư trên công trình nhà ở (đất ở); hệ thống do doanh nghiệp lắp đặt trên các nhà cho mục đích kinh doanh thương mại, văn phòng và dưới quy mô 100kw được phân loại là công trình dân dụng quy mô nhỏ và bãi bỏ toàn bộ hồ sơ thủ tục cấp phép anh đã nói ở trên, chỉ cần đăng ký phát triển công trình với sở công thương (và sẽ hoàn thành thủ tục trong 7 ngày như dự thảo nghị định ... đang soạn thảo)
+Đối với các hệ thống lắp đặt trên mái nhà xưởng công nghiệp (đất sản xuất), hoặc lắp đặt trên các nhà cho mục đích kinh doanh thương mại, văn phòng và có quy mô lớn hơn 100kw cho tới dưới 1MW (tương đương 1250kwp) được phân loại là công trình quy mô vừa (Công nghiệp & thương mại - hệ thống C&I quy mô 100kw~1MW) thì mới cần quản lý, về mặt quy hoạch điện quốc gia, sớm có thủ tục minh bạch cho việc đăng ký phát triển phù hợp hài hòa với khả năng của lưới điện; được miễn giấy phép hoạt động điện lực, miễn, giảm thủ tục về cải tạo công trình xây dựng để lắp đặt hệ thống.
+Đối với hệ thống điện mặt trời mái nhà có quy mô trên 1MW (1250kwp) trở lên thì cần có đầy đủ quy định về cấp phép cải tạo xây dựng, PCCC và giấy phép hoạt động điện lực, và cần có cơ chế khuyến khích các nhà đầu tư nội địa tham gia trong lĩnh vực này. Với giá thành sản xuất điện năng quy đổi (LCOE) rất thấp và nhu cầu điện luôn tăng tỷ lệ thuận theo mức tăng GDP của Việt Nam hiện nay, đây là lĩnh vực mang lại nguồn lợi thương mại rất lớn; trong khi các doanh nghiệp và nhà đầu tư nội địa hoàn toàn có thể đủ nguồn lực tài chính và công nghệ để tự thực hiện, (Thực trạng hiện nay có quá nhiều nhà đầu tư nước ngoài đang tận dụng ưu đãi của Chính phủ đối với các doanh nghiệp FDI, tận dụng dòng vốn giá rẻ và mối quan hệ sẵn có với các doanh nghiệp FDI để giành lợi thế lớn trong việc đầu tư kinh doanh ở mảng này, đẩy Doanh nghiệp VN ra ngoài cuộc chơi, hoặc chỉ có thể làm nhân công / nhà thầu cho họ với giá trị thấp).
+Có chính sách hỗ trợ cụ thể đối với năng lượng tái tạo không nối lưới (Bao gồm micro-Grid) như: hỗ trợ về thủ tục xây dựng, quỹ đất, tài chính, lãi vay. Quy định rõ Điện mặt trời mái nhà có lưu trữ với tỷ lệ nhất định được quyền đấu nối với hệ thống điện quốc gia.
+Trân trọng cảm ơn.
+Ngày 09/8/2024

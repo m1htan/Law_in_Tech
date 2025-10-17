@@ -1,0 +1,422 @@
+XÂY DỰNG LUẬT CÔNG NGHIỆP CÔNG NGHỆ SỐ
+TẠO HÀNH LANG PHÁP LÝ CHO SỰ PHÁT TRIỂN CỦA
+NGÀNH CÔNG NGHIỆP CÔNG NGHỆ SỐ Ở VIỆT NAM HIỆN NAY
+THÁI THỊ KIỀU HẠNH*
+Tóm tắt: Trong thời đại kỷ nguyên số, ngành công nghiệp công nghệ số đóng vai trò rất quan
+trọng, góp phần rút ngắn quá trình công nghiệp hóa, hiện đại hóa đất nước. Vì vậy, việc tạo khung
+pháp lý toàn diện để phát triển công nghiệp công nghệ số, tạo môi trường pháp lý thuận lợi cho sự
+ra đời và phát triển các sản phẩm, công nghệ, mô hình mới có tính sáng tạo là hết sức cần thiết.
+Bài viết phân tích vai trò, cơ hội và thách thức cho sự phát triển của ngành công nghệ số ở Việt
+Nam, đồng thời đưa ra một số định hướng xây dựng Luật Công nghiệp công nghệ số - hành lang
+pháp lý cho sự phát triển của ngành công nghiệp này ở nước ta.
+Từ khóa: Công nghệ số; công nghiệp công nghệ số; Luật Công nghiệp công nghệ số
+Ngày nhận bài: 13/5/2024; Biên tập xong: 10/6/2024; Duyệt đăng: 24/6/2024
+BUILDING LAW ON DIGITAL TECHNOLOGY INDUSTRY
+TO CREATE LEGAL FRAMEWORKS FOR THE DEVELOPMENT
+OF THE DIGITAL TECHNOLOGY INDUSTRY IN VIETNAM NOWADAYS
+Abstract: In the digital age, the digital technology industry plays a vital role that contributes to
+shortening the process of industrialization and modernization of the country. Therefore, it is necessary to
+create a comprehensive legal framework to develop the digital technology industry as well as a favorable
+legal environment for the birth and development of innovative new products, technologies and models.
+The article analyzes the roles, opportunities and challenges for the development of the digital technology
+industry in Vietnam and proposes some directions for developing Law on Digital Technology Industry - a
+legal framework for the development of this industry in our country.
+Keywords: Digital technology; digital technology industry; Law on Digital Technology Industry
+Received: May 13th 2024; Editing completed: Jun 10th 2024; Accepted for publication: Jun 24th 2024
+Đặt vấn đề Công nghệ thông tin năm 2006 hiện tại đã
+không còn phù hợp, chưa điều chỉnh được
+Cách mạng công nghiệp 4.0 là cuộc
+những vấn đề phát sinh trong thực tiễn phát
+cách mạng dựa trên nền tảng của công nghệ
+triển ngành công nghiệp công nghệ số, chưa
+số, dữ liệu số, dựa trên ý tưởng sáng tạo,
+có những biện pháp đột phá để phát triển
+khởi nghiệp sáng tạo. Cuộc cách mạng này
+thị trường trong nước cho các doanh nghiệp
+đang mở ra cánh cửa mới, không gian mới
+công nghệ số (đặc biệt là các doanh nghiệp
+cho mọi ngành nghề, lĩnh vực, trong đó có
+công nghệ số vừa và nhỏ). Đồng thời, hiện
+lĩnh vực công nghiệp công nghệ số. Trong
+còn thiếu các quy định thúc đẩy sự phát triển
+những năm qua, Đảng và Nhà nước ta đã
+của các nền tảng công nghệ số mới như: Trí
+luôn quan tâm đến việc hoàn thiện, xây
+tuệ nhân tạo, chuỗi khối, Internet kết nối vạn
+dựng thể chế để thúc đẩy phát triển ngành
+vật, các sản phẩm mới, dịch vụ mới là kết
+công nghiệp công nghệ thông tin, công
+quả của sự sáng tạo, đổi mới trong ứng dụng
+nghiệp công nghệ số trong nước. Các văn
+công nghệ số, dịch vụ số vào các ngành, lĩnh
+kiện, Nghị quyết của Đảng và Nhà nước đã
+vực khác nhau của đời sống xã hội. Bên cạnh
+đề ra nhiều chủ trương, định hướng quan
+đó, công tác quản lý và thúc đẩy hoạt động
+trọng cho việc hoàn thiện thể chế về công
+công nghiệp công nghệ thông tin thời gian
+nghiệp công nghệ số.
+Tuy nhiên, hành lang pháp luật về công
+* Email: Thaithikieuhanh@yahoo.com
+nghiệp công nghệ thông tin, trong đó có Luật Công ty Trách nhiệm hữu hạn Kiều Hạnh
+46 Khoa học Kiểm sát Số 06 - 2024
+THÁI THỊ KIỀU HẠNH
+qua cũng đã bộc lộ một số vướng mắc do vực công nghiệp công nghệ số4 (công nghiệp
+thiếu đồng bộ trong khái niệm, phân loại loại phần cứng, điện tử; công nghiệp phần mềm;
+hình công nghiệp công nghệ thông tin, đặc công nghiệp nội dung số; dịch vụ công nghệ
+biệt là sự xuất hiện của công nghệ số chưa thông tin). Cộng đồng cũng đã hình thành
+được định nghĩa trong hệ thống văn bản quy được một số doanh nghiệp đầu tàu có chiến
+phạm pháp luật. lược phát triển phù hợp với Cách mạng
+Công nghiệp 4.0 như Tập đoàn Bưu chính
+Do vậy, việc xác lập phạm vi điều chỉnh,
+Viễn thông Việt Nam (VNPT) với chiến lược
+đối tượng quản lý trong hoạt động công
+VNPT 4.0; Tập đoàn Công nghiệp - Viễn
+nghiệp công nghệ số trên cơ sở kế thừa và
+thông Quân đội (Viettel) xác định phải đi
+thay thế những quy định về công nghiệp
+đầu trong cuộc cách mạng 4.0 với vai trò dẫn
+công nghệ thông tin trong Luật Công nghệ
+dắt và lan tỏa về công nghệ, dịch vụ, mô hình
+thông tin năm 2006, làm cơ sở để ban hành
+kinh doanh nghiên cứu sản xuất, sản phẩm.
+chính sách quản lý thúc đẩy, biện pháp bảo
+Những công nghệ số mới đang phát
+đảm phát triển ngành công nghiệp công
+triển mạnh mẽ và tác động, ảnh hưởng tới
+nghệ số phù hợp với thực tiễn phát triển.
+sự phát triển kinh tế của Việt Nam hiện nay
+Trong bối cảnh này, việc xây dựng và ban
+là: Internet vạn vật (IoT), trí tuệ nhân tạo
+hành Luật Công nghiệp công nghệ số là hết
+(AI), chuỗi khối (blockchain), thực tế ảo (VR)
+sức cần thiết.
+và thực tế tăng cường (AR), điện toán đám
+1. Vai trò của ngành công nghiệp công
+mây… Có thể thấy, đối với nền kinh tế, việc
+nghệ số đối với nền kinh tế nước ta hiện
+phát triển và áp dụng kỹ thuật số, công nghệ
+nay và những cơ hội, thách thức cho sự
+số sẽ đem lại một số lợi ích như: Thúc đẩy,
+phát triển
+nâng cao chất lượng sử dụng nguồn lực;
+1.1. Vai trò của ngành công nghiệp công giảm chi phí sản xuất, kích cầu tiêu dùng
+nghệ số đối với nền kinh tế và đầu tư; thúc đẩy thương mại quốc tế,
+giảm chi phí giao dịch; thúc đẩy tiếp cận thị
+Những năm gần đây, ngành công
+trường; giảm sự mất cân đối thông tin giữa
+nghiệp công nghệ số tiếp tục là điểm sáng
+người mua và nhà cung cấp; giảm chi phí
+của nền kinh tế Việt Nam với doanh thu
+môi giới…
+ngày càng lớn. Năm 2021, doanh thu ngành
+này ước đạt 3.151.599 tỷ đồng (tương đương 1.2. Những cơ hội, thách thức cho sự
+136 tỷ đô la Mỹ, gấp 22 lần so với năm 2009 phát triển của ngành công nghiệp công nghệ
+là 6,2 tỷ đô la Mỹ) với tổng số 64.000 doanh số ở Việt Nam
+nghiệp công nghệ số. Tốc độ tăng trưởng giai Những cơ hội có thể nhận thấy để phát
+đoạn 2015 - 2020 đạt bình quân 15,2%/năm, triển ngành công nghiệp công nghệ số ở
+cao hơn hai lần tốc độ tăng trưởng GDP1. nước ta cụ thể như sau5:
+Theo số liệu của năm 2022, doanh thu của Thứ nhất, sự quan tâm, tạo điều kiện
+ngành này ước đạt 148,5 tỷ đô la Mỹ, tăng của Đảng và Nhà nước. Nhận thức được
+trưởng trên 10% so với năm 2021, tốc độ tăng tầm quan trọng của phát triển công nghệ số
+trưởng doanh thu là 9,2%, tổng số tiền nộp trong thúc đẩy phát triển kinh tế - xã hội của
+ngân sách nhà nước là 3 tỷ đô la Mỹ2. Xuất Việt Nam, Đảng và Nhà nước ta đã ban hành
+khẩu của ngành công nghệ số ước đạt 136 tỷ nhiều chủ trương, chính sách thể hiện sự
+đô la Mỹ3. quyết tâm phát triển công nghiệp công nghệ
+Hiện nay, Việt Nam đã vượt qua mốc
+4 Thủy Diệu (2023), Phát triển công nghiệp công nghệ số:
+70.000 doanh nghiệp hoạt động trong lĩnh
+Việt Nam cần nhiều chính sách đặc thù, Tạp chí điện tử
+Kinh tế Việt Nam (VnEconomy), https://vneconomy.
+1 Hữu Tuấn (2022), Sớm có khuôn khổ pháp lý cho công vn/phat-trien-cong-nghiep-cong-nghe-soviet-nam-can-
+nghiệp công nghệ số, Báo điện tử Đầu tư, https://baodautu. nhieu-chinh-sach-dac-thu, truy cập ngày 09/6/2024.
+vn/som-co-khung-kho-phap-ly-cho-cong-nghiep-cong- 5 Đỗ Thị Anh Phương (2023), Cơ hội và thách thức trong phát
+nghe-so-d169396.html, truy cập ngày 10/6/2024. triển công nghệ số của doanh nghiệp Việt Nam, Tạp chí Công
+2 Hữu Tuấn (2022), Tlđd. thương điện tử, https://tapchicongthuong.vn/co-hoi-va-
+3 Theo số liệu của Bộ Thông tin và Truyền thông công bố thach-thuc-trong-phat-trien-cong-nghe-so-cua-doanh-
+tại Diễn đàn Make in Vietnam 2022; nghiep-viet-nam-104182.htm, truy cập ngày 05/5/2024.
+Số 06 - 2024 Khoa học Kiểm sát 47
+XÂY DỰNG LUẬT CÔNG NGHIỆP CÔNG NGHỆ SỐ...
+số. Nghị quyết số 23-NQ/TW ngày 22/3/2018 môi trường đầu tư vào Việt Nam được các
+của Bộ Chính trị (Khóa XII) đã chỉ rõ định nhà đầu tư nước ngoài tin tưởng, mở ra
+hướng xây dựng chính sách phát triển công nhiều cơ hội hợp tác giao lưu cho các doanh
+nghiệp quốc gia đến năm 2030, tầm nhìn nghiệp công nghệ Việt Nam. Các hoạt động
+2045 với quan điểm phát triển công nghiệp chuyển giao công nghệ giúp nâng cao năng
+công nghệ thông tin, công nghiệp điện tử là lực cạnh tranh, năng lực quản lý kinh tế, quản
+con đường chủ đạo; phát triển công nghiệp trị doanh nghiệp, góp phần đưa nền kinh tế
+chế biến, chế tạo là trung tâm; phát triển Việt Nam tham gia vào sự phát triển chung
+công nghiệp chế tạo thông minh là bước đột của toàn cầu. Hơn nữa, các nhà đầu tư trong
+phá; chú trọng phát triển công nghiệp xanh. nước cũng chuyển dịch từ đầu tư các lĩnh vực
+Chủ trương đến năm 2030, tập trung ưu tiên truyền thống sang đầu tư vào lĩnh vực công
+phát triển một số ngành công nghiệp: Công nghệ. Cổ phần của các doanh nghiệp công
+nghệ thông tin và viễn thông; công nghiệp nghệ của Việt Nam cũng được các công ty
+điện tử ở trình độ tiên tiến của thế giới, đáp công nghệ nước ngoài quan tâm. Bên cạnh
+ứng được yêu cầu của cuộc Cách mạng Cộng đó, đầu tư trong hoạt động khởi nghiệp bằng
+nghiệp 4.0 nhằm tạo ra nền tảng công nghệ kinh doanh công nghệ số đã thu hút nguồn
+số cho các ngành công nghiệp khác. Ngoài đầu tư đa dạng từ các nhà đầu tư trong nước
+ra, Chính phủ đã ban hành nhiều chính sać h thông qua các chương trình khởi nghiệp.
+về Cách mạng Công nghiệp 4.0, về phát triển
+Tuy nhiên, bên cạnh những thuận lợi kể
+doanh nghiệp công nghệ số, coi công nghệ
+trên, ngành công nghiệp công nghệ số ở Việt
+số là nhân tố chính để phát triển kinh tế.
+Nam vẫn còn gặp nhiều thách thức để phát
+Thứ hai, thị trường ứng dụng công nghệ triển như7:
+số nội địa ở Việt Nam rất có tiềm năng phát
+Một là, hành lang pháp lý tạo điều kiện
+triển. Nước ta có gần 100 triệu dân với lượng
+cho ngành công nghiệp công nghệ số ở Việt
+lượng dân số trẻ dùng di động thông minh
+Nam còn thiếu. Nước ta chưa có Luật Công
+chiếm tỷ lệ cao, sẵn sàng tiếp thu những
+nghiệp công nghệ số và hiện tại, ngành công
+tiến bộ khoa học kỹ thuật mới. Hệ thống các
+nghiệp công nghệ số vẫn chưa được coi là
+cơ quan nhà nước đang đổi mới mạnh mẽ
+một ngành kinh tế trong nền kinh tế Việt
+phương thức làm việc gắn với ứng dụng
+Nam theo Quyết định số 27/2018/QĐ-TTg
+công nghệ số, xây dựng Chính phủ điện tử,
+ngày 06/7/2018 của Thủ tướng Chính phủ
+lấy người dân làm trung tâm, tạo nền tảng
+ban hành hệ thống ngành kinh tế Việt Nam.
+thúc đẩy tăng trưởng kinh tế số. Hơn nữa,
+Hai là, các doanh nghiệp công nghệ
+Việt Nam cũng là nước có nền kinh tế có tốc
+số của Việt Nam chịu sự cạnh tranh từ các
+độ tăng trưởng cao với thị trường nội địađ ủ
+doanh nghiệp công nghệ số trong khu vực
+lớn và đa dạng, có tiềm năng thu hút đầu tư
+vào ứng dụng và phát triển sản phẩm công ASEAN. Trong thời gian tới, các nước láng
+nghệ số. giềng của chúng ta cũng có sự phát triển
+vượt bậc về công nghệ số khiến có sự cạnh
+Thứ ba, Việt Nam rất có khả năng thu
+tranh càng trở nên khắc nghiệt hơn. Cạnh
+hút đầu tư vào ngành công nghiệp công
+tranh của các doanh nghiệp từ các nước
+nghệ số cùng với sự xuất hiện của xu hướng
+ASEAN không chỉ từ nhân công giá rẻ (như
+chuyển dịch đầu tư sang lĩnh vực công nghệ.
+Myanmar) mà còn từ sự hỗ trợ mạnh mẽ của
+Những năm gần đây, các công ty đa quốc gia
+nhà nước trong một hệ sinh thái năng động
+có xu thế dịch chuyển hoạt động sản xuất từ
+cho phát triển doanh nghiệp công nghệ (như
+những nước có tình trạng bất ổn sang Việt
+Nam. Nắm bắt được cơ hội này, chúng ta đã
+thông tin điện tử Viện Chiến lược và Chính sách tài chính,
+có chiến lược thu hút đầu tư của các doanh https://www.mof.gov.vn/webcenter/portal/ vclvcstc/
+nghiệp công nghệ quốc tế. Năm 2021, tổng pages_r/l/chi-tiet-tin?dDocName=MOFUCM269051,
+truy cập ngày 10/6/2024.
+vốn đầu tư nước ngoài đăng ký vào Việt
+7 Trịnh Thị Hiền, Trương Hữu Chung (2022), Phát triển công
+Nam tăng 9,2% so với năm 20226, cho thấy
+nghiệp công nghệ số Việt Nam: Cơ hội và thách thức, Tạp chí
+Thông tin và Truyền thông, số 6/2022, https://ictvietnam.
+6 Vũ Thị Huyền Trang (2022), Tác động của đầu tư trực vn/phat-trien-cong-nghiep-cong-nghe-so-viet-nam-co-
+tiếp nước ngoài đến chuyển dịch cơ cấu ngành kinh tế, Cổng hoi-va-thach-thuc-20288.html, truy cập ngày 08/6/2024.
+48 Khoa học Kiểm sát Số 06 - 2024
+THÁI THỊ KIỀU HẠNH
+Singapore) hoặc sự bảo hộ thị trường của phiên họp chuyền đề về xây dưṇ g pháp
+Chính phủ một số quốc gia trong khu vực. luật tháng 01/2022, Chính phủ thống nhất
+Ba là, nguy cơ bị thâu tóm khi phụ thuộc về sự cần thiết xây dựng Luật Công nghiệp
+vào đầu tư nước ngoài. Có thể thấy, hiện công nghệ số trên cơ sở đánh giá, tổng kết
+nay hơn 90% doanh nghiệp công nghệ số tại việc thực thi pháp luật về công nghệ thông
+Việt Nam vẫn là doanh nghiệp vừa và nhỏ, tin để thúc đẩy phát triển, sáng tạo và kinh
+doanh nghiệp mới hình thành nên việc đầu doanh trong lĩnh vực công nghệ số, phát
+tư cho nghiên cứu, phát triển các sản phẩm, triển kinh tế số. Nghị quyết số 29-NQ/TW
+giải pháp, nền tảng công nghệ số mới còn rất ngày 17/11/2022 Hội nghị lần thứ sáu Ban
+hạn chế. Với tiềm lực tài chính không lớn, chấp hành Trung ương Đảng khóa XIII về
+các doanh nghiệp công nghệ của Việt Nam tiếp tục đẩy mạnh công nghiệp hóa, hiện
+có nguy cơ bị chi phối bởi các nguồn đầu đại hóa đất nước cũng xác định: “Ưu tiên xây
+tư không bền vững. Việc bị phụ thuộc vào dựng và hoàn thiện hệ thống pháp luật chuyên
+nguồn đầu tư nước ngoài sẽ dẫn đến trường ngành về phát triển công nghiệp quốc gia và các
+hợp doanh nghiệp Việt Nam rơi vào hoàn lĩnh vực công nghiệp đặc thù như công nghiệp
+cảnh thua thiệt khi bị thâu tóm, ảnh hưởng công nghệ số”. Do vậy, việc xây dựng và ban
+đến sự phát triển bền vững của ngành công hành Luật Công nghiệp công nghệ số sẽ tạo
+nghiệp công nghệ số của Việt Nam. khung pháp lý hoàn chỉnh, từ đó tạo ra môi
+trường thuận lợi cho sự phát triển của ngành
+Bốn là, khó khăn về nguồn dữ liệu, công
+công nghiệp công nghệ số theo những chủ
+nghệ khai thác dữ liệu. Có thể thấy, dữ liệu là
+trương, định hướng của Đảng và Nhà nước.
+chìa khóa nền kinh tế số. Tuy nhiên, việc chia
+sẻ và mở dữ liệu của các Bộ, ngành Việt Nam Thực hiện nhiệm vụ được giao, Bộ
+còn chưa phổ biến. Điều này gây khó khăn Thông tin và Truyền thông đã chủ trì, phối
+cho các doanh nghiệp công nghệ số trong hợp với các Bộ, ngành, cơ quan, tổ chức liên
+việc phát triển sản xuất, đặc biệt là trong lĩnh quan xây dựng và trình Chính phủ đề nghị
+vực dữ liệu bởi các công nghệ tiên tiến như xây dựng Luật Công nghiệp công nghệ số
+trí tuệ nhân tạo, phân tích dữ liệu lớn và điều với những định hướng chính như sau8:
+hướng, quản lý và bảo mật thông tin đổi mới Thứ nhất, thể chế hóa đầy đủ các chủ
+sáng tạo đều phụ thuộc vào việc khai thác dữ trương, đường lối của Đảng và Nhà nước,
+liệu. Hơn nữa, sự tụt hậu về công nghệ khai chỉ đạo của Chính phủ, Thủ tướng Chính
+thác dữ liệu cũng là một thách thức đối với phủ về công nghiệp công nghệ số và công
+Việt Nam. nghệ thông tin; trên cơ sở tổng kết việc thực
+Năm là, thách thức đối với việc chảy máu hiện Luật Công nghệ thông tin và pháp luật
+chất xám và nhân công giá rẻ. Các công nghệ có liên quan, kế thừa những quy định phù
+thông minh và tự động hóa cao đã thay thế hợp, khả thi, bổ sung các quy định để xử lý
+được nhân lực phổ thông trong nhiều lĩnh bất cập, hạn chế, khó khăn, vướng mắc trong
+vực. Doanh nghiệp Việt Nam đứng trước thực tế như:
+nguy cơ mất lợi thế về nhân lực giá rẻ, trong Về tạo thị trường cho công nghiệp
+khi nhân lực chất lượng cao còn chưa được công nghệ số/Make in Viet Nam/Thương
+hình thành. Sự phụ thuộc vào đầu tư nước hiệu ngành: Bổ sung các quy định về mua
+ngoài cũng dẫn đến nguy cơ bị thu hút mất sắm, đầu tư, thuê sản phẩm, dịch vụ công
+lao động chất lượng cao của Việt Nam vào nghệ số sản xuất trong nước; tiêu chí xác
+tay các đối tác công nghệ nước ngoài, đặc định “Make in Viet Nam”; xây dựng và
+biệt là nhân lực tài năng cần thiết cho sự phát sử dụng thương hiệu ngành công nghiệp
+triển của công nghệ số. công nghệ số…
+2. Một số định hướng xây dựng Luật
+8 Thông báo số 66/TB-VPCP ngày 24/02/2024 về Kết luận
+Công nghiệp công nghệ số
+của Thường trực Chính phủ về các đề nghị xây dựng
+Tại Nghị quyết số 13/NQ-CP ngày Luật: Hàng không dân dụng Việt Nam (sửa đổi), Đường
+sắt (sửa đổi), Công nghiệp công nghệ số; các dự án: Luật
+07/02/2023 của Chính phủ thông qua hồ sơ
+sửa đổi, bổ sung một số điều của Luật Dược, Luật Địa
+xây dựng Nghị định bảo vệ dữ liệu cá nhân, chất và Khoáng sản.
+Số 06 - 2024 Khoa học Kiểm sát 49
+XÂY DỰNG LUẬT CÔNG NGHIỆP CÔNG NGHỆ SỐ...
+Về phát triển nguồn nhân lực công nghệ nghiệp công nghệ số và Luật Công nghệ
+số: Nghiên cứu đề xuất khung kỹ năng công thông tin thì công nghiệp công nghệ số là sự
+nghệ số quốc gia; tạo cơ chế đào tạo thực tế kế thừa và mở rộng của công nghiệp công
+tại doanh nghiệp; công nhận tương đương nghệ thông tin, tạo ra các sản phẩm, dịch vụ
+giữa kết quả thực tập/làm việc/tham gia các công nghệ số, bao trùm lên sản phẩm, dịch
+dự án phát triển sản phẩm, dịch vụ công vụ công nghệ thông tin. Các quy định tại
+nghệ số tại doanh nghiệp với tín chỉ trong Luật Công nghiệp công nghệ số về cơ bản
+chương trình đào tạo công nghệ số của cơ sẽ thay thế các quy định liên quan đến công
+sở đào tạo; quy định trách nhiệm, điều kiện nghiệp công nghệ thông tin, sản phẩm, dịch
+ưu đãi, truyền thông đối với các doanh vụ công nghệ thông tin quy định tại Luật
+nghiệp tham gia đào tạo; chính sách thu hút Công nghệ thông tin nên sẽ không tạo ra sự
+nhân lực công nghệ số xuất sắc trong nước chồng chéo giữa hai luật này.
+và nước ngoài... Thứ ba, rà soát nội dung các chính sách
+Về vốn, đầu tư, ưu đãi cho công nghiệp trong xây dựng Luật, bảo đảm tính khả thi.
+công nghệ số: Xây dựng quy định nguyên tắc Nội dung các chính sách trong xây dựng
+về mức bảo đảm chi cho công nghệ số trong Luật Công nghiệp công nghệ số bao gồm
+tổng chi ngân sách nhà nước hằng năm, mục hai nhóm:
+chi riêng trong ngân sách nhà nước; quy định Nhóm chính sách 1: Hoạt động công
+các hoạt động, đối tượng trong công nghiệp nghiệp công nghệ số, sản phẩm, dịch vụ
+công nghệ số được hưởng ưu đãi; hình thành công nghệ số gồm 04 chính sách thành phần:
+các quỹ (Phát triển công nghiệp công nghệ (i) Hoạt động công nghiệp công nghệ số; (ii)
+số; Đầu tư mạo hiểm cho công nghệ số; Đầu Sản phẩm, dịch vụ công nghệ số thiết kế và
+tư cho công nghệ số của doanh nghiệp); xây sản xuất trong nước; (iii) Sản phẩm, dịch vụ
+dựng cơ chế hoạt động gọi vốn cộng đồng công nghệ số trọng điểm; (iv) Sản phẩm,
+cho doanh nghiệp công nghệ số... dịch vụ công nghệ số trọng yếu.
+Thứ hai, làm rõ các khái niệm mới phù Nhóm chính sách 2: Bảo đảm phát triển
+hợp với phạm vi điều chỉnh của Luật, thể công nghiệp công nghệ số (gồm 10 chính sách
+hiện rõ mối quan hệ của Luật này với Luật thành phần: (i) Thị trường; (ii) Hợp tác quốc
+Công nghệ thông tin, nghiên cứu có kế hoạch tế; (iii) Nguồn nhân lực; (iv) Cơ chế tài chính,
+sửa đổi toàn diện Luật Công nghệ thông tin ưu đãi; (v) Quản lý chất lượng sản phẩm,
+để bảo đảm sự đồng bộ, thống nhất của hệ dịch vụ; (vi) Cơ chế thử nghiệm sản phẩm,
+thống pháp luật. dịch vụ; (vii) Thông tin về công nghiệp công
+nghệ số; (viii) Dữ liệu số; (ix) Vi mạch bán
+Luật Công nghiệp công nghệ số cần
+dẫn; (x) Khu Công nghệ số tập trung)9.
+quy định các khái niệm công nghệ số, công
+Các quy định của luật hiện hành khác
+nghiệp công nghệ số và các hoạt động công
+như Luật Đầu tư, Luật Đất đai, Luật Ngân
+nghiệp công nghệ số phù hợp với thực tiễn
+sách Nhà nước, Luật Khoa học và Công
+phát triển; bổ sung chính sách thúc đẩy về
+nghệ, các luật về thuế… và các dự thảo Luật
+sản phẩm, dịch vụ công nghệ số thiết kế và
+đang xây dựng (Luật Công nghiệp quốc
+sản xuất trong nước; sản phẩm, dịch vụ công
+phòng, an ninh và động viên công nghiệp;
+nghệ số trọng yếu.
+Luật Công nghiệp trọng điểm…) sẽ được rà
+Bên cạnh đó, Luật cần bổ sung một số
+soát để đảm bảo thống nhất, phù hợp, không
+chính sách mới về bảo đảm phát triển công
+chồng chéo trong hệ thống pháp luật.
+nghiệp công nghệ số liên quan đến: Cơ chế
+Thứ tư, nghiên cứu, làm rõ các chính
+thử nghiệm có kiểm soát sản phẩm, dịch vụ
+sách gia tăng giá trị của công nghiệp công
+công nghệ số; quản lý thông tin công nghiệp
+nghệ số với các ngành công nghiệp khác;
+công nghệ số để kịp thời giám sát, tham mưu,
+hỗ trợ phát triển ngành; quy định về dữ liệu
+9 Vụ Pháp chế - Bộ Thông tin và Truyền thông, Dự thảo
+số cho công nghiệp công nghệ số; quy định Luật Công nghiệp công nghệ số trong giai đoạn lập đề nghị
+về chính sách cho vi mạch bán dẫn... xây dựng Luật, Chính sách pháp luật Thông tin và Truyền
+thông, https://cspl.mic.gov.vn/Pages/TinTuc/tinchitiet.
+Trong mối quan hệ giữa Luật Công aspx?tintucid=138864, truy cập ngày 05/6/2024.
+50 Khoa học Kiểm sát Số 06 - 2024
+THÁI THỊ KIỀU HẠNH
+đồng thời nghiên cứu các chính sách có tính số, tạo hành lang pháp lý rõ ràng về công
+“mở” để phát triển công nghệ số, phù hợp nghiệp công nghệ số, phù hợp với các định
+với xu thế hội nhập quốc tế về lĩnh vực này. hướng lớn của Đảng, Nhà nước tại các văn
+Đây là nội dung rất quan trọng, thể hiện vai kiện, Nghị quyết, trên cơ sở tham khảo có
+trò của ngành công nghiệp công nghệ số. chọn lọc pháp luật và kinh nghiệm quốc tế
+Bộ Thông tin và Truyền thông cần tiếp thu vận dụng phù hợp với thực tiễn của Việt
+và nghiên cứu, phối hợp với các Bộ, ngành Nam nhằm đáp ứng các yêu cầu phát triển
+và cơ quan liên quan cụ thể hóa thành các của công nghiệp 4.0 và kinh tế số nói riêng
+chính sách phù hợp trong quá trình soạn và yêu cầu công nghiệp hóa, hiện đại hóa
+thảo Luật; hướng tới có chính sách ưu tiên đất nước nói chung./.
+sản phẩm, dịch vụ công nghệ số của doanh
+nghiệp trong nước, hướng tới gia tăng giá trị
+TÀI LIỆU THAM KHẢO
+của công nghiệp công nghệ số với các ngành
+công nghiệp khác. 1. Luật Công nghệ thông tin năm 2006;
+Thứ năm, tăng cường phân cấp, phân 2. Vụ Pháp chế - Bộ Thông tin và Truyền thông,
+quyền đi đôi với phân bổ nguồn lực; cải Dự thảo Luật Công nghiệp công nghệ số trong giai
+đoạn lập đề nghị xây dựng Luật, Chính sách pháp
+cách thủ tục hành chính, tạo thuận lợi cho
+luật Thông tin và Truyền thông, https://cspl.mic.gov.
+tổ chức, cá nhân tham gia đầu tư, phát triển
+vn/Pages/TinTuc/tinchitiet.aspx? tintucid=138864;
+công nghiệp công nghệ số. Hiện tại, đề nghị
+3. Dự thảo Luật Công nghiệp công nghệ số,
+xây dựng Luật Công nghiệp công nghệ số đã
+Cổng thông tin điện tử Chính phủ, https://chinhphu.
+được tiếp cận theo hướng tăng cường việc vn/du-thao-vbqppl/du-thao-luat-cong-nghiep-cong-
+phân cấp, phân quyền; hạn chế tối đa các thủ nghe -so-6652;
+tục hành chính. 4. Thông báo số 66/TB-VPCP ngày 24/2/2024 về
+Kết luận của Thường trực Chính phủ về các đề nghị
+Về hỗ trợ, tạo điều kiện thuận lợi cho
+xây dựng Luật: Hàng không dân dụng Việt Nam (sửa
+các doanh nghiệp công nghệ số: Trong đề
+đổi), Đường sắt (sửa đổi), Công nghiệp công nghệ số;
+nghị xây dựng Luật đã có những chính sách
+các dự án: Luật sửa đổi, bổ sung một số điều của Luật
+thúc đẩy sản phẩm, dịch vụ công nghệ số
+Dược, Luật Địa chất và Khoáng sản;
+thiết kế và sản xuất trong nước; thử nghiệm
+5. Trịnh Thị Hiền, Trương Hữu Chung (2022), Phát
+sản phẩm, dịch vụ công nghệ số; phát triển triển công nghiệp công nghệ số Việt Nam: Cơ hội và thách thức,
+hạ tầng công nghiệp công nghệ số; thu hút Tạp chí Thông tin và Truyền thông, số 6/2022, https://
+đầu tư... nhằm tạo điều kiện hỗ trợ tổ chức, ictvietnam.vn/phat-trien-cong-nghiep-cong-nghe-so-
+viet-nam-co-hoi-va-thach-thuc-20288.html;
+cá nhân tham gia đầu tư, phát triển công
+nghiệp công nghệ số. 6. Vũ Thị Huyền Trang (2022), Tác động của
+đầu tư trực tiếp nước ngoài đến chuyển dịch cơ cấu
+Thứ sáu, tham khảo kinh nghiệm quốc
+ngành kinh tế, Cổng thông tin điện tử Viện Chiến
+tế, tiếp thu có chọn lọc để áp dụng phù hợp lược và Chính sách tài chính, https://www.mof.gov.
+với điều kiện kinh tế - xã hội của Việt Nam, vn/webcenter/portal/vclvcstc/ pages_r/l/chi-tiet-
+tham vấn các chuyên gia, nhà khoa học, người tin?dDocName=MOFUCM269051;
+làm công tác thực tiễn, đẩy mạnh truyền 7. Hữu Tuấn (2022), Sớm có khuôn khổ pháp lý cho
+thông chính sách để tạo sự đồng thuận; phối công nghiệp công nghệ số, Báo điện tử Đầu tư, https://
+baodautu.vn/som-co-khung-kho-phap-ly-cho-cong-
+hợp hiệu quả với các Bộ, ngành, cơ quan liên
+nghiep-cong-nghe-so-d169396.html;
+quan, hoàn thiện Đề nghị xây dựng Luật.
+8. Đỗ Thị Anh Phương (2023), Cơ hội và thách
+Kết luận
+thức trong phát triển công nghệ số của doanh nghiệp
+Như vậy, có thể thấy, trong bối cảnh Việt Nam, Tạp chí Công thương điện tử, https://
+hiện nay, Đảng ta đã xác định công nghiệp tapchicongthuong.vn/co-hoi-va-thach-thuc-trong-
+phat-trien-cong-nghe-so-cua-doanh-nghiep-viet-
+công nghệ số, công nghệ thông tin và viễn
+nam-104182.htm;
+thông sẽ là những ngành công nghiệp có
+9. Thủy Diệu (2023), Phát triển công nghiệp công
+tính chất nền tảng, mũi nhọn, ưu tiên để tạo
+nghệ số: Việt Nam cần nhiều chính sách đặc thù, Tạp
+tác động lan tỏa đến cả nền công nghiệp.
+chí điện tử Kinh tế Việt Nam (VnEconomy), https://
+Việc thể chế hóa chủ trương, đường lối của
+vneconomy.vn/phat-trien-cong-nghiep-cong-nghe-
+Đảng về phát triển công nghiệp công nghệ soviet-nam-can-nhieu-chinh-sach-dac-thu.
+Số 06 - 2024 Khoa học Kiểm sát 51

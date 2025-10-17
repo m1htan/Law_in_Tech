@@ -1,0 +1,713 @@
+BÁO CÁO 
+Đánh giá tác động chính sách Dự án Luật Dân số
+Thực hiện Luật Ban hành văn bản quy phạm pháp luật, Bộ Y tế xây dựng Báo cáo Đánh giá tác động chính sách Dự án Luật Dân số với các nội dung như sau:
+I. XÁC ĐỊNH VẤN ĐỀ
+1. Bối cảnh xây dựng chính sách
+1.1. Bối cảnh quốc tế, khu vực liên quan đến các chính sách
+Trong Chương trình nghị sự 2030 của Liên Hợp Quốc, các mục tiêu về dân số chiếm vị trí đặc biệt quan trọng, gắn bó mật thiết với phát triển bền vững. Kể từ sau Hội nghị Cairo 1994 của Liên Hợp Quốc về dân số và phát triển, xu thế dân số và phát triển được khẳng định với yêu cầu chú trọng toàn diện các mặt quy mô, cơ cấu, chất lượng, phân bố dân số và đặt trong mối quan hệ tác động qua lại với phát triển kinh tế - xã hội, đảm bảo mọi người dân đều được bình đẳng trong tham gia và thụ hưởng thành quả phát triển. 
+Hiện nay, hơn một nửa số quốc gia trên toàn cầu có mức sinh dưới mức thay thế (2,1 con/phụ nữ). Gần 1/5 số quốc gia trên thế giới đang trải qua tình trạng mức sinh “rất thấp” (ít hơn 1,4 con/phụ nữ). Mức sinh thấp kéo dài sẽ tác động trực tiếp, sâu sắc tới quy mô, cơ cấu dân số và để lại nhiều hệ lụy như thiếu hụt lực lượng lao động, suy giảm quy mô dân số, đẩy nhanh tốc độ già hóa dân số, gia tăng các dòng di cư. Hiện nay, đa số các quốc gia giàu đang phải sử dụng lao động nhập cư để bù đắp thiếu hụt lao động, đảm bảo đủ nguồn nhân lực để phát triển kinh tế.
+Một trong những hiện tượng nổi bật trên thế giới trong thế kỷ 21 là “bùng nổ” người cao tuổi. Nếu năm 1950 thế giới có 2,5 tỷ người, trong đó 214 triệu là người cao tuổi thì năm 2000, các con số này tương ứng là 6,080 tỷ và 590 triệu (UN, 2011). Dự báo dân số năm 2050 là 9,75 tỷ và người cao tuổi là 2100 triệu (UN, 2015). Như vậy, từ năm 1950 đến năm 2000, tỷ lệ người cao tuổi trong tổng dân số tăng từ 8,6% lên 9,7%, tức là chỉ tăng thêm được 1,1% thì từ năm 2000 đến năm 2050, tỷ lệ này sẽ tăng thêm 11,9% và đạt tới 21,6%. Tại Nhật Bản, quốc gia có tỷ lệ người cao tuổi cao nhất thế giới, tỷ lệ người dân trong độ tuổi trên 65 chiếm tới gần 30% dân số với 36,23 triệu người. Năm 2023, số người trong độ tuổi trên 75 ở nước này lần đầu tiên vượt mốc trên 20 triệu người; số người từ 80 tuổi trở lên có khoảng 12,59 triệu người. Đây là lần đầu tiên tỷ lệ người trên 80 tuổi ở nước này vượt ngưỡng 10% trong tổng dân số.
+Có nhiều nước ban hành chính sách dân số và luật về dân số, nhưng nội dung quy định của mỗi nước khác nhau. Chính sách dân số của các quốc gia cũng rất đa dạng, từ việc đưa ra mục tiêu, định hướng về công tác dân số, đến những chính sách cụ thể về số con đối với cặp vợ chồng; cung cấp phương tiện tránh thai, cung cấp dịch vụ kế hoạch hoá gia đình, chăm sóc sức khỏe sinh sản cho thanh niên, phụ nữ, biện pháp thực hiện kế hoạch hoá gia đình, thông tin giáo dục, truyền thông chuyển đổi hành vi về dân số… 
+Việt Nam đã ký kết, tham gia nhiều công ước quốc tế về quyền con người như: Công ước quốc tế về các quyền kinh tế, xã hội và văn hóa (ICESCR), Công ước quốc tế về xóa bỏ mọi hình thức phân biệt chủng tộc (ICERD), Công ước quốc tế về các quyền dân sự và chính trị (ICCPR), Công ước về xóa bỏ mọi hình thức phân biệt đối xử với phụ nữ (CEDAW), Công ước quốc tế về các quyền dân sự và chính trị (ICCPR), Công ước về quyền trẻ em (CRC), Công ước về quyền của người khuyết tật (CRPD)... Ngoài ra, Việt Nam cũng đã tích cực ủng hộ Hội nghị quốc tế về Dân số và Phát triển (ICPD) cũng như các tiến trình dân số và phát triển khác có liên quan.
+1.2. Bối cảnh trong nước liên quan đến các chính sách
+1.2.1. Về chính trị
+Nghị quyết số 21-NQ/TW ngày 25/10/2017 của Hội nghị lần thứ sáu Ban Chấp hành Trung ương Đảng khoá XII về công tác dân số trong tình hình mới (sau đây gọi tắt là Nghị quyết số 21-NQ/TW) định hướng “Tiếp tục chuyển trọng tâm chính sách dân số từ kế hoạch hóa gia đình sang dân số và phát triển. Công tác dân số phải chú trọng toàn diện các mặt quy mô, cơ cấu, phân bố, đặc biệt là chất lượng dân số và đặt trong mối quan hệ hữu cơ với các yếu tố kinh tế, xã hội, quốc phòng, an ninh và bảo đảm phát triển nhanh, bền vững”, đồng thời đề ra các mục tiêu“Giải quyết toàn diện, đồng bộ các vấn đề về quy mô, cơ cấu, phân bố, chất lượng dân số và đặt trong mối quan hệ tác động qua lại với phát triển kinh tế - xã hội. Duy trì vững chắc mức sinh thay thế; đưa tỉ số giới tính khi sinh về mức cân bằng tự nhiên; tận dụng hiệu quả cơ cấu dân số vàng, thích ứng với già hoá dân số; phân bố dân số hợp lý; nâng cao chất lượng dân số, góp phần phát triển đất nước nhanh, bền vững”. 
+Nghị quyết số 42-NQ/TW ngày 24 tháng 11 năm 2023 của Hội nghị lần thứ tám Ban Chấp hành Trung ương Đảng khoá XIII về tiếp tục đổi mới, nâng cao chất lượng chính sách xã hội, đáp ứng yêu cầu sự nghiệp xây dựng và bảo vệ tổ quốc trong giai đoạn mới (sau đây gọi tắt là Nghị quyết số 42-NQ/TW) đã đề ra nhiệm vụ, giảp pháp “Đẩy mạnh thực hiện chính sách dân số và phát triển theo hướng có quy mô, cơ cấu, phân bố hợp lý, cân bằng tỉ số giới tính khi sinh ở mức tự nhiên và duy trì mức sinh thay thế trên phạm vi cả nước, nhất là đối với một số địa bàn và nhóm dân cư. Nâng cao chất lượng dân số, tận dụng hiệu quả thời kỳ dân số vàng; sớm hoàn thiện khung chính sách quốc gia thích ứng với quá trình già hoá dân số; đáp ứng yêu cầu về nguồn nhân lực, nhất là nhân lực chất lượng cao cho sự nghiệp công nghiệp hoá, hiện đại hoá đất nước”. 
+Kết luận số 149-KL/TW ngày 10/4/2025 của Bộ Chính trị về đẩy mạnh thực hiện Nghị quyết số 21-NQ/TW của Hội nghị lần thứ sáu Ban Chấp hành Trung ương Đảng khóa XII về công tác dân số trong tình hình mới: “Tập trung rà soát, sửa đổi, bổ sung, hoàn thiện cơ chế, chính sách, pháp luật về dân số phù hợp với những thay đổi về quy mô, cơ cấu, chất lượng và phân bố dân cư, đáp ứng yêu cầu phát triển đất nước trong giai đoạn mới. Trong đó đẩy nhanh tiến độ xây dựng Luật Dân số theo tinh thần Nghị quyết Đại hội XIII của Đảng; khẩn trương rà soát, sửa đổi, bổ sung các quy định pháp luật về số con được sinh phù hợp với quan điểm về dân số và phát triển. Đồng thời, sửa đổi, bổ sung các quy định của Đảng, Nhà nước về xử lý vi phạm chính sách dân số, bảo đảm sự đồng bộ, thống nhất giữa quy định của Đảng và pháp luật của Nhà nước. Nghiên cứu ban hành cơ chế, chính sách khuyến khích các cặp vợ chồng và cá nhân sinh đủ hai con, ưu tiên và chú trọng đối với các địa bàn có mức sinh thấp, dân tộc ít người; các chính sách nhằm duy trì tỉ suất sinh thay thế; thu hẹp khoảng cách mất cân bằng giới tính khi sinh để đưa sớm đưa về mức cân bằng tự nhiên; xây dựng và ban hành các chính sách chăm sóc sức khỏe người cao tuổi để tăng tuổi thọ bình quân, tăng số năm khỏe mạnh, bảo đảm thích ứng với già hóa dân số và nâng cao chất lượng dân số. Nghiên cứu ban hành các chính sách hỗ trợ cho phụ nữ sinh đủ hai con trước 35 tuổi, chính sách việc làm, trợ cấp, hỗ trợ cho người lao động sinh con và nuôi con nhỏ”.
+Ngoài ra, còn nhiều nghị quyết, chỉ thị của Đảng liên quan đến công tác dân số, yêu cầu cần phải thể chế hóa các chủ trương, đường lối, chính sách của Đảng.
+1.2.2. Về pháp lý
+Hiến pháp năm 2013 quy định tại khoản 2 Điều 58: “Nhà nước, xã hội và gia đình có trách nhiệm bảo vệ, chăm sóc sức khỏe người mẹ, trẻ em, thực hiện kế hoạch hóa gia đình”; quy định tại khoản 2 Điều 14: “Quyền con người, quyền công dân chỉ có thể bị hạn chế theo quy định của luật trong trường hợp cần thiết vì lý do quốc phòng, an ninh quốc gia, trật tự, an toàn xã hội, đạo đức xã hội, sức khỏe của cộng đồng”. Do vấn đề dân số có liên quan mật thiết đến quyền con người, quyền công dân nên cần phải ban hành luật để quy định những nội dung liên quan đến quyền con người theo quy định của khoản 2 Điều 14 Hiến pháp năm 2013 trong thực hiện chính sách dân số.
+Năm 2003, Pháp lệnh Dân số được ban hành, tạo cơ sở pháp lý quan trọng thực hiện công tác dân số; góp phần nâng cao hiệu lực quản lý nhà nước, trách nhiệm của cơ quan, tổ chức, cá nhân đối với công tác dân số. Qua rà soát 61 văn bản pháp luật, bao gồm: Hiến pháp năm 2013, 55 Luật, 03 Nghị quyết của Quốc hội, 02 Pháp lệnh của Ủy ban Thường vụ Quốc hội và một số văn bản dưới luật liên quan, nhiều quy định có liên quan đến công tác dân số chưa đảm bảo tính đồng bộ, thống nhất với hệ thống pháp luật hiện hành và không đáp ứng được yêu cầu của thực tiễn. Ngoài ra, để hoàn thiện chính sách, pháp luật theo Nghị quyết số 21-NQ/TW, Chính phủ đã ban hành Nghị quyết số 137/NQ-CP giao các bộ ngành xây dựng, trình Luật Dân số và sửa đổi 06 luật; giao 12 bộ, ngành xây dựng, triển khai 33 chiến lược, chương trình, đề án, kế hoạch can thiệp cụ thể. 
+1.2.3. Về kinh tế - xã hội
+Dưới sự lãnh đạo của Đảng và Nhà nước; sự vào cuộc, tích cực tham gia, phối hợp, nỗ lực triển khai công tác dân số của các cấp, các ngành và cả hệ thống chính trị, sự đồng thuận của các tầng lớp Nhân dân, các tổ chức quốc tế, công tác dân số nước ta trong những năm qua đã đạt được những kết quả quan trọng. Năm 2006, nước ta đã đạt mức sinh thay thế và giữ được mức sinh xung quanh mức sinh thay thế trên phạm vi toàn quốc; duy trì mức độ gia tăng dân số phù hợp hằng năm; quy mô dân số đạt hơn 100 triệu người. Việt Nam đang ở thời kỳ dân số vàng, tạo ra những lợi thế to lớn cho quá trình phát triển kinh tế, xã hội; phân bố dân số đã hợp lý hơn; chất lượng dân số, chỉ số phát triển con người (HDI) của nước ta không ngừng tăng lên; tuổi thọ bình quân người Việt Nam ngày càng được nâng cao. Mỗi cặp vợ chồng có 2 con đã trở thành chuẩn mực, lan toả, thấm sâu trong toàn xã hội. Kết quả công tác dân số, kế hoạch hoá gia đình đã làm tăng GDP bình quân đầu người khoảng 2%/năm, góp phần đáng kể vào việc tăng thu nhập bình quân đầu người, cải thiện đời sống nhân dân, giảm tình trạng đói nghèo, tăng cường bình đẳng giới. Tổ chức bộ máy làm công tác dân số đã giảm bớt được đầu mối, tinh gọn bộ máy theo đúng chủ trương đường lối của Đảng, chính sách của Nhà nước.
+Tuy nhiên, bên cạnh những kết quả đạt được, công tác dân số còn có những tồn tại, hạn chế cần khắc phục, đó là: mức sinh thay thế chưa thực sự bền vững, xuất hiện xu hướng mức sinh thấp, mức sinh còn chênh lệch đáng kể giữa các vùng, đối tượng, sự chênh lệch này chưa được thu hẹp rõ rệt; tốc độ gia tăng nhanh tỉ số giới tính khi sinh đã được khống chế tuy nhiên vẫn cao so với mức cân bằng tự nhiên; chưa có giải pháp đồng bộ phát huy lợi thế của thời kỳ cơ cấu dân số vàng và thích ứng với già hóa dân số trong khi già hóa dân số là xu thế tất yếu của các quốc gia (Việt Nam là một trong những nước có tốc độ già hóa dân số nhanh trên thế giới); dịch vụ chăm sóc sức khỏe người cao tuổi tại gia đình, cộng đồng, chăm sóc dài hạn cho người cao tuổi chưa đáp ứng với nhu cầu của người cao tuổi; chất lượng nguồn nhân lực chưa đáp ứng được yêu cầu nguồn nhân lực chất lượng cao phục vụ sự nghiệp công nghiệp hóa, hiện đại hóa và hội nhập quốc tế; chỉ số phát triển con người (HDI) còn thấp; tuổi thọ bình quân tăng nhưng số năm sống khoẻ mạnh thấp so với nhiều nước; tư vấn, khám sức khỏe trước khi kết hôn; tầm soát, chẩn đoán, điều trị trước sinh và sơ sinh còn thấp; tình trạng tảo hôn, kết hôn cận huyết thống còn phổ biến ở một số dân tộc ít người; phân bố dân số, quản lý di cư còn nhiều bất cập; lồng ghép các yếu tố dân số trong xây dựng, thực hiện các chiến lược, kế hoạch, chương trình, dự án phát triển kinh tế, xã hội chưa được đồng bộ; công tác truyền thông, giáo dục về dân số hiệu quả chưa cao. Một số cơ chế, chính sách về dân số chậm đổi mới. Nguồn lực đầu tư cho dân số, kế hoạch hóa gia đình còn thấp, chưa tương xứng với yêu cầu... 
+Trong các giai đoạn trước đây, công tác dân số được bố trí nguồn lực tài chính thông qua các Chương trình mục tiêu quốc gia dân số, Chương trình mục tiêu Y tế - Dân số, nguồn vốn quốc tế viện trợ... Từ năm 2010, Việt Nam trở thành quốc gia có thu nhập trung bình thấp, nguồn viện trợ quốc tế cho công tác dân số bị cắt giảm mạnh; năm 2021 đã kết thúc Chương trình mục tiêu Y tế - Dân số theo Quyết định số 1125/QĐ-TTg ngày 31/7/2017 của Thủ tướng Chính phủ về Phê duyệt Chương trình mục tiêu Y tế - Dân số giai đoạn 2016 - 2020. Từ năm 2016 đến nay nguồn lực đầu tư cho dân số và phát triển còn thấp chưa tương xứng với nhu cầu. Ngân sách nhà nước giảm mạnh, nhiều địa phương chưa quan tâm đầu tư nguồn lực cho công tác dân số; tài trợ quốc tế hầu như không còn, nguồn lực huy động từ xã hội và tư nhân gặp nhiều khó khăn. Giai đoạn 2011-2015 là khoảng 740 tỉ/năm, giai đoạn 2016-2020 chỉ còn dưới 360 tỉ/năm. Năm 2021 đến nay, sau kết thúc Chương trình mục tiêu Y tế - Dân số, giai đoạn 2021-2023, mặc dù nhu cầu thực tế trung bình lên đến 800 tỷ đồng/năm, nhưng địa phương chỉ bố trí được khoảng 95 tỷ đồng/năm và Trung ương chỉ bảo đảm được khoảng 25 tỷ đồng/năm (15% nhu cầu).
+Từ năm 2021 đến nay, ngân sách nhà nước đầu tư cho công tác dân số vẫn còn hạn chế, chưa đáp ứng yêu cầu “bảo đảm đủ nguồn lực đáp ứng yêu cầu triển khai toàn diện công tác dân số” như đã nêu tại Nghị quyết 21-NQ/TW, chưa có nguồn riêng đầu tư cho công tác dân số. 
+Để đáp ứng đủ các điều kiện về nguồn lực thực hiện toàn diện, đồng bộ công tác dân số trong tình hình mới cần quy định trong Luật Dân số các nội dung về huy động nguồn lực xã hội để thực hiện toàn diện công tác dân số; ngân sách nhà nước cần được đảm bảo để duy trì mức sinh thay thế, đáp ứng đầy đủ nhu cầu về phương tiện tránh thai và dịch vụ kế hoạch hoá gia đình đối với những đối tượng đặc thù; mở rộng diện bao phủ các dịch vụ như tư vấn và khám sức khoẻ trước khi kết hôn, sinh con; tầm soát, chẩn đoán, điều trị trước sinh và sơ sinh; chăm sóc người cao tuổi; có chính sách đào tạo, bồi dưỡng kiến thức chuyên môn, nghiệp vụ cho đội ngũ người làm công tác dân số, đặc biệt người làm công tác dân số tại cơ sở.
+Những quan điểm, chủ trương, chính sách của Đảng về công tác dân số trong tình hình mới đặt ra yêu cầu phải xây dựng Luật Dân số, khắc phục các hạn chế, bất cập của Pháp lệnh Dân số, bảo đảm tính thống nhất, đồng bộ trong hệ thống pháp luật hiện hành; góp phần giải quyết toàn diện, đồng bộ các vấn đề về quy mô, cơ cấu, phân bố, chất lượng dân số và đặt trong mối quan hệ tác động qua lại với phát triển kinh tế - xã hội, bảo đảm phát triển bền vững đất nước.
+1.2.4. Về thực hiện bình đẳng giới
+Vấn đề dân số và phát triển với bình đẳng giới là hai vấn đề song hành có những tác động qua lại lẫn nhau trong xu thế phát triển. Dân số tác động tới bình đẳng giới đó là dân số phát triển ổn định về quy mô, cơ cấu, phân bổ, chất lượng sẽ tạo điều kiện thúc đẩy kinh tế xã hội phát triển như nâng cao thu nhập, cải thiện chất lượng cuộc sống, giảm sức ép của dân số tăng nhanh tới kinh tế, xã hội, tài nguyên môi trường tạo điều kiện phát triển bền vững của đất nước. Qua đó cũng tạo ra động lực trong việc thực hiện bình đẳng giới. Gia đình sinh ít con có điều kiện quan tâm, chia sẻ chăm sóc con cái, đầu tư cho giáo dục, y tế, lựa chọn nghề nghiệp của con cái công bằng hơn; ở tầm vĩ mô đất nước có điều kiện tích lũy nguồn lực vật chất cho việc ban hành thực hiện các chương trình dự án, chương trình giáo dục, tuyên truyền nâng cao nhận thức về bình đẳng giới góp phần vào việc thực hiện bình đẳng giới; phát hiện, bồi dưỡng, bố trí, sắp xếp nguồn lực con người công bằng tạo điều kiện để bảo đảm cơ cấu về giới tham gia lãnh đạo và quản lý xã hội, phát huy trí tuệ của giới trong công cuộc phát triển đất nước và xây dựng gia đình văn hóa.
+Mất cân bằng giới tính khi sinh trở thành thách thức với phát triển bền vững. Năm 2006, tỷ số giới tính khi sinh ở mức 109,8 bé trai/100 bé gái sinh ra sống - vượt ngưỡng cân bằng tự nhiên (103-107); năm 2015 là 112,8, năm 2024 là 111,4. Như vậy, tỷ số giới tính khi sinh luôn ở mức cao. Ước khó đạt được mục tiêu là đưa tỷ số giới tính khi sinh về mức 111 bé trai/100 bé gái vào năm 2025. Dự báo, nếu tỷ số giới tính khi sinh vẫn giữ nguyên như hiện nay, Việt Nam sẽ có 1,5 triệu nam giới 15-49 tuổi dư thừa vào năm 2039 và tăng lên 2,5 triệu vào năm 2059. Điều đó sẽ dẫn tới nguy cơ phá vỡ cấu trúc gia đình, một bộ phận nam giới sẽ phải kết hôn muộn, không có khả năng kết hôn, gia tăng tình trạng buôn bán phụ nữ, trẻ em gái, mại dâm, bạo hành giới, tội phạm xuyên quốc gia... gây mất ổn định trật tự an ninh, an toàn xã hội và dẫn đến những hệ lụy cho sự phát triển bền vững quốc gia, dân tộc.
+2. Mục tiêu xây dựng chính sách 
+Xác định những mục tiêu, giải pháp xây dựng các chính sách trong Luật Dân số cùng hệ thống pháp luật, luật chuyên ngành để giải quyết toàn diện, đồng bộ các vấn đề về quy mô, cơ cấu, phân bố, chất lượng nguồn nhân lực và đặt trong mối quan hệ hữu cơ với các yếu tố kinh tế, xã hội, quốc phòng, an ninh và bảo đảm phát triển nhanh, bền vững; đáp ứng yêu cầu công tác dân số trong thời tình hình mới.
+II. ĐÁNH GIÁ TÁC ĐỘNG CỦA CHÍNH SÁCH
+Căn cứ ý kiến của các bộ, ngành, cơ quan, tổ chức, Bộ Y tế đã tiếp thu, chỉnh lý, hoàn thiện các chính sách trong Đề nghị xây dựng Luật Dân số, đề xuất trình Chính phủ bao gồm: 
+- Chính sách 1: Duy trì mức sinh thay thế.
+- Chính sách 2: Giảm thiểu mất cân bằng giới tính khi sinh và đưa tỉ số giới tính khi sinh về mức cân bằng tự nhiên.
+- Chính sách 3: Thích ứng với già hóa dân số, dân số già.
+- Chính sách 4: Nâng cao chất lượng dân số.
+Nội dung đánh giá chính sách trong Đề nghị xây dựng Luật Dân số như sau:
+1. CHÍNH SÁCH 1: DUY TRÌ MỨC SINH THAY THẾ
+1.1. Xác định vấn đề và mục tiêu giải quyết vấn đề
+1.1.1. Xác định vấn đề
+Tại Việt Nam, mức sinh đã giảm từ 2,11 con/phụ nữ (năm 2021), xuống 2,01 con/phụ nữ (năm 2022), xuống 1,96 con/phụ nữ (năm 2023) và xuống 1,91 con/phụ nữ (năm 2024) thấp hơn mức sinh thay thế (2,1 con/phụ nữ) và được dự báo tiếp tục giảm trong các năm tiếp theo. Thêm vào đó, thanh niên có xu hướng kết hôn muộn hơn và sinh ít con hơn. Thành phố Hồ Chí Minh nơi có thu nhập bình quân đầu người cao nhất cả nước, cũng là địa phương đầu tiên có tuổi kết hôn trung bình lần đầu trên 30 tuổi, mức sinh dưới 1,4 con/phụ nữ. Tình trạng này cũng đã xuất hiện tại vùng Đông Nam bộ, các thành phố lớn và các nơi kinh tế phát triển cũng xuất hiện xu thế tương tự. 
+Nam nữ trước khi kết hôn thiếu các kiến thức về chăm sóc sức khỏe sinh sản liên quan trực tiếp đến cuộc sống vợ chồng; chăm sóc, nuôi dạy con; củng cố giá trị mỗi gia đình nên có hai con, nuôi dạy con tốt và tư vấn, hướng dẫn các biện pháp phòng tránh vô sinh. 
+Theo dự báo, kịch bản mức sinh tiếp tục giảm, đến năm 2039 Việt Nam sẽ kết thúc thời kỳ dân số vàng, năm 2042 quy mô dân số trong độ tuổi lao động đạt đỉnh và sau năm 2054 dân số sẽ bắt đầu tăng trưởng âm. Lúc đó, mức sinh thấp kéo dài sẽ tác động trực tiếp, sâu sắc tới quy mô, cơ cấu dân số và để lại nhiều hệ lụy như thiếu hụt lực lượng lao động, suy giảm quy mô dân số, đẩy nhanh tốc độ già hóa dân số, gia tăng các dòng di cư. 
+Trong 02 nhiệm kỳ liên tiếp Đảng ta đã ban hành 02 Nghị quyết  Trung ương để khẳng định mục tiêu “Duy trì vững chắc mức sinh thay thế trên phạm vi cả nước”. Chính phủ, Thủ tướng Chính phủ đã ban hành Chiến lược Dân số Việt Nam đến năm 2030 và các chương trình, đề án can thiệp để điều chỉnh mức sinh.
+Trên cơ sở tổng hợp kinh nghiệm quốc tế, Báo cáo Chính sách Dân số Thế giới năm 2021 , trên toàn cầu có 55 chính phủ có chính sách tăng mức sinh, 19 chính phủ tập trung vào việc duy trì mức sinh hiện tại. Các nhóm biện pháp chính: (1) Tại nơi làm việc: cải thiện chế độ nghỉ thai sản, chế độ bố nghỉ chăm con, chế độ nghỉ phép không lương được bảo đảm công việc, thời giờ làm việc ngắn hơn hoặc bán thời gian; (2) Ưu đãi tài chính: tiền thưởng cho việc sinh con, ưu đãi thuế, trợ cấp tiền mặt hằng tháng cho trẻ em; hỗ trợ thuê nhà, mua nhà ở; (3) Chăm sóc trẻ em: tăng tính sẵn có của dịch vụ chăm sóc trẻ em, hỗ trợ chi phí chăm sóc trẻ em;… (4) Hỗ trợ sinh sản: cải thiện hỗ trợ của nhà nước cho thụ tinh trong ống nghiệm, quy định bảo hiểm hiếm muộn, tăng tính sẵn có của dịch vụ thụ tinh trong ống nghiệm.
+Khoản 2 Điều 14 Hiến pháp năm 2013 quy định: “Quyền con người, quyền công dân chỉ có thể bị hạn chế theo quy định của luật trong trường hợp cần thiết vì lý do quốc phòng, an ninh quốc gia, trật tự, an toàn xã hội, đạo đức xã hội, sức khỏe của cộng đồng”. Chính sách dân số có liên quan mật thiết đến quyền con người, quyền công dân nên cần phải ban hành luật. 
+Việt Nam đã có nhiều chính sách, pháp luật tương tự như thế giới. Để duy trì mức sinh thay thế theo các Nghị quyết của Đảng, Bộ Y tế đề xuất cần có những chính sách đột phá trong Luật Dân số để có thể ngăn chặn giảm sâu, kéo dài, giữ được mức sinh thay thế, ngăn chặn suy thoái lao động, suy thoái dân số, suy giảm tăng trưởng kinh tế.
+1.1.2. Mục tiêu giải quyết vấn đề 
+Duy trì vững chắc mức sinh thay thế trên phạm vi cả nước, khắc phục tình trạng chênh lệch mức sinh giữa các vùng, đối tượng để có quy mô dân số hợp lý; thích ứng với quá trình già hoá dân số.
+1.2. Các giải pháp và đánh giá tác động của các giải pháp đối với đối tượng chịu sự tác động trực tiếp của chính sách và các đối tượng khác có liên quan
+1.2.1. Các giải pháp
+1.2.1.1. Giải pháp 1 - Giải pháp đề xuất trong Luật Dân số
+* Giải pháp thực hiện chính sách 
+- Cho phép cặp vợ chồng, cá nhân quyết định thời gian sinh con, số con và khoảng cách giữa các lần sinh (Khác với Điều 10 Pháp lệnh Dân số năm 2003 được sửa đổi, bổ sung năm 2008).
+- Quy định biện pháp duy trì mức sinh thay thế
++ Định kỳ Chính phủ công bố tình trạng mức sinh để chính quyền địa phương xây dựng, thực hiện các chính sách hỗ trợ, khuyến khích phù hợp. Trường hợp mức sinh của một số địa phương xuống mức rất thấp, Chính phủ báo cáo, đề xuất với Quốc hội có biện pháp can thiệp kịp thời;
++ Cho phép lao động nữ khi sinh con thứ 02 (hai) được kéo dài thời gian nghỉ thai sản từ 06 tháng lên 07 tháng (sửa đổi khoản 1 Điều 139 Bộ luật Lao động 2019; các trường hợp khác áp dụng theo quy định hiện hành); 
++ Cho phép phụ nữ sinh đủ 02 con ở các khu công nghiệp, khu chế xuất và các tỉnh, thành phố có mức sinh thấp được hưởng chính sách hỗ trợ về nhà ở xã hội theo quy định của Chính phủ (bổ sung đối tượng này vào Điều 76 Luật Nhà ở năm 2023); 
++ Quy định trách nhiệm của các cơ quan, tổ chức trong việc cung cấp cho nam nữ trước khi kết hôn các kiến thức về chăm sóc sức khỏe sinh sản liên quan trực tiếp đến cuộc sống vợ chồng; chăm sóc, nuôi dạy con; củng cố giá trị mỗi gia đình nên có hai con, nuôi dạy con tốt và tư vấn, hướng dẫn các biện pháp phòng tránh vô sinh.
+- Lồng ghép các nội dung về duy trì mức sinh thay thế, kế hoạch hoá gia đình trong xây dựng, triển khai thực hiện các chiến lược, kế hoạch, chương trình, dự án phát triển kinh tế, xã hội, quốc phòng, an ninh.
+- Tuyên truyền vận động, truyền thông, giáo dục thay đổi hành vi của cặp vợ chồng, cá nhân, gia đình và xã hội trong việc thực hiện chính sách dân số; thực hiện các biện pháp duy trì mức sinh thay thế.
+1.2.2.2. Giải pháp 2 - Giải pháp giữ nguyên hiện trạng như quy định hiện hành
+Quy định như pháp luật hiện hành, mỗi cặp vợ chồng, cá nhân được quyết định thời gian và khoảng cách sinh con; sinh một hoặc hai con, trừ 07 trường hợp có quy định là không vi phạm chính sách dân số . 
+1.2.2. Đánh giá tác động của các giải pháp đối với đối tượng chịu sự tác động trực tiếp của chính sách và các đối tượng khác có liên quan
+1.2.2.1. Tác động đối với hệ thống pháp luật
+1.2.2.1.1. Đối với Nhà nước
+a) Tác động tích cực: 
+* Giải pháp 1 - Giải pháp đề xuất trong Luật Dân số :
+- Giải pháp thực hiện chính sách đã được rà soát, bảo đảm tính quy phạm, khả thi, thống nhất với hệ thống pháp luật hiện hành; tạo hành lang pháp lý đồng bộ để duy trì vững chắc mức sinh thay thế.
+- Việc quy định quyền và nghĩa vụ của mỗi cặp vợ, chồng và cá nhân trong việc sinh con của Luật Dân số bảo đảm tính hợp hiến, hợp pháp và thống nhất của chính sách với hệ thống pháp luật, nhất là Hiến pháp 2013.
+- Giải pháp phù hợp với các Điều ước quốc tế liên quan đến dân số và phát triển mà Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên; phù hợp các cam kết chính trị về dân số và phát triển của Việt Nam tại các diễn đàn đa phương. Ví dụ, Chương trình hành động về dân số và phát triển Cairo - năm 1994, Việt Nam cam kết thực hiện, đã nêu quyền sinh sản được hiểu là việc các cặp vợ chồng và cá nhân có quyền quyết định số con, khoảng cách giữa các con và thời điểm có con. 
+- Quy định “định kỳ Chính phủ công bố tình trạng mức sinh để chính quyền địa phương xây dựng, thực hiện các chính sách hỗ trợ, khuyến khích phù hợp Trường hợp mức sinh của một số địa phương xuống mức rất thấp, Chính phủ báo cáo, đề xuất với Quốc hội có biện pháp can thiệp kịp thời”.
+- Quy định của Luật Dân số cung cấp công cụ chính sách linh hoạt và đẩy mạnh phân cấp, phân quyền cho địa phương thực hiện chính sách hỗ trợ, khuyến khích như: Ưu đãi tài chính (tiền thưởng cho việc sinh con, trợ cấp tiền mặt hằng tháng cho trẻ em; hỗ trợ thuê nhà, mua nhà ở xã hội ); chăm sóc trẻ em (tăng tính sẵn có của dịch vụ chăm sóc trẻ em, hỗ trợ chi phí chăm sóc trẻ em ) và các chính sách hỗ trợ khuyến khích khác theo hướng dẫn của Bộ Y tế.
+ - Thực hiện quy định “Cho phép lao động nữ khi sinh con thứ 02 (hai) được kéo dài thời gian nghỉ thai sản từ 06 tháng lên 07 tháng” sẽ thúc đẩy các cặp vợ chồng sinh đủ hai con.
+* Giải pháp 2 - Giải pháp giữ nguyên hiện trạng như quy định hiện hành
+Giải pháp này không gây xáo trộn trong việc thực hiện, không làm thay đổi nhận thức của xã hội đối với việc thực hiện công tác dân số.
+b) Tác động tiêu cực:
+* Giải pháp 1 - Giải pháp đề xuất trong Luật Dân số:
+Giải pháp này không có tác động tiêu cực. Giải pháp này sẽ phải sửa đổi một số luật như Bộ luật Lao động, Luật Nhà ở. Tuy nhiên nội dung này dự kiến sẽ sửa đổi tại dự thảo luật để đảm bảo đồng bộ.
+* Giải pháp 2 - Giải pháp giữ nguyên hiện trạng như quy định hiện hành
+Giải pháp này không thể chế hóa được toàn diện các chủ trương, chính sách của Đảng; chưa tương thích với các Điều ước quốc tế, các cam kết chính trị mà Việt Nam tham gia; chưa phù hợp với Hiến pháp năm 2013, chưa thống nhất của chính sách với hệ thống pháp luật.
+Tiếp tục duy trì các quy định hiện hành, theo dự báo, kịch bản mức sinh tiếp tục giảm, đến năm 2039 Việt Nam sẽ kết thúc thời kỳ dân số vàng, năm 2042 quy mô dân số trong độ tuổi lao động đạt đỉnh và sau năm 2054 dân số sẽ bắt đầu tăng trưởng âm. Lúc đó, hệ lụy của mức sinh thấp kéo dài sẽ dẫn đến thiếu hụt lực lượng lao động, suy giảm quy mô dân số.
+1.2.2.2. Tác động về kinh tế - xã hội
+1.2.2.2.1. Đối với Nhà nước
+a) Tác động tích cực: 
+* Giải pháp 1- Giải pháp đề xuất trong Luật Dân số
+Thực hiện chính sách sẽ khuyến khích các cặp vợ chồng sinh đủ hai con, bảo đảm tỷ suất sinh thay thế trên phạm vi cả nước; có tác động kéo dài thời gian cơ cấu dân số vàng, tránh được già hoá dân số nhanh để có nguồn nhân lực phát triển đất nước bền vững; giúp tăng thu nhập bình quân đầu người.
+Ổn định lực lượng lao động, quy mô dân số, tác động tích cực đến việc chất lượng nguồn nhân lực, đóng góp  tăng trưởng kinh tế. Kết quả này giúp tránh được những hệ lụy của cả hai trạng thái: quy mô dân số quá đông do mức sinh tăng trở lại hoặc quy mô dân số giảm, lực lượng lao động giảm nhanh nếu mức sinh giảm xuống dưới mức thay thế.
+Người dân được thụ hưởng các chính sách hỗ trợ phù hợp, sinh đủ 2 con. Qua đó, góp phần giảm chi phí sinh con, nuôi con, mang lại hạnh phúc gia đình.
+b) Tác động tiêu cực:
+Đối với giải pháp 1, để thực hiện giải pháp này, Nhà nước sẽ phải bảo đảm ngân sách để tuyên truyền vận động, thực hiện hỗ trợ, khuyến khích lợi ích vật chất, tinh thần cho các đối tượng thực hiện chính sách sinh đủ hai con.
+Chính quyền địa phương ban hành theo thẩm quyền các chính sách hỗ trợ, khuyến khích về lợi ích vật chất, tinh thần cho các đối tượng thực hiện chính sách trên địa bàn, phù hợp với điều kiện phát triển thực tiễn.
+* Kinh phí bảo đảm thực hiện chính sách
+Thực hiện theo quy định này, phụ nữ sinh con thứ hai được hưởng thêm một tháng nghỉ thai sản. Theo số liệu cung cấp của Bảo hiểm xã hội Việt Nam: 
++ Năm 2024 có 552.217 lượt người giải quyết chế độ thai sản sinh 01 con với số kinh phí là: 22.787.613.943.798 đồng, mức chi trả trợ cấp thai sản khi sinh 01 con bình quân là 37.229.444 đồng (06 tháng theo quy định của Bộ luật Lao động). Như vậy, mỗi phụ nữ khi sinh 01 con được hưởng trợ cấp thai sản với mức bình quân là 6,2 triệu đồng/tháng. 
++ Năm 2024 có 6.531 lượt người giải quyết chế độ thai sản sinh 02 con với số kinh phí là: 354.244.535.731 đồng, mức chi trả trợ cấp thai sản khi sinh 02 con bình quân là 46.240.946 đồng (06 tháng theo quy định của Bộ luật Lao động). Như vậy, mỗi phụ nữ khi sinh 02 con được hưởng trợ cấp thai sản với mức bình quân là 7,7 triệu đồng/tháng.
+Dự kiến kinh phí hỗ trợ đối với phụ nữ sinh 02 con có hợp đồng lao động, đóng bảo hiểm xã hội được hưởng chính sách này do ngân sách nhà nước bảo đảm chi trả 50,333,269,289 đồng/năm, như sau:
+6.531 người x 7.700.000đ/người/tháng =  50,3 tỷ đồng/năm.
+Thực hiện theo quy định này, phụ nữ sinh con thứ hai được hưởng thêm một tháng nghỉ thai sản. Theo số liệu của Bảo hiểm xã hội Việt Nam, mỗi năm có khoảng 6.531 người phụ nữ sinh con thứ hai, mỗi tháng được hưởng trợ cấp thai sản với mức bình quân là 7,7 triệu đồng/tháng, dự kiến ngân sách nhà nước bảo đảm chi trả khoảng 50,3 tỷ đồng/năm.
+- Quy định “Cho phép phụ nữ sinh đủ 02 con ở các khu công nghiệp, khu chế xuất và các tỉnh, thành phố có mức sinh thấp được hưởng chính sách hỗ trợ về nhà ở xã hội theo quy định của Chính phủ” sẽ tạo điều kiện cho các cặp vợ chồng đủ điều kiện về nơi ở để nuôi hai con.
+- Quy định trách nhiệm của các cơ quan, tổ chức trong việc cung cấp cho nam nữ trước khi kết hôn các kiến thức về chăm sóc sức khỏe sinh sản liên quan trực tiếp đến cuộc sống vợ chồng; chăm sóc, nuôi dạy con; củng cố giá trị mỗi gia đình nên có hai con, nuôi dạy con tốt và tư vấn, hướng dẫn các biện pháp dự phòng  vô sinh góp phần xây dựng gia đình hạnh phúc, bền vững ngay từ khi kết hôn, giảm số trường hợp ly hôn.
+Đối với giải pháp 2, tác động tiêu cực là không khắc phục tình trạng chênh lệch mức sinh giữa các vùng, đối tượng. Khi mức sinh xuống quá thấp, như kinh nghiệm của một số quốc gia, dẫn đến suy giảm lực lượng lao động, suy giảm quy mô dân số, quy mô nền kinh tế, làm trầm trọng hơn quá trình già hóa dân số, tác động tiêu cực đến phát triển kinh tế - xã hội. Giải pháp này không giải quyết được tình trạng mất cân bằng giới tính khi sinh.
+1.2.2.2.2. Đối với người dân
+a) Tác động tích cực: 
+* Giải pháp 1- Giải pháp đề xuất trong Luật Dân số
+Theo số liệu của Bảo hiểm xã hội Việt Nam, mỗi năm có khoảng 6.531 người phụ nữ sinh con thứ hai. Thực hiện giải pháp hỗ trợ người phụ nữ sinh con thứ hai, sẽ có 6.531 phụ nữ được nghỉ thai sản thêm 01 tháng để tăng thêm thời gian chăm sóc con; 6.531 gia đình sinh đủ hai con tại các khu công nghiệp, khu chế xuất, tỉnh, thành phố có mức sinh thấp được hưởng chính sách hỗ trợ về nhà ở xã hội theo quy định của Chính phủ. Từ các giải pháp trên, người dân được thụ hưởng các chính sách hỗ trợ, khuyến khích phù hợp sinh đủ hai con và nuôi dạy con tốt. Qua đó, góp phần tăng động lực để họ sinh đủ 02 con, mang lại hạnh phúc cho cặp vợ chồng và nâng cao tuổi thọ khỏe mạnh, đảm bảo nhân lực lao động ổn định kinh tế - xã hội
+* Giải pháp 2 - Giải pháp giữ nguyên hiện trạng như quy định hiện hành
+Không có tác động tích cực khi thực hiện giải pháp này đối với người dân.
+b) Tác động tiêu cực:
+* Giải pháp 1- Giải pháp đề xuất trong Luật Dân số
+Không có tác động tiêu cực khi thực hiện giải pháp này đối với người dân.
+* Giải pháp 2 - Giải pháp giữ nguyên hiện trạng như quy định hiện hành
+Thực hiện giải pháp này, cá nhân (đảng viên, công chức, viên chức) sinh thứ 3 trở lên có thể bị xử lý kỷ luật, người dân không được tạo điều kiện giảm các chi phí sinh con, nuôi con, dự phòng vô sinh; không góp phần xây dựng gia đình hạnh phúc, bền vững ngay từ khi kết hôn, giảm số trường hợp ly hôn. 
+1.2.2.2.3. Đối với doanh nghiệp
+a) Tác động tích cực: 
+* Giải pháp 1- Giải pháp đề xuất trong Luật Dân số
+Thực hiện giải pháp này, doanh nghiệp tránh được nguy cơ thiếu lao động khi mở rộng quy mô sản xuất. Qua đó, góp phần mang lại lợi ích kinh tế cho doanh nghiệp.
+* Giải pháp 2 - Giải pháp giữ nguyên hiện trạng như quy định hiện hành
+Không có tác động tích cực khi thực hiện giải pháp này đối với doanh nghiệp.
+b) Tác động tiêu cực:
+* Giải pháp 1- Giải pháp đề xuất trong Luật Dân số
+Thực hiện giải pháp này, các doanh nghiệp bố trí sắp xếp đảm bảo thời gian nghỉ thai sản thêm một tháng cho 6.531 phụ nữ sinh con thứ hai. Quy định này cũng tác động tới chi phí của doanh nghiệp trong ngắn hạn. 
+* Giải pháp 2 - Giải pháp giữ nguyên hiện trạng như quy định hiện hành
+Thực hiện giải pháp này, mức sinh ngày một giảm sẽ thiếu hụt nhân lực lao động, sản xuất trong các doanh nghiệp.
+1.2.2.3. Tác động về giới 
+1.2.2.3.1. Đối với Nhà nước
+a) Tác động tích cực: 
+* Giải pháp 1- Giải pháp đề xuất trong Luật Dân số
+Thực hiện giải pháp này sẽ làm giảm tình trạng mất cân bằng giới tính khi sinh. Khi mỗi gia đình có 2 con thì cha mẹ có điều kiện cho cả con trai và con gái đi học. Do vậy, tỷ lệ nữ sinh trong hệ thống giáo dục quốc dân ngang bằng với tỷ lệ nam sinh.
+Khi mức sinh thay thế được duy trì, kinh tế - xã hội tiếp tục phát triển, bình đẳng giới trong giáo dục được giữ vững. Đây là cơ sở vững chắc góp phần nâng cao vị thế phụ nữ, tăng cơ hội tiếp cận bình đẳng trong giáo dục, đào tạo, chăm sóc sức khỏe, việc làm và thu nhập. Đây là mục tiêu kép nhằm vừa đảm bảo chất lượng cuộc sống người dân, vừa thực hiện công bằng xã hội, xóa bớt khoảng cách phát triển giữa các dân tộc và các vùng, miền. 
+* Giải pháp 2 - Giải pháp giữ nguyên hiện trạng như quy định hiện hành
+Không có nhiều tác động tích cực so với giải pháp 1 đối với Nhà nước.
+b) Tác động tiêu cực:
+* Giải pháp 1- Giải pháp đề xuất trong Luật Dân số
+Không có tác động tiêu cực khi thực hiện giải pháp này đối với Nhà nước.
+* Giải pháp 2 - Giải pháp giữ nguyên hiện trạng như quy định hiện hành
+Không thúc đẩy mạnh mẽ bình đẳng khi thực hiện giải pháp này đối với Nhà nước.
+1.2.2.3.2. Đối với người dân
+a) Tác động tích cực: 
+* Giải pháp 1- Giải pháp đề xuất trong Luật Dân số
+Nhìn từ góc độ tác động giới, giải pháp 1 không quy định số con đối với mỗi cặp vợ chồng và trao quyền quyết định về thời gian sinh con, số con và khoảng cách giữa các lần sinh bảo đảm trách nhiệm chăm sóc và nuôi dạy con tốt. Giải pháp này sẽ tạo cho mỗi giới sự bình đẳng về mặt pháp lý và trên thực tế về cơ hội, điều kiện, năng lực thực hiện và thụ hưởng các quyền và lợi ích từ quy định này một cách chủ động.
+Vì vậy, giải pháp này có tác động giới tích cực hơn, góp phần đảm bảo bình đẳng giới cả về pháp lý và về thực tiễn của nam, nữ, của vợ, chồng.
+* Giải pháp 2 - Giải pháp giữ nguyên hiện trạng như quy định hiện hành
+Không có tác động tích cực đối với người dân.
+b) Tác động tiêu cực:
+* Giải pháp 1- Giải pháp đề xuất trong Luật Dân số
+Không có tác động tiêu cực đối với người dân.
+* Giải pháp 2 - Giải pháp giữ nguyên hiện trạng như quy định hiện hành
+Thực hiện giải pháp này, mặc dù vẫn trao cho các cặp vợ chồng quyết định tự nguyện, có trách nhiệm, bình đẳng về thời gian sinh con, khoảng cách giữa các lần sinh, nhưng là tạo bình đẳng về mặt pháp lý. Còn trên thực tế, tác động của hai giải pháp này đối với nam, nữ không như nhau bởi việc pháp luật quy định số con sẽ tạo gánh nặng tâm lý, có nguy cơ cao dẫn đến cách ứng xử mang tính phân biệt đối xử về giới của vợ, chồng (lựa chọn giới tính thai nhi) do khát vọng có con trai để nối dõi tông đường. Phụ nữ đã và sẽ là giới chịu tác động tiêu cực nhiều hơn do phải chịu áp lực từ người chồng, từ phía gia đình, dòng tộc. 
+1.2.2.3.3. Đối với doanh nghiệp
+a) Tác động tích cực:
+* Giải pháp 1- Giải pháp đề xuất trong Luật Dân số
+Việc thực hiện một số biện pháp của chính sách sẽ thúc đẩy bình đẳng giới trong cơ quan, tổ chức và doanh nghiệp. Qua đó, góp phần thực hiện hiệu quả quy định về bình đẳng giữa nam, nữ đối với tiêu chuẩn, độ tuổi khi được đề bạt, bổ nhiệm giữ các chức danh trong các ngành, nghề có tiêu chuẩn chức danh; khuyến khích đào tạo, bồi dưỡng nâng cao năng lực cho lao động nữ sau thời gian nuôi con nhỏ. Tạo điều kiện cho lao động nữ làm các công việc phù hợp với sức khoẻ, tâm lý, hoàn cảnh sau khi sinh con...
+* Giải pháp 2 - Giải pháp giữ nguyên hiện trạng như quy định hiện hành
+Không có nhiều tác động tích cực đối với doanh nghiệp.
+b) Tác động tiêu cực:
+* Giải pháp 1- Giải pháp đề xuất trong Luật Dân số
+Về cơ bản, các biện pháp thực hiện chính sách không có tác động tiêu cực đối với doanh nghiệp. Tuy nhiên, việc quy định chặt chẽ hơn về các biện pháp thúc đẩy bình đẳng giới cần có thời gian để người sử dụng lao động thích ứng với quy định mới.
+* Giải pháp 2 - Giải pháp giữ nguyên hiện trạng như quy định hiện hành
+Không thúc đẩy thực hiện bình đẳng giới.
+1.2.2.4. Tác động của thủ tục hành chính
+1.2.2.4.1. Đối với Nhà nước
+a) Tác động tích cực: 
+* Giải pháp 1- Giải pháp đề xuất trong Luật Dân số
+Về cơ bản, các biện pháp thực hiện chính sách có chi phí thấp, diện bao phủ cao, không phát sinh tổ chức. Không phát sinh thủ tục hành chính, sử dụng hộ kinh doanh do cấp xã quản lý.
+* Giải pháp 2 - Giải pháp giữ nguyên hiện trạng như quy định hiện hành
+Không quy định nội dung để phát sinh thủ tục hành chính nên không đánh giá tác động.
+b) Tác động tiêu cực:
+* Giải pháp 1- Giải pháp đề xuất trong Luật Dân số
+Không có tác động tiêu cực do không phát sinh thủ tục hành chính mới.
+* Giải pháp 2 - Giải pháp giữ nguyên hiện trạng như quy định hiện hành
+Không quy định nội dung để phát sinh thủ tục hành chính nên không đánh giá tác động.
+1.2.2.4.2. Đối với người dân
+a) Tác động tích cực: 
+* Giải pháp 1- Giải pháp đề xuất trong Luật Dân số
+Không phát sinh về phí, lệ phí. Đối tượng thực hiện không phải trả thêm khoản chi phí nào khi thực hiện dịch vụ.
+* Giải pháp 2 - Giải pháp giữ nguyên hiện trạng như quy định hiện hành
+Không quy định nội dung để phát sinh thủ tục hành chính nên không đánh giá tác động.
+b) Tác động tiêu cực:
+* Giải pháp 1- Giải pháp đề xuất trong Luật Dân số
+Không có tác động tiêu cực
+* Giải pháp 2 - Giải pháp giữ nguyên hiện trạng như quy định hiện hành
+Không quy định nội dung để phát sinh thủ tục hành chính nên không đánh giá tác động.
+1.2.2.4.3. Đối với doanh nghiệp
+a) Tác động tích cực: 
+* Giải pháp 1- Giải pháp đề xuất trong Luật Dân số
+Do không phát sinh thủ tục hành chính, các doanh nghiệp được tạo điều kiện tham gia phát triển dịch vụ kế hoạch hoá gia đình; phát triển các sản phẩm, dịch vụ thiết yếu cho người cao tuổi. Do đó, góp phần mang lại lợi ích kinh tế cho doanh nghiệp.
+* Giải pháp 2 - Giải pháp giữ nguyên hiện trạng như quy định hiện hành
+Không quy định nội dung để phát sinh thủ tục hành chính nên không đánh giá tác động.
+b) Tác động tiêu cực:
+* Giải pháp 1- Giải pháp đề xuất trong Luật Dân số
+Không có tác động tiêu cực
+* Giải pháp 2 - Giải pháp giữ nguyên hiện trạng như quy định hiện hành
+Không quy định nội dung để phát sinh thủ tục hành chính nên không đánh giá tác động. Tác động của các thủ tục hành chính nêu trên được đánh giá trên cơ sở phân tích, dự báo về sự cần thiết, tính hợp pháp, tính hợp lý và chi phí tuân thủ của thủ tục hành chính để thực hiện chính sách.
+1.3. Giải pháp tối ưu được lựa chọn và lý do lựa chọn giải pháp
+Mỗi giải pháp đều có những ưu điểm, hạn chế, song giải pháp 1 có nhiều ưu điểm phù hợp với chủ trương định hướng của Đảng về duy trì vững chắc mức sinh thay thế trên phạm vi toàn quốc.
+Đối với giải pháp 1, giải pháp này có những ưu điểm sau: 
+Khắc phục quy định pháp luật hiện hành: mỗi cặp vợ, chồng và cá nhân “sinh một hoặc hai con”, trừ 07 trường hợp được quy định là không vi phạm chính sách dân số. Đây là nguyên nhân làm mức sinh liên tục giảm trong thời gian qua. 
+Các giải pháp giúp duy trì mức sinh thay thế: Định kỳ Chính phủ công bố tình trạng mức sinh để các tỉnh, thành kịp thời có chính sách hỗ trợ, khuyến khích phù hợp. Chính quyền địa phương ban hành theo thẩm quyền các chính sách hỗ trợ, khuyến khích về lợi ích vật chất, tinh thần cho các đối tượng thực hiện chính sách để duy trì mức sinh thay thế trên địa bàn, phù hợp với điều kiện phát triển kinh tế, xã hội của địa phương. 
+Đối với giải pháp 2, giải pháp này có những ưu điểm là không phải sửa đổi các quy định về pháp luật cũng như phương thức tuyên truyền, vận động, thi đua, khen thưởng, kỷ luật.
+Tuy nhiên giải pháp này có những hạn chế là chưa phù hợp với Hiến pháp năm 2013; chưa phù hợp với các cam kết chính trị Việt Nam đưa ra tại các diễn đàn đa phương về dân số, không tạo tác động tốt với dư luận quốc tế. Mức sinh của Việt Nam tiếp tục xuống thấp, rất thấp, không vực lên được như một số quốc gia. 
+1.4. Kiến nghị giải pháp lựa chọn
+Trên cơ sở phân tích, đánh giá tác động của chính sách về kinh tế, xã hội, giới, thủ tục hành chính và hệ thống pháp luật; xem xét ưu điểm, nhược điểm của từng giải pháp đề xuất để giải quyết vấn đề, trong hai giải pháp nêu trên, giải pháp nào cũng có những mặt tích cực và hạn chế; kiến nghị chọn giải pháp 1 do có nhiều ưu điểm nổi trội hơn; ổn định quy mô dân số, góp phần vào tăng trưởng kinh tế, tác động tích cực đến việc nâng cao chất lượng dân số, chất lượng nguồn nhân lực. 
+2. Chính sách 2: Giảm thiểu mất cân bằng giới tính khi sinh và đưa tỉ số giới tính khi sinh về mức cân bằng tự nhiên
+2.1. Xác định vấn đề và mục tiêu giải quyết vấn đề
+2.1.1. Xác định vấn đề
+Mất cân bằng giới tính khi sinh trở thành thách thức với phát triển bền vững. Năm 2006, tỷ số giới tính khi sinh ở mức 109,8 bé trai/100 bé gái sinh ra sống - vượt ngưỡng cân bằng tự nhiên (103-107); năm 2015 là 112,8, năm 2024 là 111,4. Như vậy, tỷ số giới tính khi sinh luôn ở mức cao và rất khác biệt giữa các địa phương. 
+Nếu không có biện pháp can thiệp mạnh, Việt Nam sẽ dư thừa 1,5 triệu nam giới 15-49 tuổi vào năm 2039 và tăng lên 2,5 triệu vào năm 2059. Điều đó sẽ dẫn tới nguy cơ phá vỡ cấu trúc gia đình, một bộ phận nam giới sẽ phải kết hôn muộn, không có khả năng kết hôn, gia tăng tình trạng buôn bán phụ nữ, trẻ em gái, mại dâm, bạo hành giới, tội phạm xuyên quốc gia... gây mất ổn định trật tự an ninh, an toàn xã hội và ảnh hưởng tới sự phát triển bền vững quốc gia, dân tộc.
+Các văn bản pháp luật về dân số hiện hành quy định về nghiêm cấm lựa chọn giới tính thai nhi dưới mọi hình thức, có các mức xử phạt vi phạm hành chính. Mức phạt tiền tối đa quy định trong Luật xử lý vi phạm hành chính là 30 triệu đồng. Tuy nhiên, các quy định này chưa đủ sức răn đe. Đây là một trong những nguyên nhân làm tỷ số giới tính khi sinh vẫn ở mức cao. 
+Tuyên truyền vận động, truyền thông, giáo dục là giải pháp quan trọng nhất nhằm giảm thiểu mất cân bằng giới tính khi sinh và đưa tỉ số giới tính khi sinh về mức cân bằng tự nhiên. Thông qua truyền thông, giáo dục góp phần nâng cao hiểu biết ý nghĩa và tác hại của mất cân bằng giới tính khi sinh, từ đó thay đổi hành vi phân biệt, định kiến giới, trọng nam hơn nữ, kỳ thị con gái hoặc con trai. Đồng thời, các cơ quan, tổ chức, chính quyền các cấp quyết liệt hơn trong chỉ đạo, điều hành nhằm ngăn chặn các hành vi vi phạm.
+Để giải quyết tình trạng mất cân bằng giới tính khi sinh, các quốc gia đã triển khai đồng bộ 4 nhóm biện pháp chính, gồm: (1) Biện pháp pháp lý: quy định các hành vi bị nghiêm cấm liên quan đến lựa chọn giới tính để giảm tình trạng lựa chọn giới tính khi sinh; (2) Biện pháp thúc đẩy bình đẳng giới, (3) Hỗ trợ về kinh tế và xã hội nhằm tạo điều kiện thuận lợi để giảm áp lực về kinh tế và văn hóa dẫn đến quan niệm ưa thích con trai/trọng nam và (4) Truyền thông cộng đồng nhằm thay đổi nhận thức của toàn xã hội về giá trị của phụ nữ và trẻ em gái. Hàn Quốc là quốc gia thành công trong việc đưa tỷ số giới tính khi sinh từ 116,5 (1990) về mức cân bằng 105,3 bé trai/100 bé gái (2015) nhờ triển khai đồng bộ các biện pháp này.
+2.1.2. Mục tiêu giải quyết vấn đề
+Đưa tỉ số giới tính khi sinh về mức cân bằng tự nhiên nhằm giảm thiểu những hệ luỵ của mất cân bằng giới tính khi sinh đối với kinh tế, xã hội.
+2.2. Các giải pháp và đánh giá tác động của các giải pháp đối với đối tượng chịu sự tác động trực tiếp của chính sách và các đối tượng khác có liên quan
+2.2.1. Các giải pháp
+2.2.1.1. Giải pháp 1 - Giải pháp đề xuất trong Luật Dân số
+Các giải pháp thực hiện chính sách bao gồm: 
+- Tiếp tục kế thừa quy định nghiêm cấm hành vi lựa chọn giới tính thai nhi dưới mọi hình thức của Pháp lệnh Dân số. 
+- Định kỳ Chính phủ công bố các tỉnh, thành phố mất cân bằng giới tính khi sinh ở các mức rất cao, cao và ở mức cân bằng tự nhiên.
+- Quy định tăng mức xử phạt vi phạm hành chính về dân số lên mức là 100.000.000 đồng; sẽ phải sửa đổi, bổ sung Luật xử lý vi phạm hành chính.
+- Tuyên truyền vận động, truyền thông, giáo dục thay đổi hành vi nâng cao vai trò, vị thế của phụ nữ và trẻ em gái; đưa các nội dung về xóa bỏ phân biệt, định kiến giới, trọng nam hơn nữ, kỳ thị con gái hoặc con trai.
+2.2.1.2. Giải pháp 2 - Giải pháp giữ nguyên hiện trạng như quy định hiện hành
+Giữ nguyên quy định của pháp luật hiện hành là nghiêm cấm lựa chọn giới tính thai nhi dưới mọi hình thức và phân biệt đối xử giới dưới mọi hình thức, cấm sử dụng khoa học công nghệ nhằm chẩn đoán giới tính thai nhi. Tuyên truyền vận động, truyền thông, giáo dục nâng cao nhận thức và thay đổi hành vi của từng cá nhân và cộng đồng về không lựa chọn giới tính thai nhi.
+2.2.2. Đánh giá tác động của các giải pháp đối với đối tượng chịu sự tác động trực tiếp của chính sách và các đối tượng khác có liên quan
+2.2.2.1. Tác động đối với hệ thống pháp luật
+Tác động đối với hệ thống pháp luật được đánh giá trên cơ sở phân tích về tính hợp hiến, tính hợp pháp, tính thống nhất của chính sách với hệ thống pháp luật; tính tương thích với các Điều ước quốc tế có liên quan mà Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên.
+2.2.2.1.1. Đối với Nhà nước
+a) Tác động tích cực: 
+* Giải pháp 1- Giải pháp đề xuất trong Luật Dân số
+	Các biện pháp thực hiện chính sách đã được rà soát để bảo đảm tính quy phạm, khả thi khi triển khai thực hiện; tạo ra hành lang pháp lý đồng bộ để khống chế hiệu quả tốc độ gia tăng tỷ số giới tính khi sinh, giảm thiểu mất cân bằng giới tính khi sinh; đồng bộ, thống nhất với hệ thống pháp luật hiện hành.
+Tiếp tục duy trì biện pháp pháp lý: quy định các hành vi bị nghiêm cấm liên quan đến lựa chọn giới tính để giảm tình trạng lựa chọn giới tính khi sinh của Pháp lệnh dân số như kinh nghiệm quốc tế.
+Quy định Chính phủ	 công bố tình trạng mất cân bằng giới tính khi sinh ở các mức rất cao, cao theo từng tỉnh, thành phố là công cụ để chính quyền địa phương có các biện pháp can thiệp kịp thời. 
+Tăng mức xử phạt hành chính tạo ra sự răn đe đối với hành vi lựa chọn giới tính thai nhi dưới bất kì hình thức nào. 
+Các biện pháp thực hiện chính sách phù hợp với Điều ước quốc tế có liên quan mà Việt Nam là thành viên; tương thích các cam kết chính trị quốc tế có liên quan mà Việt Nam đã ký kết.
+* Giải pháp 2 - Giải pháp giữ nguyên hiện trạng như quy định hiện hành
+Một số quy định pháp luật hiện hành như cấm lựa chọn giới tính thai nhi dưới mọi hình thức, sử dụng khoa học công nghệ nhằm chẩn đoán giới tính thai nhi cơ bản phù hợp với các phương pháp được các tổ chức quốc tế khuyến nghị.
+b) Tác động tiêu cực:
+* Giải pháp 1- Giải pháp đề xuất trong Luật Dân số
+Không có tác động tiêu cực.
+* Giải pháp 2 - Giải pháp giữ nguyên hiện trạng như quy định hiện hành
+Một số quy định pháp luật hiện hành như cấm lựa chọn giới tính thai nhi dưới mọi hình thức, sử dụng khoa học công nghệ nhằm chẩn đoán giới tính thai nhi cơ bản phù hợp với các phương pháp được các tổ chức quốc tế khuyến nghị, tuy nhiên, không được triển khai có hiệu quả trên thực tế; cần có các giải pháp tăng cường hiệu lực thực thi của các quy định pháp luật này.
+2.2.2.1.2. Đối với người dân
+a) Tác động tích cực: 
+* Giải pháp 1- Giải pháp đề xuất trong Luật Dân số
+Nâng cao trách nhiệm trong việc tuân thủ quy định của pháp luật về nghiêm cấm lựa chọn giới tính thai nhi dưới mọi hình thức.
+* Giải pháp 2 - Giải pháp giữ nguyên hiện trạng như quy định hiện hành
+Thực hiện giải pháp giữ nguyên hiện trạng như quy định hiện hành không có nhiều tác động tích cực đối với người dân.
+b) Tác động tiêu cực:
+* Giải pháp 1- Giải pháp đề xuất trong Luật Dân số
+Không có tác động tiêu cực khi thực hiện giải pháp này đối với người dân.
+* Giải pháp 2 - Giải pháp giữ nguyên hiện trạng như quy định hiện hành
+Các quy định của pháp luật hiện hành đã tạo cơ sở pháp lý để các cặp vợ chồng, cá nhân có trách nhiệm tuân thủ quy định của pháp luật về nghiêm cấm lựa chọn giới tính thai nhi dưới mọi hình thức; tuy nhiên một số biện pháp không được triển khai có hiệu quả trên thực tế; chưa giải quyết nguyên nhân gốc rễ của vấn đề.
+2.2.2.1.3. Đối với doanh nghiệp
+a) Tác động tích cực: 
+* Giải pháp 1- Giải pháp đề xuất trong Luật Dân số
+Các doanh nghiệp có trách nhiệm tuân thủ quy định của pháp luật về nghiêm cấm lựa chọn giới tính thai nhi dưới mọi hình thức.
+* Giải pháp 2 - Giải pháp giữ nguyên hiện trạng như quy định hiện hành
+Không có nhiều tác động tích cực đối với doanh nghiệp.
+b) Tác động tiêu cực:
+* Giải pháp 1- Giải pháp đề xuất trong Luật Dân số
+Không có tác động tiêu cực khi thực hiện giải pháp này đối với doanh nghiệp.
+* Giải pháp 2 - Giải pháp giữ nguyên hiện trạng như quy định hiện hành
+Các quy định của pháp luật hiện hành đã tạo cơ sở pháp lý để các doanh nghiệp có trách nhiệm tuân thủ quy định của pháp luật về nghiêm cấm lựa chọn giới tính thai nhi dưới mọi hình thức; tuy nhiên một số biện pháp không được triển khai có hiệu quả trên thực tế; chưa giải quyết nguyên nhân gốc rễ của vấn đề.
+2.2.2.2. Tác động về kinh tế - xã hội
+Tác động về kinh tế - xã hội được đánh giá trên cơ sở phân tích chi phí, lợi ích, tác động tích cực, tiêu cực về một hoặc một số nội dung liên quan đến sản xuất, kinh doanh; việc làm, dân tộc, tôn giáo, văn hóa, y tế, giáo dục, môi trường; quốc phòng, an ninh; các vấn đề khác có liên quan đến kinh tế - xã hội.
+2.2.2.2.1. Đối với Nhà nước
+a) Tác động tích cực: 
+- Tác động về kinh tế
+* Giải pháp 1- Giải pháp đề xuất trong Luật Dân số
+- Tác động tích cực của chính sách: Thực hiện giải pháp này đều mang lại lợi ích kinh tế cho cá nhân, gia đình và xã hội khi hạn chế chi phí cho việc lựa chọn giới tính, dành phần kinh phí đó để phát triển kinh tế gia đình, bồi bổ sức khoẻ, chăm lo cuộc sống.
+- Tác động về xã hội: Thực hiện giải pháp này sẽ góp phần tăng cường tiếp cận dịch vụ y tế, an sinh xã hội, giảm phá thai, dự phòng vô sinh, cải thiện sức khỏe bà mẹ, trẻ em, xây dựng gia đình bình đẳng, hạnh phúc, văn minh. 
+* Giải pháp 2 - Giải pháp giữ nguyên hiện trạng như quy định hiện hành
+Thực hiện giải pháp này đều mang lại lợi ích kinh tế cho cá nhân, gia đình và xã hội khi hạn chế chi phí cho việc lựa chọn giới tính, dành phần kinh phí đó để phát triển kinh tế gia đình, bồi bổ sức khoẻ, chăm lo cuộc sống; tuy nhiên, giải pháp này không có hiệu quả tích cực như giải pháp 1.
+b) Tác động tiêu cực:
+* Giải pháp 1- Giải pháp đề xuất trong Luật Dân số
+Tác động tiêu cực/hạn chế của chính sách: Nhiều cơ quan, tổ chức, cá nhân tham gia và phải tham gia liên tục trong thời gian dài mới có hiệu quả.
+* Giải pháp 2 - Giải pháp giữ nguyên hiện trạng như quy định hiện hành
+Nhiều nam giới sẽ buộc phải trì hoãn hoặc thậm chí từ bỏ việc kết hôn do không kiếm được vợ. Tình trạng này có thể dẫn đến tình trạng bạo lực giới, nạn buôn người, mại dâm, bất ổn chính trị và thiệt hại kinh tế.
+2.2.2.2.2. Đối với người dân
+a) Tác động tích cực: 
+* Giải pháp 1- Giải pháp đề xuất trong Luật Dân số
+Thực hiện giải pháp này đều mang lại lợi ích kinh tế cho cá nhân, gia đình và xã hội khi hạn chế chi phí cho việc lựa chọn giới tính, dành phần kinh phí đó để phát triển kinh tế gia đình, bồi bổ sức khoẻ, chăm lo cuộc sống.
+* Giải pháp 2 - Giải pháp giữ nguyên hiện trạng như quy định hiện hành
+Thực hiện giải pháp này đều mang lại lợi ích kinh tế cho cá nhân, gia đình và xã hội khi hạn chế chi phí cho việc lựa chọn giới tính, dành phần kinh phí đó để phát triển kinh tế gia đình, bồi bổ sức khoẻ, chăm lo cuộc sống; tuy nhiên, giải pháp này không có hiệu quả tích cực như giải pháp 1.
+b) Tác động tiêu cực:
+* Giải pháp 1- Giải pháp đề xuất trong Luật Dân số
+Có thể một bộ phận người dân vẫn tìm cách lựa chọn giới tính thai nhi do văn hóa Nho giáo với phong tục về việc mong muốn có con trai để nối dõi tông đường cũng như đánh giá thấp giá trị của nữ giới.
+* Giải pháp 2 - Giải pháp giữ nguyên hiện trạng như quy định hiện hành
+Có thể một số gia đình bằng mọi cách muốn biết được giới tính thai nhi từ sớm để can thiệp lựa chọn giới tính. Trong đó nếu thai nhi có giới tính không mong muốn, họ sẽ lựa chọn loại bỏ. Sự lựa chọn này sẽ để lại hệ lụy cho sức khỏe người mẹ cũng như sự mất cân bằng giới tính để lại hậu quả lâu dài cho xã hội.
+2.2.2.2.3. Đối với doanh nghiệp
+a) Tác động tích cực: 
+* Giải pháp 1- Giải pháp đề xuất trong Luật Dân số
+Thực hiện giải pháp này, các doanh nghiệp nhận thức rõ được các hệ luỵ do lựa chọn giới tính thai nhi; vì vậy sẽ không thực hiện các hành vi vi phạm pháp luật khiến ảnh hưởng đến lợi ích kinh tế của doanh nghiệp; ảnh hưởng đến xã hội. Qua đó, góp phần mang lại lợi ích kinh tế và xã hội cho doanh nghiệp.
+* Giải pháp 2 - Giải pháp giữ nguyên hiện trạng như quy định hiện hành
+Các biện pháp thực hiện chưa quyết liệt nên không có nhiều tác động tích cực như giải pháp 1.
+b) Tác động tiêu cực:
+* Giải pháp 1- Giải pháp đề xuất trong Luật Dân số
+Thực hiện giải pháp này, các doanh nghiệp nhận thức rõ được các hệ luỵ do vi phạm các quy định về nghiêm cấm lựa chọn giới tính thai nhi dưới mọi hình thức, nếu thực hiện các hành vi vi phạm pháp luật sẽ ảnh hưởng đến lợi ích kinh tế của doanh nghiệp; ảnh hưởng đến xã hội. 
+* Giải pháp 2 - Giải pháp giữ nguyên hiện trạng như quy định hiện hành
+Thực hiện giải pháp này, các doanh nghiệp nếu không nhận thức rõ được các hệ luỵ do vi phạm các quy định về nghiêm cấm lựa chọn giới tính thai nhi dưới mọi hình thức, nếu thực hiện các hành vi vi phạm pháp luật sẽ ảnh hưởng đến lợi ích kinh tế của doanh nghiệp; ảnh hưởng đến xã hội. 
+2.2.2.3. Tác động về giới
+Tác động về giới được đánh giá trên cơ sở phân tích về cơ hội, điều kiện, năng lực thực hiện và thụ hưởng các dịch vụ xã hội và bảo đảm thực hiện các quyền của giới.
+2.2.2.3.1. Đối với Nhà nước
+a) Tác động tích cực: 
+* Giải pháp 1- Giải pháp đề xuất trong Luật Dân số
+Nhìn từ góc độ tác động giới, giải pháp này được sẽ giúp giảm tác động của sự bất bình đẳng giới, tạo cơ hội nâng cao vị thế cho phụ nữ, tạo dư luận xã hội ủng hộ, chống sự phân biệt, đối xử với phụ nữ; góp phần bình đẳng trong việc thờ cúng tổ tiên trở thành hoạt động bình thường của cả nam và nữ; tăng vai trò, trách nhiệm của phụ nữ trong việc thực hiện, phát huy truyền thống tốt đẹp của dân tộc. Giải pháp này sẽ tạo cho mỗi giới sự bình đẳng về mặt pháp lý và trên thực tế về cơ hội, điều kiện, năng lực thực hiện và thụ hưởng các quyền và lợi ích từ quy định này một cách chủ động. Hậu quả của tình trạng mất cân bằng giới tính khi sinh ở Việt Nam đã được tổ chức UNFPA cảnh báo: Nếu xu hướng gia tăng tỷ số giới tính khi sinh ở Việt Nam không được khống chế, nó sẽ trở thành vấn đề nghiêm trọng trong tương lai, ảnh hưởng đáng kể đến cơ cấu giới tính và nhân khẩu học. 
+Quy định biện pháp ngăn chặn việc lựa chọn giới tính thai nhi bảo đảm cân bằng giới tính khi sinh theo quy luật sinh sản tự nhiên sẽ đảm bảo tốt hơn quyền của phụ nữ trong phát triển; giúp giảm tác động của sự bất bình đẳng giới, tạo cơ hội nâng cao vị thế cho phụ nữ, tạo dư luận xã hội ủng hộ, chống sự phân biệt, đối xử với phụ nữ.
+Tuyên truyền vận động, truyền thông, giáo dục; đưa nội dung vào hương ước, quy ước; chương trình giáo dục của hệ thống giáo dục quốc dân; lồng ghép việc hỗ trợ nâng cao vai trò của phụ nữ và trẻ em gái. 
+* Kinh phí bảo đảm thực hiện chính sách
+Đối với các hoạt động phát hành, xuất bản phẩm, tuyên truyền phổ biến nâng cao nhận thức bình đẳng giới, chi phí mà Nhà nước, xã hội thực hiện theo quy định hiện hành. Để thực hiện chính sách sẽ phát sinh chi phí biên soạn tài liệu, giáo trình; tập huấn sử dụng tài liệu, giáo trình và những chi phí khác trong quá trình tổ chức giảng dạy. Dự kiến kinh phí triển khai chính sách là:
+- Chi phí biên soạn tài liệu, giáo trình; tập huấn sử dụng tài liệu, giáo trình và những chi phí khác trong quá trình tổ chức giảng dạy:
++ Chi phí biên soạn tài liệu, giáo trình			: 02 tỷ đồng
++ Chi phí tập huấn sử dụng tài liệu, giáo trình	: 05 tỷ đồng	
++ Chi phí khác liên quan					: 01 tỷ đồng
+Tổng chi phí 					: 08 tỷ đồng
+- Do tài liệu, giáo trình được tích hợp vào nội dung sách học về giáo dục công dân tại các lớp học, cấp học phù hợp, vì vậy không phát sinh chi phí mua sách, giáo trình mới.
+Ngân sách thực hiện do ngân sách nhà nước bảo đảm và được bố trí trong dự toán hàng năm của các Bộ, ngành địa phương theo quy định của Luật ngân sách nhà nước. Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương có trách nhiệm tổ chức, triển khai thực hiện các nội dung của Đề án; thanh tra, kiểm tra việc chấp hành các quy định của pháp luật về nghiêm cấm lựa chọn giới tính thai nhi; xử lý các trường hợp vi phạm theo quy định của pháp luật; chủ động cân đối và phân bổ các nguồn lực cho các hoạt động của Đề án trên địa bàn.
+Với dự kiến chính sách, quy định, kinh phí bảo đảm thực hiện nêu trên, việc thực hiện chính sách đã có cơ sở pháp lý của cấp có thẩm quyền, giao trách nhiệm cho các cơ quan liên quan. Nếu chính sách và quy định được phê duyệt sẽ bảo đảm được tính khả thi của nguồn lực thực hiện chính sách.
+* Giải pháp 2 - Giải pháp giữ nguyên hiện trạng như quy định hiện hành
+Không có nhiều tác động tích cực, đồng bộ như giải pháp 1 để làm giảm nhanh tình trạng mất cân bằng giới tính khi sinh.
+b) Tác động tiêu cực:
+* Giải pháp 1- Giải pháp đề xuất trong Luật Dân số
+Thực hiện giải pháp này không có tác động tiêu cực với Nhà nước.
+* Giải pháp 2 - Giải pháp giữ nguyên hiện trạng như quy định hiện hành
+Giải pháp hiện hành đã mang lại những kết quả nhất định trong việc ngăn chặn việc lựa chọn giới tính thai nhi bảo đảm cân bằng giới tính khi sinh; tuy nhiên giải pháp này không có nhiều tác động tích cực, đồng bộ như giải pháp 1 để làm giảm nhanh tình trạng mất cân bằng giới tính khi sinh.
+2.2.2.3.2. Đối với người dân
+Giải pháp hiện hành và giải pháp đề xuất trong Luật Dân số đều mang lại những kết quả nhất định trong việc ngăn chặn việc lựa chọn giới tính thai nhi bảo đảm cân bằng giới tính khi sinh; tuy nhiên giải pháp 2 không có nhiều tác động tích cực, đồng bộ như giải pháp 1 để làm giảm nhanh tình trạng mất cân bằng giới tính khi sinh.
+2.2.2.3.3. Đối với doanh nghiệp
+a) Tác động tích cực: 
+* Giải pháp 1- Giải pháp đề xuất trong Luật Dân số
+Thực hiện giải pháp sẽ thúc đẩy các doanh nghiệp thực hiện tốt hơn pháp luật về bình đẳng giới.
+* Giải pháp 2 - Giải pháp giữ nguyên hiện trạng như quy định hiện hành
+Thực hiện giải pháp sẽ thúc đẩy các doanh nghiệp thực hiện tốt hơn pháp luật về bình đẳng giới.
+b) Tác động tiêu cực:
+* Giải pháp 1- Giải pháp đề xuất trong Luật Dân số
+Không có tác động tiêu cực khi thực hiện giải pháp.
+* Giải pháp 2 - Giải pháp giữ nguyên hiện trạng như quy định hiện hành
+Không có tác động tiêu cực khi thực hiện giải pháp.
+2.2.2.4. Tác động của thủ tục hành chính
+Do chính sách không liên quan đến phát sinh thủ tục hành chính nên không thực hiện việc đánh giá tác động của chính sách về thủ tục hành chính. 
+2.3. Giải pháp tối ưu được lựa chọn và lý do lựa chọn giải pháp
+Mỗi giải pháp đều có những ưu điểm, hạn chế và việc chọn giải pháp nào cũng cần có biện pháp khắc phục những hạn chế.
+Đối với giải pháp 1, giải pháp này có những ưu điểm sau: 
+Đối với giải pháp quy định định kỳ Chính phủ công bố các tỉnh, thành phố mất cân bằng giới tính khi sinh ở các mức rất cao, cao để có các biện pháp kịp thời, phù hợp với tình hình cụ thể của từng địa phương.
+Mức phạt tiền tối đa trong lĩnh vực dân số quy định trong Luật xử lý vi phạm hành chính đối với hành vi vi phạm về dân số hiện hành là 30.000.000 đồng chưa đủ tính răn đe. Do vậy đề xuất tăng nặng mức xử phạt vi phạm hành chính trong lĩnh vực dân số lên mức 100.000.000 đồng để xử lý nghiêm, buộc các tổ chức, cá nhân phải thận trọng và cân nhắc kỹ lưỡng trước hành vi vi phạm. Đây là một trong những giải pháp phòng ngừa hiệu quả góp phần nâng cao ý thức trong thực hiện các quy định về nghiêm cấm lựa chọn giới tính thai nhi dưới mọi hình thức.
+Tuyên truyền vận động, truyền thông, giáo dục là giải pháp quan trọng nhất nhằm giảm thiểu mất cân bằng giới tính khi sinh và đưa tỉ số giới tính khi sinh về mức cân bằng tự nhiên. Thông qua truyền thông, giáo dục góp phần nâng cao hiểu biết ý nghĩa và tác hại của mất cân bằng giới tính khi sinh, từ đó thay đổi hành vi phân biệt, định kiến giới, trọng nam hơn nữ, kỳ thị con gái hoặc con trai. Đồng thời, các cơ quan, tổ chức, chính quyền các cấp quyết liệt hơn trong chỉ đạo, điều hành nhằm ngăn chặn các hành vi vi phạm. 
+Giải pháp này phù hợp, tương thích với các Điều ước quốc tế liên quan đến công tác dân số mà Việt Nam là thành viên và các cam kết quốc tế về xóa bỏ mọi hình thức phân biệt đối xử về giới, đặc biệt đối với trẻ em gái và việc coi trọng nam giới hơn nữ giới. 
+Đối với giải pháp 2, giải pháp này có những ưu điểm là không phải sửa đổi quy định của pháp luật hiện hành. Tuy nhiên giải pháp này có các hạn chế là không có tác động tích cực để làm giảm nhanh tình trạng mất cân bằng giới tính khi sinh. Do không phải bổ sung, sửa đổi pháp luật hiện hành nên mục tiêu chính sách không được giải quyết một cách triệt để. 
+2.4. Kiến nghị giải pháp lựa chọn
+Trên cơ sở phân tích, đánh giá tác động của chính sách về kinh tế, xã hội, giới, thủ tục hành chính và hệ thống pháp luật; xem xét ưu điểm, nhược điểm của từng giải pháp đề xuất để giải quyết vấn đề, trong hai giải pháp nêu trên, giải pháp nào cũng có những mặt tích cực và hạn chế; kiến nghị chọn giải pháp 1 do có nhiều ưu điểm nổi trội hơn.
+3. Chính sách 3: Thích ứng với già hoá dân số, dân số già
+3.1. Xác định vấn đề và mục tiêu giải quyết vấn đề
+3.1.1. Xác định vấn đề
+Luật Người cao tuổi năm 2009 quy định những người từ đủ 60 tuổi trở lên là người cao tuổi. Cùng với xu hướng chung của thế giới, số lượng và tỷ lệ người cao tuổi Việt Nam không ngừng tăng lên. Việt Nam chính thức bước vào giai đoạn già hóa dân số từ năm 2011 khi số lượng người cao tuổi chiếm 10% dân số. Việt Nam là một trong những nước có tốc độ già hóa dân số nhanh nhất trên thế giới, thời gian chuyển từ giai đoạn già hóa dân số sang dân số già là 27 năm, ngắn hơn so với nhiều nước khác (Pháp 115 năm, Thụy Điển 85 năm, Mỹ 69 năm, Nhật Bản và Trung Quốc 26 năm). 
+Theo dự báo dân số, chỉ số già hóa sẽ vượt ngưỡng 100 vào năm 2032, là thời điểm nước ta bắt đầu có dân số cao tuổi nhiều hơn dân số trẻ em; nếu năm 2023, cứ hơn 7 người trong độ tuổi lao động sẽ hỗ trợ 1 người cao tuổi thì đến năm 2036 là hơn 3 người và đến năm 2049 chỉ còn hơn 2 người. 
+3.1.1.1. Tình hình người cao tuổi ở Việt Nam 
+Theo kết quả Điều tra dân số và nhà ở giữa kỳ thời điểm 0 giờ 01/4/2024, cả nước hiện có khoảng 14,2 triệu người, chiếm trên 14% dân số. Trong đó, khoảng 2,6 triệu người từ 80 tuổi (chiếm 15,9% tổng số người cao tuổi), 9,05 triệu người cao tuổi là nữ (chiếm 57,8%), 10,3 triệu người cao tuổi sống ở nông thôn (chiếm 64%). Tuổi thọ bình quân chung là 74,7 tuổi (2024), người cao tuổi mắc trung bình từ 2 - 3 bệnh nền, tuổi thọ khỏe mạnh chỉ đến 65 tuổi. 
+(1) Sức khoẻ người cao tuổi nước ta được cải thiện nhưng chậm
+Theo Điều tra quốc gia về người cao tuổi năm 2011, có tới 65,4% người cao tuổi tự đánh giá sức khỏe yếu và rất yếu; 29,8% cho là sức khỏe bình thường, chỉ có 4,8% nói rằng sức khỏe tốt. Cuộc điều tra bạo lực đối với người cao tuổi của Viện Gia đình và Giới năm 2017 cũng cho thấy: 59,6% người cao tuổi tự đánh giá sức khỏe yếu và rất yếu; 40,3% cho là khỏe mạnh bình thường.
+ Tình trạng này không chỉ làm suy yếu khả năng lao động, giảm thu nhập mà còn làm tăng chi tiêu y tế, giảm chất lượng cuộc sống của người cao tuổi. Chăm sóc sức khỏe là nhu cầu số 1 của người cao tuổi. Chi phí điều trị cho người cao tuổi thường cao gấp 8-10 lần người trẻ, mặc dù số người cao tuổi chiếm 10% dân số nhưng sử dụng tới trên 50% chi phí điều trị mỗi năm. 
+(2) Người cao tuổi ở nước ta chủ yếu sống ở nông thôn và có mức sống thấp
+Tổng điều tra Dân số năm 2009 cho thấy: 72,5% người cao tuổi sống ở nông thôn. Trong khi đó, ở nông thôn ruộng đất ít, năng suất, thu nhập thấp, ít có tiết kiệm, dự trữ cho tuổi già. Vì vậy, đời sống vật chất của người cao tuổi còn nhiều thiếu thốn. Năm 2011, có khoảng 17% người cao tuổi đang sống trong hộ nghèo. Ngay ở Hà Nội, năm 2009 có tới 51,3 % những người không có lương hưu và trợ cấp cho là khó khăn; 38,8 % coi là vừa đủ; chỉ có  9,4% đánh giá là dư dật. 
+ (3) Tuổi thọ nâng cao
+Tuổi thọ bình quân người Việt Nam ngày càng được nâng cao, tuổi thọ trung bình của người Việt Nam liên tục tăng, từ 72,8 tuổi (2009) lên 73,6 tuổi (2019) và 74,6 tuổi (2024), cao hơn các nước có cùng mức thu nhập bình quân đầu người. 
+3.1.1.2. Thực trạng chính sách đối với người cao tuổi Việt Nam 
+* Chính sách, pháp luật đối với người cao tuổi 
+- Chính sách chăm sóc sức khỏe: Luật Người cao tuổi quy định trách nhiệm của gia đình, Nhà nước và xã hội trong việc phụng dưỡng, chăm sóc và phát huy vai trò người cao tuổi; Luật Khám bệnh, chữa bệnh năm 2023 quy định người cao tuổi được ưu tiên khám chữa bệnh, chăm sóc sức khỏe; Luật Phòng chống bạo lực gia đình năm 2023 quy định nghiên cấm hành vi bạo lực gia đình đối với người cao tuổi; Chương trình hành động quốc gia về người cao tuổi Việt Nam giai đoạn 2021-2030 và Chương trình chăm sóc sức khỏe người cao tuổi đến năm 2030 của Chính phủ thực hiện mục tiêu chăm sóc, nâng cao sức khỏe người cao tuổi (người từ đủ 60 tuổi trở lên) bảo đảm thích ứng với già hóa dân số, góp phần thực hiện thành công Chiến lược Dân số Việt Nam đến năm 2030. 
+- Chính sách bảo đảm an ninh thu nhập: Chính sách lương hưu theo Luật Bảo hiểm xã hội; chính sách trợ cấp xã hội hằng tháng theo quy định của Chính phủ (từ 01/7/2024, Chính phủ đã quyết định điều chỉnh mức chuẩn trợ cấp xã hội đối với người cao tuổi lên mức 500.000 đồng/tháng); chính sách việc làm và tín dụng cho người cao tuổi theo Bộ luật Lao động 2019 (áp dụng từ 01/01/2021) “người lao động có trình độ chuyên môn kỹ thuật cao, người lao động làm công tác quản lý và một số trường hợp đặc biệt khác có thể nghỉ hưu ở tuổi cao hơn nhưng không quá 05 năm...”; Luật Người cao tuổi (2009) quy định Nhà nước có trách nhiệm tạo điều kiện để người cao tuổi là nhà khoa học, nghệ nhân và những người cao tuổi khác có kỹ năng, kinh nghiệm đặc biệt, có nguyện vọng được tiếp tục công hiến; ưu đãi về về tín dụng đối với người cao tuổi trực tiếp sản xuất, kinh doanh tăng thu nhập, giảm nghèo. Bộ luật Lao động (2019) điều chỉnh độ tuổi nghỉ hưu theo lộ trình là giải pháp chiến lược nhằm ứng phó với già hoá dân số và thể hiện quan điểm “khuyến khích sử dụng người lao động cao tuổi làm việc phù hợp với sức khoẻ đề đảm bảo quyền lao động và sử dụng hiệu quả nguồn nhân lực” của Nhà nước trong tình hình mới.
+- Chính sách bảo đảm tiếp cận các dịch vụ xã hội cơ bản và môi trường sống thân thiện với người cao tuổi;  chính sách chúc thọ, mừng thọ, tăng quà; phát huy vai trò của người cao tuổi và chính sách khác: Luật Người cao tuổi (2009) và Thông tư số 96/2018/TT- BTC của Bộ Tài chính quy định về phát huy vai trò của người cao tuổi, cũng như chúc thọ, mừng thọ và biểu dương, khen thưởng người cao tuổi; Quyết định số 2156/QĐ-TTg phê duyệt Chương trình hành động quốc gia về người cao tuổi giai đoạn 2021 - 2030 với mục tiêu phát huy tối đa, tiềm năng, vai trò, kinh nghiệm của người cao tuổi, tăng cường sức khỏe thể chất, tinh thần chăm sóc người cao tuổi; nâng cao chất lượng đời sống vật chất của người cao tuổi; hoàn thiện chính sách trợ giúp xã hội hướng tới bảo đảm mức sống tối thiểu cho người cao tuổi; phát triển, nâng cao chất lượng hệ thống dịch vụ chăm sóc xã hội đối với người cao tuổi. 
+3.1.1.3. Một số kết quả đạt được 
+* Về chăm sóc sức khỏe 
+Đến nay đã có trên 95% người cao tuổi được cấp thẻ BHYT; 32% người cao tuổi được lập hồ sơ quản lý theo dõi sức khỏe ban đầu; có 106 bệnh viện cấp trung ương và cấp tỉnh có khoa Lão khoa; 957 khoa khám bệnh có buồng khám riêng hoặc bố trí bàn khám riêng cho người cao tuổi; 10.183 giường điều trị nội trú ưu tiên cho người cao tuổi; 1.791 nhân viên y tế được đào tạo về lão khoa. 
+* Về đảm bảo an ninh thu nhập 
+Hiện cả nước có khoảng 5,4 triệu người cao tuổi được hưởng chính sách xã hội (chiếm 33,5% tổng, số người cao tuổi năm 2023), bao gồm: 2,7 triệu người cao tuổi hưởng lương hưu và trợ cấp BHXH hàng tháng; hơn 1,2 triệu người có công hưởng trợ cấp ưu đãi hàng tháng; hơn 1,5 triệu người hưởng chế độ trợ cấp xã hội hàng tháng; khoảng 4,32 triệu người cao tuổi đang tham gia các hoạt động kinh tế (chiếm 26,8% tổng số người cao tuổi trên cả nước). 
+* Về chăm sóc đời sống văn hóa, tinh thần, thể dục, thể thao, giải trí và du lịch.
+Thực hiện miễn giảm giá vé thăm quan đối với người cao tuổi tại 08 di sản thế giới, 85 di tích cấp quốc gia đặc biệt, 3.424 di tích quốc gia và gần 10.000 di tích cấp tỉnh, 124 bảo tàng công lập. Có trên 70% người cao tuổi ở khu vực thành thị, trên 30% người cao tuổi ở khu vực nông thôn tham gia các hoạt động thể dục thể thao. Có hơn 6.300 mô hình Câu lạc bộ liên thế hệ tự giúp nhau; gần 80.000 câu lạc bộ văn hóa, văn nghệ, thể dục thể thao thu hút trên 3 triệu người cao tuổi tham gia (trong đó có khoảng trên 53.000 câu lạc bộ thể dục thể thao trên địa bàn cấp xã) hoạt động thường xuyên. 
+* Về trợ giúp tiếp cận giao thông, công trình công cộng, nhà ở 
+Về tiếp cận giao thông đường bộ: có hơn 23 nghìn người cao tuổi được giảm giá vé; đường thủy: có hơn 5 nghìn người cao tuổi được giảm giá vé; đường sắt: có hơn 212 nghìn người cao tuổi được giảm giá vé; đường hàng không: có hơn 6 nghìn vé máy bay bán giảm giá cho người cao tuổi. Tổng kinh phí hỗ trợ người cao tuổi ước tính gần 25 tỷ đồng. 
+Về công trình xây dựng: có 22,6% số công trình y tế, 20,8% số công trình giáo dục, 13,2% số nhà triển lãm, nhà trưng bày, 11,3% trung tâm hội nghị, trụ sở cơ quan, 5,7% siêu thị, 3,8% nhà thi đấu, bưu điện, nhà ga, cửa khẩu và 2% ngân hàng đảm bảo tiếp cận đối với người cao tuổi. 
+Về nhà ở: tích cực triển khai thực hiện chương trình hỗ trợ nhà ở đối với người có công với cách mạng theo Quyết định số 22/2013/QĐ-TTg giai đoạn 2, nguồn vốn từ ngân sách nhà nước, đến nay, các địa phương đã thực hiện hỗ trợ được cho 328 nghìn hộ (đạt 93,3%). 
+* Về chúc thọ, mừng thọ, tặng quà 
+Về chúc thọ, mừng thọ: Có khoảng 1,2 triệu người cao tuổi được các địa phương bố trí kinh phí, bảo đảm các điều kiện. Để tổ chức mừng thọ, chúc thọ và tặng quà các cụ 90 tuổi, 100 tuổi và trên 100 tuổi dịp tết Nguyên Đán. 
+Về tặng quà: Các cấp Hội Người cao tuổi đã tích cực tổ chức hoạt động thăm hỏi, tặng quà các cụ lão thành cách mạng, Mẹ Việt Nam anh hùng, các gia đình chính sách, người có công, người cao tuổi nghèo, có hoàn cảnh đặc biệt khó khăn; tổ chức trao “Mái ấm tuổi già”; “Xóa nhà dột nát” cho người cao tuổi, đã thăm hỏi tặng quà cho hơn 1,5 triệu lượt người cao tuổi với tổng số tiền trên 267,7 tỷ đồng. Trung ương Hội Phụ nữ, Hội Nông dân Việt Nam chỉ đạo các cấp Hội tổ chức vận động các doanh nghiệp, tổ chức thăm, tặng quà cho người cao tuổi. Đoàn TNCS Hồ Chí Minh đã thăm, tặng quà cho nhiều người cao tuổi đang điều trị bệnh. 
+* Về phát huy vai trò người cao tuổi 
+Cả nước có 733.846 người cao tuổi tham gia công tác đảng, chính quyền, đoàn thể, thanh tra nhân dân, hoà giải ở cơ sở, 1.100.000 người cao tuổi tham gia phòng chống tội phạm, trật tự an ninh ở địa bàn, khu dân cư; cung cấp 34.000 tin có giá trị cho lực lượng công an, bộ đội biên phòng, đóng góp trong Phong trào vì an ninh Tổ quốc. Hơn 95 nghìn người cao tuổi làm chủ trang trại, cơ sở sản xuất, kinh doanh, dịch vụ; hơn 300 nghìn người cao tuổi làm kinh tế giỏi do các cơ quan chức năng và địa phương chứng nhận. 
+Các địa phương đã phối hợp triển khai thực hiện Chương trình người cao tuổi xây dựng gia đình văn hóa, gia đình kiểu mẫu, xây dựng mô hình “Làng văn hóa”; “Gia đình người cao tuổi văn hóa”; đẩy mạnh nhằm tuyên truyền người cao tuổi gương mẫu thực hiện nếp sống văn minh, tổ chức thăm hỏi động viên người cao tuổi khi ốm đau gặp khó khăn; tổ chức tang lễ cho người cao tuổi qua đời chu đáo, phù hợp nếp sống văn hóa ở địa phương. Các tỉnh/thành đã chỉ đạo, xây dựng, phát triển Quỹ Chăm sóc người cao tuổi, tập trung vận động nguồn lực, hỗ trợ người cao tuổi vay vốn phát triển sản xuất, kinh tế gia đình. Hiện có 9.950 xã/phường/thị trấn thành lập Quỹ toàn dân chăm sóc người cao tuổi và Quỹ Chăm sóc và Phát huy vai trò người cao tuổi cơ sở. 
+3.1.1.4. Đánh giá chung 
+* Thành tựu 
+Trong bối cảnh già hóa dân số đang diễn ra hiện nay, công tác chăm sóc và phát huy vai trò của người cao tuổi đang ngày càng được Đảng và Nhà nước quan tâm. Luật pháp, chính sách về đảm bảo an sinh xã hội cho người cao tuổi ngày càng được hoàn thiện, bao gồm một số văn bản pháp lý quan trọng như: Luật Người cao tuổi, Bộ luật Lao động (2019), Luật Bảo hiểm xã hội (2024), Luật Bảo hiểm y tế, Luật Khám bệnh, chữa bệnh, Luật Phòng, chống bạo lực gia đình, Nghị định 20/2021/NĐ-CP ngày 15/3/2021 của Chính phủ quy định chính sách trợ giúp xã hội đối với đối tượng bảo trợ xã hội, Nghị định số 76/2024/NĐ-CP ngày 01/7/2024 sửa đổi, bổ sung một số điều của Nghị định số 20/2021/NĐ-CP ngày 15 tháng 3 năm 2021 của Chính phủ quy định chính sách trợ giúp xã hội đối với đối tượng bảo trợ xã hội, Chương trình hành động quốc gia về người cao tuổi giai đoạn 2021-2030 và nhiều văn bản quy phạm pháp luật khác. Trên cơ sở đó, hoạt động bảo vệ, chăm sóc người cao tuổi được thực hiện đồng bộ, lồng ghép trong nhiều chương trình, nhiệm vụ của Bộ, ngành, địa phương. Người cao tuổi được tạo điều kiện để phát huy vai trò, tích cực tham gia các phong trào xây dựng nông thôn mới, bảo vệ an ninh Tổ quốc, trật tự an toàn xã hội, văn hóa, thể dục, thể thao tại địa bàn, khu dân cư. 
+* Tồn tại, khó khăn 
+- Công tác chăm sóc sức khỏe cho người cao tuổi còn một số khó khăn, hạn chế: khoảng 5% người cao tuổi từ 60-80 không thuộc hộ nghèo, cận nghèo, không có lương hưu, trợ cấp xã hội, không hưởng chính sách ưu đãi người có công với cách mạng chưa được cấp thẻ BHYT; nhiều tỉnh/thành phố khó khăn trong việc bố trí nguồn kinh phí thực hiện khám chữa bệnh định kỳ tại cơ sở cho người cao tuổi theo Thông tư số 35/2011/TT-BYT ngày 15/10/2011, Thông tư số 96/2018/TT- BTC ngày 18/10/2018 của Bộ Tài chính. 
+- Tốc độ già hóa dân số nhanh dẫn đến tình trạng quá tải ở các bệnh viện và cơ sở y tế, khi số lượng người bệnh tăng lên mà khả năng đáp ứng về nhân lực và trang thiết bị còn hạn chế. Việc thiếu hụt các bác sĩ chuyên ngành lão khoa và dịch vụ chăm sóc dài hạn cũng là một thách thức lớn, đòi hỏi Việt Nam phải đầu tư nhiều hơn vào đào tạo và cải thiện chất lượng dịch vụ y tế dành cho người cao tuổi.
+- Dịch vụ chăm sóc sức khỏe người cao tuổi, văn hóa, rèn luyện thân thể tại cộng đồng, cơ sở trợ giúp xã hội công lập và ngoài công lập còn nhiều hạn chế, thiếu về số lượng và hạn chế về chất lượng, chưa đáp ứng được nhu cầu của người cao tuổi. Nhiều địa phương chưa quan tâm, bố trí khu vui chơi, giải trí, sinh hoạt tại cộng đồng cho người cao tuổi. 
+3.1.2. Mục tiêu giải quyết vấn đề
+Xây dựng các giải pháp góp phần thích ứng quá trình già hoá dân số, dân số già; có biện pháp giải quyết xu hướng già hoá dân số trong thời gian tới.
+3.2. Các giải pháp và đánh giá tác động của các giải pháp đối với đối tượng chịu sự tác động trực tiếp của chính sách và các đối tượng khác có liên quan
+3.2.1. Các giải pháp
+3.2.1.1. Giải pháp 1 - Giải pháp đề xuất trong Luật Dân số
+- Xây dựng và phát triển mạng lưới chăm sóc sức khỏe người cao tuổi tại nhà, tại cộng đồng và cơ sở chăm sóc tập trung; đào tạo, bồi dưỡng nguồn nhân lực về chăm sóc người cao tuổi, bao gồm: cấp học bổng, hỗ trợ học phí đối với người học chuyên ngành lão khoa; xây dựng chương trình đào tạo, bồi dưỡng về chăm sóc người cao tuổi; hỗ trợ kinh phí bồi dưỡng, tập huấn cho nhân viên chăm sóc sức khỏe người cao tuổi tại cộng đồng; khuyến khích tổ chức, cá nhân cấp học bổng hoặc trợ cấp cho người học.
+- Mua thẻ bảo hiểm y tế cho người cao tuổi chưa có thẻ bảo hiểm y tế được ngân sách nhà nước đóng.
+- Lồng ghép các nội dung biện pháp thích ứng với già hóa dân số, dân số già vào kế hoạch của quốc gia, bộ, ngành, cơ quan, tổ chức và địa phương; lồng ghép nội dung thích ứng với già hóa dân số, dân số già khi xây dựng và thực hiện chương trình, dự án về cơ sở hạ tầng kinh tế, xã hội. 
+- Tuyên truyền vận động, truyền thông, giáo dục về thích ứng với già hóa dân số, dân số già.
+3.2.1.2. Giải pháp 2 - Giải pháp giữ nguyên hiện trạng như quy định hiện hành
+Giải pháp giữ nguyên hiện trạng như quy định hiện hành, bao gồm các biện pháp: Tuyên truyền vận động, truyền thông, giáo dục về thích ứng với già hóa dân số, dân số già; phát triển các loại hình bảo hiểm cho người cao tuổi; bảo đảm mọi người cao tuổi có thẻ bảo hiểm y tế; khuyến khích người cao tuổi nâng cao sức khoẻ, tham gia hoạt động kinh tế, xã hội phù hợp với nhu cầu, sức khoẻ và điều kiện của bản thân; phát triển chuyên ngành lão khoa, viện dưỡng lão; khuyến khích, tạo điều kiện để tổ chức, doanh nghiệp, cá nhân đầu tư, đóng góp nguồn lực chăm sóc người cao tuổi; chính sách khuyến khích các tổ chức, doanh nghiệp hỗ trợ người cao tuổi tìm kiếm việc làm và sử dụng người lao động cao tuổi; quy định trách nhiệm của Nhà nước; trách nhiệm của cơ quan quản lý nhà nước về dân số, cơ quan, tổ chức có liên quan; trách nhiệm của người lao động.
+3.2.2. Đánh giá tác động của các giải pháp đối với đối tượng chịu sự tác động trực tiếp của chính sách và các đối tượng khác có liên quan
+3.2.2.1. Tác động đối với hệ thống pháp luật
+3.2.2.1.1. Đối với Nhà nước
+a) Tác động tích cực: 
+* Giải pháp 1- Giải pháp đề xuất trong Luật Dân số
+Thực hiện giải pháp này sẽ có điều kiện bổ sung, sửa đổi để thống nhất, đồng bộ hệ thống chính sách, pháp luật hiện hành về bảo vệ, chăm sóc, phát huy vai trò người cao tuổi; thích ứng với già hoá dân số, dân số già.
+* Giải pháp 2 - Giải pháp giữ nguyên hiện trạng như quy định hiện hành
+Không có nhiều tác động tích cực khi thực hiện giải pháp.
+b) Tác động tiêu cực:
+* Giải pháp 1- Giải pháp đề xuất trong Luật Dân số
+Với những chính sách trong Luật Dân số như trình bày trên, cần phải rà soát, điều chỉnh, bổ sung một số quy định pháp luật để tránh xung đột, nhằm giải quyết tốt các vấn đề của người cao tuổi.
+* Giải pháp 2 - Giải pháp giữ nguyên hiện trạng như quy định hiện hành
+Giữ nguyên quy định pháp luật liên quan người cao tuổi như hiện nay sẽ không giải quyết được hoặc chậm giải quyết những vấn đề của già hóa dân số và người cao tuổi như đã trình bày trong mục 1 về “Xác định vấn đề bất cập”.
+3.2.2.1.2. Đối với người dân
+a) Tác động tích cực: 
+* Giải pháp 1- Giải pháp đề xuất trong Luật Dân số
+Cá nhân, cơ quan, tổ chức, gia đình và người cao tuổi có cơ sở pháp lý toàn diện hơn để thực hiện một số biện pháp thích ứng với già hoá dân số, dân số già hoặc thụ hưởng chính sách của Nhà nước trong lĩnh vực này.
+* Giải pháp 2 - Giải pháp giữ nguyên hiện trạng như quy định hiện hành
+Gia đình và người cao tuổi có cơ sở pháp lý để thực hiện một số biện pháp thích ứng với già hoá dân số, dân số già hoặc thụ hưởng chính sách của Nhà nước trong lĩnh vực này; tuy nhiên các giải pháp không tích cực như giải pháp 1.
+b) Tác động tiêu cực:
+* Giải pháp 1- Giải pháp đề xuất trong Luật Dân số
+Không có tác động tiêu cực khi thực hiện giải pháp.
+* Giải pháp 2 - Giải pháp giữ nguyên hiện trạng như quy định hiện hành
+Không có nhiều tác động tích cực khi thực hiện giải pháp.
+3.2.2.2. Tác động về kinh tế - xã hội
+3.2.2.2.1. Đối với Nhà nước
+a) Tác động tích cực: 
+* Giải pháp 1- Giải pháp đề xuất trong Luật Dân số
+Phát triển mạng lưới tạo điều kiện cho việc thực hiện chăm sóc sức khỏe người cao tuổi; hỗ trợ học bổng cho người học chuyên ngành lão khoa, nhân viên chăm sóc sức khỏe người cao tuổi tạo ra đội ngũ nhân sự phục vụ cho việc chăm sóc sức khỏe người cao tuổi.
+* Giải pháp 2 - Giải pháp giữ nguyên hiện trạng như quy định hiện hành
+Già hóa dân số nhanh ở nước ta và Việt Nam đang trong thời kỳ dân số vàng là các vấn đề mới nổi trong giai đoạn hiện nay, đòi hỏi cần có các chính sách để thích ứng với dân số già và tận dụng cơ cấu dân số vàng trong tình hình mới. Nội dung thích ứng với già hóa dân số, dân số già đã quy định tại nhiều luật như Bộ luật Lao động, Luật Giáo dục nghề nghiệp; Luật Việc làm, Luật Khoa học công nghệ, Luật Người cao tuổi, Luật Xây dựng... Tuy nhiên còn chưa có nhiều chuyển biến tích cực trong giai đoạn hiện nay; do đó, cần bổ sung chính sách và xây dựng các giải pháp để thích ứng với già hóa dân số, dân số già. Giải pháp này không có nhiều tác động tích cực (lợi ích) về thích ứng với già hoá dân số, dân số già.
+b) Tác động tiêu cực:
+* Giải pháp 1- Giải pháp đề xuất trong Luật Dân số
++ Các chính sách nói trên yêu cầu chi phí hỗ trợ đào tạo, bồi dưỡng nguồn nhân lực về chăm sóc sức khỏe người cao tuổi, bao gồm: chính sách cấp học bổng, hỗ trợ học phí đối với người học chuyên ngành lão khoa; xây dựng chương trình đào tạo, bồi dưỡng về chăm sóc sức khỏe người cao tuổi; hỗ trợ kinh phí bồi dưỡng, tập huấn cho nhân viên chăm sóc sức khỏe người cao tuổi tại cộng đồng
+(1) Cấp học bổng cho người học chuyên ngành lão khoa là người đang làm việc tại cơ sở khám bệnh, chữa bệnh:
+Theo số liệu cập nhật của Cục Quản lý Khám, chữa bệnh cung cấp, cả nước có 1.718 bệnh viện đa khoa (trong đó có 1.334 bệnh viện công lập và 384 bệnh viện tư nhân). Căn cứ theo Công văn số 2248/BYT-KCB ngày 24/2/2018, để tổ chức 01 khoa lão khoa cần:
++ Quy mô: chiếm 10% tổng số giường bệnh kế hoạch của bệnh viện (tối thiểu từ 30 giường trở lên).
++ Nhân lực ít nhất cần: 0,2 bác sĩ/giường bệnh.
+Vậy có ít nhất 06 bác sĩ/khoa lão x 1.334 bệnh viện đa khoa công lập = 8.004 bác sĩ.
+Chi phí đào tạo chuyên khoa lão/năm: ước tính 37 triệu đồng/năm.
+Thời gian đào tạo chuyên khoa lão: 02 năm.
+Tổng kinh phí: 8.004 bác sĩ x 37 triệu đồng/năm x 02 năm = 592 tỉ đồng/02 năm.
+(2) Hỗ trợ học phí đối với người học chuyên ngành lão khoa.
+- Phương án 1: Hỗ trợ 50% học phí cho các đối tượng được đào tạo về: bác sĩ, điều dưỡng, hộ lý, kỹ thuật viên phục hồi chức năng (căn cứ theo Công văn số 2248/BYT-KCB ngày 24/02/2018).
+Mỗi năm đào tạo được khoảng 100 người x 18 triệu/người/năm = 1,8 tỷ đồng/năm.
+- Phương án 2: Hỗ trợ 100% học phí cho các đối tượng được đào tạo về: bác sĩ, điều dưỡng, hộ lý, kỹ thuật viên phục hồi chức năng
+Mỗi năm đào tạo được khoảng 100 người x 37 triệu/người/năm = 3,7 tỷ đồng/năm.
+(3) Hỗ trợ kinh phí bồi dưỡng, tập huấn cho nhân viên chăm sóc sức khỏe người cao tuổi tại cộng đồng.
+Dự kiến phát triển mạng lưới nhân viên chăm sóc sức khỏe người cao tuổi tại cộng đồng để mỗi Trạm Y tế (TYT) có ít nhất 02 nhân viên chăm sóc sức khỏe người cao tuổi tại cộng đồng và có ít nhất 02 nhân viên chăm sóc sức khỏe người cao tuổi/350 người cao tuổi được đào tạo tại xã/phường.
++ 02 (cán bộ của TYT xã) x khoảng 5.000 TYT xã = 10.000 nhân viên chăm sóc.
+Chi phí cho 01 học viên được bồi dưỡng, cấp chứng chỉ: 05 triệu/người.
+Kinh phí = 10.000 người x 05 triệu/người = 50 tỷ đồng.
++ Cả nước có khoảng 14 triệu người cao tuổi. Ít nhất 02 nhân viên chăm sóc sức khỏe người cao tuổi/350 người cao tuổi = 80.000 nhân viên.
+Chi phí cho 01 học viên được bồi dưỡng, cấp chứng chỉ: 05 triệu/người.
+Kinh phí = 80.000 người x 5 triệu = 400 tỷ đồng.
+Tổng số kinh phí dự kiến: 450 tỷ đồng.
+(4) Nhà nước bố trí ngân sách mua thẻ bảo hiểm y tế bảo đảm cho người cao tuổi có thẻ bảo hiểm y tế (số người cao tuổi không thuộc hộ nghèo, cận nghèo, không có lương hưu, trợ cấp xã hội, không hưởng chính sách ưu đãi người có công với cách mạng chưa được cấp thẻ BHYT).
+Thực hiện giải pháp mua thẻ bảo hiểm y tế cho số người cao tuổi không thuộc hộ nghèo, cận nghèo, không có lương hưu, trợ cấp xã hội, không hưởng chính sách ưu đãi người có công với cách mạng chưa được cấp thẻ BHYT, mỗi năm ngân sách nhà nước chi trả khoảng 747.630.000.000 đồng/năm.
+Theo kết quả điều tra dân số và nhà ở giữa kỳ thời điểm 01/4/2024, số lượng người cao tuổi là 14,2 triệu người; căn cứ Thông báo số 267/TB-VPCP ngày 07/7/2023 của Văn phòng Chính phủ Thông báo kết luận của Phó Thủ tướng Chính phủ Trần Hồng Hà, Chủ tịch Ủy ban Quốc gia về Người cao tuổi Việt Nam tại cuộc họp của Ủy ban Quốc gia về Người cao tuổi Việt Nam năm 2023, còn khoảng 5% người cao tuổi chưa có thẻ bảo hiểm y tế; như vậy số người cao tuổi chưa có thẻ bảo hiểm y tế là khoảng 710.000 người.
+Với mức đóng quy định tại khoản 1 Điều 7 Nghị định số 146/2018/NĐ-CP ngày 17/10/2018 quy định chi tiết và biện pháp thi hành một số điều của Luật Bảo hiểm y tế là 4,5% theo lương cơ sở. Mức lương cơ sở năm 2024 là: 2.340.000 đồng.
+Kinh phí dự kiến là: 
+710.000 người x 2.340.000 đồng x 4,5%   =   747.630.000.000 đồng/năm.
+* Giải pháp 2 - Giải pháp giữ nguyên hiện trạng như quy định hiện hành
+Giải pháp này có tác động tiêu cực về kinh tế - xã hội trong việc thích ứng với già hoá dân số, dân số già.
+3.2.2.2.2. Đối với người dân
+a) Tác động tích cực: 
+* Giải pháp 1- Giải pháp đề xuất trong Luật Dân số
+Xây dựng và phát triển mạng lưới chăm sóc sức khỏe người cao tuổi tại nhà, tại cộng đồng và cơ sở chăm sóc tập trung; tăng nguồn nhân lực bác sĩ chuyên ngành lão khoa, nhân viên chăm sóc sức khỏe người cao tuổi nhằm cải thiện chất lượng dịch vụ y tế dành cho người cao tuổi.
+* Giải pháp 2 - Giải pháp giữ nguyên hiện trạng như quy định hiện hành
+b) Tác động tiêu cực:
+* Giải pháp 1- Giải pháp đề xuất trong Luật Dân số
+Xã hội hóa việc chăm sóc, phụng dưỡng, phát huy người cao tuổi là một quá trình lâu dài, song hành với sự phát triển kinh tế - xã hội nhưng có thể bị một số gia đình lạm dụng dẫn đến chối bỏ trách nhiệm đối với việc chăm sóc, phụng dưỡng, phát huy người cao tuổi.
+* Giải pháp 2 - Giải pháp giữ nguyên hiện trạng như quy định hiện hành
+Xã hội hóa việc chăm sóc, phụng dưỡng, phát huy người cao tuổi là một quá trình lâu dài, song hành với sự phát triển kinh tế - xã hội nhưng có thể bị một số gia đình lạm dụng dẫn đến chối bỏ trách nhiệm đối với việc chăm sóc, phụng dưỡng, phát huy người cao tuổi.
+3.2.2.2.3. Đối với doanh nghiệp
+a) Tác động tích cực: 
+* Giải pháp 1- Giải pháp đề xuất trong Luật Dân số
+Già hóa làm thay đổi nhu cầu của người tiêu dùng, do vậy già hóa làm thay đổi kinh tế thế giới. Xây dựng môi trường xã hội thân thiện với người cao tuổi bao hàm việc hàng hóa, dịch vụ phù hợp với đặc điểm, nhu cầu của họ; điều này sẽ làm cho hàng hóa, dịch vụ bán được, tăng hiệu quả sản xuất, dịch vụ.
+* Giải pháp 2 - Giải pháp giữ nguyên hiện trạng như quy định hiện hành
+Chưa xây dựng môi trường xã hội thân thiện với người cao tuổi bao hàm việc hàng hóa, dịch vụ phù hợp với đặc điểm, nhu cầu của họ; do vậy chưa sản suất được nhiều hàng hóa, dịch vụ, chưa tăng hiệu quả sản xuất, dịch vụ.
+b) Tác động tiêu cực:
+* Giải pháp 1- Giải pháp đề xuất trong Luật Dân số
+Phải có quá trình xây dựng, để hình thành mạng lưới chăm sóc sức khỏe người cao tuổi.
+* Giải pháp 2 - Giải pháp giữ nguyên hiện trạng như quy định hiện hành
+Chưa có cơ sở, điều kiện để hình thành mạng lưới chăm sóc sức khỏe người cao tuổi.
+3.2.2.3. Tác động về giới
+Tác động về giới (nếu có) được đánh giá trên cơ sở phân tích về cơ hội, điều kiện, năng lực thực hiện và thụ hưởng các quyền, lợi ích của mỗi giới.
+3.2.2.3.1. Đối với Nhà nước
+a) Tác động tích cực: 
+* Giải pháp 1- Giải pháp đề xuất trong Luật Dân số
+ Ở bất kỳ độ tuổi nào, số cụ bà cũng nhiều hơn cụ ông; từ tuổi 85 trở lên, số cụ bà gấp hơn 2 lần số cụ ông. Rõ ràng, già hoá chủ yếu là già hoá nữ và phụ nữ khi về già thường phải sống đơn côi, đôi khi vẫn phải lo lắng cho những đứa con chưa trưởng thành và bố mẹ. Bình quân 1 người về hưu vẫn phải có trách nhiệm nuôi 0,11 bố mẹ và 0,76 con.
+Vì vậy, giải pháp 1 sẽ nâng cao sức khỏe, đời sống, việc làm, hòa thuận giữa các thế hệ, mang lại lợi ích cho phụ nữ, nâng cao chất lượng cuộc sống của người cao tuổi là nữ, cải thiện tình trạng bình đẳng giới.
+* Giải pháp 2 - Giải pháp giữ nguyên hiện trạng như quy định hiện hành
+Người già đã sẵn có những khó khăn, bất lợi về sức khỏe, phân tách giới khi già hóa dân số và có những biện pháp cụ thể để đảm bảo bình đẳng giới cho người cao tuổi, khoảng cách giới khi già hóa dân số.
+3.2.2.4. Tác động của thủ tục hành chính
+Tác động của thủ tục hành chính (nếu có) được đánh giá trên cơ sở phân tích về sự cần thiết, tính hợp lý và chi phí tuân thủ của thủ tục hành chính để thực hiện chính sách.
+3.2.2.4.1. Đối với Nhà nước
+* Giải pháp 1- Giải pháp đề xuất trong Luật Dân số
+Thực hiện các chính sách, đề án, kế hoạch để thích ứng với già hóa dân số, dân số già cần thực hiện những thủ tục hành chính như tuyển dụng lao động, khám sức khỏe, xác định tuổi, dân tộc, hộ nghèo... Tuy nhiên, đây là những thủ tục hành chính đang được áp dụng, không phát sinh thủ tục hành chính mới. 
+* Giải pháp 2 - Giải pháp giữ nguyên hiện trạng như quy định hiện hành
+Thực hiện các thủ tục hành chính đang được áp dụng theo quy định.
+3.2.2.4.2. Đối với người dân
+* Giải pháp 1- Giải pháp đề xuất trong Luật Dân số
+Không phát sinh thủ tục hành chính mới, thực hiện thuận lợi
+* Giải pháp 2 - Giải pháp giữ nguyên hiện trạng như quy định hiện hành
+Thực hiện các thủ tục hành chính đang được áp dụng.
+3.3. Giải pháp tối ưu được lựa chọn và lý do lựa chọn giải pháp
+Mỗi giải pháp đều có những ưu điểm, hạn chế và việc chọn giải pháp nào cũng cần có biện pháp khắc phục những hạn chế.
+Đối với giải pháp 1, giải pháp này có những ưu điểm sau:
+(1) Thể chế hóa Nghị quyết số 21-NQ/TW, Nghị quyết số 42-NQ/TW của Đảng và các chủ trương, đường lối, chính sách của Đảng về công tác dân số; (2) Quy định các biện pháp thích ứng với già hóa dân số, dân số già; (3) Phù hợp với các quy định tại Công ước quốc tế về các Quyền Kinh tế, xã hội và văn hóa (ICESCR); tương thích với các Điều ước quốc tế liên quan đến công tác dân số mà Việt Nam là thành viên; (4) Tạo cơ sở pháp lý quy định các biện pháp, nội dung cụ thể toàn diện hơn để thực hiện một số biện pháp thích ứng với già hoá dân số, dân số già; đồng bộ với hệ thống chính sách, pháp luật hiện hành về bảo vệ, chăm sóc, phát huy vai trò người cao tuổi trong việc thực hiện chính sách của Nhà nước trong lĩnh vực này.
+Tuy nhiên để thực hiện giải pháp này, Nhà nước cần bảo đảm ngân sách để tuyên truyền vận động, thực hiện; đầu tư kinh phí triển khai các biện pháp cụ thể; huy động sự tham gia, hưởng ứng của doanh nghiệp, xã hội, người trong độ tuổi lao động trước khi trở thành người cao tuổi và bản thân người cao tuổi.
+Đối với giải pháp 2, giải pháp này có những ưu điểm là không phải sửa đổi các quy định về pháp luật cũng như phương thức tuyên truyền, vận động.
+Tuy nhiên giải pháp này có những hạn chế là không có nhiều biện pháp cụ thể tác động tích cực đối với hệ thống pháp luật, kinh tế - xã hội, giới đối với Nhà nước, người dân và doanh nghiệp… 
+3.4. Kiến nghị giải pháp lựa chọn
+Thích ứng với già hóa dân số, dân số già để quá trình già hóa dân số, dân số già không là gánh nặng cho đất nước, xã hội và gia đình, phát huy được vai trò người cao tuổi, cần thiết thực hiện giải pháp 1 bao gồm các giải pháp, chính sách đồng bộ chủ động thích ứng với già hóa dân số, dân số già.
+Trên cơ sở phân tích, đánh giá tác động của chính sách về kinh tế, xã hội, giới, thủ tục hành chính và hệ thống pháp luật; xem xét ưu điểm, nhược điểm của từng giải pháp đề xuất để giải quyết vấn đề, trong hai giải pháp nêu trên, giải pháp nào cũng có những mặt tích cực và hạn chế; kiến nghị chọn giải pháp 1 do có nhiều ưu điểm nổi trội hơn. Giải pháp này sẽ quy định các biện pháp thích ứng với già hóa dân số, dân số già; tạo cơ sở pháp lý quy định các biện pháp, nội dung cụ thể toàn diện hơn để thực hiện một số biện pháp thích ứng với già hoá dân số, dân số già; đồng bộ với hệ thống chính sách, pháp luật hiện hành về bảo vệ, chăm sóc, phát huy vai trò người cao tuổi trong việc thực hiện chính sách của Nhà nước trong lĩnh vực này.
+4. Chính sách 4: Nâng cao chất lượng dân số
+4.1. Xác định vấn đề và mục tiêu giải quyết vấn đề
+4.1.1. Xác định vấn đề
+Tỷ lệ bệnh, tật bẩm sinh cao làm suy giảm chất lượng dân số về thể chất của các thế hệ tương lai và để lại hậu quả nặng nề cho gia đình, cộng đồng và xã hội. 
+Tư vấn, khám sức khoẻ trước khi kết hôn nhằm phát hiện ra bệnh, tật có nguy cơ ảnh hưởng tới sức khỏe của mình và người bạn đời. Trên cơ sở đó tìm các giải pháp chữa trị kịp thời các bệnh tật có thể ảnh hưởng đến sức khỏe, đến việc sinh đẻ của người chuẩn bị bước vào hôn nhân, chuẩn bị bước vào quá trình sinh sản để đảm bảo chất lượng giống nòi nói chung, hạnh phúc của từng cặp vợ chồng, cá nhân nói riêng trở nên hết sức cần thiết. 
+Tầm soát, chẩn đoán, điều trị trước sinh và sơ sinh để phát hiện, can thiệp và điều trị sớm các bệnh, tật, các rối loạn chuyển hóa, di truyền ngay trong giai đoạn bào thai và sơ sinh giúp cho trẻ sinh ra phát triển bình thường hoặc tránh được những hậu quả nặng nề về thể chất và trí tuệ, giảm thiểu số người tàn tật, thiểu năng trí tuệ trong cộng đồng, góp phần nâng cao chất lượng dân số.
+Theo số liệu thống kê của Bộ Tư pháp , từ năm 2019 đến năm 2021 số liệu đăng ký kết hôn tại Việt Nam tương ứng là 747.702 cặp, 630.498 cặp và 501.003 cặp. Tính trung bình 03 năm 2019-2021, số cặp đăng ký kết hôn là 626.401 cặp, tức khoảng 1,3 triệu người đăng ký kết hôn . 
+Hiện nay, mỗi năm Việt Nam có khoảng gần 1,4 triệu trẻ em mới được sinh ra. có trên 40.000 trẻ sơ sinh ở nước ta mắc bệnh, tật bẩm sinh, chiếm tỷ lệ khoảng 3% trẻ sơ sinh. Đáng lưu ý, số trẻ sơ sinh tử vong do dị tật bẩm sinh khoảng hơn 1.700 trẻ, chiếm 11% số trẻ sơ sinh tử vong. Tuy nhiên, tỷ lệ và số lượng trẻ bệnh, tật bẩm sinh được phát hiện ở Việt Nam nói trên có thể thấp hơn nhiều so với thực tế, bởi theo Tổ chức Y tế thế giới (WHO), có hơn 7.000 khuyết tật bẩm sinh khác nhau do di truyền hoặc một phần do di truyền. Trong khi đó, nước ta mới chỉ tầm soát được 5-6 bệnh bẩm sinh phổ biến nhất. Ở Trung Quốc, tỷ lệ trẻ sơ sinh mắc bệnh, tật bẩm sinh lên tới 8%.
+Số trẻ sinh ra bị bệnh, tật hằng năm được tích lũy dần, góp phần vào tổng số 6.225.519 người khuyết tật, chiếm hơn 6,73% tổng dân số. Trong số người khuyết tật có 671.659 trẻ em từ 2-17 tuổi và 5.553.860 người từ 18 tuổi trở lên.
+Nhận thức được vấn đề này, Chương trình tầm soát (sàng lọc) trước sinh và sơ sinh được triển khai thí điểm từ năm 2007. Mạng lưới cung cấp dịch vụ sàng lọc trước sinh và sơ sinh được triển khai trên địa bàn của tất cả 63 tỉnh, thành phố. Tuy nhiên, tỷ lệ bà mẹ mang thai được sàng lọc trước sinh mới đạt 18% (2024), tỷ lệ trẻ em sinh ra được sàng lọc sơ sinh mới đạt 15% nhưng vẫn còn thấp, không đạt chỉ tiêu kế hoạch đề ra. Tỷ lệ này cũng có sự chênh lệch lớn giữa các tỉnh, tại các tỉnh, thành phố lớn thường đạt chỉ tiêu cao hơn mức trung bình trong cả nước, trong khi đó các tỉnh miền núi, vùng sâu vùng xa, khu vực Tây nguyên thì đạt tỷ lệ rất thấp so với mức trung bình của cả nước.
+Pháp lệnh Dân số chưa quy định về tư vấn, khám sức khỏe trước khi kết hôn. Điều 19 Luật Thanh niên quy định chính sách về bảo vệ, chăm sóc và nâng cao sức khỏe là “Bảo đảm cho thanh niên được cung cấp thông tin, tiếp cận dịch vụ thân thiện về bảo vệ, chăm sóc sức khỏe sinh sản, sức khỏe tình dục; được tư vấn, khám sức khỏe trước khi kết hôn”. Tuy nhiên, chưa có các quy định cụ thể về tư vấn, khám sức khỏe trước kết hôn như: quyền của nam, nữ được tư vấn, khám sức khỏe trước kết hôn; các đối tượng được ưu tiên tư vấn, khám sức khỏe trước kết hôn; trách nhiệm của các cơ sở khám bệnh, chữa bệnh các tuyến trong được tư vấn, khám sức khỏe trước kết hôn; các mặt bệnh trong khám sức khỏe trước kết hôn.
+ Trong hệ thống pháp luật, các luật hiện hành đã quy định nâng cao chất lượng dân số về trí tuệ, tinh thần và một số nội dung nâng cao chất lượng dân số về thể chất: quy định tại Điều 23 Pháp lệnh dân số, Điều 43 Luật Trẻ em. Tuy nhiên còn nhiều hạn chế, chưa có các quy định cụ thể về tầm soát, chẩn đoán, điều trị trước sinh và sơ sinh như: quyền của bà mẹ được tầm soát, chẩn đoán, điều trị trước sinh và sơ sinh; các đối tượng được hỗ trợ tầm soát, chẩn đoán, điều trị trước sinh và sơ sinh; trách nhiệm của các cơ sở khám bệnh, chữa bệnh các tuyến trong tầm soát, chẩn đoán, điều trị trước sinh và sơ sinh; các mặt bệnh bắt buộc phải tầm soát, chẩn đoán, điều trị trước sinh và sơ sinh.
+Theo kết quả điều tra dân số và nhà ở giữa kỳ thời điểm 01/4/2024, số lượng người cao tuổi là 14,2 triệu người. Sức khỏe của người cao tuổi Việt Nam còn nhiều hạn chế. Tuy tuổi thọ trung bình cao 74,7 tuổi (năm 2024) nhưng số năm sống khỏe mạnh của Việt Nam là khoảng 66,3 tuổi (theo báo cáo JARH, 2016). Trung bình mỗi người cao tuổi mắc 3 bệnh phải điều trị suốt đời, do vậy nhu cầu khám chữa bệnh cao hơn các nhóm tuổi khác. Tình trạng bệnh tật đã ảnh hưởng lớn đến đời sống tâm lý, các hoạt động sinh hoạt hàng ngày và sự hoà nhập cộng đồng của người cao tuổi.
+Đến nay đã có trên 95% người cao tuổi được cấp thẻ bảo hiểm y tế; 32% người cao tuổi được lập hồ sơ quản lý theo dõi sức khỏe ban đầu; tuy nhiên công tác chăm sóc sức khỏe cho người cao tuổi còn một số khó khăn, hạn chế: khoảng 5% người cao tuổi không thuộc hộ nghèo, cận nghèo, không có lương hưu, trợ cấp xã hội, không hưởng chính sách ưu đãi người có công với cách mạng chưa được cấp thẻ bảo hiểm y tế. 
+Xây dựng các giải pháp thích ứng quá trình già hoá dân số, dân số già; đáp ứng nhu cầu cơ bản về chăm sóc sức khỏe người cao tuổi và một số nhu cầu cơ bản của người cao tuổi ngày càng tăng nhanh là cần thiết. 
+Nghị quyết số 21-NQ/TW đã đề ra mục tiêu đến năm 2030: “tỷ lệ nam, nữ thanh niên được tư vấn, khám sức khỏe trước kết hôn đạt 90%”; “70% phụ nữ mang thai được tầm soát ít nhất 4 loại bệnh, tật bẩm sinh phổ biến nhất; 90% trẻ sơ sinh được tầm soát ít nhất 5 bệnh bẩm sinh phổ biến nhất”; “100% người cao tuổi có thẻ bảo hiểm y tế, được quản lý sức khỏe, được khám, chữa bệnh, được chăm sóc tại gia đình, cộng đồng, cơ sở chăm sóc tập trung”. Để đạt được mục tiêu trên, trong thời gian tới, cần phải có những biện pháp mạnh mẽ về tư vấn, khám sức khoẻ trước khi kết hôn và tầm soát, chẩn đoán, điều trị trước sinh và sơ sinh, mua thẻ bảo hiểm y tế cho người cao tuổi, đặc biệt là số người cao tuổi không thuộc hộ nghèo, cận nghèo, không có lương hưu, trợ cấp xã hội, không hưởng chính sách ưu đãi người có công với cách mạng chưa được cấp thẻ BHYT trong Luật Dân số.
+4.1.2. Mục tiêu giải quyết vấn đề
+Nâng cao chất lượng dân số về thể chất ngay từ giai đoạn đầu đời thông qua tư vấn, khám sức khỏe trước khi kết hôn; tầm soát trước sinh và sơ sinh góp phần nâng cao chất lượng nguồn nhân lực để phát triển đất nước; xây dựng các giải pháp thích ứng quá trình già hoá dân số, dân số già.
+4.2. Các giải pháp và đánh giá tác động của các giải pháp đối với đối tượng chịu sự tác động trực tiếp của chính sách và các đối tượng khác có liên quan
+4.2.1. Các giải pháp
+4.2.1.1. Giải pháp 1 - Giải pháp đề xuất trong Luật Dân số
+- Các biện pháp thực hiện tư vấn, khám sức khỏe trước khi kết hôn:
++ Quy định các cơ sở khám bệnh, chữa bệnh tại cơ sở có trách nhiệm thực hiện tư vấn, khám sức khỏe trước khi kết hôn; khuyến khích nam, nữ thực hiện tư vấn, khám sức khỏe trước khi kết hôn.
++ Đối tượng chính sách, vùng đồng bào dân tộc thiểu số, miền núi, biên giới, hải đảo và đối tượng có hoàn cảnh gia đình khó khăn được Nhà nước hỗ trợ thực hiện tư vấn, khám sức khỏe trước khi kết hôn.
++ Quy định các bệnh bắt buộc phải tư vấn, khám sức khỏe trước khi kết hôn.
+- Các biện pháp thực hiện tầm soát, chẩn đoán, điều trị trước sinh và sơ sinh:
++ Quy định các cơ sở khám bệnh, chữa bệnh có chuyên khoa sản, nhi phải cung cấp dịch vụ tư vấn, sàng lọc trước sinh và sơ sinh; khuyến khích các bà mẹ mang thai thực hiện tầm soát, chuẩn đoán và điều trị trước sinh và sơ sinh. Trừ trường hợp mang thai hộ vì mục đích nhân đạo thực hiện bắt buộc theo khoản 2 Điều 97 Luật Hôn nhân và gia đình.
++ Đối tượng chính sách, người dân sống tại vùng đồng bào dân tộc thiểu số và miền núi, biên giới, hải đảo và đối tượng có hoàn cảnh gia đình khó khăn được Nhà nước hỗ trợ thực hiện tầm soát, chuẩn đoán và điều trị trước sinh và sơ sinh.
++ Quy định các bệnh bắt buộc phải sàng lọc trước sinh và sơ sinh.
+- Mua thẻ bảo hiểm y tế cho người cao tuổi chưa có thẻ bảo hiểm y tế được ngân sách nhà nước đóng.
+- Kế thừa các biện pháp xây dựng gia đình no ấm, bình đẳng, tiến bộ, hạnh phúc, văn minh của Pháp lệnh Dân số. 
+- Tuyên truyền vận động, truyền thông, giáo dục về nâng cao chất lượng dân số. 
+4.2.1.2. Giải pháp 2 - Giải pháp giữ nguyên hiện trạng như quy định hiện hành
+Giữ nguyên theo quy định của pháp luật hiện hành, không quy định cụ thể những nội dung khám sức khỏe trước khi kết hôn. Các đối tượng nam, nữ tự chi trả chi phí tư vấn, khám sức khỏe trước khi kết hôn. Thực hiện tuyên truyền vận động, truyền thông, giáo dục giúp các đối tượng thấy được lợi ích, sự cần thiết để chủ động, tự nguyện thực hiện tư vấn, khám sức khỏe trước khi kết hôn.
+Giải pháp giữ nguyên hiện trạng như quy định hiện hành, bao gồm: Các biện pháp thực hiện tư vấn, khám sức khỏe trước khi kết hôn, sinh con; các biện pháp thực hiện tầm soát, chẩn đoán, điều trị trước sinh và sơ sinh; các biện pháp xây dựng gia đình no ấm, bình đẳng, tiến bộ, hạnh phúc, văn minh. So với giải pháp 1, các biện pháp thực hiện của giải pháp này không được luật hoá, chỉnh sửa, bổ sung quy định để thực hiện các nội dung nêu trên.
+Thực hiện tầm soát, chẩn đoán, điều trị trước sinh và sơ sinh theo các quy định hiện hành, không luật hoá nội dung tầm soát, chẩn đoán, điều trị trước sinh và sơ sinh; trách nhiệm của cơ sở cung cấp dịch vụ tư vấn, tầm soát, chẩn đoán, điều trị trước sinh và sơ sinh và không quy định chính sách hỗ trợ cho đối tượng thực hiện. Tuy nhiên vẫn thực hiện tuyên truyền vận động, truyền thông, giáo dục giúp các đối tượng thấy được lợi ích, sự cần thiết để chủ động thực hiện các biện pháp tầm soát bệnh, tật bẩm sinh.
+4.2.2. Đánh giá tác động của các giải pháp đối với đối tượng chịu sự tác động trực tiếp của chính sách và các đối tượng khác có liên quan
+4.2.2.1. Tác động đối với hệ thống pháp luật
+4.2.2.1.1. Đối với Nhà nước
+a) Tác động tích cực:
+* Giải pháp 1- Giải pháp đề xuất trong Luật Dân số
+Khắc phục được hạn chế khi Pháp lệnh Dân số chưa quy định về tư vấn, khám sức khỏe trước khi kết hôn; Không trùng lặp với Luật Thanh niên do đối tượng được mở rộng khi tư vấn, khám sức khoẻ trước khi kết hôn, bao quát được các đối tượng trong lĩnh vực dân số; Phù hợp với nghĩa vụ bảo đảm sức khỏe theo tiêu chuẩn cao nhất quy định tại Điều 12 Công ước quốc tế về các quyền kinh tế, xã hội và văn hóa (ICESCR).
+Kế thừa Pháp lệnh Dân số quy định biện pháp hỗ trợ sinh sản tại Điều 23; cụ thể hoá quy định của Luật Trẻ em tại Điều 43...).
+* Giải pháp 2 - Giải pháp giữ nguyên hiện trạng như quy định hiện hành
+Thực hiện theo pháp luật hiện hành; không làm xáo trộn các quy định liên quan và không phải sửa đổi pháp luật.
+b) Tác động tiêu cực:
+* Giải pháp 1- Giải pháp đề xuất trong Luật Dân số
+Không tác động tiêu cực, hạn chế đối với hệ thống pháp luật.
+* Giải pháp 2 - Giải pháp giữ nguyên hiện trạng như quy định hiện hành
+Không giải quyết được một cách triệt để; chưa thấy có tiêu cực, hạn chế của chính sách đối với hệ thống pháp luật.
+4.2.2.1.2. Đối với người dân
+a) Tác động tích cực: 
+* Giải pháp 1- Giải pháp đề xuất trong Luật Dân số
+Được tiếp cận với các dịch vụ một cách thuận tiện và sẵn có.
+* Giải pháp 2 - Giải pháp giữ nguyên hiện trạng như quy định hiện hành
+Chưa có nhiều tác động tích cực để mở rộng dịch vụ và tăng tỷ lệ sàng lọc. 
+b) Tác động tiêu cực:
+* Giải pháp 1- Giải pháp đề xuất trong Luật Dân số
+Chưa thấy có tiêu cực.
+* Giải pháp 2 - Giải pháp giữ nguyên hiện trạng như quy định hiện hành
+Khó tiếp cận dịch vụ và không đạt được chỉ tiêu sàng lọc.
+4.2.2.2. Tác động về kinh tế - xã hội
+4.2.2.2.1. Đối với Nhà nước
+a) Tác động tích cực: 
+* Giải pháp 1- Giải pháp đề xuất trong Luật Dân số
+Giảm gánh nặng kinh phí của Nhà nước và chi phí của gia đình. Góp phần giảm nhanh tỷ lệ trẻ em sinh ra bị mắc bệnh, tật bẩm sinh, mang lại lợi ích kinh tế cho gia đình, phát triển kinh tế - xã hội của địa phương, đất nước. 
+Giải pháp 2 - Giải pháp giữ nguyên hiện trạng như quy định hiện hành
+Nhà nước không phải bảo đảm nguồn ngân sách hỗ trợ cho đối tượng thực hiện và nguồn lực để khuyến khích phát triển, mở rộng mạng lưới cơ sở cung cấp dịch vụ.
+Không quy định các dịch vụ cụ thể giúp các cơ sở y tế không chịu thêm sức ép về quá tải trong khám bệnh, chữa bệnh. 
+b) Tác động tiêu cực:
+* Giải pháp 1- Giải pháp đề xuất trong Luật Dân số
+Khi thực hiện giải pháp này Nhà nước phải bảo đảm nguồn ngân sách, như sau:
+* Kinh phí bảo đảm thực hiện chính sách
+Theo số liệu Tổng cục Thống kê, tổng số trẻ sinh ra năm 2023 là 1,4 triệu trẻ. Với số liệu này, mỗi năm:
+(1) Đối tượng chính sách, vùng đồng bào dân tộc thiểu số, miền núi, biên giới, hải đảo và đối tượng có hoàn cảnh gia đình khó khăn được Nhà nước hỗ trợ thực hiện tư vấn, khám sức khỏe trước khi kết hôn.
+1.360.000 người x 15% x 500.000 đồng/người = 102 tỷ đồng/năm
+(2) Đối tượng chính sách, vùng đồng bào dân tộc thiểu số, miền núi, biên giới, hải đảo và đối tượng có hoàn cảnh gia đình khó khăn được Nhà nước hỗ trợ thực hiện tầm soát, chuẩn đoán và điều trị trước sinh (04 bệnh) và sơ sinh (05 bệnh).
+Đối với sàng lọc trước sinh đủ 04 bệnh: 
+1.400.000 bà mẹ mang thai x 15% x 600.000 đồng = 126 tỷ đồng/năm.
+Đối với sàng lọc sơ sinh đủ 05 bệnh: 
+1.400.000 trẻ x 15% x 1.000.000 đồng = 210 tỷ đồng/năm.
+* Đánh giá tính khả thi của nguồn lực thực hiện chính sách:
+Năm 2020, Thủ tướng Chính phủ đã ban hành Quyết định số 1999/QĐ-TTg ngày 07/12/2020 phê duyệt Chương trình mở rộng tầm soát, chẩn đoán, điều trị một số bệnh, tật trước sinh và sơ sinh đến năm 2030. Một trong những mục tiêu của Chương trình là tỷ lệ phụ nữ mang thai được tầm soát (sàng lọc trước sinh) ít nhất 4 loại bệnh tật bẩm sinh phổ biến nhất đạt 50% năm 2025; 70% năm 2030; tỷ lệ trẻ sơ sinh được tầm soát (sàng lọc sơ sinh) ít nhất 5 loại bệnh, tật bẩm sinh phổ biến nhất đạt 70% năm 2025; 90% năm 2030.
+Kinh phí thực hiện Chương trình do ngân sách nhà nước bảo đảm theo phân cấp ngân sách hiện hành và khả năng cân đối ngân sách trong từng thời kỳ, được bố trí trong dự toán chi của các cơ quan, đơn vị được giao nhiệm vụ theo quy định của Luật ngân sách nhà nước và từ các nguồn kinh phí hợp pháp khác. Lồng ghép trong các chương trình mục tiêu quốc gia, chương trình và dự án khác; bao gồm khu vực nông thôn, vùng dân tộc thiểu số và miền núi.
+Thủ tướng Chính phủ giao Bộ Tài chính cân đối, bố trí kinh phí thực hiện Chương trình theo quy định của pháp luật. Bộ Y tế tổng hợp kinh phí hỗ trợ thực hiện tư vấn, khám sức khỏe trước khi kết hôn, tầm soát, chẩn đoán, điều trị một số bệnh tật trước sinh và sơ sinh trình Chính phủ, Thủ tướng Chính phủ hằng năm. Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương trình cấp có thẩm quyền ban hành hoặc ban hành theo thẩm quyền Nghị quyết, quyết định, kế hoạch, văn bản chỉ đạo; bố trí kinh phí thực hiện Chương trình. Đẩy mạnh xã hội hóa phù hợp với điều kiện của địa phương. Chỉ đạo việc thực hiện Chương trình này tại địa phương theo hướng dẫn của Bộ Y tế; lồng ghép với các chương trình, kế hoạch, dự án khác có liên quan ở địa phương.
+Với dự kiến chính sách, quy định, kinh phí bảo đảm thực hiện nêu trên, việc thực hiện chính sách đã có cơ sở pháp lý của cấp có thẩm quyền, giao trách nhiệm cho các cơ quan liên quan. Nếu chính sách và quy định được phê duyệt sẽ bảo đảm được tính khả thi của nguồn lực thực hiện chính sách.
+	* Giải pháp 2 - Giải pháp giữ nguyên hiện trạng như quy định hiện hành
+	Do Nhà nước không thực hiện đầu tư đủ ngân sách nên rất khó thực hiện được mục tiêu.
+Không có nhiều tác động tích cực trong việc góp phần giảm nhanh tỷ lệ trẻ em sinh ra bị mắc bệnh, tật bẩm sinh.
+4.2.2.2.2. Đối với người dân
+a) Tác động tích cực: 
+* Giải pháp 1- Giải pháp đề xuất trong Luật Dân số
+Nhóm đối tượng chính sách được Nhà nước hỗ trợ kinh phí. 
+* Giải pháp 2 - Giải pháp giữ nguyên hiện trạng như quy định hiện hành
+Một số nhóm đối tượng đã được Nhà nước hỗ trợ kinh phí. 
+b) Tác động tiêu cực:
+* Giải pháp 1- Giải pháp đề xuất trong Luật Dân số
+Không có tác động tiêu cực.
+* Giải pháp 2 - Giải pháp giữ nguyên hiện trạng như quy định hiện hành
+Nhóm đối tượng chính sách không được hỗ trợ từ ngân sách nhà nước.
+4.2.2.2.3. Đối với doanh nghiệp
+a) Tác động tích cực: 
+* Giải pháp 1- Giải pháp đề xuất trong Luật Dân số
+Thực hiện giải pháp sẽ nâng cao sức khỏe cho người lao động tạo điều kiện để các doanh nghiệp phát triển.
+* Giải pháp 2 - Giải pháp giữ nguyên hiện trạng như quy định hiện hành
+Người lao động hạn chế trong tiếp cận dịch vụ, ảnh hưởng đến sự phát triển của doanh nghiệp.
+b) Tác động tiêu cực:
+* Giải pháp 1- Giải pháp đề xuất trong Luật Dân số
+Không có tác động tiêu cực khi thực hiện giải pháp này.
+* Giải pháp 2 - Giải pháp giữ nguyên hiện trạng như quy định hiện hành
+Không có tác động tiêu cực khi thực hiện giải pháp này.
+4.2.2.3. Tác động về giới
+4.2.2.3.1. Đối với Nhà nước
+a) Tác động tích cực: 
+* Giải pháp 1- Giải pháp đề xuất trong Luật Dân số
+Nhìn từ góc độ tác động giới, giải pháp 1 có nhiều tác động tích cực trong việc thực hiện chính sách. Việc khuyến khích nam nữ trước khi kết hôn thực hiện tư vấn và khám sức khỏe thể hiện nguyên tắc bình đẳng giới, không phân biệt đối xử về quyền và trách nhiệm của nam, nữ hay vợ, chồng. 
+Giải pháp này sẽ tạo cho mỗi giới sự bình đẳng về mặt pháp lý và trên thực tế về cơ hội, điều kiện, năng lực thực hiện và thụ hưởng các quyền và lợi ích từ quy định này một cách chủ động.
+* Giải pháp 2 - Giải pháp giữ nguyên hiện trạng như quy định hiện hành
+Tác động tích cực, phù hợp với nguyên tắc bình đẳng giới, bảo vệ bà mẹ theo Luật Bình đẳng giới. Chưa thấy có tiêu cực, hạn chế của chính sách về giới. Quy định của chính sách sẽ đảm bảo tốt hơn quyền của phụ nữ trong phát triển. 
+b) Tác động tiêu cực:
+* Giải pháp 1- Giải pháp đề xuất trong Luật Dân số
+Thực hiện giải pháp này chưa thấy có tiêu cực, hạn chế của chính sách về giới.
+* Giải pháp 2 - Giải pháp giữ nguyên hiện trạng như quy định hiện hành
+Chưa thấy có tiêu cực, hạn chế của chính sách về giới.
+4.2.2.3.2. Đối với người dân
+a) Tác động tích cực: 
+* Giải pháp 1- Giải pháp đề xuất trong Luật Dân số
+Việc khuyến khích nam nữ tham gia thực hiện dịch vụ thể hiện nguyên tắc bình đẳng giới, không phân biệt đối xử về quyền và trách nhiệm của vợ, chồng.
+* Giải pháp 2 - Giải pháp giữ nguyên hiện trạng như quy định hiện hành
+Tạo điều kiện phụ nữ tham gia hoạt động kinh tế, xã hội, nâng cao năng lực, thu nhập. 
+b) Tác động tiêu cực:
+* Giải pháp 1- Giải pháp đề xuất trong Luật Dân số
+Không có tác động tiêu cực trong thực hiện giải pháp này.
+* Giải pháp 2 - Giải pháp giữ nguyên hiện trạng như quy định hiện hành
+Chưa thấy có tiêu cực, hạn chế của chính sách về giới.
+4.2.2.4. Tác động của thủ tục hành chính
+4.2.2.4.1. Đối với Nhà nước
+a) Tác động tích cực: 
+* Giải pháp 1- Giải pháp đề xuất trong Luật Dân số
+Không phát sinh thủ tục hành chính nên không thực hiện việc đánh giá tác động của chính sách về thủ tục hành chính. 
+* Giải pháp 2 - Giải pháp giữ nguyên hiện trạng như quy định hiện hành
+b) Tác động tiêu cực:
+Chưa thấy có tiêu cực trong thực hiện.
+4.3. Giải pháp tối ưu được lựa chọn và lý do lựa chọn giải pháp
+Mỗi giải pháp đều có những ưu điểm, hạn chế và việc chọn giải pháp nào cũng cần có biện pháp khắc phục những hạn chế.
+* Đối với giải pháp 1:
+- Giải pháp này có những ưu điểm là: 
+Góp phần thể chế hóa các chủ trương, đường lối, chính sách của Đảng về công tác dân số; phù hợp với Công ước quốc tế về các Quyền Kinh tế, xã hội và văn hóa (ICESCR) mà Việt Nam là thành viên về quyền được hưởng một tiêu chuẩn sức khỏe về thể chất và tinh thần ở mức cao nhất có thể; phù hợp với các quy định của Công ước về xóa bỏ tất cả các hình thức phân biệt đối xử chống lại phụ nữ (CEDAW), Công ước về Quyền Trẻ em (CRC); tương thích với các điều ước quốc tế liên quan đến công tác dân số mà Việt Nam là thành viên.
+Phòng ngừa, phát hiện các nguy cơ ảnh hưởng đến sức khỏe, mang thai, sinh đẻ, nuôi con, góp phần đảm bảo hôn nhân bền vững, con sinh ra khỏe mạnh; giảm gánh nặng chi phí của Nhà nước, gia đình và xã hội trong việc điều trị, chăm sóc, nuôi dưỡng đối tượng này; bảo đảm thực hiện các nguyên tắc cơ bản về bình đẳng giới, nâng cao trách nhiệm của cả nam và nữ trong việc kết hôn, sinh con, xây dựng gia đình hạnh phúc.
+Góp phần trực tiếp giảm tỉ lệ trẻ em mới sinh bị bệnh, tật bẩm sinh; giúp trẻ sinh ra phát triển bình thường hoặc tránh những hậu quả nặng nề về thể chất và trí tuệ, giảm thiểu số người tàn tật, thiểu năng trí tuệ trong cộng đồng; giảm gánh nặng của Nhà nước, gia đình trong việc điều, chăm sóc và nuôi dưỡng.
+- Tuy nhiên, để thực hiện giải pháp này, Nhà nước phải bảo đảm ngân sách hỗ trợ đối tượng chính sách, vùng đồng bào dân tộc thiểu số, miền núi, biên giới, hải đảo và đối tượng có hoàn cảnh gia đình khó khăn và có chính sách phát triển mạng lưới cung ứng dịch vụ.
+* Đối với giải pháp 2:
+- Giải pháp này có những ưu điểm là không quy định cụ thể những các bệnh bắt buộc phải thực hiện dịch vụ như hiện nay, các cơ sở cung cấp dịch vụ tự chủ trong quyết dịnh các mặt bệnh trong cung cấp dịch vụ của đơn vị mình.
+- Tuy nhiên giải pháp này có các hạn chế là khó đạt được mục tiêu Nghị quyết số 21-NQ/TW, tăng chi phí của người dân khi thụ hưởng dịch vụ.
+4.4. Kiến nghị giải pháp lựa chọn 
+Trên cơ sở phân tích, đánh giá tác động của chính sách về kinh tế, xã hội, giới, thủ tục hành chính và hệ thống pháp luật; xem xét ưu điểm, nhược điểm của từng giải pháp đề xuất để giải quyết vấn đề, trong hai giải pháp nêu trên, giải pháp nào cũng có những mặt tích cực và hạn chế; kiến nghị chọn giải pháp 1 do có nhiều ưu điểm nổi trội hơn.
+ III. PHỤ LỤC
+1. Bảng tổng hợp chi phí thực hiện chính sách trong Luật Dân số (gửi kèm theo).
+2. Danh mục các Điều ước quốc tế có liên quan mà Cộng hoà xã hội chủ nghĩa Việt Nam là thành viên được rà soát và đánh giá tính tương thích (gửi kèm theo).
+Báo cáo này thay thế Báo cáo số 81/BC-BYT ngày 20/01/2025 về Báo cáo đánh  giá tác động chính sách Dự án Luật Dân số./.
+PHỤ LỤC
+Dự kiến tổng chi phí thực hiện chính sách trong Luật Dân số
+(Kèm theo Báo cáo số:         /BC-BYT ngày        /      /2025 của Bộ Y tế)
+Đơn vị tính: Tỷ đồng
+Kinh phí thực hiện các chính sách không có nguồn đầu tư công. 
+* Tổng kinh phí thực hiện các chính sách là 2.289,93 tỷ đồng.
+* Chi theo nội dung: 2.289,93 tỷ đồng. Trong đó: - Chi thường xuyên 100%. - Chi đầu tư 0% 
+BỘ Y TẾ	CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+Số:           /BC-BYT	Hà Nội, ngày       tháng  4  năm 2025
+Nơi nhận:
+- Bộ Tư pháp;
+- Văn phòng Chính phủ;
+- Các Thứ trưởng;
+- Lưu: VT, CDS, (03b).	BỘ TRƯỞNG
+
+Đào Hồng Lan
+TT	Nội dung chính sách	Nguồn kinh phí	Nguồn kinh phí	Nguồn kinh phí	Nguồn kinh phí	Ghi chú	Ghi chú
+TT	Nội dung chính sách	NSNN	Quỹ bảo hiểm y tế	Người sử dụng dịch vụ tự chi trả	Nguồn kinh phí khác	Ghi chú	Ghi chú
+Chính sách 1	(1) Cho phép lao động nữ khi sinh con thứ 02 (hai) được kéo dài thời gian nghỉ thai sản từ 06 tháng lên 07 tháng (sửa đổi khoản 1 Điều 139 Bộ luật Lao động 2019; các trường hợp khác áp dụng theo quy định của Bộ luật Lao động hiện hành)	50,3					
+Chính sách 2	Tuyên truyền vận động, truyền thông, giáo dục; đưa nội dung vào hương ước, quy ước; chương trình giáo dục của hệ thống giáo dục quốc dân; lồng ghép việc hỗ trợ nâng cao vai trò của phụ nữ và trẻ em gái; quy định trách nhiệm cá nhân, tổ chức; thanh tra, kiểm tra	8				Phát sinh chi phí biên soạn tài liệu, giáo trình; tập huấn sử dụng tài liệu, giáo trình và những chi phí khác trong quá trình tổ chức giảng dạy	Phát sinh chi phí biên soạn tài liệu, giáo trình; tập huấn sử dụng tài liệu, giáo trình và những chi phí khác trong quá trình tổ chức giảng dạy
+Chính sách 3	1) Cấp học bổng cho người học chuyên ngành lão khoa là người đang làm việc tại cơ sở khám bệnh, chữa bệnh	592,3					
+Chính sách 3	(2) Hỗ trợ học phí đối với người học chuyên ngành lão khoa						
+Chính sách 3	- Phương án 1: hỗ trợ 50% học phí cho các đối tượng được đào tạo về: bác sĩ, điều dưỡng, hộ lý, kỹ thuật viên phục hồi chức năng	1,8					
+Chính sách 3	- Phương án 2: Hỗ trợ 100% học phí cho các đối tượng được đào tạo về: bác sĩ, điều dưỡng, hộ lý, kỹ thuật viên phục hồi chức năng	3,7					
+Chính sách 3	(3) Hỗ trợ kinh phí bồi dưỡng, tập huấn cho nhân viên chăm sóc sức khỏe	450					
+Chính sách 3	(4) Mua thẻ bảo hiểm y tế cho số người cao tuổi không thuộc hộ nghèo, cận nghèo, không có lương hưu, trợ cấp xã hội, không hưởng chính sách ưu đãi người có công với cách mạng chưa được cấp thẻ BHYT	747,63					
+Chính sách 4	(1) Đối tượng chính sách, vùng đồng bào dân tộc thiểu số, miền núi, biên giới, hải đảo và đối tượng có hoàn cảnh gia đình khó khăn được Nhà nước hỗ trợ thực hiện tư vấn, khám sức khỏe trước khi kết hôn	102					
+Chính sách 4	(2) Đối tượng chính sách, vùng đồng bào dân tộc thiểu số, miền núi, biên giới, hải đảo và đối tượng có hoàn cảnh gia đình khó khăn được Nhà nước hỗ trợ thực hiện tầm soát, chuẩn đoán và điều trị trước sinh (04 bệnh) và sơ sinh (05 bệnh).	336					
+	Tổng chi phí thực hiện	2.289,93					
+	Hai nghìn hai trăm tám mươi chín tỷ chín trăm ba mươi triệu đồng	Hai nghìn hai trăm tám mươi chín tỷ chín trăm ba mươi triệu đồng	Hai nghìn hai trăm tám mươi chín tỷ chín trăm ba mươi triệu đồng	Hai nghìn hai trăm tám mươi chín tỷ chín trăm ba mươi triệu đồng	Hai nghìn hai trăm tám mươi chín tỷ chín trăm ba mươi triệu đồng	Hai nghìn hai trăm tám mươi chín tỷ chín trăm ba mươi triệu đồng

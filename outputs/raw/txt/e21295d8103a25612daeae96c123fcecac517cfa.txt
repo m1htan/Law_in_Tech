@@ -1,0 +1,695 @@
+(Dự thảo trình Quốc hội 
+        tại kỳ họp thứ 8) 
+LUẬT 
+CÔNG CHỨNG (SỬA ĐỔI)
+Căn cứ Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam;
+Quốc hội ban hành Luật Công chứng.
+Chương I
+NHỮNG QUY ĐỊNH CHUNG
+Điều 1. Phạm vi điều chỉnh 
+1. Luật này quy định về công chứng viên, tổ chức hành nghề công chứng, việc hành nghề công chứng, thủ tục công chứng và quản lý nhà nước về công chứng.
+2. Giao dịch phải công chứng là giao dịch quan trọng, đòi hỏi mức độ an toàn pháp lý cao và được luật quy định phải công chứng.
+Điều 2. Giải thích từ ngữ
+Trong Luật này, các từ ngữ dưới đây được hiểu như sau: 
+1. Công chứng là dịch vụ công do công chứng viên của tổ chức hành nghề công chứng thực hiện để chứng nhận tính xác thực, hợp pháp của giao dịch mà theo quy định của luật phải công chứng hoặc cá nhân, tổ chức tự nguyện yêu cầu công chứng. 
+Cơ quan đại diện ngoại giao, cơ quan đại diện lãnh sự của nước Cộng hòa xã hội chủ nghĩa Việt Nam ở nước ngoài được công chứng giao dịch theo quy định tại Điều 76 của Luật này.
+2. Công chứng viên là người có đủ tiêu chuẩn theo quy định của Luật này, được Bộ trưởng Bộ Tư pháp bổ nhiệm để hành nghề công chứng và thực hiện một số việc chứng thực theo quy định của pháp luật về chứng thực. 
+3. Người yêu cầu công chứng là cá nhân, tổ chức trong nước hoặc cá nhân, tổ chức nước ngoài tham gia giao dịch có yêu cầu công chứng giao dịch theo quy định của Luật này.
+4. Văn bản công chứng là giao dịch bằng văn bản đã được công chứng theo quy định của Luật này.
+5. Hành nghề công chứng là việc công chứng viên của một tổ chức hành nghề công chứng thực hiện việc công chứng theo quy định của Luật này và quy định khác của pháp luật có liên quan.
+6. Tổ chức hành nghề công chứng bao gồm Phòng công chứng và Văn phòng công chứng được tổ chức và hoạt động theo quy định của Luật này và quy định khác của pháp luật có liên quan.
+Điều 3. Chức năng xã hội của công chứng viên 
+Công chứng viên cung cấp dịch vụ công do Nhà nước ủy nhiệm thực hiện nhằm bảo đảm an toàn pháp lý cho các bên tham gia giao dịch; phòng ngừa tranh chấp; góp phần bảo vệ quyền, lợi ích hợp pháp của cá nhân, tổ chức; ổn định và phát triển kinh tế - xã hội.
+Điều 4. Nguyên tắc hành nghề công chứng
+1. Tuân thủ Hiến pháp và pháp luật.
+2. Khách quan, trung thực.
+3. Tuân thủ quy tắc đạo đức hành nghề công chứng.
+4. Chịu trách nhiệm trước pháp luật và người yêu cầu công chứng về văn bản công chứng mà mình thực hiện.
+Điều 5. Hiệu lực và giá trị pháp lý của văn bản công chứng
+1. Văn bản công chứng có hiệu lực kể từ thời điểm được công chứng viên ký tên và tổ chức hành nghề công chứng đóng dấu vào văn bản; trường hợp là văn bản công chứng điện tử thì có hiệu lực theo quy định tại khoản 2 Điều 61 của Luật này. 
+2. Văn bản công chứng có hiệu lực thi hành đối với các bên liên quan, là cơ sở để các bên tham gia giao dịch đề nghị cơ quan nhà nước có thẩm quyền thực hiện các thủ tục liên quan đến giao dịch đã được công chứng. 
+3. Văn bản công chứng có giá trị chứng cứ; những tình tiết, sự kiện trong văn bản công chứng không phải chứng minh, trừ trường hợp bị Tòa án tuyên bố là vô hiệu.
+Điều 6. Tiếng nói và chữ viết dùng trong công chứng
+Tiếng nói và chữ viết dùng trong công chứng là tiếng Việt; trường hợp người yêu cầu công chứng sử dụng tiếng nói, chữ viết không phải là tiếng Việt hoặc sử dụng ngôn ngữ của người khuyết tật thì phải dịch sang tiếng Việt.
+Điều 7. Các hành vi bị nghiêm cấm
+1. Nghiêm cấm công chứng viên thực hiện các hành vi sau đây:
+a) Tiết lộ thông tin về nội dung công chứng, trừ trường hợp được người yêu cầu công chứng đồng ý bằng văn bản hoặc pháp luật có quy định khác; sử dụng thông tin về nội dung công chứng để xâm hại quyền, lợi ích hợp pháp của cá nhân, tổ chức, quyền và lợi ích của Nhà nước;
+b) Thực hiện công chứng trong trường hợp mục đích, chủ thể hoặc nội dung của giao dịch vi phạm pháp luật, trái đạo đức xã hội; xúi giục, tạo điều kiện cho người tham gia giao dịch thực hiện giao dịch giả tạo hoặc hành vi gian dối khác;
+c) Công chứng giao dịch có liên quan đến tài sản, lợi ích của bản thân mình hoặc của những người thân thích là vợ hoặc chồng; cha đẻ, mẹ đẻ, cha nuôi, mẹ nuôi; cha đẻ, mẹ đẻ, cha nuôi, mẹ nuôi của vợ hoặc chồng; con đẻ, con nuôi, con dâu, con rể; ông nội, bà nội, ông ngoại, bà ngoại; anh ruột, chị ruột, em ruột; anh ruột, chị ruột, em ruột của vợ hoặc chồng; cháu là con của con đẻ, con nuôi; 
+d) Sách nhiễu, gây khó khăn cho người yêu cầu công chứng; nhận, đòi hỏi tiền hoặc lợi ích khác từ người yêu cầu công chứng ngoài phí công chứng, giá dịch vụ theo yêu cầu liên quan đến việc công chứng và chi phí khác đã được xác định, thỏa thuận; nhận, đòi hỏi tiền hoặc lợi ích khác từ người thứ ba để thực hiện hoặc không thực hiện việc công chứng;
+đ) Ép buộc tổ chức, cá nhân sử dụng dịch vụ của mình; cấu kết, thông đồng với tổ chức, cá nhân làm sai lệch nội dung của hồ sơ yêu cầu công chứng, hồ sơ công chứng; 
+e) Chi tiền hoặc lợi ích khác, gây áp lực, đe dọa hoặc thực hiện hành vi vi phạm pháp luật, trái đạo đức xã hội để giành lợi thế trong việc công chứng;
+g) Quảng cáo trên phương tiện thông tin đại chúng về công chứng viên và tổ chức hành nghề công chứng;
+h) Đồng thời hành nghề tại 02 tổ chức hành nghề công chứng trở lên; đồng thời hành nghề thừa phát lại, luật sư, đấu giá viên, quản tài viên, tư vấn viên pháp luật, thẩm định viên về giá; làm việc theo hợp đồng làm việc hoặc hợp đồng lao động tại doanh nghiệp, hợp tác xã, liên hiệp hợp tác xã, cơ quan, tổ chức khác hoặc tham gia các công việc mà thường xuyên phải làm việc trong giờ hành chính;
+i) Tham gia quản lý doanh nghiệp, hợp tác xã, liên hiệp hợp tác xã ngoài tổ chức hành nghề công chứng; thực hiện hoạt động môi giới, đại lý hoặc tham gia chia lợi nhuận trong giao dịch mà mình công chứng; thực hiện hoạt động sản xuất, kinh doanh hoặc cung cấp dịch vụ ngoài phạm vi hoạt động công chứng, chứng thực;
+k) Cho người khác sử dụng quyết định bổ nhiệm công chứng viên, thẻ công chứng viên của mình; 
+l) Đầu tư toàn bộ hoặc góp vốn với công chứng viên khác để thành lập, nhận chuyển nhượng toàn bộ phần vốn góp của toàn bộ thành viên hợp danh là công chứng viên của Văn phòng công chứng được tổ chức và hoạt động theo loại hình công ty hợp danh mà không tham gia hợp danh vào Văn phòng công chứng đó; góp vốn, nhận vốn góp, hợp tác với tổ chức, cá nhân không phải là công chứng viên để thành lập, nhận chuyển nhượng toàn bộ phần vốn góp của toàn bộ thành viên hợp danh là công chứng viên của Văn phòng công chứng được tổ chức và hoạt động theo loại hình công ty hợp danh; đầu tư để thành lập hoặc mua Văn phòng công chứng được tổ chức và hoạt động theo loại hình doanh nghiệp tư nhân mà không làm Trưởng Văn phòng công chứng đó.
+2. Nghiêm cấm tổ chức hành nghề công chứng thực hiện các hành vi sau đây:
+a) Thực hiện các hành vi quy định tại các điểm a, b, d, đ, e, g, i và l khoản 1 Điều này; 
+b) Mở chi nhánh, văn phòng đại diện, cơ sở, địa điểm giao dịch khác ngoài trụ sở của tổ chức hành nghề công chứng; 
+c) Cho người không đủ điều kiện hành nghề công chứng hoặc công chứng viên đang bị tạm đình chỉ hành nghề công chứng thực hiện việc công chứng, chứng thực tại tổ chức mình;
+d) Cho công chứng viên thực hiện việc công chứng, chứng thực tại tổ chức mình khi tổ chức hành nghề công chứng bị thu hồi quyết định cho phép thành lập.
+3. Nghiêm cấm cá nhân, tổ chức thực hiện các hành vi sau đây:
+a) Giả mạo công chứng viên, người yêu cầu công chứng, người làm chứng, người phiên dịch;
+b) Cung cấp thông tin, tài liệu sai sự thật; tiết lộ hoặc sử dụng thông tin mà mình biết được trong hoạt động công chứng theo quy định tại điểm a khoản 1 Điều này; sử dụng giấy tờ, văn bản giả mạo hoặc bị tẩy xóa, sửa chữa trái pháp luật để yêu cầu công chứng hoặc để đề nghị bổ nhiệm, bổ nhiệm lại công chứng viên;
+c) Có hành vi gian dối, không trung thực trong quá trình yêu cầu công chứng, làm chứng, phiên dịch;
+d) Cản trở hoạt động công chứng; từ chối cung cấp thông tin, tài liệu phục vụ việc công chứng trái quy định của pháp luật; từ chối thực hiện các thủ tục pháp lý liên quan đến giao dịch được công chứng mà không có căn cứ pháp lý;
+đ) Cá nhân không phải là công chứng viên, tổ chức không phải là tổ chức hành nghề công chứng đầu tư toàn bộ, góp vốn, nhận góp vốn, liên kết, hợp tác chia lợi nhuận trong hoạt động công chứng; cung cấp dịch vụ công chứng; đặt tên tổ chức, doanh nghiệp, hợp tác xã, liên hiệp hợp tác xã, treo biển quảng cáo hoặc thực hiện các hành vi quảng cáo khác có nội dung cung cấp dịch vụ công chứng hoặc nội dung dịch vụ gây nhầm lẫn với dịch vụ công chứng. 
+Chương II
+CÔNG CHỨNG VIÊN
+Điều 8. Tiêu chuẩn bổ nhiệm công chứng viên 
+Người có đủ các tiêu chuẩn sau đây thì được xem xét bổ nhiệm công chứng viên:
+1. Là công dân Việt Nam không quá 70 tuổi;
+2. Thường trú tại Việt Nam, tuân thủ Hiến pháp và pháp luật, có phẩm chất đạo đức tốt và bảo đảm sức khỏe để hành nghề công chứng; 
+3. Có bằng cử nhân luật, thạc sĩ luật hoặc tiến sĩ luật;
+4. Có thời gian công tác pháp luật từ đủ 03 năm trở lên tại các cơ quan, tổ chức sau khi đã có bằng cử nhân luật, thạc sĩ luật hoặc tiến sĩ luật;
+5. Tốt nghiệp khóa đào tạo nghề công chứng;
+6. Đạt yêu cầu kiểm tra kết quả tập sự hành nghề công chứng.
+Điều 9. Đào tạo nghề công chứng
+1. Người có bằng cử nhân luật, thạc sĩ luật hoặc tiến sĩ luật được đăng ký tham dự khóa đào tạo nghề công chứng tại cơ sở đào tạo nghề công chứng.
+2. Thời gian đào tạo nghề công chứng là 12 tháng, trừ trường hợp quy định tại khoản 3 Điều này.
+3. Những người sau đây có thời gian đào tạo nghề công chứng là 06 tháng:
+a) Người đã có thời gian từ đủ 05 năm trở lên làm thẩm phán, kiểm sát viên, điều tra viên, thẩm tra viên chính ngành Tòa án, chấp hành viên trung cấp, thẩm tra viên chính thi hành án dân sự, kiểm tra viên chính ngành kiểm sát, trợ giúp viên pháp lý hạng II, thanh tra viên chính ngành tư pháp, chuyên viên chính, pháp chế viên chính, nghiên cứu viên chính, giảng viên chính trong lĩnh vực pháp luật;
+b) Thừa phát lại, luật sư, đấu giá viên đã hành nghề từ đủ 05 năm trở lên;
+c) Giáo sư, phó giáo sư chuyên ngành luật, tiến sĩ luật;
+d) Người đã là thẩm tra viên cao cấp ngành toà án; kiểm tra viên cao cấp ngành kiểm sát; thẩm tra viên cao cấp thi hành án dân sự; chấp hành viên cao cấp thi hành án dân sự; trợ giúp viên pháp lý hạng I, thanh tra viên cao cấp ngành tư pháp; chuyên viên cao cấp, pháp chế viên cao cấp, nghiên cứu viên cao cấp, giảng viên cao cấp trong lĩnh vực pháp luật.
+4. Người hoàn thành chương trình đào tạo nghề công chứng được cơ sở đào tạo nghề công chứng cấp giấy chứng nhận tốt nghiệp khóa đào tạo nghề công chứng.
+5. Chính phủ quy định về cơ sở đào tạo nghề công chứng. 
+6. Bộ trưởng Bộ Tư pháp quy định về chương trình khung đào tạo nghề công chứng và việc công nhận tương đương đối với người được đào tạo nghề công chứng ở nước ngoài.
+Điều 10. Tập sự hành nghề công chứng
+1. Người có giấy chứng nhận tốt nghiệp khóa đào tạo nghề công chứng tự liên hệ với tổ chức hành nghề công chứng theo quy định tại khoản 2 Điều này để tập sự hành nghề công chứng; trường hợp không liên hệ tập sự được thì đề nghị Sở Tư pháp bố trí tập sự.
+Người tập sự phải đăng ký tập sự tại Sở Tư pháp ở địa phương nơi có tổ chức hành nghề công chứng nhận tập sự. 
+Thời gian tập sự hành nghề công chứng là 12 tháng, được tính từ ngày quyết định đăng ký tập sự có hiệu lực.
+2. Tổ chức hành nghề công chứng nhận tập sự phải có công chứng viên đủ điều kiện hướng dẫn tập sự theo quy định tại khoản 3 Điều này và có cơ sở vật chất bảo đảm cho việc tập sự. 
+3. Công chứng viên được phân công hướng dẫn tập sự phải có từ đủ 02 năm kinh nghiệm hành nghề công chứng trở lên. Công chứng viên bị xử lý kỷ luật, xử phạt vi phạm hành chính trong hoạt động hành nghề công chứng thì sau 12 tháng kể từ ngày chấp hành xong quyết định kỷ luật, quyết định xử phạt vi phạm hành chính mới được hướng dẫn tập sự hành nghề công chứng. Công chứng viên đang hướng dẫn tập sự mà bị xử lý kỷ luật, xử phạt vi phạm hành chính trong hoạt động hành nghề công chứng, bị tạm đình chỉ hành nghề công chứng, chết hoặc bị Tòa án tuyên bố là đã chết, mất tích thì tổ chức hành nghề công chứng phân công công chứng viên khác đủ điều kiện tiếp tục hướng dẫn tập sự; trường hợp không còn công chứng viên đủ điều kiện hướng dẫn tập sự thì tổ chức hành nghề công chứng báo cáo Sở Tư pháp để chỉ định tổ chức hành nghề công chứng khác nhận người tập sự.
+Tại cùng một thời điểm, một công chứng viên chỉ được hướng dẫn tối đa 02 người tập sự.
+Công chứng viên hướng dẫn tập sự phải hướng dẫn và chịu trách nhiệm về các công việc do người tập sự thực hiện theo hướng dẫn của mình.
+4. Người tập sự hành nghề công chứng phải bảo đảm thời gian tập sự theo ngày, giờ làm việc của tổ chức hành nghề công chứng nhận tập sự; được hướng dẫn các kỹ năng hành nghề và thực hiện các công việc liên quan đến công chứng, chứng thực do công chứng viên hướng dẫn phân công và chịu trách nhiệm trước công chứng viên hướng dẫn về những công việc đó. 
+5. Người đã hoàn thành tập sự được đăng ký tham dự kiểm tra kết quả tập sự hành nghề công chứng; trường hợp đạt yêu cầu kiểm tra thì được cấp giấy chứng nhận kết quả kiểm tra tập sự hành nghề công chứng. Nội dung kiểm tra kết quả tập sự hành nghề công chứng bao gồm: kiến thức pháp luật về công chứng, chứng thực; quy tắc đạo đức hành nghề công chứng; quy định của pháp luật có liên quan đến hoạt động công chứng, chứng thực; kỹ năng hành nghề công chứng, chứng thực.
+Giấy chứng nhận kết quả kiểm tra tập sự hành nghề công chứng không có thời hạn, trừ trường hợp trong thời hạn 05 năm kể từ ngày được cấp giấy chứng nhận kết quả kiểm tra tập sự mà người được cấp giấy không đề nghị bổ nhiệm công chứng viên thì giấy chứng nhận hết hiệu lực; người có giấy chứng nhận hết hiệu lực muốn bổ nhiệm công chứng viên phải đăng ký tham dự và đạt yêu cầu kiểm tra kết quả tập sự. 
+6. Bộ trưởng Bộ Tư pháp quy định chi tiết Điều này.
+Điều 11. Bổ nhiệm công chứng viên
+1. Người đáp ứng đủ tiêu chuẩn quy định tại Điều 8 của Luật này và không thuộc trường hợp không được bổ nhiệm công chứng viên quy định tại các khoản 2, 3, 4, 5, 6, 7 và 8 Điều 12 của Luật này có quyền đề nghị Bộ trưởng Bộ Tư pháp bổ nhiệm công chứng viên. 
+2. Hồ sơ đề nghị bổ nhiệm công chứng viên được lập thành 01 bộ, nộp trực tuyến, trực tiếp hoặc gửi qua đường bưu chính về Sở Tư pháp nơi người đề nghị bổ nhiệm công chứng viên đã đăng ký tập sự hành nghề công chứng. 
+Hồ sơ gồm các giấy tờ sau đây:
+a) Đơn đề nghị bổ nhiệm công chứng viên theo mẫu do Bộ trưởng Bộ Tư pháp quy định;
+b) Giấy tờ chứng minh thời gian công tác pháp luật theo quy định của Bộ trưởng Bộ Tư pháp; trường hợp người đề nghị bổ nhiệm thuộc đối tượng quy định tại khoản 5 và khoản 6 Điều 12 của Luật này thì phải có giấy tờ chứng minh đã miễn nhiệm, đã thu hồi chứng chỉ hành nghề hoặc không còn thuộc các trường hợp này;
+c) Giấy khám sức khoẻ do cơ sở khám bệnh, chữa bệnh có thẩm quyền cấp theo quy định của pháp luật về khám bệnh, chữa bệnh.
+3. Trong thời hạn 25 ngày kể từ ngày nhận đủ hồ sơ hợp lệ, Sở Tư pháp có trách nhiệm kiểm tra, xác minh thông tin trong hồ sơ đề nghị bổ nhiệm công chứng viên, cấp theo thẩm quyền hoặc yêu cầu cơ quan khác có thẩm quyền cấp Phiếu lý lịch tư pháp số 2 của người đề nghị bổ nhiệm công chứng viên theo trình tự, thủ tục của pháp luật về lý lịch tư pháp. Sở Tư pháp có văn bản đề nghị Bộ trưởng Bộ Tư pháp bổ nhiệm công chứng viên kèm theo hồ sơ đề nghị bổ nhiệm đối với trường hợp đủ tiêu chuẩn theo quy định của Luật này; trường hợp từ chối đề nghị thì phải thông báo bằng văn bản có nêu rõ lý do, gửi cho người đề nghị bổ nhiệm. 
+4. Trong thời hạn 15 ngày kể từ ngày nhận đủ văn bản đề nghị của Sở Tư pháp và hồ sơ hợp lệ, Bộ trưởng Bộ Tư pháp xem xét, quyết định bổ nhiệm công chứng viên; trường hợp từ chối bổ nhiệm phải thông báo bằng văn bản có nêu rõ lý do, gửi cho Sở Tư pháp và người đề nghị bổ nhiệm. 
+Trong trường hợp thông tin trong hồ sơ đề nghị bổ nhiệm chưa đầy đủ, chưa thống nhất hoặc cần xác minh, Bộ trưởng Bộ Tư pháp yêu cầu cơ quan, tổ chức, cá nhân bổ sung, làm rõ hoặc quyết định xác minh thông tin trong hồ sơ. Thời hạn 15 ngày quy định tại khoản này được tính từ ngày Bộ trưởng Bộ Tư pháp nhận được kết quả bổ sung, làm rõ, xác minh hồ sơ.
+Điều 12. Những trường hợp không được bổ nhiệm công chứng viên
+1. Người không đủ tiêu chuẩn bổ nhiệm công chứng viên theo quy định tại Điều 8 của Luật này.
+2. Người đang bị truy cứu trách nhiệm hình sự; người đã bị kết án về tội phạm do vô ý mà chưa được xóa án tích; người đã bị kết án về tội phạm do cố ý, kể cả trường hợp đã được xóa án tích.
+3. Người đang bị áp dụng biện pháp xử lý hành chính giáo dục tại xã, phường, thị trấn, đưa vào cơ sở giáo dục bắt buộc, cơ sở cai nghiện bắt buộc.
+4. Người bị mất năng lực hành vi dân sự hoặc bị hạn chế năng lực hành vi dân sự; người có khó khăn trong nhận thức, làm chủ hành vi.
+5. Người đang là cán bộ, công chức, viên chức, trừ viên chức của Phòng công chứng; đang là sĩ quan, hạ sĩ quan, chiến sĩ, quân nhân chuyên nghiệp, công nhân, viên chức trong cơ quan, đơn vị thuộc Quân đội nhân dân, sĩ quan, hạ sĩ quan, chiến sĩ, công nhân trong cơ quan, đơn vị thuộc Công an nhân dân.
+6. Người đang là thừa phát lại, luật sư, đấu giá viên, quản tài viên, tư vấn viên pháp luật, thẩm định viên về giá hoặc đang kiêm nhiệm các công việc theo quy định tại điểm h khoản 1 Điều 7 của Luật này. 
+7. Cán bộ bị kỷ luật bằng hình thức bãi nhiệm; công chức, viên chức bị kỷ luật bằng hình thức buộc thôi việc; sĩ quan, hạ sĩ quan, chiến sĩ, quân nhân chuyên nghiệp, công nhân, viên chức trong cơ quan, đơn vị thuộc Quân đội nhân dân, sĩ quan, hạ sĩ quan, chiến sĩ, công nhân trong cơ quan, đơn vị thuộc Công an nhân dân bị kỷ luật bằng hình thức tước danh hiệu quân nhân, danh hiệu Công an nhân dân hoặc buộc thôi việc.
+8. Thừa phát lại, luật sư, đấu giá viên, quản tài viên, tư vấn viên pháp luật, thẩm định viên về giá bị miễn nhiệm hoặc bị thu hồi chứng chỉ hành nghề do vi phạm pháp luật mà chưa hết thời hạn 03 năm kể từ ngày quyết định miễn nhiệm hoặc quyết định thu hồi chứng chỉ hành nghề có hiệu lực. 
+Điều 13. Tạm đình chỉ hành nghề công chứng
+1. Công chứng viên bị tạm đình chỉ hành nghề công chứng trong các trường hợp sau đây:
+a) Bị truy cứu trách nhiệm hình sự;
+b) Bị áp dụng các biện pháp xử lý hành chính theo quy định tại khoản 3 Điều 12 của Luật này.
+Trong thời hạn 05 ngày làm việc kể từ ngày nhận được quyết định truy cứu trách nhiệm hình sự hoặc quyết định áp dụng biện pháp xử lý hành chính đối với công chứng viên, Sở Tư pháp nơi cấp thẻ công chứng viên ra quyết định tạm đình chỉ hành nghề công chứng.
+2. Thời gian tạm đình chỉ hành nghề công chứng tối đa là 12 tháng.
+3. Việc tạm đình chỉ hành nghề công chứng được chấm dứt trước thời hạn đối với công chứng viên trong các trường hợp sau đây:
+a) Có quyết định đình chỉ điều tra, đình chỉ vụ án, bản án đã có hiệu lực của Tòa án tuyên không có tội; 
+b) Không còn bị áp dụng biện pháp xử lý hành chính.
+Trong thời hạn 05 ngày làm việc kể từ ngày nhận được văn bản đề nghị của công chứng viên kèm theo giấy tờ chứng minh về việc chấm dứt việc tạm đình chỉ hành nghề công chứng, Sở Tư pháp ra quyết định chấm dứt việc tạm đình chỉ hành nghề công chứng.
+4. Quyết định tạm đình chỉ hành nghề công chứng và quyết định chấm dứt việc tạm đình chỉ hành nghề công chứng được gửi cho công chứng viên, tổ chức hành nghề công chứng, Hội công chứng viên, Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương (sau đây gọi là Ủy ban nhân dân cấp tỉnh) nơi công chứng viên hành nghề, đồng thời được đăng tải trên Cổng thông tin điện tử hoặc Trang thông tin điện tử của Sở Tư pháp và Cổng thông tin điện tử của Bộ Tư pháp.
+Điều 14. Miễn nhiệm công chứng viên
+1. Công chứng viên được miễn nhiệm theo nguyện vọng cá nhân hoặc được chuyển làm công việc khác theo quyết định của cơ quan có thẩm quyền.
+Công chứng viên đương nhiên được miễn nhiệm khi quá 70 tuổi.
+2. Công chứng viên bị miễn nhiệm trong các trường hợp sau đây:
+a) Không còn đủ các tiêu chuẩn quy định tại Điều 8 của Luật này, trừ trường hợp đương nhiên được miễn nhiệm quy định tại khoản 1 Điều này;
+b) Thuộc trường hợp quy định tại khoản 4 Điều 12 của Luật này;
+c) Được tuyển dụng, bổ nhiệm, điều động giữ một trong các vị trí công tác quy định tại khoản 5 Điều 12 của Luật này, trừ trường hợp đã được miễn nhiệm theo quy định tại khoản 1 Điều này;
+d) Đồng thời hành nghề tại 02 tổ chức hành nghề công chứng trở lên; đồng thời là thừa phát lại, luật sư, đấu giá viên, quản tài viên, tư vấn viên pháp luật, thẩm định viên về giá hoặc kiêm nhiệm các công việc theo quy định tại điểm h khoản 1 Điều 7 của Luật này;
+đ) Không hành nghề công chứng trong thời hạn 12 tháng kể từ ngày được bổ nhiệm, bổ nhiệm lại công chứng viên hoặc không hành nghề công chứng liên tục từ 12 tháng trở lên, trừ trường hợp không hành nghề do bị tạm đình chỉ hành nghề công chứng theo quy định tại Điều 13 của Luật này, Văn phòng công chứng bị tạm ngừng hoạt động theo quy định tại điểm b khoản 1 Điều 30 của Luật này;
+e) Hết thời hạn tạm đình chỉ hành nghề công chứng quy định tại khoản 2 Điều 13 của Luật này mà lý do tạm đình chỉ vẫn còn;
+g) Bị xử phạt vi phạm hành chính từ 02 lần trở lên về hoạt động hành nghề công chứng trong thời hạn 12 tháng; hành nghề công chứng khi chưa đủ điều kiện hành nghề công chứng hoặc trong thời gian bị tạm đình chỉ hành nghề công chứng; 
+h) Bị xử lý kỷ luật từ 02 lần trở lên trong thời hạn 12 tháng hoặc bị kỷ luật buộc thôi việc; 
+i) Bị kết tội bằng bản án đã có hiệu lực pháp luật của Tòa án;
+k) Thuộc các trường hợp không đủ tiêu chuẩn bổ nhiệm công chứng viên tại thời điểm được bổ nhiệm.
+3. Khi có nguyện vọng được miễn nhiệm hoặc trong thời hạn 03 tháng kể từ ngày có quyết định chuyển làm công việc khác theo quy định tại khoản 1 Điều này, công chứng viên lập 01 bộ hồ sơ đề nghị được miễn nhiệm, nộp trực tuyến, trực tiếp hoặc gửi qua đường bưu chính về Sở Tư pháp nơi công chứng viên được cấp thẻ hoặc Sở Tư pháp nơi đã đề nghị bổ nhiệm đối với công chứng viên chưa được cấp thẻ. 
+Hồ sơ gồm các giấy tờ sau đây:
+a) Đơn đề nghị được miễn nhiệm theo mẫu do Bộ trưởng Bộ Tư pháp ban hành, kèm theo giấy tờ chứng minh lý do đề nghị được miễn nhiệm;
+b) Bản sao quyết định bổ nhiệm công chứng viên.
+Trong thời hạn 15 ngày kể từ ngày nhận đủ hồ sơ hợp lệ, Sở Tư pháp có văn bản đề nghị Bộ trưởng Bộ Tư pháp miễn nhiệm công chứng viên, kèm theo hồ sơ đề nghị được miễn nhiệm; trường hợp từ chối phải thông báo bằng văn bản có nêu rõ lý do. 
+4. Sở Tư pháp có trách nhiệm rà soát, kiểm tra việc bảo đảm tiêu chuẩn hành nghề của công chứng viên tại địa phương mình. 
+Trong thời hạn 15 ngày kể từ ngày có căn cứ cho rằng công chứng viên thuộc trường hợp bị miễn nhiệm quy định tại khoản 2 Điều này, Sở Tư pháp có văn bản đề nghị Bộ trưởng Bộ Tư pháp miễn nhiệm công chứng viên, kèm theo các tài liệu liên quan làm căn cứ cho việc đề nghị miễn nhiệm.
+Hằng năm, Sở Tư pháp có trách nhiệm thống kê danh sách công chứng viên đương nhiên được miễn nhiệm để báo cáo Bộ Tư pháp.
+5. Trong thời hạn 15 ngày kể từ ngày nhận đủ hồ sơ hợp lệ quy định tại khoản 3 hoặc khoản 4 Điều này, Bộ trưởng Bộ Tư pháp xem xét, quyết định việc miễn nhiệm công chứng viên; trường hợp từ chối phải thông báo bằng văn bản có nêu rõ lý do. 
+Đối với công chứng viên thuộc một trong các trường hợp quy định tại khoản 2 Điều này mà Sở Tư pháp không đề nghị miễn nhiệm thì Bộ trưởng Bộ Tư pháp tự mình xem xét, quyết định việc miễn nhiệm. 
+Điều 15. Bổ nhiệm lại công chứng viên
+1. Người được miễn nhiệm công chứng viên do chuyển làm công việc khác theo quyết định của cơ quan có thẩm quyền được xem xét bổ nhiệm lại công chứng viên khi đáp ứng tiêu chuẩn quy định tại khoản 1 và khoản 2 Điều 8 của Luật này; trường hợp được miễn nhiệm theo nguyện vọng cá nhân thì chỉ được đề nghị bổ nhiệm lại khi đáp ứng đủ tiêu chuẩn quy định tại Điều 8 của Luật này và đã hết thời hạn 01 năm kể từ ngày quyết định miễn nhiệm công chứng viên có hiệu lực thi hành.
+2. Người đã bị miễn nhiệm công chứng viên theo quy định tại khoản 2 Điều 14 của Luật này được xem xét bổ nhiệm lại công chứng viên khi có đủ tiêu chuẩn theo quy định tại Điều 8 của Luật này, đã hết thời hạn 02 năm kể từ ngày quyết định miễn nhiệm công chứng viên có hiệu lực thi hành và lý do miễn nhiệm không còn, trừ các trường hợp quy định tại khoản 3 Điều này.
+3. Người thuộc một trong các trường hợp sau đây thì không được bổ nhiệm lại công chứng viên:
+a) Bị miễn nhiệm công chứng viên do bị kết án về tội phạm do vô ý mà chưa được xóa án tích; do bị kết án về tội phạm do cố ý, kể cả trường hợp đã được xóa án tích; 
+b) Bị miễn nhiệm công chứng viên do hành nghề công chứng khi chưa đủ điều kiện hành nghề công chứng hoặc trong thời gian bị tạm đình chỉ hành nghề công chứng;
+c) Thuộc các trường hợp không được bổ nhiệm công chứng viên theo quy định tại Điều 12 của Luật này tại thời điểm đề nghị bổ nhiệm lại công chứng viên. 
+4. Thẩm quyền, thủ tục bổ nhiệm lại công chứng viên được thực hiện theo quy định tại Điều 11 của Luật này. Hồ sơ đề nghị bổ nhiệm lại công chứng viên được lập thành 01 bộ, nộp trực tuyến, trực tiếp hoặc gửi qua đường bưu chính về Sở Tư pháp nơi đã đề nghị miễn nhiệm công chứng viên. 
+Hồ sơ gồm các giấy tờ sau đây:
+a) Đơn đề nghị bổ nhiệm lại công chứng viên theo mẫu do Bộ trưởng Bộ Tư pháp quy định;
+b) Các giấy tờ chứng minh đủ điều kiện bổ nhiệm lại quy định tại khoản 1 hoặc khoản 2 Điều này.
+Điều 16. Quyền và nghĩa vụ của công chứng viên
+1. Công chứng viên có các quyền sau đây:
+a) Được bảo đảm quyền hành nghề công chứng;
+b) Tham gia thành lập Văn phòng công chứng, tham gia hợp danh vào Văn phòng công chứng hoặc làm việc theo chế độ hợp đồng làm việc, hợp đồng lao động cho tổ chức hành nghề công chứng;
+c) Được công chứng giao dịch theo quy định của Luật này và quy định khác của pháp luật có liên quan; được chứng thực bản sao từ bản chính, chứng thực chữ ký trong giấy tờ, văn bản, chứng thực chữ ký người dịch theo quy định của pháp luật về chứng thực; 
+d) Đề nghị cá nhân, cơ quan, tổ chức có liên quan cung cấp thông tin, tài liệu, được khai thác, sử dụng thông tin từ các cơ sở dữ liệu theo quy định của pháp luật để thực hiện việc công chứng;
+đ) Các quyền khác theo quy định của Luật này và quy định khác của pháp luật có liên quan.
+2. Công chứng viên có các nghĩa vụ sau đây:
+a) Tuân thủ các nguyên tắc hành nghề công chứng; 
+b) Tôn trọng và bảo vệ quyền, lợi ích hợp pháp của người yêu cầu công chứng;
+c) Hành nghề tại một tổ chức hành nghề công chứng; bảo đảm thời gian làm việc theo ngày, giờ làm việc của tổ chức hành nghề công chứng;
+d) Hướng dẫn người yêu cầu công chứng thực hiện đúng các quy định về thủ tục công chứng và các quy định pháp luật có liên quan; giải thích cho người yêu cầu công chứng hiểu rõ quyền, nghĩa vụ và lợi ích hợp pháp của họ, ý nghĩa và hậu quả pháp lý của việc công chứng;
+đ) Từ chối công chứng trong trường hợp giao dịch vi phạm pháp luật, trái đạo đức xã hội và các trường hợp khác theo quy định của Luật này; giải thích rõ lý do từ chối công chứng;
+e) Giữ bí mật về nội dung công chứng, trừ trường hợp được người yêu cầu công chứng đồng ý bằng văn bản hoặc pháp luật có quy định khác;
+g) Tham gia bồi dưỡng nghiệp vụ công chứng hằng năm;
+h) Gia nhập Hội công chứng viên tại địa phương nơi muốn hành nghề và duy trì tư cách hội viên trong suốt quá trình hành nghề công chứng tại địa phương đó;
+i) Chịu sự quản lý của cơ quan nhà nước có thẩm quyền, tổ chức hành nghề công chứng mà mình làm công chứng viên và tổ chức xã hội - nghề nghiệp của công chứng viên mà mình là thành viên;
+k) Chịu trách nhiệm trước pháp luật và trước người yêu cầu công chứng về văn bản công chứng mà mình thực hiện; 
+l) Chịu trách nhiệm trước pháp luật về hoạt động của Văn phòng công chứng mà mình là thành viên hợp danh hoặc chủ doanh nghiệp tư nhân;
+m) Các nghĩa vụ khác theo quy định của Luật này và quy định khác của pháp luật có liên quan.
+Chương III
+ TỔ CHỨC HÀNH NGHỀ CÔNG CHỨNG
+Điều 17. Phòng công chứng
+1. Phòng công chứng do Ủy ban nhân dân cấp tỉnh quyết định thành lập.
+2. Phòng công chứng là đơn vị sự nghiệp công lập thuộc Sở Tư pháp, có trụ sở, con dấu và tài khoản riêng, được tổ chức và hoạt động theo quy định của Luật này và pháp luật về đơn vị sự nghiệp công lập và đáp ứng các điều kiện sau đây:
+a) Có từ 02 công chứng viên trở lên; tại các địa bàn cấp huyện có mật độ dân số thấp, cơ sở hạ tầng và dịch vụ chưa phát triển thì Phòng công chứng có thể có 01 công chứng viên;
+b) Có trụ sở đáp ứng các điều kiện do Chính phủ quy định.
+3. Người đại diện theo pháp luật của Phòng công chứng là Trưởng Phòng công chứng, do Giám đốc Sở Tư pháp bổ nhiệm, miễn nhiệm, cách chức theo quy định của pháp luật. Trưởng Phòng công chứng phải là công chứng viên và đã hành nghề công chứng từ đủ 02 năm trở lên.  
+4. Tên của Phòng công chứng bao gồm cụm từ “Phòng công chứng” kèm theo số thứ tự thành lập và tên của tỉnh, thành phố trực thuộc trung ương nơi Phòng công chứng được thành lập.
+5. Con dấu của Phòng công chứng không có hình quốc huy. Phòng công chứng được khắc và sử dụng con dấu sau khi có quyết định thành lập. Thủ tục, hồ sơ đề nghị khắc dấu được thực hiện theo quy định của pháp luật về con dấu.
+6. Công chứng viên của Phòng công chứng chỉ được tham gia thành lập Văn phòng công chứng mới hoặc làm thành viên hợp danh của Văn phòng công chứng khác hoặc đề nghị thành lập Văn phòng công chứng được tổ chức và hoạt động theo loại hình doanh nghiệp tư nhân sau thời hạn ít nhất 02 năm kể từ ngày không còn là công chứng viên của Phòng công chứng, trừ trường hợp là công chứng viên của Phòng công chứng được chuyển đổi thành Văn phòng công chứng hoặc Phòng công chứng giải thể hoặc công chứng viên nghỉ hưu theo quy định của pháp luật.
+Điều 18. Thành lập Phòng công chứng
+1. Sở Tư pháp chủ trì, phối hợp với Sở Kế hoạch và Đầu tư, Sở Tài chính, Sở Nội vụ xây dựng Đề án thành lập Phòng công chứng trình Ủy ban nhân dân cấp tỉnh xem xét, quyết định. Đề án phải nêu rõ sự cần thiết thành lập Phòng công chứng, dự kiến về tổ chức, tên, nhân sự, địa điểm đặt trụ sở, các điều kiện vật chất và kế hoạch triển khai thực hiện.
+Phòng công chứng chỉ được thành lập mới tại những địa bàn cấp huyện chưa phát triển được Văn phòng công chứng đáp ứng yêu cầu công chứng của cá nhân, tổ chức. 
+Công chứng viên của Phòng công chứng được hành nghề kể từ khi có quyết định thành lập Phòng công chứng hoặc khi Phòng công chứng bổ sung công chứng viên.
+2. Trong thời hạn 30 ngày kể từ ngày Ủy ban nhân dân cấp tỉnh ra quyết định thành lập Phòng công chứng, Sở Tư pháp phải đăng báo trung ương hoặc báo địa phương nơi có trụ sở của Phòng công chứng trong 03 số liên tiếp về các nội dung sau đây:
+a) Tên, địa chỉ trụ sở của Phòng công chứng;
+b) Số, ngày, tháng, năm ra quyết định thành lập và ngày bắt đầu hoạt động của Phòng công chứng.
+3. Trường hợp Ủy ban nhân dân cấp tỉnh quyết định thay đổi tên hoặc địa chỉ trụ sở của Phòng công chứng thì Sở Tư pháp phải đăng báo những nội dung thay đổi đó theo quy định tại khoản 2 Điều này.
+Điều 19. Chuyển đổi, giải thể Phòng công chứng
+1. Trường hợp địa phương đã phát triển được Văn phòng công chứng đáp ứng yêu cầu công chứng của cá nhân, tổ chức và căn cứ vào quy định của pháp luật có liên quan, Sở Tư pháp lập đề án chuyển đổi Phòng công chứng thành Văn phòng công chứng trình Ủy ban nhân dân cấp tỉnh xem xét, quyết định. 
+Chính phủ quy định chi tiết việc chuyển đổi Phòng công chứng thành Văn phòng công chứng.
+2. Trường hợp không có khả năng chuyển đổi Phòng công chứng thành Văn phòng công chứng thì Sở Tư pháp lập đề án giải thể Phòng công chứng trình Ủy ban nhân dân cấp tỉnh xem xét, quyết định. 
+Trình tự, thủ tục giải thể Phòng công chứng thực hiện theo quy định của pháp luật về đơn vị sự nghiệp công lập. Phòng công chứng chỉ được giải thể sau khi thanh toán xong các khoản nợ, làm xong thủ tục chấm dứt hợp đồng lao động đã ký với người lao động, thực hiện xong các yêu cầu công chứng đã tiếp nhận. Trong thời hạn 15 ngày kể từ ngày Ủy ban nhân dân cấp tỉnh ra quyết định giải thể Phòng công chứng, Sở Tư pháp phải đăng báo trung ương hoặc báo địa phương nơi có trụ sở của Phòng công chứng trong 03 số liên tiếp về việc giải thể Phòng công chứng.
+Điều 20. Văn phòng công chứng
+Phương án 1:
+1. Văn phòng công chứng được tổ chức và hoạt động theo quy định của Luật này và các quy định khác của pháp luật có liên quan đối với loại hình công ty hợp danh; tại các địa bàn cấp huyện có mật độ dân số thấp, cơ sở hạ tầng và dịch vụ chưa phát triển và khó khăn trong việc thành lập Văn phòng công chứng theo loại hình công ty hợp danh theo quy định của Chính phủ, Văn phòng công chứng được tổ chức và hoạt động theo loại hình công ty hợp danh và doanh nghiệp tư nhân. 
+2. Văn phòng công chứng được tổ chức và hoạt động theo loại hình công ty hợp danh phải có từ 02 thành viên hợp danh trở lên và không có thành viên góp vốn. Các thành viên hợp danh phải là công chứng viên và có quyền ngang nhau khi quyết định các vấn đề của Văn phòng công chứng. Trưởng Văn phòng công chứng phải là thành viên hợp danh của Văn phòng công chứng và đã hành nghề công chứng từ đủ 02 năm trở lên. 
+Văn phòng công chứng được tổ chức và hoạt động theo loại hình doanh nghiệp tư nhân thì chủ doanh nghiệp tư nhân đồng thời là Trưởng Văn phòng công chứng và phải là công chứng viên đã hành nghề công chứng từ đủ 02 năm trở lên.
+3. Trưởng Văn phòng công chứng là người đại diện theo pháp luật của Văn phòng công chứng, thực hiện việc quản lý và điều hành hoạt động của Văn phòng công chứng; không được thuê người khác điều hành Văn phòng công chứng, không được cho thuê Văn phòng công chứng. 
+4. Tên của Văn phòng công chứng bao gồm cụm từ “Văn phòng công chứng” và tên riêng bằng tiếng Việt do các thành viên hợp danh là công chứng viên của Văn phòng công chứng được tổ chức và hoạt động theo loại hình công ty hợp danh thỏa thuận lựa chọn hoặc công chứng viên là Trưởng Văn phòng công chứng được tổ chức và hoạt động theo loại hình doanh nghiệp tư nhân lựa chọn, bảo đảm các yêu cầu sau đây:
+a) Không được sử dụng tên cơ quan nhà nước, đơn vị lực lượng vũ trang nhân dân, tên của tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức chính trị xã hội - nghề nghiệp, tổ chức xã hội, tổ chức xã hội - nghề nghiệp để làm toàn bộ hoặc một phần tên riêng của Văn phòng công chứng; 
+b) Không được trùng hoặc gây nhầm lẫn với tên của tổ chức hành nghề công chứng khác đang hoạt động trong phạm vi toàn quốc;
+c) Không được sử dụng từ ngữ, ký hiệu vi phạm truyền thống lịch sử, văn hoá, đạo đức và thuần phong mỹ tục của dân tộc.
+5. Văn phòng công chứng phải có trụ sở đáp ứng các điều kiện do Chính phủ quy định.
+Văn phòng công chứng có con dấu và tài khoản riêng, hoạt động theo nguyên tắc tự chủ về tài chính bằng nguồn thu từ phí công chứng, giá dịch vụ theo yêu cầu liên quan đến việc công chứng và các nguồn thu hợp pháp khác theo quy định của pháp luật.
+6. Con dấu của Văn phòng công chứng không có hình quốc huy. Văn phòng công chứng được khắc và sử dụng con dấu sau khi được cấp giấy đăng ký hoạt động. Thủ tục, hồ sơ đề nghị khắc dấu được thực hiện theo quy định của pháp luật về con dấu.
+Phương án 2:
+1. Văn phòng công chứng được tổ chức và hoạt động theo quy định của Luật này và các quy định khác của pháp luật có liên quan đối với loại hình công ty hợp danh. 
+Văn phòng công chứng phải có từ 02 thành viên hợp danh trở lên và không có thành viên góp vốn. Các thành viên hợp danh phải là công chứng viên và có quyền ngang nhau khi quyết định các vấn đề của Văn phòng công chứng.
+2. Trưởng Văn phòng công chứng phải là thành viên hợp danh của Văn phòng công chứng và đã hành nghề công chứng từ đủ 02 năm trở lên. Trưởng Văn phòng công chứng là người đại diện theo pháp luật của Văn phòng công chứng, thực hiện việc quản lý và điều hành hoạt động của Văn phòng công chứng. 
+3. Tên của Văn phòng công chứng bao gồm cụm từ “Văn phòng công chứng” và tên riêng bằng tiếng Việt, bảo đảm các yêu cầu sau đây:
+a) Không được sử dụng tên cơ quan nhà nước, đơn vị lực lượng vũ trang nhân dân, tên của tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức chính trị xã hội - nghề nghiệp, tổ chức xã hội, tổ chức xã hội - nghề nghiệp để làm toàn bộ hoặc một phần tên riêng của Văn phòng công chứng; 
+b) Không được trùng hoặc gây nhầm lẫn với tên của tổ chức hành nghề công chứng khác đang hoạt động trong phạm vi toàn quốc;
+c) Không được sử dụng từ ngữ, ký hiệu vi phạm truyền thống lịch sử, văn hoá, đạo đức và thuần phong mỹ tục của dân tộc.
+4. Văn phòng công chứng phải có trụ sở đáp ứng các điều kiện do Chính phủ quy định.
+Văn phòng công chứng có con dấu và tài khoản riêng, hoạt động theo nguyên tắc tự chủ về tài chính bằng nguồn thu từ phí công chứng, giá dịch vụ theo yêu cầu liên quan đến việc công chứng và các nguồn thu hợp pháp khác theo quy định của pháp luật.
+5. Con dấu của Văn phòng công chứng không có hình quốc huy. Văn phòng công chứng được khắc và sử dụng con dấu sau khi được cấp giấy đăng ký hoạt động. Thủ tục, hồ sơ đề nghị khắc dấu được thực hiện theo quy định của pháp luật về con dấu.
+Điều 21. Thành lập Văn phòng công chứng
+1. Công chứng viên thành lập Văn phòng công chứng phải có hồ sơ đề nghị thành lập Văn phòng công chứng. Hồ sơ được lập thành 01 bộ, nộp trực tuyến, trực tiếp hoặc gửi qua đường bưu chính về Sở Tư pháp nơi dự kiến thành lập Văn phòng công chứng. 
+Hồ sơ gồm các giấy tờ sau đây: 
+a) Đề án thành lập Văn phòng công chứng, trong đó nêu rõ sự cần thiết thành lập, dự kiến về tổ chức, tên, nhân sự, địa điểm đặt trụ sở, các điều kiện vật chất và kế hoạch triển khai thực hiện; 
+b) Danh sách thành viên hợp danh dự kiến, bản sao quyết định bổ nhiệm công chứng viên của các thành viên này và dự thảo Điều lệ Văn phòng công chứng đối với Văn phòng công chứng được tổ chức và hoạt động theo loại hình công ty hợp danh;
+c) Bản sao quyết định bổ nhiệm công chứng viên của Trưởng Văn phòng công chứng đối với Văn phòng công chứng được tổ chức và hoạt động theo loại hình doanh nghiệp tư nhân;
+d) Giấy tờ chứng minh đã hành nghề công chứng từ đủ 02 năm trở lên đối với công chứng viên dự kiến làm Trưởng Văn phòng công chứng.
+2. Danh sách thành viên hợp danh dự kiến của Văn phòng công chứng quy định tại điểm b khoản 1 Điều này bao gồm: họ, tên; số định danh cá nhân; giá trị và tỷ lệ góp vốn, thời hạn góp vốn và chữ ký của từng công chứng viên. 
+Dự thảo Điều lệ Văn phòng công chứng quy định tại điểm b khoản 1 Điều này gồm các nội dung chủ yếu sau đây: tên, địa chỉ trụ sở của Văn phòng công chứng; họ, tên, địa chỉ liên lạc của các thành viên hợp danh là công chứng viên; tổng vốn điều lệ, tài sản góp vốn, giá trị và tỷ lệ góp vốn của các thành viên hợp danh là công chứng viên; quyền và nghĩa vụ của thành viên hợp danh là công chứng viên; cơ cấu tổ chức của Văn phòng công chứng, quyền và nghĩa vụ của Trưởng Văn phòng và các thành viên hợp danh còn lại là công chứng viên; nguyên tắc trả lương, thu nhập; nguyên tắc giải quyết tranh chấp; thể thức sửa đổi, bổ sung Điều lệ.
+3. Công chứng viên đang là viên chức của Phòng công chứng hoặc thành viên hợp danh của 01 Văn phòng công chứng hoặc là Trưởng Văn phòng công chứng được tổ chức và hoạt động theo loại hình doanh nghiệp tư nhân không được tham gia vào danh sách thành viên hợp danh dự kiến để nộp hồ sơ đề nghị thành lập Văn phòng công chứng mới được tổ chức và hoạt động theo loại hình công ty hợp danh hoặc nộp hồ sơ đề nghị thành lập Văn phòng công chứng mới được tổ chức và hoạt động theo loại hình doanh nghiệp tư nhân. 
+4. Trong thời hạn 20 ngày kể từ ngày nhận đủ hồ sơ đề nghị thành lập Văn phòng công chứng hợp lệ, Sở Tư pháp có văn bản trình Ủy ban nhân dân cấp tỉnh xem xét, quyết định; trường hợp từ chối phải thông báo bằng văn bản có nêu rõ lý do. 
+Trong thời hạn 10 ngày kể từ ngày nhận được văn bản và đủ hồ sơ đề nghị thành lập Văn phòng công chứng hợp lệ của Sở Tư pháp, Ủy ban nhân dân cấp tỉnh xem xét, quyết định cho phép thành lập Văn phòng công chứng; trường hợp từ chối phải thông báo bằng văn bản có nêu rõ lý do.
+5. Văn phòng công chứng thành lập tại các địa bàn có điều kiện kinh tế - xã hội khó khăn, đặc biệt khó khăn được hưởng chính sách ưu đãi về thuế theo quy định của pháp luật về thuế và các chính sách ưu đãi khác theo quy định của Chính phủ.
+Điều 22. Đăng ký hoạt động của Văn phòng công chứng
+1. Trong thời hạn 90 ngày kể từ ngày quyết định cho phép thành lập có hiệu lực thi hành, Văn phòng công chứng phải đăng ký hoạt động tại Sở Tư pháp ở địa phương nơi đã ra quyết định. 
+2. Nội dung đăng ký hoạt động của Văn phòng công chứng bao gồm: 
+a) Tên, loại hình tổ chức của Văn phòng công chứng; 
+b) Địa chỉ trụ sở của Văn phòng công chứng;
+c) Họ, tên, số định danh cá nhân, số quyết định bổ nhiệm công chứng viên của Trưởng Văn phòng công chứng; 
+d) Họ, tên, số định danh cá nhân, số quyết định bổ nhiệm công chứng viên của các thành viên hợp danh đối với Văn phòng công chứng được tổ chức và hoạt động  theo loại hình công ty hợp danh;
+đ) Danh sách công chứng viên làm việc theo chế độ hợp đồng lao động của Văn phòng công chứng (nếu có).
+3. Hồ sơ đăng ký hoạt động của Văn phòng công chứng gồm các giấy tờ sau đây:
+a) Đơn đăng ký hoạt động theo mẫu do Bộ trưởng Bộ Tư pháp quy định;
+b) Giấy tờ chứng minh về trụ sở của Văn phòng công chứng phù hợp với nội dung đã nêu trong đề án thành lập;
+c) 02 ảnh 2cm x 3cm của mỗi thành viên hợp danh là công chứng viên và giấy tờ chứng minh thành viên hợp danh là công chứng viên đã góp vốn theo cam kết theo quy định của Luật Doanh nghiệp;  02 ảnh 2cm x 3cm và giấy tờ chứng minh về vốn đầu tư của công chứng viên là Trưởng Văn phòng công chứng đối với Văn phòng công chứng được tổ chức và hoạt động theo loại hình doanh nghiệp tư nhân;
+d) Bản sao hợp đồng lao động, quyết định bổ nhiệm kèm theo 02 ảnh 2cm x 3cm của mỗi công chứng viên làm việc theo chế độ hợp đồng lao động tại Văn phòng công chứng (nếu có). 
+4. Trong thời hạn 15 ngày kể từ ngày nhận đủ hồ sơ hợp lệ, Sở Tư pháp xem xét, cấp giấy đăng ký hoạt động cho Văn phòng công chứng và cấp thẻ cho công chứng viên của Văn phòng công chứng; trường hợp từ chối phải thông báo bằng văn bản có nêu rõ lý do.
+5. Văn phòng công chứng được hoạt động, công chứng viên của Văn phòng công chứng được hành nghề kể từ ngày Văn phòng công chứng được cấp giấy đăng ký hoạt động. 
+Điều 23. Thay đổi nội dung đăng ký hoạt động của Văn phòng công chứng 
+1. Trong thời hạn 10 ngày kể từ ngày thay đổi một trong các nội dung quy định tại khoản 2 Điều 22 của Luật này, Văn phòng công chứng phải đăng ký nội dung thay đổi tại Sở Tư pháp nơi Văn phòng công chứng đã đăng ký hoạt động. 
+Trường hợp bổ sung thành viên hợp danh là công chứng viên hoặc công chứng viên làm việc theo chế độ hợp đồng lao động của Văn phòng công chứng thì công chứng viên được hành nghề kể từ ngày Văn phòng công chứng được Sở Tư pháp cấp lại giấy đăng ký hoạt động hoặc ghi nhận nội dung thay đổi vào giấy đăng ký hoạt động của Văn phòng công chứng.
+Văn phòng công chứng chỉ được thay đổi địa chỉ trụ sở trong phạm vi địa bàn cấp huyện nơi đặt trụ sở theo quyết định cho phép thành lập của Ủy ban nhân dân cấp tỉnh.
+Việc thay đổi tên của Văn phòng công chứng phải bảo đảm yêu cầu quy định tại khoản 3 Điều 20 của Luật này.
+2. Văn phòng công chứng thay đổi tên, địa chỉ trụ sở, Trưởng Văn phòng công chứng thì được Sở Tư pháp cấp lại giấy đăng ký hoạt động; trường hợp thay đổi các nội dung đăng ký hoạt động khác thì Sở Tư pháp ghi nhận nội dung thay đổi vào giấy đăng ký hoạt động của Văn phòng công chứng. 
+Hồ sơ đề nghị thay đổi nội dung đăng ký hoạt động của Văn phòng công chứng gồm: 
+a) Đơn đề nghị thay đổi nội dung đăng ký hoạt động theo mẫu do Bộ trưởng Bộ Tư pháp quy định; 
+b) Giấy tờ chứng minh nội dung đề nghị thay đổi; trường hợp bổ sung danh sách thành viên hợp danh là công chứng viên thì phải có giấy tờ chứng minh đã nộp đủ số vốn theo thoả thuận và 02 ảnh 2cm x 3cm của mỗi công chứng viên được bổ sung.
+Trong thời hạn 07 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, Sở Tư pháp cấp lại giấy đăng ký hoạt động hoặc ghi nhận nội dung thay đổi vào giấy đăng ký hoạt động của Văn phòng công chứng và cấp thẻ công chứng viên cho các công chứng viên mới được bổ sung; trường hợp từ chối phải thông báo bằng văn bản có nêu rõ lý do.
+3. Văn phòng công chứng bị mất, bị hỏng giấy đăng ký hoạt động thì có đơn đề nghị cấp lại giấy đăng ký hoạt động. Thời hạn cấp lại giấy đăng ký hoạt động được thực hiện theo quy định tại khoản 2 Điều này.
+Điều 24. Cung cấp thông tin về nội dung đăng ký hoạt động, thay đổi nội dung đăng ký hoạt động của Văn phòng công chứng
+1. Trong thời hạn 15 ngày kể từ ngày cấp hoặc cấp lại giấy đăng ký hoạt động của Văn phòng công chứng, Sở Tư pháp phải thông báo bằng văn bản cho cơ quan đăng ký kinh doanh, cơ quan thuế, cơ quan thống kê, cơ quan công an cấp tỉnh, Ủy ban nhân dân cấp huyện, Ủy ban nhân dân cấp xã nơi Văn phòng công chứng đặt trụ sở.
+2. Sở Tư pháp cập nhật thông tin về việc cấp, cấp lại hoặc ghi nhận nội dung thay đổi đăng ký hoạt động của Văn phòng công chứng trên Cổng thông tin điện tử hoặc Trang thông tin điện tử của Sở Tư pháp và Cổng thông tin điện tử của Bộ Tư pháp trong thời hạn quy định tại khoản 1 Điều này.
+Điều 25. Đăng báo nội dung đăng ký hoạt động của Văn phòng công chứng
+1. Trong thời hạn 30 ngày kể từ ngày được cấp giấy đăng ký hoạt động, Văn phòng công chứng phải đăng báo trung ương hoặc báo địa phương nơi đăng ký hoạt động trong 03 số liên tiếp về những nội dung sau đây:
+a) Tên, địa chỉ trụ sở của Văn phòng công chứng;
+b) Họ, tên, số quyết định bổ nhiệm của công chứng viên hành nghề tại Văn phòng công chứng;
+c) Số, ngày, tháng, năm cấp giấy đăng ký hoạt động, nơi đăng ký hoạt động và ngày bắt đầu hoạt động của Văn phòng công chứng.
+2. Trong trường hợp được cấp lại giấy đăng ký hoạt động, Văn phòng công chứng phải thực hiện việc đăng báo về nội dung đăng ký hoạt động theo quy định tại khoản 1 Điều này.
+Điều 26. Chấm dứt tư cách thành viên hợp danh của Văn phòng công chứng
+1. Công chứng viên chấm dứt tư cách thành viên hợp danh của Văn phòng công chứng trong các trường hợp sau đây:
+a) Tự nguyện rút vốn khỏi Văn phòng công chứng hoặc chuyển nhượng toàn bộ phần vốn góp của mình cho một hoặc một số công chứng viên là thành viên hợp danh khác của Văn phòng công chứng; chuyển nhượng toàn bộ phần vốn góp theo quy định tại Điều 29 của Luật này;
+b) Có quyết định miễn nhiệm công chứng viên; 
+c) Chết hoặc bị Toà án tuyên bố là đã chết, mất tích;
+d) Bị khai trừ khỏi Văn phòng công chứng.
+2. Thành viên hợp danh là công chứng viên có quyền rút vốn khỏi Văn phòng công chứng hoặc chuyển nhượng phần vốn góp của mình cho thành viên hợp danh khác là công chứng viên của Văn phòng công chứng khi được ít nhất ba phần tư tổng số thành viên hợp danh là công chứng viên của Văn phòng công chứng chấp thuận bằng văn bản và Văn phòng công chứng phải còn ít nhất 02 thành viên hợp danh là công chứng viên tại thời điểm thành viên hợp danh là công chứng viên được rút vốn hoặc chuyển nhượng phần vốn góp. 
+Thành viên hợp danh là công chứng viên phải thông báo bằng văn bản cho các thành viên hợp danh khác là công chứng viên và Sở Tư pháp nơi Văn phòng công chứng đăng ký hoạt động về yêu cầu rút vốn chậm nhất là 06 tháng trước ngày rút vốn; chỉ được rút vốn vào thời điểm kết thúc năm tài chính và báo cáo tài chính của Văn phòng công chứng trong năm tài chính đó đã được thông qua. 
+Văn phòng công chứng có trách nhiệm thông báo bằng văn bản cho Sở Tư pháp việc công chứng viên hoàn thành rút vốn hoặc hoàn thành chuyển nhượng phần vốn góp. Tư cách thành viên hợp danh của công chứng viên chấm dứt tại thời điểm được Sở Tư pháp ghi nhận vào giấy đăng ký hoạt động của Văn phòng công chứng. Trường hợp người rút vốn hoặc chuyển nhượng phần vốn góp là Trưởng Văn phòng công chứng thì tư cách thành viên hợp danh của công chứng viên chấm dứt kể từ thời điểm được Sở Tư pháp cấp lại giấy đăng ký hoạt động của Văn phòng công chứng.
+3. Thành viên hợp danh là công chứng viên bị khai trừ khỏi Văn phòng công chứng theo quy định của Luật Doanh nghiệp. Tài liệu chứng minh và văn bản về việc khai trừ thành viên hợp danh là công chứng viên được gửi Sở Tư pháp khi đề nghị thay đổi nội dung đăng ký hoạt động. Tư cách thành viên hợp danh của công chứng viên bị khai trừ chấm dứt tại thời điểm được Sở Tư pháp ghi nhận vào giấy đăng ký hoạt động của Văn phòng công chứng. Trường hợp người bị khai trừ là Trưởng Văn phòng công chứng thì tư cách thành viên hợp danh của công chứng viên chấm dứt kể từ thời điểm được Sở Tư pháp cấp lại giấy đăng ký hoạt động của Văn phòng công chứng.
+4. Giá trị phần vốn góp của thành viên hợp danh là công chứng viên trong các trường hợp quy định tại các điểm b, c và d khoản 1 Điều này được trả cho công chứng viên hoặc người thừa kế của họ theo tỷ lệ phần vốn góp sau khi trừ đi phần nghĩa vụ thuộc trách nhiệm của công chứng viên đó.
+5. Trường hợp tên của công chứng viên chấm dứt tư cách thành viên hợp danh được sử dụng để đặt tên Văn phòng công chứng thì Văn phòng công chứng phải thay đổi tên khi đề nghị thay đổi nội dung đăng ký hoạt động của Văn phòng công chứng.
+6. Trong thời hạn 02 năm kể từ ngày chấm dứt tư cách thành viên hợp danh theo quy định tại các điểm a, b và d khoản 1 Điều này, công chứng viên đã chấm dứt tư cách thành viên hợp danh vẫn phải liên đới chịu trách nhiệm bằng toàn bộ tài sản của mình đối với các khoản nợ của Văn phòng công chứng phát sinh trong thời gian là thành viên hợp danh của Văn phòng công chứng đó; hết thời hạn này công chứng viên mới được tham gia thành lập Văn phòng công chứng mới hoặc hợp danh vào Văn phòng công chứng khác.
+Điều 27. Tiếp nhận thành viên hợp danh mới của Văn phòng công chứng
+1. Văn phòng công chứng có quyền tiếp nhận thành viên hợp danh là công chứng viên mới nếu được ít nhất ba phần tư tổng số thành viên hợp danh là công chứng viên chấp thuận.
+Thành viên hợp danh là công chứng viên mới phải nộp đủ số vốn cam kết góp vào Văn phòng công chứng trong thời hạn 15 ngày kể từ ngày được chấp thuận trở thành thành viên hợp danh và chậm nhất là trước thời điểm Văn phòng công chứng nộp hồ sơ thay đổi nội dung đăng ký hoạt động do bổ sung thành viên hợp danh là công chứng viên đó.
+2. Trường hợp thành viên hợp danh là công chứng viên của Văn phòng công chứng chết hoặc bị Tòa án tuyên bố là đã chết thì người thừa kế của thành viên hợp danh đó là công chứng viên có thể trở thành thành viên hợp danh là công chứng viên của Văn phòng công chứng nếu là công chứng viên và được ít nhất ba phần tư tổng số thành viên hợp danh là công chứng viên còn lại chấp thuận.
+Điều 28. Hợp nhất, sáp nhập Văn phòng công chứng được tổ chức và hoạt động theo loại hình công ty hợp danh
+1. Hai hoặc một số Văn phòng công chứng có trụ sở trong cùng một tỉnh, thành phố trực thuộc trung ương có thể hợp nhất thành một Văn phòng công chứng mới bằng cách chuyển toàn bộ tài sản, quyền, nghĩa vụ và lợi ích hợp pháp sang Văn phòng công chứng được hợp nhất, đồng thời chấm dứt hoạt động của các Văn phòng công chứng bị hợp nhất.
+Một hoặc một số Văn phòng công chứng có thể sáp nhập vào một Văn phòng công chứng khác có trụ sở trong cùng một tỉnh, thành phố trực thuộc trung ương bằng cách chuyển toàn bộ tài sản, quyền, nghĩa vụ và lợi ích hợp pháp sang Văn phòng công chứng nhận sáp nhập, đồng thời chấm dứt hoạt động của Văn phòng công chứng bị sáp nhập.
+2. Ủy ban nhân dân cấp tỉnh xem xét, quyết định cho phép hợp nhất, sáp nhập Văn phòng công chứng.  
+3. Chính phủ quy định chi tiết thủ tục hợp nhất, sáp nhập Văn phòng công chứng.
+Điều 29. Chuyển nhượng toàn bộ phần vốn góp của toàn bộ thành viên hợp danh của Văn phòng công chứng
+1. Sau khi Văn phòng công chứng đã hoạt động được ít nhất 02 năm, toàn bộ thành viên hợp danh là công chứng viên của Văn phòng công chứng được chuyển nhượng toàn bộ phần vốn góp cho ít nhất 02 công chứng viên khác đáp ứng các điều kiện quy định tại khoản 2 Điều này. 
+Công chứng viên đã chuyển nhượng phần vốn góp của mình theo quy định tại khoản này không được phép tham gia thành lập Văn phòng công chứng mới hoặc hợp danh vào Văn phòng công chứng đang hoạt động hoặc đề nghị thành lập Văn phòng công chứng được tổ chức và hoạt động theo loại hình doanh nghiệp tư nhân trong thời hạn 02 năm kể từ ngày chuyển nhượng.
+2. Công chứng viên nhận chuyển nhượng phần vốn góp theo quy định tại khoản 1 Điều này phải đáp ứng các điều kiện sau đây:
+a) Đã hành nghề công chứng từ đủ 02 năm trở lên đối với người dự kiến làm Trưởng Văn phòng công chứng;
+b) Cam kết hành nghề với tư cách thành viên hợp danh tại Văn phòng công chứng mà mình nhận chuyển nhượng phần vốn góp.
+3. Ủy ban nhân dân cấp tỉnh xem xét, quyết định cho phép chuyển nhượng toàn bộ phần vốn góp của toàn bộ thành viên hợp danh là công chứng viên của Văn phòng công chứng.
+4. Tư cách thành viên hợp danh của công chứng viên chuyển nhượng toàn bộ phần vốn góp chấm dứt tại thời điểm được Sở Tư pháp cấp lại giấy đăng ký hoạt động của Văn phòng công chứng.
+5. Trong thời hạn 02 năm kể từ ngày chấm dứt tư cách thành viên hợp danh, công chứng viên đã chấm dứt tư cách thành viên hợp danh vẫn phải liên đới chịu trách nhiệm bằng toàn bộ tài sản của mình đối với các khoản nợ của Văn phòng công chứng phát sinh trong thời gian là thành viên hợp danh của Văn phòng công chứng đó; hết thời hạn này công chứng viên mới được tham gia thành lập Văn phòng công chứng mới hoặc hợp danh vào Văn phòng công chứng khác hoặc đề nghị thành lập Văn phòng công chứng được tổ chức và hoạt động theo loại hình doanh nghiệp tư nhân.
+6. Chính phủ quy định chi tiết Điều này.
+Điều 29a. Bán Văn phòng công chứng được tổ chức và hoạt động theo loại hình doanh nghiệp tư nhân
+1. Sau khi Văn phòng công chứng đã hoạt động ít nhất 02 năm, Trưởng Văn phòng công chứng được tổ chức và hoạt động theo loại hình doanh nghiệp tư nhân có quyền bán Văn phòng công chứng của mình cho công chứng viên khác đã hành nghề công chứng từ đủ 02 năm trở lên. 
+2. Sau khi bán Văn phòng công chứng, Trưởng Văn phòng công chứng vẫn phải chịu trách nhiệm về các khoản nợ và nghĩa vụ tài sản khác của Văn phòng công chứng phát sinh trong thời gian trước ngày chuyển giao Văn phòng công chứng, trừ trường hợp Trưởng Văn phòng công chứng, người mua và chủ nợ có thỏa thuận khác.
+3. Công chứng viên đã bán Văn phòng công chứng theo quy định tại Điều này không được phép tham gia thành lập Văn phòng công chứng mới hoặc hợp danh vào Văn phòng công chứng đang hoạt động hoặc đề nghị thành lập Văn phòng công chứng được tổ chức và hoạt động theo loại hình doanh nghiệp tư nhân trong thời hạn 02 năm kể từ ngày bán Văn phòng công chứng.
+4. Chính phủ quy định chi tiết Điều này.
+Điều 30. Tạm ngừng hoạt động Văn phòng công chứng
+1. Văn phòng công chứng tạm ngừng hoạt động trong các trường hợp sau đây:
+a) Toàn bộ công chứng viên của Văn phòng công chứng bị tạm đình chỉ hành nghề công chứng;
+b) Không thể hoạt động vì sự kiện bất khả kháng hoặc trở ngại khách quan theo quy định của Bộ luật Dân sự. 
+2. Thời gian tạm ngừng hoạt động của Văn phòng công chứng được quy định như sau:
+a) Trường hợp quy định tại điểm a khoản 1 Điều này, tối đa là 12 tháng;
+b) Trường hợp quy định tại điểm b khoản 1 Điều này là thời gian xảy ra sự kiện bất khả kháng hoặc trở ngại khách quan.
+3. Trong thời hạn 15 ngày kể từ ngày Văn phòng công chứng thuộc trường hợp quy định tại khoản 1 Điều này, Sở Tư pháp nơi Văn phòng công chứng đăng ký hoạt động ra quyết định tạm ngừng hoạt động. Trong thời hạn 15 ngày kể từ ngày lý do tạm ngừng không còn, Sở Tư pháp ra quyết định chấm dứt việc tạm ngừng hoạt động của Văn phòng công chứng. 
+Trong thời hạn 05 ngày làm việc kể từ ngày ra quyết định, Sở Tư pháp thông báo bằng văn bản cho các cơ quan quy định tại Điều 24 của Luật này về việc tạm ngừng hoạt động và chấm dứt việc tạm ngừng hoạt động của Văn phòng công chứng, đồng thời đăng tải trên Cổng thông tin điện tử hoặc Trang thông tin điện tử của Sở Tư pháp và Cổng thông tin điện tử của Bộ Tư pháp.
+4. Văn phòng công chứng tạm ngừng hoạt động trong trường hợp quy định tại khoản 1 Điều này có trách nhiệm bàn giao hồ sơ công chứng khi có yêu cầu sửa lỗi kỹ thuật trong văn bản công chứng, sửa đổi, bổ sung, chấm dứt, hủy bỏ giao dịch, cấp bản sao văn bản công chứng, công chứng hợp đồng thế chấp theo quy định tại khoản 2 Điều 53 của Luật này cho tổ chức hành nghề công chứng được Sở Tư pháp chỉ định tiếp nhận hồ sơ thực hiện; Sở Tư pháp chủ trì, phối hợp với Hội công chứng viên và các cơ quan, tổ chức có liên quan thực hiện việc bàn giao hồ sơ công chứng. Hết thời gian tạm ngừng hoạt động, các hồ sơ công chứng này được bàn giao lại cho Văn phòng công chứng.
+Bộ trưởng Bộ Tư pháp quy định chi tiết khoản này.
+Điều 31. Thu hồi quyết định cho phép thành lập Văn phòng công chứng
+1. Văn phòng công chứng bị thu hồi quyết định cho phép thành lập trong các trường hợp sau đây:
+a) Văn phòng công chứng không thực hiện đăng ký hoạt động trong thời hạn quy định tại Điều 22 của Luật này hoặc nội dung đăng ký hoạt động không đúng theo hồ sơ đề nghị thành lập Văn phòng công chứng đã được Uỷ ban nhân dân cấp tỉnh phê duyệt;
+b) Nội dung kê khai trong hồ sơ đề nghị thành lập Văn phòng công chứng là giả mạo;
+c) Hết thời hạn 06 tháng kể từ ngày được cấp giấy đăng ký hoạt động mà Văn phòng công chứng chưa bắt đầu hoạt động;
+d) Văn phòng công chứng không hoạt động liên tục từ 03 tháng trở lên, trừ trường hợp do tạm ngừng hoạt động theo quy định tại Điều 30 của Luật này;
+đ) Văn phòng công chứng được tổ chức và hoạt động theo loại hình công ty hợp danh chỉ còn 01 thành viên hợp danh, trừ trường hợp quy định tại khoản 2 Điều này;
+e) Toàn bộ thành viên hợp danh của Văn phòng công chứng hoặc công chứng viên là Trưởng Văn phòng công chứng được tổ chức và hoạt động theo loại hình doanh nghiệp tư nhân bị miễn nhiệm, chết, bị Tòa án tuyên bố là đã chết hoặc bị Tòa án cấm hành nghề công chứng;
+g) Văn phòng công chứng không bảo đảm duy trì điều kiện hoạt động theo quy định của Luật này và nghị định quy định chi tiết Luật này;
+h) Văn phòng công chứng không duy trì được các điều kiện về công chứng viên và trụ sở theo hồ sơ đề nghị thành lập đã được Ủy ban nhân dân cấp tỉnh phê duyệt và giấy đăng ký hoạt động đã được Sở Tư pháp cấp trong thời hạn ít nhất 01 năm kể từ ngày được cấp giấy đăng ký hoạt động, trừ trường hợp quy định tại điểm g khoản này; 
+i) Văn phòng công chứng do tổ chức, cá nhân không phải là công chứng viên thực hiện việc thành lập, nhận chuyển nhượng toàn bộ phần vốn góp của toàn bộ thành viên hợp danh là công chứng viên hoặc mua Văn phòng công chứng được tổ chức và hoạt động theo loại hình doanh nghiệp tư nhân;
+k) Văn phòng công chứng hết thời hạn tạm ngừng hoạt động quy định tại Điều 30 của Luật này mà lý do tạm ngừng vẫn còn, trừ trường hợp tạm ngừng hoạt động do sự kiện bất khả kháng hoặc trở ngại khách quan. 
+2. Trường hợp Văn phòng công chứng chỉ còn 01 thành viên hợp danh là công chứng viên do thành viên hợp danh còn lại là công chứng viên chết, bị Tòa án tuyên bố là đã chết, bị khai trừ khỏi Văn phòng công chứng hoặc bị miễn nhiệm công chứng viên hoặc bị Tòa án cấm hành nghề công chứng thì phải bổ sung ít nhất 01 thành viên hợp danh mới là công chứng viên trong thời hạn 06 tháng kể từ ngày Văn phòng công chứng chỉ còn 01 thành viên hợp danh. Hết thời hạn này mà Văn phòng công chứng chưa bổ sung được thành viên hợp danh là công chứng viên thì bị thu hồi quyết định cho phép thành lập.
+3. Sở Tư pháp có trách nhiệm kiểm tra, rà soát và lập hồ sơ đề nghị Ủy ban nhân dân cấp tỉnh ra quyết định thu hồi quyết định cho phép thành lập Văn phòng công chứng.
+Điều 32. Chấm dứt hoạt động Văn phòng công chứng
+1. Văn phòng công chứng chấm dứt hoạt động trong các trường hợp sau đây:
+a) Văn phòng công chứng đề nghị chấm dứt hoạt động; 
+b) Văn phòng công chứng bị thu hồi quyết định cho phép thành lập;
+c) Văn phòng công chứng bị hợp nhất, bị sáp nhập.
+2. Trong trường hợp chấm dứt hoạt động theo quy định tại điểm a khoản 1 Điều này thì chậm nhất là 30 ngày trước ngày dự kiến chấm dứt hoạt động, Văn phòng công chứng phải có báo cáo việc dự kiến chấm dứt hoạt động bằng văn bản gửi Sở Tư pháp nơi đã đăng ký hoạt động. Trước ngày chấm dứt hoạt động, Văn phòng công chứng có nghĩa vụ nộp đủ tiền thuế nợ, thanh toán xong các khoản nợ khác, hoàn thành thủ tục chấm dứt hợp đồng lao động đã ký với công chứng viên, nhân viên của tổ chức mình, thực hiện các yêu cầu công chứng đã tiếp nhận. Trường hợp không thể thực hiện xong các yêu cầu công chứng đã tiếp nhận thì phải thỏa thuận với người yêu cầu công chứng về việc thực hiện các yêu cầu đó. 
+Trong trường hợp chấm dứt hoạt động theo quy định tại điểm c khoản 1 Điều này thì quyền, nghĩa vụ của Văn phòng công chứng do Văn phòng công chứng được hợp nhất hoặc Văn phòng công chứng nhận sáp nhập tiếp tục thực hiện.
+Văn phòng công chứng có nghĩa vụ đăng báo trung ương hoặc báo địa phương nơi đã đăng ký hoạt động trong 03 số liên tiếp về thời điểm dự kiến chấm dứt hoạt động. 
+Sở Tư pháp có trách nhiệm thu hồi giấy đăng ký hoạt động của Văn phòng công chứng trong thời hạn 07 ngày làm việc kể từ ngày Văn phòng công chứng thực hiện xong các nghĩa vụ quy định tại khoản này, báo cáo Ủy ban nhân dân cấp tỉnh thu hồi quyết định cho phép thành lập và thông báo bằng văn bản cho các cơ quan quy định tại Điều 24 của Luật này về việc chấm dứt hoạt động của Văn phòng công chứng, đồng thời đăng báo trung ương hoặc báo địa phương nơi Văn phòng công chứng đã đăng ký hoạt động trong 03 số liên tiếp về việc chấm dứt hoạt động của Văn phòng công chứng đó.
+3. Trong trường hợp Văn phòng công chứng chấm dứt hoạt động theo quy định tại điểm b khoản 1 Điều này thì trong thời hạn 07 ngày làm việc kể từ ngày có quyết định thu hồi quyết định cho phép thành lập, Sở Tư pháp có trách nhiệm thu hồi giấy đăng ký hoạt động của Văn phòng công chứng, thông báo bằng văn bản với các cơ quan quy định tại Điều 24 của Luật này, đồng thời đăng báo trung ương hoặc báo địa phương nơi Văn phòng công chứng đã đăng ký hoạt động trong 03 số liên tiếp về việc chấm dứt hoạt động của Văn phòng công chứng đó.
+Trong thời hạn 60 ngày kể từ ngày bị thu hồi quyết định cho phép thành lập, Văn phòng công chứng có nghĩa vụ nộp đủ tiền thuế nợ, thanh toán xong các khoản nợ khác, hoàn thành thủ tục chấm dứt hợp đồng lao động đã ký với công chứng viên, nhân viên của tổ chức mình; đối với yêu cầu công chứng đã tiếp nhận mà chưa công chứng thì phải trả lại hồ sơ yêu cầu công chứng cho người yêu cầu công chứng. Hết thời hạn này mà Văn phòng công chứng chưa hoàn thành xong các nghĩa vụ về tài sản hoặc trường hợp Văn phòng công chứng chấm dứt hoạt động do bị thu hồi quyết định cho phép thành lập vì toàn bộ thành viên hợp danh là công chứng viên của Văn phòng công chứng được tổ chức và hoạt động theo loại hình công ty hợp danh hoặc công chứng viên là Trưởng Văn phòng công chứng được tổ chức và hoạt động theo loại hình doanh nghiệp tư nhân chết hoặc bị Tòa án tuyên bố là đã chết thì tài sản của Văn phòng công chứng, của thành viên hợp danh là công chứng viên, của chủ doanh nghiệp tư nhân được sử dụng để thanh toán các khoản nợ của Văn phòng công chứng theo quy định của pháp luật về dân sự. 
+4. Thành viên hợp danh là công chứng viên của Văn phòng công chứng, chủ doanh nghiệp tư nhân là Trưởng Văn phòng công chứng chấm dứt hoạt động theo quy định tại điểm a và điểm b khoản 1 Điều này chỉ được hợp danh vào Văn phòng công chứng đang hoạt động, tham gia thành lập Văn phòng công chứng mới được tổ chức và hoạt động theo loại hình công ty hợp danh hoặc đề nghị thành lập Văn phòng công chứng được tổ chức và hoạt động theo loại hình doanh nghiệp tư nhân sau thời hạn ít nhất 02 năm kể từ ngày quyết định thu hồi giấy đăng ký hoạt động của Văn phòng công chứng có hiệu lực thi hành.
+Điều 33. Quyền của tổ chức hành nghề công chứng
+1. Ký hợp đồng làm việc, hợp đồng lao động với công chứng viên quy định tại điểm a và điểm c khoản 1 Điều 35 của Luật này và người lao động khác làm việc cho tổ chức mình.
+2. Thu phí công chứng, giá dịch vụ theo yêu cầu liên quan đến việc công chứng, chi phí khác theo quy định của Luật này và luật khác có liên quan.
+3. Cung cấp dịch vụ công chứng ngoài ngày, giờ làm việc của cơ quan hành chính nhà nước để đáp ứng nhu cầu công chứng của cá nhân, tổ chức.
+4. Được khai thác, sử dụng thông tin từ cơ sở dữ liệu công chứng, Cơ sở dữ liệu quốc gia về dân cư và các cơ sở dữ liệu có liên quan theo quy định của pháp luật để phục vụ hoạt động công chứng.
+5. Các quyền khác theo quy định của Luật này và các quy định khác của pháp luật có liên quan.
+Điều 34. Nghĩa vụ của tổ chức hành nghề công chứng
+1. Theo dõi, bảo đảm cho công chứng viên hành nghề tại tổ chức mình trong việc thực hiện thủ tục công chứng theo quy định của pháp luật, tuân thủ quy tắc đạo đức hành nghề công chứng, Điều lệ Hiệp hội công chứng viên Việt Nam và thực hiện các quyết định của cơ quan nhà nước có thẩm quyền.
+2. Chấp hành quy định của pháp luật về lao động, thuế, tài chính, thống kê.
+3. Thực hiện chế độ làm việc theo ngày, giờ làm việc của cơ quan hành chính nhà nước và bảo đảm việc công chứng viên, nhân viên của tổ chức mình thực hiện đúng quy định về ngày, giờ làm việc của tổ chức.
+4. Niêm yết lịch làm việc, thủ tục công chứng, nội quy tiếp người yêu cầu công chứng, phí công chứng, giá dịch vụ theo yêu cầu liên quan đến việc công chứng và chi phí khác tại trụ sở của tổ chức mình; báo cáo Sở Tư pháp phê duyệt và niêm yết danh sách cộng tác viên dịch thuật của tổ chức mình.
+5. Mua bảo hiểm trách nhiệm nghề nghiệp cho công chứng viên của tổ chức mình theo quy định tại Điều 36a của Luật này; bồi thường thiệt hại theo quy định tại Điều 37 của Luật này.  
+6. Tiếp nhận, tạo điều kiện thuận lợi và quản lý người tập sự hành nghề công chứng trong quá trình tập sự tại tổ chức mình.
+7. Tạo điều kiện cho công chứng viên của tổ chức mình trong việc hành nghề công chứng, tham gia bồi dưỡng nghiệp vụ công chứng hằng năm.
+8. Thực hiện yêu cầu của cơ quan nhà nước có thẩm quyền về việc báo cáo, kiểm tra, thanh tra, cung cấp thông tin về giao dịch đã công chứng; giấy tờ, tài liệu đã chứng thực.
+9. Lập sổ công chứng, các loại sổ khác và lưu trữ hồ sơ công chứng theo quy định của pháp luật.
+10. Cung cấp thông tin để đưa vào cơ sở dữ liệu công chứng theo quy định tại Điều 63 của Luật này.
+11. Giữ bí mật về nội dung công chứng, trừ trường hợp được người yêu cầu công chứng đồng ý bằng văn bản hoặc pháp luật có quy định khác.
+12. Sử dụng con dấu tại trụ sở tổ chức hành nghề công chứng và thực hiện các quy định pháp luật về quản lý và sử dụng con dấu. 
+13. Tiếp nhận hồ sơ công chứng do Sở Tư pháp chỉ định theo quy định tại Điều 65 của Luật này.
+14. Các nghĩa vụ khác theo quy định của Luật này và các quy định khác của pháp luật có liên quan.
+Chương IV
+HÀNH NGHỀ CÔNG CHỨNG
+Điều 35. Hình thức hành nghề của công chứng viên
+1. Các hình thức hành nghề của công chứng viên bao gồm:
+a) Công chứng viên là viên chức của Phòng công chứng;
+b) Công chứng viên là thành viên hợp danh của Văn phòng công chứng được tổ chức và hoạt động theo loại hình công ty hợp danh hoặc công chứng viên là Trưởng Văn phòng công chứng được tổ chức và hoạt động theo loại hình doanh nghiệp tư nhân;
+c) Công chứng viên làm việc theo chế độ hợp đồng lao động tại Phòng công chứng hoặc Văn phòng công chứng.
+2. Việc tuyển dụng, quản lý, sử dụng công chứng viên quy định tại điểm a khoản 1 Điều này được thực hiện theo quy định của Luật này và pháp luật về viên chức.
+Việc hành nghề của công chứng viên quy định tại điểm b khoản 1 Điều này được thực hiện theo quy định của Luật này và pháp luật về doanh nghiệp.
+Việc ký và thực hiện hợp đồng lao động với công chứng viên quy định tại điểm c khoản 1 Điều này được thực hiện theo quy định của Luật này, pháp luật về lao động và pháp luật về đơn vị sự nghiệp công lập.
+Điều 36. Thẻ công chứng viên
+1. Công chứng viên phải xuất trình thẻ công chứng viên khi hành nghề công chứng. 
+2. Sở Tư pháp cấp thẻ cho công chứng viên của Phòng công chứng sau khi có quyết định thành lập Phòng công chứng hoặc khi Phòng công chứng bổ sung công chứng viên. 
+Sở Tư pháp cấp thẻ cho công chứng viên của Văn phòng công chứng khi cấp giấy đăng ký hoạt động hoặc thay đổi nội dung đăng ký hoạt động của Văn phòng công chứng đối với trường hợp Văn phòng công chứng bổ sung công chứng viên.
+3. Thẻ công chứng viên được cấp lại trong trường hợp thẻ đã được cấp bị mất, bị hỏng hoặc tổ chức hành nghề công chứng thay đổi tên.
+4. Thẻ công chứng viên bị thu hồi trong trường hợp miễn nhiệm công chứng viên hoặc công chứng viên không còn hành nghề tại tổ chức hành nghề công chứng mà mình được cấp thẻ, tổ chức hành nghề công chứng chấm dứt hoạt động hoặc thay đổi tên.
+5. Bộ trưởng Bộ Tư pháp quy định chi tiết mẫu thẻ công chứng viên, việc cấp, cấp lại và thu hồi thẻ công chứng viên.
+Điều 36a. Bảo hiểm trách nhiệm nghề nghiệp của công chứng viên 
+1. Bảo hiểm trách nhiệm nghề nghiệp của công chứng viên là loại hình bảo hiểm bắt buộc. Việc mua bảo hiểm trách nhiệm nghề nghiệp cho công chứng viên phải được duy trì trong suốt thời gian hoạt động của tổ chức hành nghề công chứng. 
+2. Tổ chức hành nghề công chứng có nghĩa vụ mua bảo hiểm trách nhiệm nghề nghiệp cho công chứng viên hành nghề tại tổ chức mình.  
+Chậm nhất là 10 ngày làm việc kể từ ngày mua bảo hiểm hoặc kể từ ngày thay đổi, gia hạn hợp đồng bảo hiểm, tổ chức hành nghề công chứng có trách nhiệm thông báo và gửi bản sao hợp đồng bảo hiểm, hợp đồng thay đổi, gia hạn hợp đồng bảo hiểm trách nhiệm nghề nghiệp của công chứng viên cho Sở Tư pháp.
+3. Chính phủ quy định chi tiết điều kiện, quy tắc bảo hiểm, mức phí bảo hiểm, số tiền bảo hiểm tối thiểu đối với bảo hiểm trách nhiệm nghề nghiệp của công chứng viên. 
+Điều 37. Bồi thường thiệt hại trong hoạt động công chứng
+1. Tổ chức hành nghề công chứng phải bồi thường thiệt hại cho người yêu cầu công chứng và cá nhân, tổ chức khác do lỗi của công chứng viên, nhân viên của tổ chức mình gây ra trong quá trình công chứng.
+Trong trường hợp tổ chức hành nghề công chứng đã chuyển đổi, hợp nhất, sáp nhập thì tổ chức hành nghề công chứng kế thừa quyền và nghĩa vụ của tổ chức hành nghề công chứng đó có trách nhiệm bồi thường thiệt hại; trường hợp tổ chức hành nghề công chứng đã giải thể, chấm dứt hoạt động thì công chứng viên, nhân viên trực tiếp gây thiệt hại phải tự mình bồi thường thiệt hại, kể cả trường hợp người đó không còn là công chứng viên hoặc nhân viên của một tổ chức hành nghề công chứng.
+2. Công chứng viên, nhân viên gây thiệt hại phải hoàn trả cho tổ chức hành nghề công chứng khoản tiền mà tổ chức đã bồi thường cho người bị thiệt hại theo quy định của pháp luật; trường hợp không hoàn trả thì tổ chức hành nghề công chứng có quyền yêu cầu Tòa án giải quyết.
+3. Chính phủ quy định chi tiết việc bồi thường thiệt hại trong hoạt động công chứng.
+Điều 38. Tổ chức xã hội - nghề nghiệp của công chứng viên
+1. Tổ chức xã hội - nghề nghiệp của công chứng viên là tổ chức tự quản, đại diện và bảo vệ quyền, lợi ích hợp pháp của các công chứng viên, bao gồm Hiệp hội công chứng viên Việt Nam và Hội công chứng viên các tỉnh, thành phố trực thuộc trung ương.
+Hiệp hội công chứng viên Việt Nam ban hành quy tắc đạo đức hành nghề công chứng để áp dụng trên phạm vi toàn quốc.
+2. Tổ chức xã hội - nghề nghiệp của công chứng viên có các nhiệm vụ và quyền hạn sau đây:
+a) Đại diện, bảo vệ quyền, lợi ích của công chứng viên trong hành nghề công chứng; 
+b) Thực hiện rà soát, đánh giá hàng năm chất lượng đội ngũ công chứng viên; giám sát việc tuân thủ quy định của pháp luật về công chứng, quy tắc đạo đức hành nghề công chứng của công chứng viên;
+c) Tham gia cùng cơ quan nhà nước trong việc tổ chức đào tạo, tập sự hành nghề công chứng, bồi dưỡng nghiệp vụ công chứng hằng năm, hướng dẫn nghiệp vụ cho hội viên;
+d) Thực hiện các nhiệm vụ khác liên quan đến hoạt động công chứng theo quy định của Chính phủ.
+3. Chính phủ quy định chi tiết Điều này.
+Chương V
+THỦ TỤC CÔNG CHỨNG GIAO DỊCH
+Mục 1
+THỦ TỤC CHUNG VỀ CÔNG CHỨNG
+Điều 39. Công chứng giao dịch đã được soạn thảo sẵn
+1. Người yêu cầu công chứng nộp 01 bộ hồ sơ yêu cầu công chứng trực tuyến, trực tiếp hoặc gửi qua đường bưu chính đến tổ chức hành nghề công chứng. Hồ sơ yêu cầu công chứng gồm các giấy tờ sau đây:
+a) Dự thảo giao dịch; 
+b) Bản sao giấy tờ tùy thân của người yêu cầu công chứng, bao gồm: thẻ căn cước, hộ chiếu và các giấy tờ khác để xác định nhân thân của người yêu cầu công chứng theo quy định của pháp luật;  
+c) Bản sao Giấy chứng nhận quyền sở hữu, quyền sử dụng tài sản hoặc bản án, quyết định của Tòa án hoặc quyết định khác của cơ quan nhà nước có thẩm quyền về việc xử lý tài sản hoặc giấy tờ thay thế được pháp luật quy định đối với tài sản mà pháp luật quy định phải đăng ký quyền sở hữu, quyền sử dụng trong trường hợp giao dịch liên quan đến tài sản đó;
+d) Bản sao giấy tờ khác có liên quan đến giao dịch mà pháp luật quy định phải có.
+2. Công chứng viên kiểm tra các giấy tờ trong hồ sơ yêu cầu công chứng, nếu hồ sơ đầy đủ, phù hợp với quy định của pháp luật thì tiếp nhận giải quyết; trường hợp từ chối tiếp nhận thì trực tiếp giải thích rõ lý do hoặc trả lời bằng văn bản có nêu rõ lý do cho người yêu cầu công chứng.
+3. Công chứng viên hướng dẫn, giải thích cho người yêu cầu công chứng hiểu rõ quyền, nghĩa vụ và lợi ích hợp pháp của họ, ý nghĩa và hậu quả pháp lý của việc tham gia giao dịch.
+4. Trong trường hợp có căn cứ cho rằng trong hồ sơ yêu cầu công chứng có vấn đề chưa rõ, việc tham gia giao dịch có dấu hiệu bị đe dọa, cưỡng ép, có sự nghi ngờ về năng lực hành vi dân sự của người yêu cầu công chứng hoặc đối tượng của giao dịch chưa được mô tả cụ thể thì công chứng viên đề nghị người yêu cầu công chứng làm rõ hoặc công chứng viên tiến hành xác minh, yêu cầu giám định theo đề nghị của người yêu cầu công chứng; trường hợp người yêu cầu công chứng không làm rõ được và từ chối việc xác minh, yêu cầu giám định hoặc đã xác minh, giám định nhưng vẫn không làm rõ được thì công chứng viên từ chối công chứng. 
+5. Công chứng viên kiểm tra dự thảo giao dịch. Nếu trong dự thảo giao dịch có điều khoản vi phạm pháp luật, trái đạo đức xã hội, đối tượng của giao dịch không phù hợp với quy định của pháp luật thì công chứng viên phải chỉ rõ cho người yêu cầu công chứng để sửa chữa; trường hợp người yêu cầu công chứng không sửa chữa thì công chứng viên từ chối công chứng.
+6. Người yêu cầu công chứng tự đọc lại dự thảo giao dịch hoặc công chứng viên đọc cho người yêu cầu công chứng nghe theo đề nghị của người yêu cầu công chứng. 
+7. Người yêu cầu công chứng đồng ý toàn bộ nội dung trong dự thảo giao dịch thì ký vào từng trang của giao dịch và ký, ghi đầy đủ họ, tên của cá nhân, đóng dấu của pháp nhân (nếu có) vào trang cuối của giao dịch. Công chứng viên yêu cầu người yêu cầu công chứng xuất trình bản chính của các giấy tờ quy định tại các điểm b, c và d khoản 1 Điều này để đối chiếu trước khi ký vào lời chứng và từng trang của giao dịch; đối với các giấy tờ quy định tại điểm d khoản 1 Điều này mà người yêu cầu công chứng không có bản chính tại thời điểm công chứng viên ký vào lời chứng thì có thể xuất trình bản sao từ sổ gốc hoặc bản sao có chứng thực. 
+8. Tổ chức hành nghề công chứng ghi số văn bản công chứng, đóng dấu, giao bản gốc văn bản công chứng cho người yêu cầu công chứng, vào sổ công chứng và lưu trữ hồ sơ công chứng theo quy định tại Điều 65 của Luật này và quy định khác của pháp luật có liên quan.
+Điều 40. Công chứng giao dịch do công chứng viên soạn thảo theo đề nghị của người yêu cầu công chứng
+1. Người yêu cầu công chứng nộp 01 bộ hồ sơ theo quy định tại các điểm b, c và d khoản 1 Điều 39 của Luật này và nêu nội dung, mục đích giao kết giao dịch.
+2. Công chứng viên thực hiện các việc quy định tại các khoản 2, 3 và 4 Điều 39 của Luật này.
+Trường hợp nội dung, mục đích giao kết giao dịch không vi phạm pháp luật, không trái đạo đức xã hội thì công chứng viên soạn thảo giao dịch. 
+3. Các thủ tục khác được thực hiện theo quy định tại các khoản 6, 7 và 8 Điều 39 của Luật này.
+Điều 41. Thẩm quyền công chứng giao dịch về bất động sản
+Công chứng viên của tổ chức hành nghề công chứng chỉ được công chứng giao dịch về bất động sản trong phạm vi tỉnh, thành phố trực thuộc trung ương nơi tổ chức hành nghề công chứng đặt trụ sở, trừ trường hợp công chứng di chúc, văn bản từ chối nhận di sản, văn bản ủy quyền liên quan đến việc thực hiện các quyền đối với bất động sản, thỏa thuận xác lập chế độ tài sản của vợ chồng về bất động sản và công chứng việc sửa đổi, bổ sung, chấm dứt, huỷ bỏ các giao dịch này.
+Điều 42. Thời hạn công chứng 
+1. Thời hạn công chứng được tính từ ngày công chứng viên tiếp nhận hồ sơ yêu cầu công chứng hợp lệ và ghi nhận trong sổ yêu cầu công chứng đến ngày trả kết quả công chứng. Thời gian xác minh, giám định nội dung liên quan đến giao dịch, niêm yết việc tiếp nhận công chứng văn bản phân chia di sản không tính vào thời hạn công chứng.
+2. Thời hạn công chứng không quá 02 ngày làm việc; đối với giao dịch có nội dung phức tạp thì thời hạn công chứng có thể kéo dài hơn nhưng không quá 10 ngày làm việc.
+Điều 43. Địa điểm công chứng
+1. Việc công chứng phải được thực hiện tại trụ sở của tổ chức hành nghề công chứng, trừ các trường hợp quy định tại khoản 2 Điều này. 
+2. Việc công chứng có thể được thực hiện ngoài trụ sở của tổ chức hành nghề công chứng nếu người yêu cầu công chứng thuộc các trường hợp sau đây:
+a) Lập di chúc tại chỗ ở theo quy định của Bộ luật Dân sự;
+b) Không thể đi lại được vì lý do sức khỏe; đang điều trị nội trú hoặc bị cách ly theo chỉ định của cơ sở y tế;
+c) Đang bị tạm giữ, tạm giam; đang thi hành án phạt tù; đang bị áp dụng biện pháp xử lý hành chính; 
+d) Có lý do chính đáng khác theo quy định của Chính phủ mà không thể đến trụ sở tổ chức hành nghề công chứng.
+Điều 44. Chữ viết và cách ghi thời điểm trong văn bản công chứng
+1. Chữ viết trong văn bản công chứng phải rõ ràng, dễ đọc, không được viết tắt hoặc viết bằng ký hiệu, không được viết xen dòng, viết đè dòng, không được tẩy xoá, không được để trống, trừ trường hợp pháp luật có quy định khác.
+2. Thời điểm công chứng phải được ghi cụ thể ngày, tháng, năm; có thể ghi giờ, phút nếu người yêu cầu công chứng đề nghị hoặc công chứng viên thấy cần thiết. Các con số thể hiện thời điểm công chứng phải được ghi cả bằng số và chữ, trừ trường hợp pháp luật có quy định khác.
+Điều 45. Lời chứng của công chứng viên
+1. Lời chứng của công chứng viên đối với giao dịch phải ghi rõ các nội dung sau đây:
+a) Thời điểm, địa điểm công chứng;
+b) Họ, tên công chứng viên, tên tổ chức hành nghề công chứng;
+c) Chứng nhận người tham gia giao dịch hoàn toàn tự nguyện, có năng lực hành vi dân sự, mục đích, nội dung của giao dịch không vi phạm pháp luật, không trái đạo đức xã hội;
+d) Chữ ký, dấu điểm chỉ trong giao dịch đúng là chữ ký, dấu điểm chỉ của người yêu cầu công chứng, chữ ký, dấu điểm chỉ của người làm chứng, người phiên dịch trong trường hợp có người làm chứng, người phiên dịch và được ký, điểm chỉ trước sự chứng kiến của công chứng viên hoặc được ký trước đối với trường hợp đăng ký chữ ký mẫu quy định tại khoản 2 Điều 47 của Luật này;
+đ) Trách nhiệm của công chứng viên đối với giao dịch; 
+e) Các thông tin về lý do công chứng ngoài trụ sở, việc làm chứng, phiên dịch trong trường hợp công chứng ngoài trụ sở hoặc việc công chứng có người làm chứng, người phiên dịch.
+2. Lời chứng phải có chữ ký của công chứng viên và đóng dấu của tổ chức hành nghề công chứng. Đối với văn bản công chứng điện tử thì lời chứng phải có chữ ký số của công chứng viên và chữ ký số của tổ chức hành nghề công chứng.
+3. Công chứng viên căn cứ quy định tại khoản 1 Điều này để soạn thảo lời chứng phù hợp với từng giao dịch cụ thể; không được đưa vào lời chứng những nội dung nhằm trốn tránh, loại trừ trách nhiệm của mình hoặc có nội dung vi phạm pháp luật, trái đạo đức xã hội. 
+4. Bộ trưởng Bộ Tư pháp quy định chi tiết mẫu lời chứng của công chứng viên. 
+Điều 46. Người yêu cầu công chứng, người làm chứng, người phiên dịch
+1. Người yêu cầu công chứng là cá nhân phải có năng lực hành vi dân sự phù hợp với giao dịch mà mình thực hiện.
+Người yêu cầu công chứng là tổ chức thì việc yêu cầu công chứng được thực hiện thông qua người đại diện theo pháp luật hoặc người đại diện theo ủy quyền của tổ chức đó. 
+Người yêu cầu công chứng phải xuất trình đủ giấy tờ cần thiết liên quan đến việc công chứng và chịu trách nhiệm về tính chính xác, tính hợp pháp của các giấy tờ đó.
+2. Trường hợp người yêu cầu công chứng không đọc được hoặc không nghe được hoặc không ký được và không điểm chỉ được hoặc trong những trường hợp khác do pháp luật quy định thì việc công chứng phải có người làm chứng. 
+Người làm chứng do người yêu cầu công chứng mời hoặc do công chứng viên chỉ định nếu người yêu cầu công chứng không mời được; trường hợp công chứng viên không chỉ định được người làm chứng thì từ chối công chứng. 
+Người làm chứng phải là người có năng lực hành vi dân sự đầy đủ, không thuộc trường hợp phải có người làm chứng theo quy định tại khoản này và không có quyền, lợi ích hoặc nghĩa vụ liên quan đến việc công chứng.
+Người làm chứng phải trực tiếp chứng kiến việc công chứng và chịu trách nhiệm trước pháp luật về việc làm chứng của mình. 
+ 3. Trường hợp người yêu cầu công chứng không thông thạo tiếng Việt hoặc là người khuyết tật nhìn, người khuyết tật nghe, nói thì phải có người phiên dịch. 
+Người phiên dịch do người yêu cầu công chứng mời và phải chịu trách nhiệm trước pháp luật về việc phiên dịch của mình.
+Người phiên dịch phải là người có năng lực hành vi dân sự đầy đủ, thông thạo tiếng Việt và ngôn ngữ mà người yêu cầu công chứng sử dụng hoặc là người biết chữ của người khuyết tật nhìn hoặc biết nghe, nói bằng ngôn ngữ, ký hiệu của người khuyết tật nghe, nói và không có quyền, lợi ích hoặc nghĩa vụ liên quan đến việc công chứng.
+Người phiên dịch phải dịch đầy đủ, chính xác nội dung giao dịch, nội dung trao đổi của công chứng viên với người yêu cầu công chứng về quyền, lợi ích hợp pháp và nghĩa vụ của các bên khi tham gia giao dịch.
+Điều 47. Ký, điểm chỉ trong văn bản công chứng
+1. Người yêu cầu công chứng, người làm chứng, người phiên dịch phải ký vào từng trang của giao dịch trước sự chứng kiến trực tiếp của công chứng viên, trừ trường hợp quy định tại khoản 2 Điều này và trường hợp người yêu cầu công chứng không ký được và không điểm chỉ được. Việc ký văn bản công chứng điện tử thực hiện theo quy định của Chính phủ. 
+Việc ký văn bản công chứng trước sự chứng kiến của công chứng viên phải được chụp hình và lưu trữ trong hồ sơ công chứng.
+2. Trong trường hợp người có thẩm quyền giao kết hợp đồng của tổ chức tín dụng, doanh nghiệp, hợp tác xã, liên hiệp hợp tác xã khác đã đăng ký chữ ký mẫu tại tổ chức hành nghề công chứng thì người đó có thể ký trước vào hợp đồng; công chứng viên phải đối chiếu chữ ký của họ trong hợp đồng với chữ ký mẫu trước khi thực hiện việc công chứng.
+Việc đăng ký chữ ký mẫu được thực hiện trực tiếp tại tổ chức hành nghề công chứng hoặc bằng văn bản chính thức có chữ ký trực tiếp của người đăng ký và đóng dấu của tổ chức, doanh nghiệp, hợp tác xã, liên hiệp hợp tác xã đó.
+3. Việc điểm chỉ được thay thế việc ký trong trường hợp người yêu cầu công chứng, người làm chứng, người phiên dịch không ký được do khuyết tật hoặc không biết ký. Khi điểm chỉ, người yêu cầu công chứng, người làm chứng, người phiên dịch sử dụng vân tay của ngón trỏ phải; nếu không sử dụng được vân tay của ngón trỏ phải thì sử dụng vân tay của ngón trỏ trái; trường hợp không thể sử dụng vân tay của hai ngón trỏ đó thì sử dụng vân tay của ngón khác và công chứng viên phải ghi rõ trong lời chứng việc người yêu cầu công chứng, người làm chứng, người phiên dịch sử dụng vân tay của ngón nào, của bàn tay nào để điểm chỉ.
+4. Việc điểm chỉ có thể được thực hiện đồng thời với việc ký trong những trường hợp sau đây:
+a) Công chứng di chúc;
+b) Theo đề nghị của người yêu cầu công chứng;
+c) Công chứng viên thấy cần thiết để bảo vệ quyền lợi cho người yêu cầu công chứng.
+Điều 48. Việc đánh số trang, đóng dấu giáp lai trong văn bản công chứng
+1. Văn bản công chứng có từ 02 trang trở lên thì từng trang phải được đánh số thứ tự, bắt đầu từ số 1 tại trang thứ nhất của giao dịch và liên tục cho đến trang cuối cùng của lời chứng. 
+2. Văn bản công chứng có từ 02 tờ trở lên phải được đóng dấu giáp lai giữa các tờ.
+3. Việc đánh số trang, xác nhận tính toàn vẹn của văn bản công chứng điện tử thực hiện theo quy định của Chính phủ.
+Điều 49. Sửa lỗi kỹ thuật trong văn bản công chứng
+1. Lỗi kỹ thuật là lỗi do sai sót trong khi ghi chép, đánh máy, in ấn văn bản công chứng mà việc sửa lỗi đó không làm ảnh hưởng đến quyền và nghĩa vụ của người tham gia giao dịch.
+2. Việc sửa lỗi kỹ thuật trong văn bản công chứng được thực hiện tại tổ chức hành nghề công chứng nơi đã thực hiện việc công chứng đó; trường hợp tổ chức hành nghề công chứng đã thực hiện việc công chứng chấm dứt hoạt động, chuyển đổi hoặc giải thể thì tổ chức hành nghề công chứng đang lưu trữ hồ sơ công chứng thực hiện việc sửa lỗi kỹ thuật. Trường hợp tổ chức hành nghề công chứng tạm ngừng hoạt động thì việc sửa lỗi kỹ thuật trong văn bản công chứng thực hiện theo quy định tại khoản 4 Điều 30 của Luật này. 
+3. Công chứng viên thực hiện việc sửa lỗi kỹ thuật có trách nhiệm đối chiếu từng lỗi cần sửa với các giấy tờ trong hồ sơ công chứng, gạch chân chỗ cần sửa, sau đó ghi chữ, dấu hoặc con số đã được sửa vào bên lề của trang được sửa lỗi kỹ thuật, ghi thời điểm sửa lỗi kỹ thuật kèm theo họ, tên, chữ ký của mình và đóng dấu của tổ chức hành nghề công chứng; trường hợp khoảng trống bên lề không đủ chỗ để ghi nội dung sửa lỗi kỹ thuật thì có thể ghi vào trang đính kèm có đầy đủ các nội dung nêu trên.
+Công chứng viên có trách nhiệm sửa lỗi kỹ thuật đối với tất cả các bản gốc của văn bản công chứng, trừ trường hợp không thể thu hồi được tất cả các bản gốc. Việc sửa lỗi kỹ thuật phải được thông báo bằng văn bản cho những người tham gia giao dịch trong thời hạn 03 ngày làm việc kể từ ngày hoàn thành việc sửa lỗi kỹ thuật.
+4. Việc sửa lỗi kỹ thuật trong văn bản công chứng điện tử thực hiện theo quy định của Chính phủ. 
+Điều 50. Công chứng việc sửa đổi, bổ sung, chấm dứt, hủy bỏ giao dịch
+1. Việc công chứng văn bản sửa đổi, bổ sung, thoả thuận chấm dứt hợp đồng đã được công chứng chỉ được thực hiện khi có sự thoả thuận hoặc cam kết bằng văn bản của tất cả những người đã tham gia hợp đồng đó, trừ trường hợp pháp luật có quy định khác. 
+Việc công chứng văn bản sửa đổi, bổ sung, chấm dứt, huỷ bỏ văn bản là hành vi pháp lý đơn phương được thực hiện khi có yêu cầu của người đã ký kết văn bản,trừ trường hợp pháp luật có quy định khác.
+2. Trừ trường hợp quy định tại khoản 4 Điều 55 của Luật này, việc công chứng văn bản sửa đổi, bổ sung, chấm dứt, hủy bỏ giao dịch đã được công chứng do công chứng viên của tổ chức hành nghề công chứng nơi đã thực hiện việc công chứng đó tiến hành; trường hợp tổ chức hành nghề công chứng nơi đã thực hiện việc công chứng chấm dứt hoạt động, chuyển đổi hoặc giải thể thì công chứng viên của tổ chức hành nghề công chứng đang lưu trữ hồ sơ công chứng thực hiện. Trường hợp tổ chức hành nghề công chứng tạm ngừng hoạt động thì việc sửa đổi, bổ sung, chấm dứt, hủy bỏ giao dịch đã được công chứng thực hiện theo quy định tại khoản 4 Điều 30 của Luật này.
+3. Thủ tục công chứng việc sửa đổi, bổ sung, chấm dứt, huỷ bỏ giao dịch đã được công chứng được thực hiện như thủ tục công chứng giao dịch quy định tại Chương này. 
+Điều 51. Người có quyền đề nghị Tòa án tuyên bố văn bản công chứng vô hiệu
+Công chứng viên đã thực hiện việc công chứng, người yêu cầu công chứng, người làm chứng, người phiên dịch, người có quyền lợi, nghĩa vụ liên quan, cơ quan nhà nước có thẩm quyền có quyền đề nghị Tòa án tuyên bố văn bản công chứng vô hiệu khi có căn cứ cho rằng việc công chứng có vi phạm pháp luật.
+Mục 2
+THỦ TỤC CÔNG CHỨNG MỘT SỐ GIAO DỊCH, 
+NHẬN LƯU GIỮ DI CHÚC
+Điều 52. Nguyên tắc thực hiện thủ tục công chứng 
+Thủ tục công chứng hợp đồng thế chấp bất động sản, hợp đồng uỷ quyền, di chúc, văn bản phân chia di sản, văn bản từ chối nhận di sản được thực hiện theo các quy định của Mục 1 Chương này và các quy định của Mục này đối với từng loại giao dịch.
+Điều 53. Công chứng hợp đồng thế chấp bất động sản
+1. Thẩm quyền công chứng hợp đồng thế chấp bất động sản được thực hiện theo quy định tại Điều 41 của Luật này.
+2. Trường hợp bất động sản đã được thế chấp để bảo đảm thực hiện nghĩa vụ và hợp đồng thế chấp đã được công chứng mà sau đó được tiếp tục thế chấp để bảo đảm cho nghĩa vụ khác trong phạm vi pháp luật cho phép thì các hợp đồng thế chấp tiếp theo phải được công chứng tại tổ chức hành nghề công chứng đã công chứng hợp đồng thế chấp lần đầu. Trường hợp tổ chức hành nghề công chứng đã thực hiện việc công chứng chấm dứt hoạt động, chuyển đổi hoặc giải thể thì công chứng viên của tổ chức hành nghề công chứng đang lưu trữ hồ sơ công chứng thực hiện việc công chứng hợp đồng thế chấp tiếp theo đó. Trường hợp tổ chức hành nghề công chứng đã thực hiện việc công chứng tạm ngừng hoạt động thì việc công chứng hợp đồng thế chấp tiếp theo được thực hiện theo quy định tại khoản 4 Điều 30 của Luật này.
+Điều 54. Công chứng hợp đồng ủy quyền trong trường hợp bên ủy quyền và bên được ủy quyền không thể cùng đến một tổ chức hành nghề công chứng
+1. Trong trường hợp bên ủy quyền và bên được ủy quyền không thể cùng đến một tổ chức hành nghề công chứng thì bên ủy quyền được yêu cầu công chứng viên của tổ chức hành nghề công chứng mà mình lựa chọn chứng nhận việc đề nghị ủy quyền trong hợp đồng ủy quyền; bên được ủy quyền được yêu cầu công chứng viên của tổ chức hành nghề công chứng mà mình lựa chọn chứng nhận tiếp vào bản gốc của hợp đồng uỷ quyền đó để xác nhận việc chấp nhận ủy quyền, hoàn tất việc công chứng hợp đồng ủy quyền.
+Văn bản công chứng hợp đồng ủy quyền có hiệu lực kể từ thời điểm được công chứng viên của tổ chức hành nghề công chứng mà bên ủy quyền và bên được ủy quyền yêu cầu công chứng ký tên và đóng dấu của tổ chức hành nghề công chứng đó. Trường hợp là văn bản công chứng điện tử thì phải có chữ ký số của công chứng viên và chữ ký số của tổ chức hành nghề công chứng.
+2. Việc công chứng sửa đổi, bổ sung, chấm dứt, huỷ bỏ hợp đồng uỷ quyền quy định tại khoản 1 Điều này được thực hiện theo quy định tại Điều 50 của Luật này. Bên ủy quyền và bên được ủy quyền có thể thỏa thuận để bên ủy quyền yêu cầu công chứng viên của tổ chức hành nghề đã công chứng việc ủy quyền thực hiện công chứng việc sửa đổi, bổ sung, chấm dứt, hủy bỏ, sau đó gửi bản gốc văn bản sửa đổi, bổ sung, chấm dứt, hủy bỏ cho bên được ủy quyền để yêu cầu công chứng viên của tổ chức hành nghề công chứng đã công chứng việc nhận ủy quyền công chứng tiếp việc sửa đổi, bổ sung, chấm dứt, hủy bỏ.
+Trường hợp hai bên cùng yêu cầu công chứng tại một trong hai tổ chức hành nghề công chứng đã thực hiện việc công chứng trước đó thì tổ chức hành nghề công chứng này có trách nhiệm thông báo và gửi bản sao của văn bản sửa đổi, bổ sung, chấm dứt, hủy bỏ hợp đồng cho tổ chức hành nghề công chứng còn lại để lưu hồ sơ công chứng.
+3. Việc sửa lỗi kỹ thuật của văn bản công chứng theo quy định tại khoản 1 Điều này được thực hiện tại tổ chức hành nghề công chứng nơi đã thực hiện việc công chứng cho bên uỷ quyền, trừ trường hợp pháp luật có quy định khác. Công chứng viên thực hiện việc sửa lỗi kỹ thuật theo quy định tại khoản 3 Điều 49 của Luật này, thông báo về việc sửa lỗi kỹ thuật cho các bên tham gia giao dịch và tổ chức hành nghề công chứng nơi đã thực hiện việc công chứng cho bên được uỷ quyền.
+Điều 55. Công chứng di chúc
+1. Người lập di chúc không được ủy quyền cho người khác mà phải tự mình ký tên hoặc điểm chỉ vào bản di chúc được công chứng.
+2. Trường hợp công chứng viên nhận thấy người lập di chúc có dấu hiệu bị mất năng lực hành vi dân sự, bị hạn chế năng lực hành vi dân sự, có khó khăn trong nhận thức, làm chủ hành vi hoặc có căn cứ cho rằng việc lập di chúc có dấu hiệu bị lừa dối, đe dọa hoặc cưỡng ép thì công chứng viên đề nghị người lập di chúc làm rõ, trường hợp không làm rõ được thì công chứng viên từ chối công chứng di chúc đó.
+3. Trường hợp người lập di chúc đang bị cái chết đe dọa đến tính mạng thì không phải xuất trình đầy đủ giấy tờ quy định tại khoản 1 Điều 39 của Luật này nhưng phải ghi rõ trong văn bản công chứng.
+Sau 03 tháng kể từ thời điểm lập di chúc theo quy định tại khoản này mà người lập di chúc không còn trong tình trạng nguy hiểm đến tính mạng thì người lập di chúc phải nộp đầy đủ giấy tờ quy định tại khoản 1 Điều 39 của Luật này, nếu người lập di chúc không thể nộp đầy đủ giấy tờ quy định tại khoản 1 Điều 39 của Luật này thì văn bản công chứng di chúc không có hiệu lực.
+4. Di chúc đã được công chứng nhưng sau đó người lập di chúc muốn sửa đổi, bổ sung, thay thế, hủy bỏ một phần hoặc toàn bộ di chúc thì có thể yêu cầu công chứng viên của bất kỳ tổ chức hành nghề công chứng nào công chứng việc sửa đổi, bổ sung, thay thế hoặc hủy bỏ đó. Trường hợp di chúc trước đó đang được lưu giữ tại một tổ chức hành nghề công chứng thì người lập di chúc phải thông báo cho tổ chức hành nghề công chứng đang lưu giữ di chúc biết việc sửa đổi, bổ sung, thay thế, hủy bỏ một phần hoặc toàn bộ di chúc đó.
+Điều 56. Công chứng văn bản phân chia di sản
+1. Người thừa kế theo pháp luật hoặc theo di chúc có quyền yêu cầu công chứng văn bản phân chia di sản. 
+Công chứng viên có trách nhiệm kiểm tra, bảo đảm việc phân chia di sản được thực hiện theo quy định của Bộ luật Dân sự.
+2. Ngoài các giấy tờ quy định tại khoản 1 Điều 39 hoặc khoản 1 Điều 40 của Luật này, hồ sơ yêu cầu công chứng văn bản phân chia di sản còn phải có các giấy tờ sau đây:
+a) Giấy chứng tử hoặc giấy tờ khác theo quy định của pháp luật chứng minh người để lại di sản đã chết; 
+b) Di chúc trong trường hợp thừa kế theo di chúc; giấy tờ chứng minh quan hệ giữa người để lại di sản và người được hưởng di sản trong trường hợp thừa kế theo pháp luật;
+c) Giấy tờ chứng minh quyền sử dụng đất, quyền sở hữu tài sản của người để lại di sản trong trường hợp di sản là quyền sử dụng đất hoặc tài sản pháp luật quy định phải đăng ký quyền sở hữu.
+3. Công chứng viên kiểm tra để xác định người để lại di sản đúng là người có quyền sử dụng đất, quyền sở hữu tài sản và những người yêu cầu công chứng đúng là người được hưởng di sản; nếu thấy chưa rõ thì công chứng viên yêu cầu làm rõ hoặc tiến hành xác minh, yêu cầu giám định theo quy định tại khoản 4 Điều 39 của Luật này. 
+4. Tổ chức hành nghề công chứng có trách nhiệm niêm yết việc tiếp nhận công chứng văn bản phân chia di sản. Công chứng viên chỉ được công chứng văn bản phân chia di sản sau khi có xác nhận về việc đã hoàn thành việc niêm yết và không nhận được khiếu nại, tố cáo nào liên quan đến việc phân chia đó. 
+Chính phủ quy định chi tiết thủ tục niêm yết việc tiếp nhận công chứng văn bản phân chia di sản quy định tại khoản này.
+5. Thủ tục công chứng văn bản phân chia di sản theo quy định tại các khoản 2, 3 và 4 của Điều này cũng áp dụng đối với trường hợp thừa kế theo di chúc hoặc theo pháp luật mà chỉ có 01 người thừa kế.
+6. Văn bản phân chia di sản đã được công chứng là căn cứ để cơ quan nhà nước có thẩm quyền đăng ký việc chuyển quyền sử dụng đất, quyền sở hữu tài sản cho người được hưởng di sản.
+Điều 57. Công chứng văn bản từ chối nhận di sản
+1. Người thừa kế có thể yêu cầu công chứng văn bản từ chối nhận di sản theo quy định của Bộ luật Dân sự. 
+ 2. Ngoài các giấy tờ quy định tại khoản 1 Điều 39 hoặc khoản 1 Điều 40 của Luật này, hồ sơ yêu cầu công chứng văn bản từ chối nhận di sản còn phải có các giấy tờ sau đây:
+a) Giấy chứng tử hoặc giấy tờ khác chứng minh người để lại di sản đã chết; 
+b) Di chúc trong trường hợp thừa kế theo di chúc; giấy tờ chứng minh quan hệ giữa người để lại di sản và người được hưởng di sản trong trường hợp thừa kế theo pháp luật.
+Điều 58. Gửi giữ di chúc và công bố di chúc được lưu giữ
+1. Người lập di chúc có thể yêu cầu tổ chức hành nghề công chứng nhận lưu giữ di chúc của mình. Khi nhận lưu giữ di chúc, công chứng viên phải niêm phong bản di chúc trước mặt người lập di chúc, ghi giấy nhận lưu giữ và giao cho người lập di chúc. Giấy nhận lưu giữ di chúc phải có thông tin về tổ chức hành nghề công chứng nhận lưu giữ di chúc, công chứng viên niêm phong di chúc, người lập di chúc và người thừa kế theo di chúc.
+2. Đối với di chúc đã được tổ chức hành nghề công chứng nhận lưu giữ nhưng sau đó tổ chức này chấm dứt hoạt động, chuyển đổi hoặc giải thể thì trước khi chấm dứt hoạt động, chuyển đổi hoặc giải thể, tổ chức hành nghề công chứng phải thỏa thuận với người lập di chúc về việc chuyển cho tổ chức hành nghề công chứng khác lưu giữ di chúc. Trường hợp không có thỏa thuận hoặc không thỏa thuận được thì di chúc và phí lưu giữ di chúc phải được trả lại cho người lập di chúc hoặc người thừa kế theo di chúc nếu người lập di chúc đã chết. Trường hợp không liên hệ được với người lập di chúc thì di chúc được chuyển giao cho tổ chức hành nghề công chứng tiếp nhận hồ sơ của tổ chức hành nghề công chứng đã chấm dứt hoạt động, chuyển đổi hoặc giải thể. 
+3. Việc công bố di chúc lưu giữ tại tổ chức hành nghề công chứng được thực hiện theo quy định của Chính phủ.
+Mục 3
+CÔNG CHỨNG ĐIỆN TỬ 
+Điều 59. Nguyên tắc và phạm vi công chứng điện tử
+1. Công chứng điện tử là việc công chứng được thực hiện bằng phương tiện điện tử để tạo lập văn bản công chứng điện tử, tuân thủ nguyên tắc quy định tại Điều 4 của Luật này và các nguyên tắc sau đây:
+a) Bảo đảm an ninh, an toàn, bảo vệ thông điệp dữ liệu và bảo mật thông tin theo quy định của pháp luật; thông tin trong thông điệp dữ liệu đó có thể truy cập và sử dụng được để tham chiếu;
+b) Công chứng viên, tổ chức hành nghề công chứng được cung cấp dịch vụ công chứng điện tử khi đáp ứng đầy đủ các điều kiện theo quy định tại Điều 60 của Luật này.
+2. Căn cứ vào điều kiện kinh tế - xã hội, nhu cầu và khả năng cung cấp dịch vụ công chứng điện tử trong từng thời kỳ, Chính phủ quy định về phạm vi các giao dịch được công chứng điện tử.
+Điều 60. Điều kiện cung cấp dịch vụ công chứng điện tử
+1. Công chứng viên cung cấp dịch vụ công chứng điện tử phải đáp ứng các điều kiện sau đây:
+a) Có tài khoản để thực hiện công chứng điện tử;
+b) Có chữ ký số và sử dụng dịch vụ cấp dấu thời gian theo quy định của pháp luật về giao dịch điện tử.
+2. Tổ chức hành nghề công chứng cung cấp dịch vụ công chứng điện tử phải đáp ứng các điều kiện sau đây:
+a) Có tài khoản để thực hiện công chứng điện tử;
+b) Có chữ ký số và sử dụng dịch vụ cấp dấu thời gian theo quy định của pháp luật về giao dịch điện tử;
+c) Có đầy đủ trang thiết bị kỹ thuật để thực hiện công chứng điện tử.
+3. Chính phủ quy định chi tiết Điều này.
+Điều 61. Văn bản công chứng điện tử 
+1. Văn bản công chứng điện tử là chứng thư điện tử được tạo lập theo nguyên tắc và phạm vi quy định tại Điều 59 của Luật này.
+2. Văn bản công chứng điện tử có hiệu lực kể từ thời điểm được ký bằng chữ ký số công chứng viên và chữ ký số của tổ chức hành nghề công chứng.
+3. Văn bản công chứng điện tử có giá trị pháp lý theo quy định tại khoản 2 và khoản 3 Điều 5 của Luật này.
+4. Việc chuyển đổi hình thức giữa văn bản công chứng điện tử và văn bản công chứng giấy được thực hiện theo quy định của pháp luật về giao dịch điện tử. 
+Văn bản công chứng được chuyển đổi có giá trị như bản gốc khi đáp ứng đầy đủ các điều kiện theo quy định của pháp luật về giao dịch điện tử, trừ trường hợp pháp luật quy định loại văn bản đó được chuyển giao quyền sở hữu và chỉ được tồn tại dưới một hình thức duy nhất.
+5. Chính phủ quy định chi tiết Điều này.
+Điều 62. Quy trình, thủ tục công chứng điện tử 
+1. Việc công chứng điện tử được thực hiện theo quy trình công chứng điện tử trực tiếp hoặc công chứng điện tử trực tuyến. 
+a) Công chứng điện tử trực tiếp là việc người yêu cầu công chứng giao kết giao dịch trước sự chứng kiến trực tiếp của công chứng viên; công chứng viên và tổ chức hành nghề công chứng xác nhận giao dịch bằng chữ ký số để tạo ra văn bản công chứng điện tử;
+b) Công chứng điện tử trực tuyến là việc các bên tham gia giao dịch có yêu cầu công chứng không có mặt tại cùng một địa điểm và giao kết giao dịch thông qua phương tiện trực tuyến trước sự chứng kiến trực tiếp của công chứng viên; công chứng viên và tổ chức hành nghề công chứng chứng nhận giao dịch bằng chữ ký số để tạo ra văn bản công chứng điện tử.
+2. Thủ tục công chứng điện tử thực hiện theo quy định tại Mục 1 và Mục 2 của Chương này.
+3. Chính phủ quy định về quy trình, thủ tục, hồ sơ công chứng điện tử.
+Chương VI
+CƠ SỞ DỮ LIỆU CÔNG CHỨNG, LƯU TRỮ HỒ SƠ CÔNG CHỨNG
+Điều 63. Cơ sở dữ liệu công chứng 
+1. Cơ sở dữ liệu công chứng bao gồm cơ sở dữ liệu công chứng của Bộ Tư pháp và cơ sở dữ liệu công chứng của địa phương, được xây dựng, vận hành phù hợp với khung kiến trúc Chính phủ điện tử Việt Nam, kiến trúc Chính quyền điện tử ở địa phương, đáp ứng chuẩn về cơ sở dữ liệu, các tiêu chuẩn, quy chuẩn kỹ thuật, công nghệ thông tin, định mức kinh tế - kỹ thuật, phục vụ công tác quản lý nhà nước về công chứng. 
+2. Cơ sở dữ liệu công chứng của Bộ Tư pháp gồm thông tin về công chứng viên, tổ chức hành nghề công chứng, số liệu về kết quả hoạt động công chứng; các thông tin được tích hợp, đồng bộ từ cơ sở dữ liệu công chứng tại địa phương theo lộ trình do Chính phủ quy định. 
+Bộ Tư pháp có trách nhiệm xây dựng cơ sở dữ liệu công chứng phục vụ quản lý; ban hành quy chế quản lý, cập nhật, khai thác, sử dụng, chia sẻ cơ sở dữ liệu công chứng của Bộ Tư pháp. 
+3. Cơ sở dữ liệu công chứng của địa phương bao gồm các thông tin về nguồn gốc tài sản, tình trạng giao dịch của tài sản, các thông tin về biện pháp ngăn chặn và cảnh báo rủi ro trong hoạt động công chứng, thông tin về giao dịch đã được công chứng, văn bản công chứng và tài liệu liên quan trong hồ sơ công chứng. 
+Ủy ban nhân dân cấp tỉnh có trách nhiệm xây dựng cơ sở dữ liệu công chứng tại địa phương; ban hành quy chế quản lý, cập nhật, khai thác, sử dụng, chia sẻ cơ sở dữ liệu công chứng của địa phương. 
+4. Cơ sở dữ liệu công chứng phải được cập nhật đầy đủ, chính xác, kịp thời và bảo đảm an ninh, an toàn theo quy định của pháp luật. Việc thu thập, khai thác, sử dụng và cung cấp thông tin cơ sở dữ liệu công chứng phải tuân thủ các quy định của pháp luật về bảo vệ đời sống riêng tư, bí mật cá nhân, bí mật gia đình.
+Việc kết nối, chia sẻ thông tin giữa cơ sở dữ liệu công chứng với các cơ sở dữ liệu quốc gia, cơ sở dữ liệu của Bộ, ngành, địa phương và các cơ sở dữ liệu khác phải bảo đảm hiệu quả, an toàn, phù hợp với chức năng, nhiệm vụ, quyền hạn theo quy định của Luật này và quy định khác của pháp luật có liên quan. 
+5. Chính phủ quy định chi tiết Điều này.
+Điều 64. Hồ sơ công chứng
+1. Hồ sơ công chứng bao gồm: bản gốc văn bản công chứng; bản sao các giấy tờ mà người yêu cầu công chứng đã nộp; các giấy tờ xác minh, giám định; hình ảnh người yêu cầu công chứng ký văn bản công chứng trước sự chứng kiến của công chứng viên, trừ trường hợp đã đăng ký chữ ký mẫu tại tổ chức hành nghề công chứng quy định tại khoản 2 Điều 47 của Luật này; giấy tờ liên quan khác.
+2. Hồ sơ công chứng phải được đánh số theo thứ tự thời gian phù hợp với việc ghi trong sổ công chứng. 
+Điều 65. Lưu trữ hồ sơ công chứng
+1. Tổ chức hành nghề công chứng có trách nhiệm bảo quản chặt chẽ, thực hiện đầy đủ các biện pháp an ninh, an toàn về phòng chống cháy, nổ, ẩm mốc, mối mọt đối với hồ sơ công chứng.
+2. Bản gốc văn bản công chứng và các giấy tờ khác trong hồ sơ công chứng phải được lưu trữ tại trụ sở của tổ chức hành nghề công chứng trong thời hạn ít nhất 30 năm đối với các giao dịch có đối tượng là bất động sản, ít nhất 10 năm đối với các loại giao dịch khác kể từ ngày văn bản công chứng có hiệu lực; trường hợp lưu trữ ngoài trụ sở thì phải có sự đồng ý bằng văn bản của Sở Tư pháp nơi tổ chức hành nghề công chứng đặt trụ sở.
+Tổ chức hành nghề công chứng có thể chuyển đổi hồ sơ công chứng giấy thành dạng thông điệp dữ liệu để lưu trữ tại tổ chức hành nghề công chứng theo thời hạn quy định tại khoản này. 
+3. Trong trường hợp cơ quan nhà nước có thẩm quyền có yêu cầu bằng văn bản về việc cung cấp hồ sơ công chứng phục vụ cho việc giám sát, kiểm tra, thanh tra, điều tra, truy tố, xét xử, thi hành án liên quan đến việc đã công chứng thì tổ chức hành nghề công chứng có trách nhiệm cung cấp bản sao văn bản công chứng và các giấy tờ khác có liên quan. Việc đối chiếu bản sao văn bản công chứng với bản gốc chỉ được thực hiện tại tổ chức hành nghề công chứng nơi đang lưu trữ hồ sơ công chứng.
+4. Việc kê biên, khám xét trụ sở của tổ chức hành nghề công chứng phải thực hiện theo quy định của pháp luật và có sự chứng kiến của đại diện Sở Tư pháp, đại diện Hội công chứng viên tại địa phương.
+5. Trường hợp tổ chức hành nghề công chứng bị giải thể hoặc chấm dứt hoạt động, tổ chức hành nghề công chứng đó phải thỏa thuận với một tổ chức hành nghề công chứng khác về việc tiếp nhận hồ sơ công chứng. 
+Trường hợp không thỏa thuận được thì Sở Tư pháp chỉ định 01 Phòng công chứng tiếp nhận hồ sơ công chứng; trường hợp địa phương không có Phòng công chứng thì Sở Tư pháp chỉ định 01 Văn phòng công chứng đủ điều kiện tiếp nhận hồ sơ công chứng; nếu tổ chức hành nghề công chứng bị giải thể hoặc chấm dứt hoạt động không còn khả năng thanh toán kinh phí lưu trữ hồ sơ công chứng thì kinh phí này do ngân sách địa phương bảo đảm. 
+Trường hợp Phòng công chứng được chuyển đổi thành Văn phòng công chứng thì hồ sơ công chứng do Văn phòng công chứng được chuyển đổi lưu trữ.
+6. Chính phủ quy định chi tiết Điều này.
+Điều 66. Cấp bản sao văn bản công chứng
+1. Việc cấp bản sao văn bản công chứng được thực hiện trong các trường hợp sau đây:
+a) Theo yêu cầu của cơ quan có thẩm quyền trong các trường hợp quy định tại khoản 3 Điều 65 của Luật này;
+b) Theo yêu cầu của các bên tham gia giao dịch, người có quyền, nghĩa vụ liên quan đến giao dịch đã được công chứng.
+Việc cấp bản sao văn bản công chứng theo yêu cầu của người có quyền, nghĩa vụ liên quan đến giao dịch đã được công chứng phải được người yêu cầu công chứng đồng ý; trường hợp người yêu cầu công chứng là cá nhân đã chết hoặc bị Tòa án tuyên bố là đã chết hoặc pháp nhân chấm dứt hoạt động thì phải được sự đồng ý của người thừa kế đối với cá nhân, sự đồng ý của tổ chức, cá nhân kế thừa quyền, nghĩa vụ của pháp nhân đó.
+2. Việc cấp bản sao văn bản công chứng do tổ chức hành nghề công chứng đang lưu trữ bản gốc văn bản công chứng đó thực hiện.
+3. Việc cấp bản sao văn bản công chứng đang được lưu trữ tại tổ chức hành nghề công chứng tạm ngừng hoạt động được thực hiện theo quy định tại khoản 4 Điều 30 của Luật này.
+Chương VII
+PHÍ CÔNG CHỨNG, GIÁ DỊCH VỤ THEO YÊU CẦU 
+LIÊN QUAN ĐẾN VIỆC CÔNG CHỨNG VÀ CHI PHÍ KHÁC 
+Điều 67. Phí công chứng
+1. Phí công chứng bao gồm phí công chứng giao dịch, phí nhận lưu giữ di chúc, phí cấp bản sao văn bản công chứng.
+Người yêu cầu công chứng giao dịch, gửi giữ di chúc, cấp bản sao văn bản công chứng phải nộp phí công chứng.
+2. Mức thu, chế độ thu, nộp, sử dụng và quản lý phí công chứng được thực hiện theo quy định của pháp luật về phí, lệ phí.
+Điều 68. Phí, giá dịch vụ theo yêu cầu liên quan đến việc công chứng
+1. Người yêu cầu công chứng phải thanh toán giá dịch vụ theo yêu cầu liên quan đến việc công chứng khi yêu cầu tổ chức hành nghề công chứng thực hiện việc soạn thảo giao dịch, đánh máy, sao chụp, dịch giấy tờ, văn bản liên quan đến giao dịch; phí khai thác, sử dụng thông tin liên quan đến giao dịch theo quy định của pháp luật.
+2. Ủy ban nhân dân cấp tỉnh ban hành giá tối đa đối với dịch vụ theo yêu cầu liên quan đến việc công chứng áp dụng đối với các tổ chức hành nghề công chứng tại địa phương. Tổ chức hành nghề công chứng xác định mức giá dịch vụ đối với từng loại việc không vượt quá mức giá tối đa do Ủy ban nhân dân cấp tỉnh ban hành và niêm yết công khai các mức giá dịch vụ tại trụ sở của mình. 
+3. Tổ chức hành nghề công chứng có trách nhiệm giải thích rõ cho người yêu cầu công chứng về giá dịch vụ theo yêu cầu liên quan đến việc công chứng quy định tại Điều này.
+Điều 69. Chi phí khác
+1. Người yêu cầu công chứng phải trả chi phí trong các trường hợp sau đây:
+a) Đề nghị xác minh, yêu cầu giám định phục vụ việc công chứng;
+b) Yêu cầu công chứng ngoài trụ sở của tổ chức hành nghề công chứng; yêu cầu công chứng ngoài ngày, giờ làm việc của tổ chức hành nghề công chứng;
+c) Tổ chức hành nghề công chứng niêm yết việc tiếp nhận công chứng văn bản phân chia di sản.
+2. Mức chi phí do người yêu cầu công chứng và tổ chức hành nghề công chứng thỏa thuận. Tổ chức hành nghề công chứng không được thu chi phí cao hơn mức chi phí đã thỏa thuận.
+3. Tổ chức hành nghề công chứng phải niêm yết nguyên tắc tính chi phí khác và có trách nhiệm giải thích rõ cho người yêu cầu công chứng về các chi phí cụ thể đó.
+Chương VIII
+QUẢN LÝ NHÀ NƯỚC VỀ CÔNG CHỨNG
+Điều 70. Nội dung quản lý nhà nước về công chứng
+1. Ban hành và tổ chức thực hiện các văn bản quy phạm pháp luật về công chứng, chiến lược phát triển về lĩnh vực công chứng, điều kiện thành lập tổ chức hành nghề công chứng.
+2. Quản lý công chứng viên, tổ chức hành nghề công chứng, việc hành nghề công chứng, tổ chức xã hội - nghề nghiệp của công chứng viên.
+3. Phổ biến, giáo dục pháp luật, theo dõi tình hình thi hành pháp luật về công chứng.
+4. Thanh tra, kiểm tra việc chấp hành các quy định của pháp luật, giải quyết khiếu nại, tố cáo và xử lý vi phạm pháp luật trong hoạt động công chứng.
+5. Hợp tác quốc tế về công chứng.
+6. Các nội dung quản lý khác theo quy định của Luật này.
+Điều 71. Trách nhiệm của Chính phủ, Bộ Tư pháp và các Bộ, cơ quan ngang Bộ có liên quan 
+1. Chính phủ thống nhất quản lý nhà nước về công chứng.
+2. Bộ Tư pháp chịu trách nhiệm trước Chính phủ trong việc thực hiện quản lý nhà nước về công chứng trên phạm vi cả nước, có các nhiệm vụ, quyền hạn sau đây:
+a) Ban hành hoặc trình cơ quan nhà nước có thẩm quyền ban hành các văn bản quy phạm pháp luật về công chứng;
+b) Xây dựng, trình Chính phủ ban hành chiến lược phát triển về lĩnh vực công chứng, điều kiện thành lập tổ chức hành nghề công chứng; xây dựng, trình Chính phủ quy định chi tiết lộ trình hoàn thành việc chuyển đổi Phòng công chứng thành Văn phòng công chứng, giải thể Phòng công chứng tại các địa phương;
+c) Rà soát, cập nhật, đăng tải các giao dịch phải được công chứng, chứng thực theo quy định của luật trên Cổng thông tin điện tử của Bộ Tư pháp;
+d) Tuyên truyền, phổ biến pháp luật về công chứng, chính sách phát triển nghề công chứng;
+đ) Bổ nhiệm, bổ nhiệm lại, miễn nhiệm công chứng viên;
+e) Đăng tải danh sách công chứng viên, tổ chức hành nghề công chứng trên Cổng thông tin điện tử của Bộ Tư pháp;
+g) Hướng dẫn các địa phương xây dựng Đề án quản lý, phát triển các tổ chức hành nghề công chứng; chủ trì, phối hợp với Bộ, ngành có liên quan hướng dẫn, quản lý hoạt động của công chứng viên và các tổ chức hành nghề công chứng trong cả nước; 
+h) Phê duyệt Điều lệ của Hiệp hội công chứng viên Việt Nam sau khi thống nhất ý kiến với Bộ Nội vụ; đình chỉ thi hành và yêu cầu sửa đổi nghị quyết, quyết định, quy định của Hiệp hội công chứng viên Việt Nam trái với quy định của Luật này và các quy định khác của pháp luật có liên quan; thực hiện các nhiệm vụ quản lý nhà nước khác đối với Hiệp hội công chứng viên Việt Nam; 
+i) Kiểm tra, thanh tra, xử lý vi phạm, giải quyết khiếu nại, tố cáo về hoạt động công chứng theo thẩm quyền;
+k) Quản lý và thực hiện hợp tác quốc tế về hoạt động công chứng;
+l) Nhiệm vụ, quyền hạn khác theo quy định của Luật này và quy định khác của pháp luật có liên quan.
+3. Bộ Ngoại giao chủ trì, phối hợp với Bộ Tư pháp trong việc hướng dẫn, kiểm tra, thanh tra việc thực hiện công chứng của cơ quan đại diện ngoại giao, cơ quan đại diện lãnh sự của nước Cộng hòa xã hội chủ nghĩa Việt Nam ở nước ngoài, tổ chức bồi dưỡng nghiệp vụ công chứng cho viên chức lãnh sự, viên chức ngoại giao được giao thực hiện công chứng; định kỳ hằng năm báo cáo Bộ Tư pháp về hoạt động công chứng của cơ quan đại diện Việt Nam ở nước ngoài.
+4. Các Bộ, cơ quan ngang Bộ, trong phạm vi chức năng, nhiệm vụ, quyền hạn của mình, có trách nhiệm phối hợp với Bộ Tư pháp trong việc thực hiện quản lý nhà nước về công chứng.
+Điều 72. Trách nhiệm của Ủy ban nhân dân cấp tỉnh
+1. Ủy ban nhân dân cấp tỉnh thực hiện việc quản lý nhà nước về công chứng tại địa phương và có các nhiệm vụ, quyền hạn sau đây:
+a) Tổ chức thi hành, tuyên truyền, phổ biến pháp luật về công chứng, chính sách phát triển nghề công chứng;
+b) Ban hành và triển khai thực hiện Đề án quản lý, phát triển tổ chức hành nghề công chứng tại địa phương phù hợp với quy định của Luật này, chiến lược phát triển về lĩnh vực công chứng và điều kiện thành lập tổ chức hành nghề công chứng; quyết định cho phép thành lập, thay đổi và thu hồi quyết định cho phép thành lập Văn phòng công chứng, cho phép hợp nhất, sáp nhập Văn phòng công chứng;
+c) Quyết định thành lập Phòng công chứng, bảo đảm cơ sở vật chất và phương tiện làm việc cho các Phòng công chứng; quyết định việc giải thể hoặc chuyển đổi Phòng công chứng theo quy định của Luật này và quy định khác của pháp luật có liên quan;
+d) Ban hành mức giá tối đa đối với dịch vụ theo yêu cầu liên quan đến việc công chứng tại địa phương;
+đ) Xem xét, quyết định chuyển giao thẩm quyền chứng thực giao dịch từ Phòng Tư pháp cấp huyện, Ủy ban nhân dân cấp xã sang tổ chức hành nghề công chứng tại những địa bàn cấp huyện đã phát triển được tổ chức hành nghề công chứng đáp ứng yêu cầu công chứng của cá nhân, tổ chức theo quy định của Chính phủ;
+e) Quản lý nhà nước đối với Hội công chứng viên tại địa phương;
+g) Kiểm tra, thanh tra, xử lý vi phạm và giải quyết khiếu nại, tố cáo về công chứng theo thẩm quyền; 
+h) Báo cáo Bộ Tư pháp về hoạt động công chứng tại địa phương theo định kỳ hằng năm hoặc theo yêu cầu;
+i) Nhiệm vụ, quyền hạn khác theo quy định của Luật này và quy định khác của pháp luật có liên quan.
+2. Sở Tư pháp chịu trách nhiệm giúp Ủy ban nhân dân cấp tỉnh thực hiện quản lý nhà nước về công chứng tại địa phương, thực hiện các nhiệm vụ, quyền hạn theo quy định của Luật này và quy định khác của pháp luật có liên quan.
+Chương IX
+XỬ LÝ VI PHẠM,  GIẢI QUYẾT KHIẾU NẠI 
+ VÀ GIẢI QUYẾT TRANH CHẤP
+Điều 73. Xử lý vi phạm trong hoạt động công chứng
+1. Công chứng viên vi phạm quy định của Điều lệ Hiệp hội công chứng viên Việt Nam, quy tắc đạo đức hành nghề công chứng thì tùy theo tính chất, mức độ vi phạm mà bị xử lý kỷ luật theo quy định của Điều lệ Hiệp hội công chứng viên Việt Nam.
+2. Tổ chức, cá nhân vi phạm pháp luật về công chứng thì tùy theo tính chất, mức độ vi phạm mà bị xử lý kỷ luật, xử phạt vi phạm hành chính hoặc bị truy cứu trách nhiệm hình sự, nếu gây thiệt hại thì phải bồi thường theo quy định của pháp luật.
+Điều 74. Giải quyết khiếu nại trong hoạt động công chứng
+1. Việc giải quyết khiếu nại về quyết định hành chính, hành vi hành chính trong hoạt động công chứng được thực hiện theo quy định của pháp luật về khiếu nại.
+2. Việc giải quyết khiếu nại của hội viên đối với quyết định của tổ chức xã hội - nghề nghiệp của công chứng viên được thực hiện theo quy định của Điều lệ Hiệp hội công chứng viên Việt Nam và quy định của pháp luật về hội.
+Điều 75. Giải quyết tranh chấp
+Trong trường hợp giữa người yêu cầu công chứng và công chứng viên, tổ chức hành nghề công chứng có tranh chấp liên quan đến hoạt động hành nghề công chứng thì các bên có quyền khởi kiện vụ việc ra Tòa án để giải quyết tranh chấp đó, trừ trường hợp các bên có thỏa thuận khác hoặc pháp luật có quy định khác. 
+Chương X
+ĐIỀU KHOẢN THI HÀNH
+Điều 76. Việc công chứng của cơ quan đại diện nước Cộng hòa xã hội chủ nghĩa Việt Nam ở nước ngoài 
+1. Cơ quan đại diện ngoại giao, cơ quan đại diện lãnh sự của nước Cộng hòa xã hội chủ nghĩa Việt Nam ở nước ngoài được công chứng di chúc, văn bản từ chối nhận di sản, văn bản ủy quyền và các giao dịch khác theo quy định của Luật này và pháp luật về lãnh sự, ngoại giao, trừ hợp đồng mua bán, chuyển đổi, chuyển nhượng, tặng cho, cho thuê, thế chấp, góp vốn bằng bất động sản tại Việt Nam.
+2. Viên chức lãnh sự, viên chức ngoại giao được giao thực hiện công chứng phải có bằng cử nhân luật, thạc sĩ luật hoặc tiến sĩ luật hoặc được bồi dưỡng nghiệp vụ công chứng.
+3. Viên chức lãnh sự, viên chức ngoại giao thực hiện công chứng theo thủ tục quy định tại Chương V của Luật này, có quyền quy định tại các điểm c, d và đ khoản 1 và nghĩa vụ quy định tại các điểm a, b, d, đ, e, k và m khoản 2 Điều 16 của Luật này.
+Điều 77. Hiệu lực thi hành
+1. Luật này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2025.
+2. Luật Công chứng số 53/2014/QH13 đã được sửa đổi, bổ sung một số điều theo Luật số 28/2018/QH14 và Luật số 16/2023/QH15 hết hiệu lực kể từ ngày Luật này có hiệu lực thi hành, trừ trường hợp quy định tại các khoản 1, 2, 3, 6, 8, 10 và 11 Điều 78 của Luật này.
+Điều 78. Quy định chuyển tiếp	
+1. Người đã có giấy chứng nhận hoàn thành khoá bồi dưỡng nghề công chứng theo quy định của Luật Công chứng số 53/2014/QH13 đã được sửa đổi, bổ sung một số điều theo Luật số 28/2018/QH14 và Luật số 16/2023/QH15 trước ngày Luật này có hiệu lực thi hành được đăng ký tập sự hành nghề công chứng theo quy định của Luật này.
+Người tham gia khoá bồi dưỡng nghề công chứng theo quy định của Luật Công chứng số 53/2014/QH13 đã được sửa đổi, bổ sung một số điều theo Luật số 28/2018/QH14 và Luật số 16/2023/QH15 mà đến ngày Luật này có hiệu lực thi hành chưa hoàn thành khóa bồi dưỡng thì được tiếp tục hoàn thành khoá bồi dưỡng và được đăng ký tập sự hành nghề công chứng sau khi được cấp giấy chứng nhận theo quy định của Luật Công chứng số 53/2014/QH13 đã được sửa đổi, bổ sung một số điều theo Luật số 28/2018/QH14 và Luật số 16/2023/QH15.
+2. Người đã hoàn thành thời gian tập sự theo quy định của Luật Công chứng số 53/2014/QH13 đã được sửa đổi, bổ sung một số điều theo Luật số 28/2018/QH14 và Luật số 16/2023/QH15 được đăng ký tham dự kiểm tra kết quả tập sự hành nghề công chứng theo quy định của Luật này.
+Người tập sự theo quy định của Luật Công chứng số 53/2014/QH13 đã được sửa đổi, bổ sung một số điều theo Luật số 28/2018/QH14 và Luật số 16/2023/QH15 mà đến ngày Luật này có hiệu lực thi hành chưa hoàn thành việc tập sự thì được tiếp tục việc tập sự và phải thực hiện các nghĩa vụ của người tập sự theo quy định của Luật này từ ngày Luật này có hiệu lực thi hành; Sở Tư pháp xem xét, công nhận hoàn thành tập sự theo quy định của Luật này.
+Người đã được cấp giấy chứng nhận kiểm tra kết quả tập sự hành nghề công chứng theo quy định của Luật Công chứng số 53/2014/QH13 đã được sửa đổi, bổ sung một số điều theo Luật số 28/2018/QH14 và Luật số 16/2023/QH15 mà kể từ ngày được cấp giấy chứng nhận đến hết thời hạn 05 năm kể từ ngày Luật này có hiệu lực thi hành không đề nghị bổ nhiệm công chứng viên thì giấy chứng nhận hết hiệu lực.
+3. Người đã nộp hồ sơ đề nghị bổ nhiệm công chứng viên theo quy định của Luật Công chứng số 53/2014/QH13 đã được sửa đổi, bổ sung một số điều theo Luật số 28/2018/QH14 và Luật số 16/2023/QH15 mà đến ngày Luật này có hiệu lực thi hành chưa được bổ nhiệm thì tiếp tục thực hiện việc bổ nhiệm theo quy định của Luật Công chứng số 53/2014/QH13 đã được sửa đổi, bổ sung một số điều theo Luật số 28/2018/QH14 và Luật số 16/2023/QH15.
+4. Người đã được miễn nhiệm hoặc bị miễn nhiệm công chứng viên trước ngày Luật này có hiệu lực thi hành thì việc bổ nhiệm lại công chứng viên được thực hiện theo quy định của Luật này.
+5. Công chứng viên quá 70 tuổi đang hành nghề công chứng tại ngày Luật này có hiệu lực thi hành thì được tiếp tục hành nghề công chứng trong thời hạn 02 năm kể từ ngày Luật này có hiệu lực thi hành, công chứng viên từ 68 đến 70 tuổi tại ngày Luật này có hiệu lực thi hành thì được hành nghề công chứng đến khi đủ 72 tuổi. Khi hết thời hạn nêu trên, công chứng viên đương nhiên được miễn nhiệm theo quy định tại khoản 1 Điều 14 của Luật này. 
+5a. Văn phòng công chứng được thành lập trước ngày Luật này có hiệu lực thi hành mà đến ngày Luật này có hiệu lực thi hành chưa đăng ký hoạt động thì tiếp tục đăng ký hoạt động theo quy định của Luật Công chứng số 53/2014/QH13 đã được sửa đổi, bổ sung một số điều theo Luật số 28/2018/QH14 và Luật số 16/2023/QH15.
+6. Văn phòng công chứng được thành lập trước ngày Luật này có hiệu lực thi hành mà chưa có Điều lệ thì phải xây dựng Điều lệ và gửi Sở Tư pháp trong thời hạn 03 tháng kể từ ngày Luật này có hiệu lực thi hành; trường hợp có thành viên hợp danh là công chứng viên chưa góp vốn vào Văn phòng công chứng thì phải thực hiện góp vốn và gửi tài liệu chứng minh về Sở Tư pháp trong thời hạn nêu trên.
+Quy định về thu hồi quyết định cho phép thành lập và chấm dứt hoạt động của Văn phòng công chứng theo quy định của Luật này cũng được áp dụng đối với Văn phòng công chứng được thành lập theo quy định của Luật Công chứng số 53/2014/QH13 đã được sửa đổi, bổ sung một số điều theo Luật số 28/2018/QH14 và Luật số 16/2023/QH15.
+Văn phòng công chứng chỉ còn 01 thành viên hợp danh là công chứng viên tại ngày Luật này có hiệu lực thi hành thì vẫn được bổ sung thành viên hợp danh là công chứng viên trong thời hạn 06 tháng kể từ ngày Văn phòng công chứng chỉ còn 01 thành viên hợp danh là công chứng viên. 
+7. Việc thay đổi thành viên hợp danh của Văn phòng công chứng được thành lập theo quy định của Luật Công chứng số 53/2014/QH13 đã được sửa đổi, bổ sung một số điều theo Luật số 28/2018/QH14 và Luật số 16/2023/QH15 được thực hiện theo quy định của Luật này.
+Người đã chấm dứt tư cách thành viên hợp danh theo quy định của Luật Công chứng số 53/2014/QH13 đã được sửa đổi, bổ sung một số điều theo Luật số 28/2018/QH14 và Luật số 16/2023/QH15 tại ngày Luật này có hiệu lực thi hành thì việc tham gia thành lập Văn phòng công chứng mới hoặc hợp danh vào Văn phòng công chứng khác hoặc thành lập Văn phòng công chứng được tổ chức và hoạt động theo loại hình doanh nghiệp tư nhân được thực hiện theo quy định tại khoản 6 Điều 26 của Luật này; thời hạn 02 năm được tính từ ngày quyết định của Sở Tư pháp về việc chấm dứt tư cách thành viên hợp danh có hiệu lực thi hành.
+8. Thẻ công chứng viên được cấp trước ngày Luật này có hiệu lực thi hành được tiếp tục sử dụng. Việc cấp lại, cấp mới thẻ công chứng viên được thực hiện theo quy định của Luật này.
+9. Công chứng viên đang hành nghề công chứng trước ngày Luật này có hiệu lực thi hành mà chưa gia nhập Hội công chứng viên thì trong thời hạn 03 tháng kể từ ngày Luật này có hiệu lực thi hành phải gia nhập Hội công chứng viên tại địa phương nơi hành nghề và duy trì tư cách hội viên trong suốt quá trình hành nghề công chứng tại địa phương đó. 
+10. Đối với hợp đồng, giao dịch đã được công chứng trước ngày Luật này có hiệu lực thi hành, việc cấp bản sao, sửa đổi, bổ sung, huỷ bỏ văn bản công chứng được thực hiện theo quy định của Luật này.
+Bản dịch đã được công chứng trước ngày Luật này có hiệu lực thi hành tiếp tục có giá trị sử dụng; trường hợp đã sử dụng hết bản dịch được công chứng mà có nhu cầu sử dụng bản dịch thì thực hiện thủ tục chứng thực chữ ký người dịch theo quy định của Luật này và pháp luật về chứng thực. 
+11. Đối với các hồ sơ công chứng đã được lưu trữ theo quy định của Luật Công chứng số 53/2014/QH13 đã được sửa đổi, bổ sung một số điều theo Luật số 28/2018/QH14 và Luật số 16/2023/QH15 mà đến ngày Luật này có hiệu lực thi hành chưa hết thời hạn lưu trữ thì thời hạn lưu trữ tiếp tục thực hiện theo quy định của Luật Công chứng số 53/2014/QH13 đã được sửa đổi, bổ sung một số điều theo Luật số 28/2018/QH14 và Luật số 16/2023/QH15.
+12. Trong thời hạn 01 năm kể từ ngày Luật này có hiệu lực thi hành, Chính phủ có trách nhiệm rà soát các giao dịch phải công chứng đang được quy định trong các luật, nghị định, thông tư và hoàn thành việc sửa đổi, bổ sung theo thẩm quyền, chỉ đạo việc sửa đổi, bổ sung hoặc trình cơ quan có thẩm quyền sửa đổi, bổ sung để đáp ứng yêu cầu về giao dịch phải công chứng theo quy định tại khoản 2 Điều 1 của Luật này.
+13. Các Phòng công chứng được thành lập trước ngày Luật này có hiệu lực thi hành được tiếp tục hoạt động và trong thời hạn 01 năm kể từ ngày Luật này có hiệu lực thi hành phải đáp ứng điều kiện thành lập quy định tại Điều 17 của Luật này; trường hợp sau 01 năm kể từ ngày Luật này có hiệu lực thi hành mà vẫn không đáp ứng điều kiện thành lập theo quy định của Luật này thì phải chuyển đổi thành Văn phòng công chứng hoặc giải thể.
+Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XV, kỳ họp thứ 8 thông qua ngày …… tháng 11 năm 2024.
+	
+QUỐC HỘI	CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+Luật số:        /2024/QH15	
+	CHỦ TỊCH QUỐC HỘI
+
+Trần Thanh Mẫn

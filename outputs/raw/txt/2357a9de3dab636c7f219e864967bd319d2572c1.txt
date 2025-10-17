@@ -1,0 +1,758 @@
+LUẬT
+HÀNG KHÔNG DÂN DỤNG VIỆT NAM
+Căn cứ Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam;
+Quốc hội ban hành Luật Hàng không dân dụng Việt Nam.
+ 
+Chương I
+NHỮNG QUY ĐỊNH CHUNG
+Điều 1. Phạm vi điều chỉnh
+1. Luật này quy định về hoạt động hàng không dân dụng, bao gồm các quy định về tàu bay, cảng hàng không, nhân viên hàng không, hoạt động bay, vận tải hàng không thương mại, hàng không chung, hàng không chuyên dùng, an toàn hàng không, an ninh hàng không, trách nhiệm dân sự và các hoạt động khác có liên quan đến hàng không dân dụng.
+2. Hoạt động hàng không dân dụng của lực lượng vũ trang và các cơ quan nhà nước khác được thực hiện theo quy định của Luật này. 
+3. Hoạt động của tàu bay của lực lượng vũ trang và các cơ quan nhà nước khác phục vụ mục đích công vụ không thuộc phạm vi điều chỉnh của Luật này, trừ trường hợp lựa chọn áp dụng toàn bộ hoặc các điều, khoản, điểm cụ thể của Luật này.
+Điều 2. Giải thích từ ngữ
+Trong Luật này, các từ ngữ dưới đây được hiểu như sau:
+1. An ninh hàng không là bộ phận của an ninh quốc gia, được tiến hành bằng việc kết hợp sử dụng các biện pháp, nhân lực và nguồn lực vật chất nhằm bảo vệ hoạt động hàng không dân dụng, phòng ngừa và chống lại các hành vi can thiệp bất hợp pháp. 
+2. An toàn hàng không là trạng thái mà trong đó các rủi ro liên quan đến hoạt động khai thác tàu bay được giảm thiểu, kiểm soát và đáp ứng mục tiêu theo Chương trình an toàn hàng không dân dụng quốc gia Việt Nam.
+3. Bãi cất, hạ cánh là khu vực xác định trên mặt đất, mặt nước, các công trình nhân tạo để tàu bay cất, hạ cánh.
+4. Cảng hàng không là một khu vực xác định, bao gồm sân bay và các công trình, trang thiết bị phục vụ hoạt động hàng không.
+5. Chuyến bay quốc tế là chuyến bay có ít nhất một điểm cất cánh hoặc hạ cánh ngoài lãnh thổ của Việt Nam.
+6. Chuyến bay nội địa là chuyến bay có tất cả các điểm cất cánh và điểm hạ cánh trong lãnh thổ của Việt Nam.
+7. Chướng ngại vật hàng không là những vật thể tự nhiên hoặc nhân tạo (cố định hoặc di động) nằm trên mặt đất, mặt nước hoặc công trình nhân tạo có thể ảnh hưởng đến an toàn hoạt động bay.
+8. Công trình thiết yếu của cảng hàng không là hệ thống các công trình tối thiểu thuộc kết cấu hạ tầng cảng hàng không, đảm bảo cảng hàng không được đưa vào hoạt động và duy trì khai thác.
+9. Dịch vụ hàng không là dịch vụ liên quan trực tiếp đến khai thác tàu bay, hoạt động bay, khai thác cảng hàng không.
+10. Dịch vụ phi hàng không là dịch vụ cung ứng tại cảng hàng không, trên tàu bay nhưng không thuộc dịch vụ hàng không.
+11. Doanh nghiệp bảo đảm hoạt động bay là doanh nghiệp thực hiện cung cấp dịch vụ bảo đảm hoạt động bay.
+12. Doanh nghiệp cảng hàng không là doanh nghiệp tổ chức thực hiện kinh doanh cảng hàng không.
+13. Doanh nghiệp vận tải hàng không là doanh nghiệp kinh doanh vận tải hàng không thương mại hoặc kinh doanh vận tải hàng không chuyên dùng.
+14. Đường hàng không là khu vực trên không có giới hạn xác định về độ cao, chiều rộng và được kiểm soát.
+15. Giám sát an toàn hàng không là hoạt động được thực hiện bởi Nhà chức trách hàng không Việt Nam nhằm đảm bảo các tổ chức, cá nhân hoạt động trong lĩnh vực hàng không dân dụng tuân thủ theo quy định về an toàn hàng không.
+16. Giám sát an ninh hàng không là hoạt động được thực hiện bởi Nhà chức trách an ninh hàng không Việt Nam nhằm đảm bảo các tổ chức, cá nhân hoạt động trong lĩnh vực hàng không dân dụng tuân thủ theo quy định về an ninh hàng không.
+17. ICAO là tên viết tắt của Tổ chức hàng không dân dụng quốc tế.
+18. Hoạt động hàng không dân dụng là việc sử dụng tàu bay và các hoạt động liên quan để thực hiện vận tải hàng không thương mại, hàng không chuyên dùng, hàng không chung.
+19. Hãng hàng không là doanh nghiệp cung cấp hoặc khai thác dịch vụ vận tải hàng không thương mại.
+20. Kết cấu hạ tầng hàng không bao gồm kết cấu hạ tầng cảng hàng không và kết cấu hạ tầng bảo đảm hoạt động bay.
+21. Kết cấu hạ tầng cảng hàng không là các công trình phục vụ cho hoạt động khai thác cảng hàng không bao gồm sân bay, các công trình an ninh hàng không, các công trình cung cấp dịch vụ bảo đảm hoạt động bay, dịch vụ hàng không và các công trình phụ trợ khác tại cảng hàng không.
+22. Kết cấu hạ tầng bảo đảm hoạt động bay là các công trình phục vụ cho hoạt động cung cấp dịch vụ bảo đảm hoạt động bay bao gồm trung tâm kiểm soát đường dài, trung tâm kiểm soát tiếp cận, đài kiểm soát không lưu, các trạm thông tin dẫn đường giám sát và các công trình bảo đảm hoạt động bay khác.
+23. Máy bay là tàu bay nặng hơn không khí có động cơ, lấy lực nâng khi bay chủ yếu từ lực tác động tương hỗ với luồng không khí trên các bề mặt cố định trong các điều kiện bay cụ thể.
+24. Nhiên liệu hàng không bền vững (SAF) là nhiên liệu có hiệu quả cao nhất trong việc giảm phát thải CO2 trong hoạt động hàng không dân dụng được sản xuất từ chất thải hoặc từ các nguyên liệu có thể tái tạo được.
+25. Người khai thác cảng hàng không là tổ chức được cấp Giấy chứng nhận cảng hàng không.
+26. Người vận chuyển là doanh nghiệp kinh doanh vận tải hàng không bao gồm người vận chuyển thực tế và người vận chuyển theo hợp đồng. 
+27. Phép bay là văn bản hoặc hiệu lệnh do người hoặc cơ quan có thẩm quyền cấp, xác định điều kiện và giới hạn được phép hoạt động của tàu bay.
+28. Quốc gia của người khai thác tàu bay là Quốc gia mà người khai thác tàu bay đặt trụ sở chính hoặc là Quốc gia nơi thường trú của người khai thác trong trường hợp người khai thác không có trụ sở chính.
+29. Quốc gia đăng ký quốc tịch tàu bay là quốc gia nơi tàu bay được đăng ký quốc tịch.
+30. Sân bay là khu vực xác định để bảo đảm cho tàu bay cất cánh, hạ cánh và di chuyển.
+31. Tàu bay là thiết bị được nâng giữ trong khí quyển nhờ tác động tương hỗ với không khí, bao gồm máy bay, trực thăng, trừ:
+a) Thiết bị được nâng giữ trong khí quyển nhờ tác động tương hỗ với không khí phản lại từ bề mặt trái đất;
+b) Máy bay không người lái và trực thăng không người lái.
+32. Trực thăng là tàu bay nặng hơn không khí được nâng trong khi bay chủ yếu bởi lực tác động tương hỗ của khí động học vào một hoặc nhiều cánh quạt có điều khiển quay trên một trục tương đối thẳng đứng.
+33. Vận tải hàng không thương mại thường lệ là vận tải hàng không thương mại bao gồm các chuyến bay được thực hiện đều đặn, theo lịch bay được công bố và được mở công khai cho công chúng sử dụng.
+34. Vận tải hàng không thương mại không thường lệ là vận tải hàng không thương mại nhưng không có đủ các yếu tố của vận tải hàng không thương mại thường lệ.
+35. Vốn nhà nước bao gồm vốn ngân sách nhà nước, vốn của doanh nghiệp nhà nước và các vốn khác do Nhà nước quản lý.
+36. Vùng thông báo bay là khu vực trên không có kích thước xác định mà tại đó dịch vụ thông báo bay và dịch vụ báo động được cung cấp.
+37. Vùng trời sân bay là khu vực trên không có giới hạn ngang và giới hạn cao phù hợp với đặc điểm của từng sân bay; phục vụ cho tàu bay cất cánh, hạ cánh, bay chờ trên sân bay.
+38. Văn bản IDERA (Irrevocable De-registration and Export Request Authorisation) là văn bản được ban hành theo quy định của Công ước Cape Town về quyền lợi quốc tế đối với trang thiết bị lưu động và Nghị định thư về các vấn đề cụ thể đối với trang thiết bị tàu bay (sau đây gọi là Công ước và Nghị định thư Cape Town), trong đó chỉ rõ người có quyền yêu cầu xóa đăng ký hoặc xuất khẩu tàu bay.
+Điều 3. Áp dụng pháp luật
+1. Đối với những quan hệ xã hội phát sinh từ hoạt động hàng không dân dụng không được Luật này điều chỉnh thì áp dụng các quy định pháp luật khác có liên quan của Việt Nam.
+2. Trường hợp điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên có quy định khác với quy định của Luật này thì áp dụng quy định của điều ước quốc tế đó.
+3. Khi có xung đột pháp luật áp dụng pháp luật theo các nguyên tắc:
+a) Pháp luật của quốc gia đăng ký quốc tịch tàu bay được áp dụng đối với quan hệ xã hội phát sinh trong tàu bay đang bay và áp dụng để xác định các quyền đối với tàu bay;
+b) Pháp luật của quốc gia nơi thực hiện việc cứu hộ hoặc giữ gìn tàu bay được áp dụng đối với việc trả tiền công cứu hộ hoặc giữ gìn tàu bay đó;
+c) Pháp luật của quốc gia nơi xảy ra tai nạn do tàu bay va chạm hoặc gây cản trở nhau, do tàu bay đang bay gây thiệt hại cho người thứ ba ở mặt đất được áp dụng đối với việc bồi thường thiệt hại.
+Điều 4. Nguyên tắc hoạt động hàng không dân dụng
+1. Tôn trọng độc lập, chủ quyền, thống nhất, toàn vẹn lãnh thổ của nước Cộng hòa xã hội chủ nghĩa Việt Nam; bảo đảm yêu cầu quốc phòng, an ninh và khai thác có hiệu quả tiềm năng về hàng không phục vụ phát triển kinh tế - xã hội của đất nước.
+2. Quản lý hoạt động bay trong vùng trời Việt Nam, vùng thông báo bay do Việt Nam quản lý phải đảm bảo an toàn, điều hòa, hiệu quả và quốc phòng, an ninh.
+3. Quản lý an toàn hàng không, an ninh hàng không phải theo tiêu chuẩn quốc tế; bảo đảm sự phối hợp chặt chẽ trong công tác quản lý nhà nước về an toàn hàng không, an ninh hàng không.
+4. Phù hợp với quy hoạch, kế hoạch phát triển giao thông vận tải; phát triển đồng bộ cảng hàng không, hoạt động bay, phương tiện vận tải và các nguồn lực khác; bảo vệ môi trường, ứng phó biến đổi khí hậu để phát triển bền vững.
+5. Cạnh tranh lành mạnh, bình đẳng giữa các tổ chức, cá nhân thuộc mọi thành phần kinh tế tham gia hoạt động hàng không dân dụng.
+6. Mở rộng giao lưu và hợp tác quốc tế trong lĩnh vực hàng không dân dụng.
+7. Chuẩn bị sẵn sàng phương án, lực lượng, phương tiện và các điều kiện cần thiết để kịp thời đối phó với hành vi can thiệp bất hợp pháp vào hoạt động hàng không dân dụng.
+Điều 5. Chính sách phát triển hàng không dân dụng
+1. Nhà nước có chính sách bảo đảm quyền tự do kinh doanh, bảo đảm cạnh tranh bình đẳng giữa các thành phần kinh tế trong tiếp cận cơ hội kinh doanh và các nguồn lực của nền kinh tế.
+2. Nhà nước có chính sách đẩy mạnh huy động các nguồn lực, đa dạng các hình thức, phương thức đầu tư, xây dựng, quản lý, vận hành, khai thác, bảo trì trong hàng không dân dụng để phát triển kết cấu hạ tầng cảng hàng không hiện đại, kết nối đồng bộ với các phương thức vận tải khác, phát huy hiệu quả đầu tư.
+3. Nhà nước tạo điều kiện thuận lợi để phát triển hoạt động hàng không dân dụng tại các vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn, vùng sâu, vùng xa, miền núi, biển đảo.
+4. Nhà nước bảo hộ quyền và lợi ích hợp pháp của tổ chức, cá nhân Việt Nam, người Việt Nam định cư ở nước ngoài, tổ chức, cá nhân nước ngoài tham gia hoạt động hàng không dân dụng.
+5. Nhà nước có chính sách bảo đảm điều kiện thuận lợi cho người khuyết tật, người cao tuổi, trẻ em, phụ nữ đang mang thai, thương, bệnh binh, người có công với cách mạng sử dụng dịch vụ vận tải hàng không.
+6. Nhà nước có chính sách hỗ trợ, ưu tiên, đột phá nhằm thúc đẩy phát triển công nghiệp hàng không Việt Nam, công nghiệp phụ trợ hàng không, phát triển khoa học công nghệ, đổi mới sáng tạo và chuyển đổi số trong lĩnh vực hàng không dân dụng; bảo vệ môi trường, ứng phó biến đổi khí hậu để và phát triển bền vững trong hoạt động hàng không dân dụng; đảm bảo năng lực quản lý về hàng không dân dụng theo tiêu chuẩn của ICAO.
+7. Nhà nước có chính sách khuyến khích phát triển đào tạo nguồn nhân lực kỹ thuật cao cho hoạt động hàng không dân dụng.
+8. Nhà nước có chính sách bảo đảm nguồn lực để xây dựng, duy trì, phát triển và tổ chức thực hiện hệ thống giám sát an toàn hàng không, an ninh hàng không, điều tra sự cố, tai nạn hàng không theo tiêu chuẩn quốc tế, phù hợp với thực tiễn và nhu cầu phát triển của thị trường hàng không.
+Điều 6. Nghiên cứu, ứng dụng khoa học công nghệ, chuyển đổi số, chuyển giao công nghệ và phát triển công nghiệp hàng không
+1. Việc nghiên cứu, ứng dụng khoa học công nghệ, chuyển đổi số, chuyển giao công nghệ, phát triển công nghiệp hàng không và công nghiệp phụ trợ hàng không phải bảo đảm:
+a) Công nghệ tiên tiến, hiện đại, đảm bảo an ninh, an toàn hàng không; 
+b) Phù hợp với xu hướng phát triển của ngành hàng không dân dụng Việt Nam và quốc tế; 
+c) Ưu tiên xem xét áp dụng các công nghệ tiên tiến do ICAO, các tổ chức quốc tế mà Việt Nam là thành viên khuyến cáo áp dụng. 
+2. Doanh nghiệp tham gia đầu tư, phát triển công nghiệp hàng không được hưởng các chính sách về ưu đãi thuế theo quy định của pháp luật về thuế.
+3. Chính phủ ban hành cơ chế, chính sách thí điểm đối với việc ứng dụng các công nghệ, phương tiện bay mới vào hoạt động hàng không dân dụng; xây dựng lộ trình, giải pháp triển khai chuyển đổi số, ứng dụng trí tuệ nhân tạo trong xây dựng, quản lý, điều hành hoạt động hàng không dân dụng.
+Điều 7. Cơ sở dữ liệu ngành hàng không dân dụng 
+1. Cơ sở dữ liệu ngành hàng không dân dụng là tập hợp dữ liệu số hoá thông tin chuyên ngành hàng không dân dụng do Nhà chức trách hàng không Việt Nam tổ chức xây dựng và quản lý.
+2. Dữ liệu an ninh hàng không là một bộ phận của cơ sở dữ liệu ngành hàng không, do Nhà chức trách an ninh hàng không Việt Nam tổ chức xây dựng và quản lý.
+3. Cơ sở dữ liệu ngành hàng không dân dụng được kết nối, chia sẻ với cơ sở dữ liệu quốc gia và các cơ sở dữ liệu khác có liên quan.
+Điều 8. Bảo vệ môi trường trong hoạt động hàng không dân dụng
+1. Hoạt động hàng không dân dụng phải đảm bảo giảm thiểu tác động tiêu cực tới môi trường; giảm phát thải khí thải; hạn chế tiếng ồn từ hoạt động của tàu bay.
+2. Tàu bay, động cơ tàu bay, cánh quạt, trang thiết bị bảo đảm hoạt động bay, trang thiết bị cảng hàng không và các trang thiết bị kỹ thuật mặt đất khác phải đáp ứng quy chuẩn kỹ thuật, yêu cầu tiêu chuẩn về bảo vệ môi trường.
+3. Chính phủ ban hành chính sách, kế hoạch thực hiện các cam kết quốc tế mà Việt Nam là thành viên về lĩnh vực giảm thiểu và bù trừ carbon trong hàng không quốc tế (CORSIA), phát thải khí nhà kính, nhiên liệu hàng không bền vững (SAF), bảo vệ môi trường ứng phó với biến đổi khí hậu để phát triển bền vững.
+Điều 9. Hợp tác quốc tế về hàng không dân dụng
+Hợp tác quốc tế về hàng không dân dụng phải tuân thủ các nguyên tắc:
+1. Bảo đảm độc lập, chủ quyền, toàn vẹn lãnh thổ và lợi ích quốc gia; đáp ứng yêu cầu về hội nhập quốc tế, trên cơ sở bình đẳng, cùng có lợi;
+2. Thực hiện trách nhiệm của quốc gia thành viên tại các tổ chức quốc tế mà Việt Nam là thành viên trong việc đảm bảo an toàn, an ninh hàng không dân dụng;
+3. Thúc đẩy sự phát triển của ngành hàng không dân dụng Việt Nam theo tiêu chuẩn và thông lệ quốc tế.
+Điều 10. Các hành vi bị nghiêm cấm trong hoạt động hàng không dân dụng
+1. Khai thác tàu bay, động cơ tàu bay, cánh quạt tàu bay và các trang thiết bị hàng không mà không có tài liệu hướng dẫn, giấy chứng nhận, giấy phép phù hợp.
+2. Thực hiện nhiệm vụ của nhân viên hàng không mà không có giấy phép, chứng chỉ phù hợp.
+3. Thả thiết bị, vật dụng hoặc các vật thể khác vào không trung gây ảnh hưởng đến an toàn bay, môi trường và dân sinh.
+4. Bay vào khu vực hạn chế bay, khu vực cấm bay trái quy định.
+5. Tàu bay bay qua biên giới quốc gia, hoạt động trong vùng trời Việt Nam mà không được cơ quan có thẩm quyền cấp phép bay.
+6. Gây nhiễu có hại, chiếm dụng, khai thác trùng lắp các tần số vô tuyến điện dành riêng cho hoạt động hàng không dân dụng.
+7. Cố ý làm hư hỏng hệ thống tín hiệu, trang bị, thiết bị, đài, trạm thông tin, điều hành bay, các trang bị, thiết bị khác tại cảng hàng không, các hệ thống, thiết bị phục vụ điều hành bay nằm ngoài cảng hàng không hoặc điều khiển, đưa các phương tiện mặt đất không đáp ứng điều kiện kỹ thuật vào khai thác tại sân bay.
+8. Tự ý thay đổi, thay thế, lắp thêm hoặc tháo bỏ thiết bị, tự ý tắt hoặc thay đổi thông tin cài đặt trong các thiết bị thông tin liên lạc gây cản trở hoạt động hàng không.
+9. Xây dựng công trình kiến trúc, lắp đặt trang bị, thiết bị, trồng cây gây ảnh hưởng đến hoạt động bay và hoạt động của các trang bị, thiết bị quản lý vùng trời, quản lý hoạt động bay.
+10. Xây dựng trường bắn làm mất an toàn hàng không và bố trí hướng bắn của trường bắn cắt đường hàng không hoặc các công trình, lắp đặt các trang bị, thiết bị khác có khả năng ảnh hưởng đến an toàn bay, hoạt động của các trang bị, thiết bị tại cảng hàng không.
+11. Xây dựng các công trình hoặc lắp đặt các trang bị, thiết bị hoặc các hoạt động khác gây ra nhiều khói, bụi, lửa, khí thải trong khu vực cảng hàng không, khu vực lân cận cảng hàng không ảnh hưởng đến an toàn khai thác tại cảng hàng không.  
+12. Lắp đặt, sử dụng các loại đèn, ký hiệu, tín hiệu hoặc các vật thể trong khu vực cảng hàng không hoặc khu vực lân cận cảng hàng không làm ảnh hưởng đến việc tàu bay cất cánh, hạ cánh tại cảng hàng không hoặc việc nhận biết cảng hàng không.
+13. Nuôi, thả động vật trong khu vực cảng hàng không.
+14. Thực hiện hành vi can thiệp bất hợp pháp vào hoạt động hàng không dân dụng.
+15. Đưa vật phẩm nguy hiểm uy hiếp an ninh, an toàn hàng không vào tàu bay, cảng hàng không và khu vực hạn chế trái quy định.
+16. Phá hủy, gây hư hại, làm biến dạng, di chuyển vật đánh dấu, vật ngăn cách, vật ghi tín hiệu, vật bảo vệ tại cảng hàng không; làm hư hại các ký hiệu, thiết bị nhận biết cảng hàng không.
+17. Đe dọa, uy hiếp an toàn bay, gây nguy hiểm đến tính mạng, sức khoẻ, tài sản của người khác trong tàu bay.
+18. Cố ý làm hư hỏng tàu bay, động cơ tàu bay, cánh quạt tàu bay và trang thiết bị tàu bay.
+19. Cố ý tiết lộ trái phép thông tin hành khách.
+20. Mua, bán và cho, nhận quyền vận chuyển hàng không; sử dụng thương hiệu, bao gồm tên thương mại và nhãn hiệu gây nhầm lẫn với doanh nghiệp hàng không khác.
+21. Ghi chép giả mạo, làm giả, cố tình làm sai lệch hồ sơ bảo dưỡng, khai thác tàu bay, huấn luyện nhân viên hàng không.
+22. Nhân viên hàng không thực hiện nhiệm vụ mà trong cơ thể có nồng độ cồn, hoặc các chất kích thích bị cấm theo quy định của pháp luật. 
+23. Sử dụng thiết bị bay không người lái trái phép tại cảng hàng không và khu vực lân cận cảng hàng không.
+Chương II
+TÀU BAY
+Điều 11. Đăng ký, xóa đăng ký và quản lý quốc tịch tàu bay
+1. Tàu bay chỉ được phép đăng ký quốc tịch Việt Nam khi chưa có quốc tịch của bất kỳ quốc gia nào hoặc đã xóa quốc tịch tàu bay nước ngoài.
+2. Tàu bay được đăng ký hoặc đăng ký tạm thời quốc tịch Việt Nam và được ghi vào sổ Đăng bạ tàu bay Việt Nam.
+3. Khi đăng ký, tàu bay phải được sơn hoặc gắn dấu hiệu quốc tịch, dấu hiệu đăng ký phù hợp với pháp luật của quốc gia đăng ký quốc tịch tàu bay.
+4. Tàu bay bị xóa đăng ký quốc tịch Việt Nam trong các trường hợp sau đây:
+a) Bị tuyên bố mất tích theo quy định;
+b) Hư hỏng nặng không còn khả năng sửa chữa, phục hồi;
+c) Không đáp ứng quy định tại khoản 1 Điều này;
+d) Theo đề nghị của người được chỉ định tại văn bản IDERA trong trường hợp văn bản IDERA đã được đăng ký với Nhà chức trách hàng không Việt Nam;
+đ) Theo đề nghị của người đăng ký tàu bay, chủ sở hữu tàu bay. Trường hợp văn bản IDERA được đăng ký thì người đăng ký tàu bay và chủ sở hữu tàu bay chỉ có thể thực hiện được quyền đề nghị xóa đăng ký quốc tịch tàu bay trong trường hợp người được chỉ định tại văn bản IDERA có văn bản thông báo về việc giải trừ văn bản IDERA hoặc văn bản IDERA đã được xóa;
+e) Thi hành bản án, quyết định của Tòa án hoặc quyết định của Trọng tài đã có hiệu lực pháp luật.
+5. Việc xóa đăng ký quốc tịch tàu bay Việt Nam phải được sự đồng ý của những người có các quyền đối với tàu bay, trừ trường hợp tàu bay bị bán để thi hành bản án, quyết định của Toà án, quyết định của Trọng tài đã có hiệu lực pháp luật hoặc trường hợp được quy định tại điểm d khoản 4 Điều này.
+Điều 12. Giấy chứng nhận loại, Giấy chứng nhận đủ điều kiện bay và tiêu chuẩn duy trì đủ điều kiện bay
+1. Tàu bay, động cơ tàu bay, cánh quạt tàu bay được cấp hoặc công nhận Giấy chứng nhận loại nếu thiết kế của tàu bay, động cơ tàu bay, cánh quạt tàu bay đáp ứng tiêu chuẩn thiết kế mà Việt Nam quy định hoặc công nhận.
+2. Giấy chứng nhận đủ điều kiện bay, Giấy chứng nhận lắp đặt thiết bị vô tuyến điện tàu bay phải do quốc gia đăng ký quốc tịch tàu bay cấp hoặc công nhận.
+3. Tàu bay chỉ được phép khai thác trong vùng trời Việt Nam khi có giấy chứng nhận đủ điều kiện bay còn hiệu lực do Nhà chức trách hàng không Việt Nam cấp hoặc công nhận.
+4. Tổ chức, cá nhân được Nhà chức trách hàng không Việt Nam phê chuẩn hoặc công nhận để thực hiện thiết kế, sản xuất, thử nghiệm, bảo dưỡng tàu bay, động cơ tàu bay, cánh quạt tàu bay và trang thiết bị tàu bay theo quy định của pháp luật.
+5. Tàu bay mang quốc tịch Việt Nam, động cơ tàu bay, cánh quạt tàu bay và trang thiết bị của tàu bay mang quốc tịch Việt Nam phải được bảo dưỡng tại tổ chức bảo dưỡng và theo chương trình bảo dưỡng đã được Nhà chức trách hàng không Việt Nam phê chuẩn hoặc công nhận. 
+6. Kinh doanh dịch vụ thiết kế, sản xuất, bảo dưỡng hoặc thử nghiệm tàu bay, động cơ tàu bay, cánh quạt tàu bay và trang thiết bị tàu bay tại Việt Nam là ngành nghề kinh doanh có điều kiện.
+Điều 13. Nhập khẩu, xuất khẩu tàu bay, động cơ tàu bay, cánh quạt tàu bay và trang thiết bị tàu bay
+​1. Việc nhập khẩu tàu bay, động cơ tàu bay, cánh quạt tàu bay và trang thiết bị tàu bay phải bảo đảm quốc phòng, an ninh, an toàn hàng không, đảm bảo quy định về độ tuổi tàu bay đã qua sử dụng. ​
+2. Tổ chức, cá nhân có quyền nhập khẩu tàu bay, động cơ tàu bay, cánh quạt tàu bay và trang thiết bị tàu bay với mục đích làm đồ dùng học tập, triển lãm và không được sử dụng vào hoạt động hàng không dân dụng. ​
+3. Người được chỉ định tại văn bản IDERA đã được đăng ký với Nhà chức trách hàng không Việt Nam có quyền đề nghị xuất khẩu tàu bay theo quy định của Công ước và Nghị định thư CapeTown.
+4. Không yêu cầu Giấy chứng nhận đủ điều kiện bay xuất khẩu đối với tàu bay xuất khẩu khỏi Việt Nam, trừ trường hợp tổ chức, cá nhân đề nghị cấp Giấy chứng nhận đủ điều kiện bay xuất khẩu để đáp ứng yêu cầu của quốc gia nhập khẩu tàu bay.
+Điều 14. Người khai thác tàu bay
+1. Người khai thác tàu bay là tổ chức, cá nhân tham gia hoặc đang đề nghị tham gia khai thác tàu bay.
+2. Người khai thác tàu bay chỉ được cung cấp dịch vụ vận tải hàng không thương mại, hàng không chuyên dùng sau khi được Nhà chức trách hàng không Việt Nam cấp hoặc công nhận Giấy chứng nhận người khai thác tàu bay.
+3. Người khai thác tàu bay nước ngoài là tổ chức được quốc gia thành viên ICAO khác cấp Giấy chứng nhận người khai thác tàu bay và được Nhà chức trách hàng không Việt Nam công nhận để khai thác đến và đi từ Việt Nam.
+Điều 15. Quyền và đăng ký quyền đối với tàu bay
+1. Quyền đối với tàu bay bao gồm:
+a) Quyền sở hữu tàu bay;
+b) Quyền chiếm hữu và khai thác tàu bay bằng việc thuê mua, thuê có thời hạn;
+c) Thế chấp, cầm cố tàu bay;
+d) Các quyền khác theo quy định của pháp luật về dân sự và điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên.
+2. Quyền đối với tàu bay quy định tại khoản 1 Điều này bao gồm quyền đối với thân, động cơ tàu bay, cánh quạt tàu bay, trang bị, thiết bị vô tuyến điện của tàu bay và các trang bị, thiết bị khác được sử dụng trên tàu bay không phụ thuộc vào việc đã lắp đặt trên tàu bay hoặc tạm thời tháo khỏi tàu bay.
+3. Các quyền đã đăng ký của cùng một tàu bay phải được ghi trong Sổ đăng bạ tàu bay Việt Nam. Việc đăng ký các quyền đối với tàu bay có hiệu lực từ thời điểm được cơ quan đăng ký ghi vào Sổ đăng bạ tàu bay Việt Nam.
+Điều 16. Bán đấu giá tàu bay mang quốc tịch Việt Nam        	
+1. Thủ tục bán đấu giá tàu bay để thi hành án được thực hiện theo pháp luật của quốc gia tiến hành bán đấu giá.
+2. Chủ nợ thi hành án phải thông báo công khai việc mua bán tàu bay tại Việt Nam ít nhất một tháng trước ngày ấn định mua bán, đồng thời phải thông báo bằng văn bản cho chủ sở hữu và những người có quyền lợi được ghi trong Sổ Đăng bạ tàu bay Việt Nam.
+Điều 17. Thanh toán tiền công cứu hộ, giữ gìn tàu bay
+1. Tổ chức, cá nhân thực hiện việc cứu hộ, giữ gìn tàu bay được hưởng quyền ưu tiên thanh toán tiền công cứu hộ, giữ gìn tàu bay và các chi phí có liên quan.
+2. Trong thời hạn chín mươi ngày, kể từ ngày kết thúc việc cứu hộ, giữ gìn tàu bay, tổ chức, cá nhân thực hiện việc cứu hộ, giữ gìn tàu bay đăng ký quyền ưu tiên thanh toán tại khoản 1 Điều này theo quy định của Chính phủ; người yêu cầu đăng ký quyền ưu tiên thanh toán từ việc cứu hộ, gìn giữ tàu bay.
+3. Sau thời hạn quy định tại khoản 2 Điều này, quyền ưu tiên thanh toán tiền công cứu hộ, giữ gìn tàu bay bị chấm dứt, trừ các trường hợp sau đây:
+a) Tổ chức, cá nhân thực hiện việc cứu hộ, giữ gìn tàu bay đã đăng ký quyền ưu tiên thanh toán tiền công cứu hộ, giữ gìn tàu bay;
+b) Tổ chức, cá nhân thực hiện việc cứu hộ, giữ gìn tàu bay và tổ chức, cá nhân có nghĩa vụ thanh toán đã thoả thuận với nhau về số tiền phải thanh toán;
+c) Tổ chức, cá nhân cứu hộ, giữ gìn tàu bay đã khởi kiện về thanh toán tiền công cứu hộ, giữ gìn tàu bay.
+Điều 18. Các khoản nợ ưu tiên
+1. Các khoản nợ ưu tiên được thanh toán theo thứ tự sau đây:
+a) Án phí và các chi phí cho việc thi hành án;
+b) Tiền công cứu hộ, giữ gìn tàu bay và các chi phí có liên quan.
+2. Các khoản nợ quy định tại điểm b khoản 1 Điều này được thanh toán theo thứ tự khoản nợ nào phát sinh sau thì được thanh toán trước.
+Điều 19. Quyền lợi quốc tế đối với tàu bay, trang thiết bị tàu bay đăng ký theo hệ thống đăng ký quốc tế
+1. Quyền lợi quốc tế đối với tàu bay, trang thiết bị tàu bay thực hiện theo quy định của Công ước và Nghị định thư Cape Town.
+2. Trường hợp thực hiện các biện pháp theo yêu cầu của người được chỉ định IDERA, không cần có sự đồng ý, chấp thuận, lệnh hoặc quyết định của Tòa án Việt Nam hoặc Tòa án quốc gia khác hay các yêu cầu bổ sung, điều kiện, Nhà chức trách hàng không Việt Nam thu hồi Giấy chứng nhận đăng ký quốc tịch tàu bay, Giấy chứng nhận đủ điều kiện bay đối với tàu bay và thực hiện việc xóa đăng ký quốc tịch tàu bay.
+3. Tòa án, cơ quan đăng ký tàu bay, hải quan và các cơ quan quản lý nhà nước có liên quan khác có trách nhiệm hợp tác và trợ giúp người được chỉ định tại văn bản IDERA trong việc thực hiện các biện pháp khắc phục được quy định tại Điều IX Nghị định thư Cape Town.
+4. Tòa án nhân dân tối cao ban hành Nghị quyết hướng dẫn Tòa án nhân dân các cấp thực hiện Công ước và Nghị định thư Cape Town.
+Điều 20. Thuê, mua tàu bay
+1. Tổ chức, cá nhân Việt Nam được thuê, mua tàu bay để thực hiện vận tải hàng không thương mại và các hoạt động hàng không dân dụng khác tại Việt Nam.
+2. Việc đưa tàu bay thuê về Việt Nam khai thác phải được Nhà chức trách hàng không Việt Nam chấp thuận.
+3. Khi sử dụng tàu bay thuê, bên thuê không được cho bên cho thuê hoặc bất kỳ người có liên quan nào khác hưởng các lợi ích kinh tế hoặc sử dụng các quyền vận chuyển hàng không của bên thuê.
+4. Doanh nghiệp vận tải hàng không Việt Nam có trách nhiệm xây dựng kế hoạch phát triển đội tàu bay để khai thác tại Việt Nam phù hợp với kết cấu hạ tầng hàng không, năng lực giám sát an toàn khai thác tàu bay và thông báo cho Nhà chức trách hàng không Việt Nam.
+Điều 21. Chuyển giao nghĩa vụ giữa quốc gia đăng ký quốc tịch tàu bay và quốc gia của người khai thác tàu bay
+1. Trường hợp thuê, cho thuê tàu bay giữa tổ chức, cá nhân Việt Nam và tổ chức, cá nhân nước ngoài, Nhà chức trách hàng không Việt Nam thỏa thuận với cơ quan có thẩm quyền của quốc gia đăng ký quốc tịch tàu bay hoặc quốc gia của người khai thác tàu bay có liên quan để tiếp nhận hoặc chuyển giao nghĩa vụ của quốc gia đăng ký quốc tịch tàu bay phù hợp với pháp luật Việt Nam và điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên.
+2. Thỏa thuận theo khoản 1 Điều này phải được thông báo cho ICAO và các nhà chức trách hàng không có liên quan.
+3. Thỏa thuận quy định tại khoản 1 Điều này bao gồm một phần hoặc toàn bộ nghĩa vụ liên quan đến việc thực hiện:
+a) Quy định về bảo đảm hoạt động bay;
+b) Quy định về Giấy chứng nhận đủ điều kiện bay;
+c) Quy định đối với thành viên tổ bay;
+d) Quy định về lắp đặt và sử dụng thiết bị vô tuyến điện trên tàu bay.
+Điều 22. Đình chỉ thực hiện chuyến bay
+1. Tàu bay chưa khởi hành bị đình chỉ thực hiện chuyến bay khi xảy ra một trong các trường hợp sau đây:
+a) Tình huống cấp thiết phục vụ nhiệm vụ bảo vệ chủ quyền quốc gia, an ninh quốc gia hoặc phát hiện chuyến bay có dấu hiệu vi phạm các quy định về bảo đảm quốc phòng, an ninh quốc gia; hoặc có dấu hiệu bị uy hiếp an ninh hàng không; vi phạm các quy định về an ninh hàng không;
+b) Vi phạm các quy định về tiêu chuẩn đủ điều kiện bay, khai thác tàu bay, an toàn hàng không, thủ tục chuyến bay, lập và thực hiện kế hoạch bay, thực hiện phép bay; phát hiện chuyến bay có dấu hiệu bị uy hiếp an toàn hàng không;
+c) Các trường hợp khác theo quyết định của cơ quan nhà nước có thẩm quyền.
+2. Người chỉ huy tàu bay, người khai thác tàu bay phải tuân thủ quyết định đình chỉ thực hiện chuyến bay và có quyền yêu cầu cơ quan hoặc người ra quyết định làm rõ lý do đình chỉ.
+3. Chuyến bay bị đình chỉ được tiếp tục thực hiện chuyến bay sau khi không còn các căn cứ quy định tại khoản 1 Điều này và được cơ quan nhà nước có thẩm quyền quyết định cho phép tiếp tục thực hiện chuyến bay.
+Điều 23.  Yêu cầu tàu bay hạ cánh
+1. Tàu bay đang bay trong lãnh thổ Việt Nam có thể bị yêu cầu hạ cánh khi chuyến bay có dấu hiệu bị uy hiếp an toàn hàng không, an ninh hàng không hoặc trong các trường hợp khác tại địa điểm theo chỉ định của cơ quan nhà nước có thẩm quyền.
+2. Tàu bay bị yêu cầu hạ cánh được tiếp tục thực hiện chuyến bay sau khi không còn căn cứ quy định tại khoản 1 Điều này và được cơ quan nhà nước có thẩm quyền quyết định cho phép tiếp tục thực hiện chuyến bay.
+Điều 24. Bắt giữ tàu bay
+1. Bắt giữ tàu bay là biện pháp mà Tòa án nhân dân áp dụng đối với tàu bay vì lợi ích của chủ nợ, chủ sở hữu, người thứ ba ở mặt đất bị thiệt hại hoặc những người khác có quyền và lợi ích đối với tàu bay theo quy định tại khoản 2 Điều này, trừ việc bắt giữ tàu bay để thi hành bản án, quyết định đã có hiệu lực pháp luật của Tòa án nhân dân hoặc quyết định cưỡng chế của cơ quan nhà nước có thẩm quyền. Việc bắt giữ tàu bay có thể áp dụng đối với bất kỳ tàu bay nào của cùng một chủ sở hữu.
+2. Tòa án nhân dân khu vực nơi tàu bay hạ cánh quyết định bắt giữ tàu bay theo yêu cầu bằng văn bản của chủ sở hữu hoặc của chủ nợ trong trường hợp tàu bay là tài sản bảo đảm cho khoản nợ của chủ nợ hoặc theo yêu cầu bằng văn bản của người thứ ba ở mặt đất bị thiệt hại do tàu bay đang bay gây ra hoặc những người có quyền và lợi ích đối với tàu bay.
+3. Người yêu cầu bắt giữ tàu bay phải bảo đảm tài chính theo hình thức và giá trị do Tòa án nhân dân ấn định tương đương với thiệt hại có thể gây ra cho tàu bay do việc bắt giữ tàu bay.
+4. Trong trường hợp tàu bay bị bắt giữ, người vận chuyển, người khai thác tàu bay vẫn phải thực hiện nghĩa vụ theo hợp đồng đã cam kết.
+5. Việc bắt giữ tàu bay được chấm dứt trong các trường hợp sau đây:
+a) Các khoản nợ đã được thanh toán đầy đủ;
+b) Đã áp dụng biện pháp bảo đảm thay thế;
+c) Người yêu cầu bắt giữ đề nghị thôi bắt giữ.
+6. Thủ tục bắt giữ tàu bay thực hiện theo quy định của Ủy ban Thường vụ Quốc hội.
+Điều 25. Trách nhiệm bồi thường nhà nước
+1. Người ra quyết định đình chỉ việc thực hiện chuyến bay, yêu cầu tàu bay hạ cánh tại cảng hàng không tạm giữ, yêu cầu bắt giữ tàu bay trái pháp luật thì phải bồi thường thiệt hại gây ra cho người khai thác tàu bay hoặc người vận chuyển.
+2. Việc bồi thường thiệt hại thực hiện theo quy định của pháp luật về bồi thường nhà nước.
+Chương III
+CẢNG HÀNG KHÔNG
+Điều 26. Cảng hàng không; bãi cất, hạ cánh 
+1. Cảng hàng không được phân thành các loại sau đây: 
+a) Cảng hàng không quốc tế là cảng hàng không phục vụ cho các chuyến bay quốc tế, chuyến bay nội địa;
+b) Cảng hàng không nội địa là cảng hàng không phục vụ cho các chuyến bay nội địa;
+c) Cảng hàng không chuyên dùng là cảng hàng không được sử dụng phục vụ hàng không chung, vận tải hàng không chuyên dùng hoặc vận tải hàng không thương mại không thường lệ trừ bãi cất, hạ cánh.
+2. Tại mỗi cảng hàng không, giấy chứng nhận cảng hàng không được cơ quan có thẩm quyền cấp cho một người khai thác.
+3. Bãi cất, hạ cánh được đưa vào khai thác sau khi được cơ quan nhà nước có thẩm quyền cấp phép.
+4. Cảng hàng không có khu vực lân cận được xác định giới hạn để bảo đảm an toàn, an ninh hàng không và tìm kiếm, cứu nạn trong hoạt động hàng không dân dụng.
+5. Mở, đóng cảng hàng không là việc cho phép, không cho phép hoạt động của cảng hàng không theo quyết định của cơ quan nhà nước có thẩm quyền.
+6. Cảng hàng không nội địa được phép tiếp nhận chuyến bay quốc tế trong một số trường hợp theo quyết định của cơ quan nhà nước có thẩm quyền.
+7. Cảng hàng không được chuyển đổi sang sử dụng cho mục đích quân sự trong trường hợp cấp bách để thực hiện nhiệm vụ quốc phòng trong tình trạng chiến tranh hoặc tình trạng khẩn cấp về quốc phòng.
+Điều 27. Điều phối giờ đi, đến tại cảng hàng không
+1. Điều phối giờ đi, đến là việc quản lý, phân bổ giờ đi, đến của chuyến bay tại cảng hàng không.
+2. Nhà chức trách hàng không Việt Nam thực hiện việc điều phối giờ đi, đến tại cảng hàng không theo các nguyên tắc sau đây:
+a) Trong phạm vi giới hạn khai thác của cảng hàng không;
+b) Bảo đảm minh bạch và không phân biệt đối xử, trừ trường hợp vì lý do để bảo đảm quốc phòng, an ninh theo quy định của pháp luật;
+c) Thuận lợi và hiệu quả;
+d) Phù hợp với thông lệ quốc tế.
+Điều 28. Quy hoạch về cảng hàng không
+1. Quy hoạch về cảng hàng không bao gồm:
+a) Quy hoạch hệ thống cảng hàng không toàn quốc là quy hoạch ngành quốc gia, xác định phương hướng phát triển hệ thống cảng hàng không toàn quốc làm cơ sở để định hướng lập quy hoạch cảng hàng không. Quy hoạch hệ thống cảng hàng không toàn quốc không bao gồm cảng hàng không chuyên dùng.
+b) Quy hoạch cảng hàng không là quy hoạch có tính chất kỹ thuật, chuyên ngành, cụ thể hóa Quy hoạch hệ thống cảng hàng không toàn quốc, xác định phương hướng phát triển, tổ chức không gian của cảng hàng không.
+2. Thời kỳ quy hoạch cảng hàng không phù hợp với thời kỳ Quy hoạch hệ thống cảng hàng không toàn quốc; được rà soát theo định kỳ hoặc theo nhu cầu phát triển để điều chỉnh phù hợp với tình hình phát triển kinh tế - xã hội trong từng giai đoạn.
+Điều 29. Đầu tư xây dựng tại cảng hàng không
+1. Việc đầu tư, xây dựng cảng hàng không phải bảo đảm các nguyên tắc sau đây:
+a) Phù hợp với quy định của Luật này, quy định của pháp luật về đầu tư, xây dựng và quy định của pháp luật có liên quan;
+b) Phù hợp với quy hoạch;
+c) Phù hợp với nhu cầu đầu tư phát triển, có thể phân kỳ để bảo đảm hiệu quả đầu tư;
+d) Việc xây dựng, nâng cấp, mở rộng công trình cảng hàng không trên đất và tài sản quốc phòng, an ninh để khai thác lưỡng dụng phải đảm bảo các yêu cầu về quốc phòng, an ninh;
+đ) Tạo điều kiện cho các loại hình vận tải hành khách công cộng kết nối với cảng hàng không.
+2. Việc đầu tư xây dựng cảng hàng không mới được thực hiện theo hình thức: Nhà nước trực tiếp đầu tư; giao doanh nghiệp nhà nước đầu tư; lựa chọn nhà đầu tư theo quy định của pháp luật. 
+3. Việc đầu tư xây dựng sân bay và công trình thiết yếu tại cảng hàng không thuộc danh mục cảng hàng không liên quan trực tiếp đến quốc phòng, an ninh quốc gia được thực hiện từ nguồn vốn Nhà nước hoặc nguồn vốn huy động theo phương thức đối tác công tư.
+4. Việc đầu tư nâng cấp, cải tạo, mở rộng cảng hàng không:
+a) Doanh nghiệp cảng hàng không có trách nhiệm tổ chức đầu tư xây dựng, nâng cấp, mở rộng các công trình tại cảng hàng không, trừ trường hợp: Nhà nước trực tiếp đầu tư hoặc quyết định hình thức đầu tư khác; các trường hợp quy định tại điểm b, điểm c Khoản này;
+b) Doanh nghiệp cung cấp dịch vụ bảo đảm hoạt động bay đầu tư, nâng cấp, mở rộng các công trình bảo đảm hoạt động bay;
+c) Doanh nghiệp sở hữu công trình tại cảng hàng không có trách nhiệm tổ chức đầu tư cải tạo, nâng cấp, mở rộng công trình thuộc phạm vi ranh giới sử dụng đất công trình hiện hữu nếu còn thời hạn giao đất, thuê đất.
+5. Việc đầu tư xây dựng, nâng cấp, mở rộng công trình tại cảng hàng không trên đất quốc phòng, an ninh và tài sản công được cấp có thẩm quyền quyết định:
+a) Doanh nghiệp được phép đầu tư xây dựng mới, nâng cấp, mở rộng, sửa chữa, khai thác công trình cảng hàng không trên đất quốc phòng, an ninh để phục vụ mục đích lưỡng dụng mà không phải thay đổi quyền sử dụng đất và không phải thực hiện thủ tục thay đổi mục đích sử dụng đất;
+b) Doanh nghiệp được phép đầu tư nâng cấp, mở rộng, sửa chữa, khai thác công trình cảng hàng không là tài sản công tại đơn vị lực lượng vũ trang nhân dân để phục vụ mục đích lưỡng dụng mà không chuyển quyền sở hữu tài sản; được khấu hao tài sản tương ứng với phần vốn đầu tư vào công trình hoặc thu hồi vốn tương ứng với chi phí đầu tư, sửa chữa, khai thác công trình.
+6. Doanh nghiệp cảng hàng không được phép đầu tư nâng cấp, mở rộng, sửa chữa công trình cảng hàng không là tài sản công được giao quản lý, khai thác; được khấu hao tài sản tương ứng với phần vốn đầu tư vào công trình hoặc thu hồi vốn tương ứng với chi phí đầu tư, sửa chữa, khai thác công trình.
+Điều 30. Kinh doanh tại cảng hàng không
+1. Kinh doanh tại cảng hàng không bao gồm:
+a) Kinh doanh cảng hàng không;
+b) Kinh doanh dịch vụ hàng không;
+c) Kinh doanh dịch vụ phi hàng không.
+2. Ngành nghề kinh doanh quy định tại điểm a và điểm b khoản 1 Điều này là ngành nghề kinh doanh có điều kiện.                 	
+Điều 31. Quyền và nghĩa vụ của doanh nghiệp cảng hàng không
+1. Kinh doanh cảng hàng không.
+2. Lập và trình cơ quan có thẩm quyền phê duyệt và tổ chức thực hiện kế hoạch đầu tư xây dựng, cải tạo, nâng cấp, mở rộng cảng hàng không theo quy hoạch.
+3. Tổ chức khai thác cảng hàng không theo các hình thức: trực tiếp quản lý, khai thác; giao hoặc thuê người khai thác cảng hàng không.
+4. Tổ chức cung cấp dịch vụ hàng không và các dịch vụ phi hàng không tại cảng hàng không; bảo đảm chất lượng dịch vụ hàng không tại cảng hàng không.
+5. Ký hợp đồng nhượng quyền khai thác với tổ chức cung cấp dịch vụ hàng không; ký hợp đồng khai thác hệ thống các công trình hạ tầng kỹ thuật dùng chung tại cảng hàng không với tổ chức cung cấp dịch vụ phi hàng không.
+6. Xây dựng, duy trì hoạt động sân bay và các công trình hệ thống hàng rào an ninh, hệ thống các công trình hạ tầng kỹ thuật dùng chung gồm đường giao thông nội cảng ngoài sân bay, công trình cấp điện, công trình cấp nước, công trình thoát nước, công trình bảo vệ môi trường, hạ tầng cung cấp năng lượng cho phương tiện mặt đất, công trình thông tin liên lạc, trừ các công trình thuộc phạm vi quản lý, khai thác của cơ sở bảo đảm hoạt động bay.
+7. Đầu tư, trang bị công cụ, công nghệ, các phần mềm hỗ trợ, phục vụ cho việc kiểm soát, điều hành cảng hàng không theo năng lực khai thác và giờ cất hạ cánh của tàu bay, sử dụng sân đỗ tàu bay, phối hợp hiệp đồng ra quyết định tại cảng hàng không theo yêu cầu và kế hoạch của cơ quan nhà nước có thẩm quyền.
+8. Phối hợp với các cơ quan, doanh nghiệp liên quan trong việc đầu tư, xây dựng, khai thác kết cấu hạ tầng, cung cấp dịch vụ theo các phương thức vận tải khác tại cảng hàng không.
+Điều 32. Khai thác cảng hàng không
+1. Việc khai thác cảng hàng không phải đảm bảo đáp ứng:
+a) Yêu cầu về tổ chức, trang thiết bị và các yếu tố cần thiết khác để bảo đảm an toàn hàng không, an ninh hàng không, phòng chống dịch bệnh; 
+b) Tiêu chuẩn kỹ thuật của cảng hàng không;
+c) Yêu cầu về khai thác công trình lưỡng dụng.
+2. Người khai thác cảng hàng không có quyền và nghĩa vụ như sau:
+a) Trực tiếp quản lý, khai thác và bảo trì cảng hàng không và các kết cấu hạ tầng cảng hàng không, trang bị, thiết bị trong phạm vi được giao quản lý;
+b) Duy trì đủ điều kiện khai thác cảng hàng không;
+c) Chủ trì điều phối hoạt động khai thác, công tác bảo đảm an toàn;
+d) Phối hợp với các cơ quan của lực lượng vũ trang nhân dân thực hiện các nhiệm vụ bảo đảm quốc phòng, an ninh tại cảng hàng không theo yêu cầu và kế hoạch của cơ quan nhà nước có thẩm quyền;
+đ) Chịu sự kiểm tra, giám sát của Nhà chức trách hàng không Việt Nam, Nhà chức trách an ninh hàng không Việt Nam và các cơ quan nhà nước có thẩm quyền.
+Điều 33. Đưa vào khai thác, đóng, đóng tạm thời công trình, một phần kết cấu hạ tầng cảng hàng không
+1. Công trình cảng hàng không được đưa vào khai thác phải bảo đảm đủ điều kiện và tiêu chuẩn khai thác theo quy định.
+2. Các công trình thuộc kết cấu hạ tầng cảng hàng không được đưa vào khai thác, đóng, đóng tạm thời công trình hoặc một phần công trình
+Điều 34. Tạo thuận lợi hàng không
+1. Tạo thuận lợi hàng không là nghĩa vụ của quốc gia thành viên của ICAO nhằm tạo điều kiện cho việc khai thác các chuyến bay quốc tế, tránh sự chậm trễ không cần thiết đối với tàu bay, tổ bay, hành khách, hành lý và hàng hóa khi thực thi các quy định pháp luật về xuất nhập cảnh, kiểm dịch, hải quan và cấp phép bay.
+2. Tạo thuận lợi hàng không phải ưu tiên áp dụng:
+a) Quản lý rủi ro trong việc triển khai các thủ tục kiểm soát biên giới để giải phóng, thông quan hàng hóa; thực hiện các biện pháp phòng chống dịch bệnh, thiên tai và các trường hợp khẩn cấp khác;
+b) Phát triển công nghệ thông tin hiệu quả để tăng hiệu suất và hiệu suất của các thủ tục tại cảng hàng không;
+c) Thiết lập cơ chế liên lạc phù hợp để các quốc gia thành viên của ICAO và người khai thác tàu bay gửi các yêu cầu, kiến nghị về các vấn đề liên quan kiểm soát biên giới, y tế dự phòng và hải quan.
+3. Công tác tạo thuận lợi trong hàng không dân dụng được thực hiện thông qua Chương trình quốc gia về đơn giản hóa thủ tục hàng không và cơ chế Ủy ban quốc gia về an ninh hàng không và tạo thuận lợi hàng không.
+Chương IV
+HOẠT ĐỘNG BAY
+Điều 35. Quản lý hoạt động bay
+1. Quản lý hoạt động bay bao gồm các nội dung sau: tổ chức, khai thác và sử dụng vùng trời; cấp phép bay; bảo đảm hoạt động bay và phối hợp giữa các lực lượng, tổ chức liên quan.
+2. Tàu bay khi hoạt động trong vùng trời Việt Nam phải thực hiện các quy định sau đây:
+a) Bay theo đúng hành trình, đường hàng không, độ cao, khu vực bay, phương thức bay, điểm vào, điểm ra được phép, trừ trường hợp được phép của cơ sở cung cấp dịch vụ không lưu; tuân thủ các quy định về hoạt động bay, quy tắc bay;
+b) Duy trì liên lạc liên tục với cơ sở cung cấp dịch vụ không lưu; tuân thủ sự điều hành, kiểm soát và hướng dẫn của cơ sở cung cấp dịch vụ không lưu;
+c) Hạ cánh, cất cánh tại các cảng hàng không được chỉ định trong phép bay, trừ trường hợp hạ cánh bắt buộc, hạ cánh khẩn cấp;
+d) Chỉ được phép cất cánh từ cảng hàng không khi có lệnh của cơ sở cung cấp dịch vụ không lưu;
+đ) Tuân thủ quy định về chuẩn bị chuyến bay, thực hiện chuyến bay và sau chuyến bay.
+3. Người chỉ huy tàu bay phải báo cáo kịp thời với cơ sở cung cấp dịch vụ không lưu trong các trường hợp sau đây:
+a) Tàu bay không thể bay đúng hành trình, đường hàng không, độ cao, khu vực bay, phương thức bay, điểm vào, điểm ra được phép hoặc không thể hạ cánh tại cảng hàng không được chỉ định trong phép bay;
+b) Xuất hiện các tình huống phải hạ cánh khẩn cấp và các tình huống cấp thiết khác.
+4. Cơ sở cung cấp dịch vụ không lưu và các cơ quan quân sự quản lý vùng trời phải kịp thời thông báo và phối hợp thực hiện các biện pháp ưu tiên hỗ trợ, hướng dẫn trong các trường hợp cần thiết, chia sẻ dữ liệu thông tin phục vụ quản lý hoạt động bay được giữa các cơ quan, đơn vị trong việc phối hợp quản lý điều hành bay.
+5. Đối với mỗi vùng trời được chỉ định, cơ sở cung cấp dịch vụ không lưu phải chịu trách nhiệm cung cấp dịch vụ không lưu đối với tất cả các tàu bay bay trong vùng trời được chỉ định đó.
+6. Tàu bay thực hiện hoạt động bay trong vùng thông báo bay do Việt Nam quản lý được cung cấp dịch vụ bảo đảm hoạt động bay phù hợp với vùng trời được phân loại. Tàu bay hoạt động trong một vùng trời xác định chỉ được điều hành bởi một cơ sở cung cấp dịch vụ không lưu.
+7. Tàu bay không được bay thao diễn, luyện tập trên khu vực đông dân, trừ trường hợp được phép của cơ quan nhà nước có thẩm quyền.
+Điều 36. Tổ chức, khai thác và sử dụng vùng trời
+1. Việc tổ chức, khai thác và sử dụng vùng trời phục vụ hoạt động hàng không dân dụng được thực hiện theo nguyên tắc linh hoạt, tối ưu hóa khai thác hiệu quả.
+2. Tổ chức vùng trời phục vụ hoạt động hàng không dân dụng bao gồm:
+a) Vùng trời hàng không dân dụng là khu vực sử dụng cho mục đích hàng không dân dụng, được phân loại theo quy định của ICAO;
+b) Vùng trời sân bay dùng chung là khu vực được xác định quanh khu vực sân bay có hoạt động hàng không dân dụng và hoạt động bay của lực lượng vũ trang;
+c) Vùng trời cấm bay là khu vực được xác định mà hoạt động hàng không dân dụng không được thực hiện trừ trường hợp được cơ quan có thẩm quyền cấp phép;
+d) Vùng trời hạn chế bay là khu vực được xác định mà hoạt động hàng không dân dụng phải đáp ứng các điều kiện cụ thể;
+đ) Vùng trời nguy hiểm là khu vực được xác định mà hoạt động hàng không dân dụng có thể bị nguy hiểm vào khoảng thời gian xác định.
+Điều 37. Cấp phép bay
+1. Tàu bay hoạt động trong lãnh thổ Việt Nam phải được cơ quan có thẩm quyền của Việt Nam cấp phép bay.
+2. Việc cấp phép bay cho các chuyến bay phải theo các nguyên tắc sau đây:
+a) Đáp ứng các yêu cầu về quốc phòng, an ninh;
+b) Đảm bảo an toàn hàng không, an ninh hàng không;
+c) Phù hợp với năng lực của cảng hàng không, hệ thống cung cấp dịch vụ bảo đảm hoạt động bay.
+Điều 38. Cưỡng chế tàu bay vi phạm
+Tàu bay vi phạm khu vực cấm bay, khu vực hạn chế bay hoặc vi phạm các quy định về quản lý hoạt động bay, khai thác và sử dụng vùng trời có thể bị áp dụng biện pháp bay chặn, bay kèm, bay ép tàu bay, bắt buộc tàu bay hạ cánh tại cảng hàng không, các biện pháp cưỡng chế khác đối với tàu bay.
+Điều 39. Quản lý chướng ngại vật
+Việc quản lý chướng ngại vật nhằm bảo đảm an toàn cho hoạt động bay, bao gồm các hoạt động:
+1. Xác định giới hạn chiều cao, bề mặt chướng ngại vật;
+2. Công bố công khai bề mặt giới hạn chướng ngại vật hàng không, độ cao công trình liên quan đến bề mặt giới hạn chướng ngại vật hàng không trong khu vực sân bay có hoạt động hàng không dân dụng; khu vực giới hạn bảo đảm hoạt động bình thường của các đài vô tuyến điện hàng không; giới hạn chướng ngại vật của khu vực lân cận cảng hàng không;
+3. Thống kê, đánh dấu và công bố danh mục chướng ngại vật tự nhiên, nhân tạo có thể ảnh hưởng đến an toàn của hoạt động bay;
+4. Quản lý việc gắn dấu hiệu, thiết bị nhận biết đối với nhà cao tầng, tháp trụ cầu, tuyến cáp treo, cần trục tháp, đường dây tải điện, thiết bị kỹ thuật vô tuyến điện và các công trình, thiết bị khác có ảnh hưởng đến an toàn của hoạt động bay.
+Điều 40. Sử dụng tần số vô tuyến điện
+1. Việc quản lý, sử dụng các dải tần số sử dụng cho đài, trạm vô tuyến điện và hệ thống thông tin, dẫn đường, giám sát hàng không được thực hiện theo quy định của pháp luật về tần số vô tuyến điện.
+2. Tổ chức, cá nhân sử dụng đài, trạm thông tin liên lạc hoặc thiết bị khác không được gây cản trở, làm ảnh hưởng đến hoạt động bình thường của đài, trạm vô tuyến điện hàng không; phải chấm dứt việc sử dụng và nhanh chóng di dời đài, trạm thông tin liên lạc hoặc thiết bị gây cản trở, làm ảnh hưởng đến hoạt động bình thường của đài, trạm vô tuyến điện hàng không.
+Điều 41. Xả nhiên liệu, thả hành lý, hàng hoá hoặc các đồ vật khác từ tàu bay
+Tàu bay đang bay không được xả nhiên liệu, thả hành lý, hàng hoá hoặc các đồ vật khác từ tàu bay xuống. Trường hợp vì lý do an toàn của chuyến bay hoặc để thực hiện nhiệm vụ cứu nguy trong tình thế khẩn nguy hoặc các nhiệm vụ bay khác vì lợi ích công cộng, tàu bay được xả nhiên liệu, thả hành lý, hàng hoá và các đồ vật khác từ tàu bay xuống khu vực do cơ quan có thẩm quyền xác định.
+Điều 42. Tin tức hàng không
+Tin tức về các đường hàng không, vùng trời cấm bay, vùng trời hạn chế bay, vùng trời nguy hiểm, vùng trời hàng không dân dụng, khu vực xả nhiên liệu, thả hành lý, hàng hoá hoặc các đồ vật khác từ tàu bay xuống và các dữ liệu hàng không, tin tức hàng không khác phải được quản lý và công bố tin tức hàng không theo quy định của pháp luật về hàng không và tiêu chuẩn quốc tế.
+Điều 43.  Bảo đảm hoạt động bay
+1. Dịch vụ bảo đảm hoạt động bay là dịch vụ công ích, bao gồm các dịch vụ sau:
+a) Quản lý không lưu;
+b) Thông tin, dẫn đường, giám sát;
+c) Khí tượng hàng không;
+d) Tin tức hàng không;
+đ) Tìm kiếm, cứu nạn hàng không. 
+ 2. Dịch vụ bảo đảm hoạt động bay phải đáp ứng yêu cầu an toàn, liên tục, điều hòa và hiệu quả, tuân thủ quy định về quản lý, sử dụng, bảo vệ vùng trời, bảo đảm quốc phòng, an ninh quốc gia và an toàn thông tin. Dịch vụ quản lý không lưu do doanh nghiệp nhà nước cung cấp.
+3. Nhà nước bảo đảm tổ chức doanh nghiệp cung cấp dịch vụ bảo đảm hoạt động bay để tổ chức đầu tư, khai thác hệ thống kết cấu hạ tầng bảo đảm hoạt động bay, cơ sở cung cấp dịch vụ bảo đảm hoạt động bay, hệ thống trang thiết bị kỹ thuật và hệ thống tiêu chuẩn kỹ thuật, tài liệu khai thác, sơ đồ, bản đồ hàng không phù hợp với tiêu chuẩn, hướng dẫn của ICAO, Chương trình quốc gia về bảo đảm hoạt động bay và được cấp phép, phê chuẩn theo quy định.
+4.  Chương trình quốc gia về bảo đảm hoạt động bay được ban hành nhằm tổ chức và vận hành hệ thống bảo đảm hoạt động bay thống nhất, phù hợp với Chương trình bảo đảm hoạt động bay của ICAO.
+Điều 44. Tìm kiếm cứu nạn hàng không
+1. Tàu bay bị coi là lâm nguy khi tàu bay hoặc những người trong tàu bay bị nguy hiểm mà các thành viên tổ bay không thể khắc phục được hoặc tàu bay bị mất liên lạc và chưa xác định được vị trí tàu bay.
+2. Tàu bay bị coi là lâm nạn nếu tàu bay bị hỏng nghiêm trọng khi lăn, cất cánh, đang bay, hạ cánh hoặc bị phá hủy hoàn toàn và tàu bay hạ cánh bắt buộc ngoài sân bay.
+3. Cơ sở cung cấp dịch vụ không lưu, cơ sở cung cấp dịch vụ tìm kiếm, cứu nạn hàng không, người khai thác cảng hàng không và lực lượng, cơ quan nhà nước có thẩm quyền có trách nhiệm phối hợp áp dụng mọi biện pháp cần thiết và kịp thời để thực hiện tìm kiếm cứu nạn, trợ giúp tàu bay, hành khách, tổ bay và tài sản.
+4. Việc tìm kiếm, cứu nạn tàu bay mang quốc tịch Việt Nam bị lâm nguy, lâm nạn ở lãnh thổ nước ngoài được tiến hành theo quy định của pháp luật quốc gia nơi tàu bay bị lâm nguy, lâm nạn.
+5. Trong trường hợp cần thiết, quốc gia đăng ký quốc tịch tàu bay, chủ sở hữu tàu bay được tham gia tìm kiếm, cứu nạn tàu bay mang quốc tịch nước ngoài lâm nguy, lâm nạn tại Việt Nam và phải tuân thủ quy định pháp luật Việt Nam.
+6. Việc phối hợp trợ giúp, tham gia tìm kiếm, cứu nạn giữa Việt Nam với các quốc gia lân cận được thực hiện theo điều ước quốc tế mà nước Cộng hoà xã hội chủ nghĩa Việt Nam là thành viên.
+Chương V
+VẬN TẢI HÀNG KHÔNG VÀ HÀNG KHÔNG CHUNG
+Điều 45. Vận tải hàng không
+1. Vận tải hàng không là ngành nghề kinh doanh có điều kiện, bao gồm vận tải hàng không thương mại và vận tải hàng không chuyên dùng. 
+2. Vận tải hàng không thương mại là hoạt động khai thác tàu bay để vận chuyển hành khách, hàng hóa hoặc bưu gửi nhằm mục đích kinh doanh bao gồm: vận tải hàng không thương mại thường lệ và vận tải hàng không thương mại không thường lệ.
+3. Vận tải hàng không chuyên dùng là hoạt động khai thác tàu bay nhằm mục đích kinh doanh trong hoạt động sản xuất công nghiệp, nông nghiệp, lâm nghiệp, ngư nghiệp, xây dựng, huấn luyện, các lĩnh vực kinh tế khác và phục vụ tìm kiếm, cứu nạn, cấp cứu, cứu hộ, y tế, nghiên cứu khoa học, văn hoá, thể thao, bay hiệu chuẩn, đo đạc, chụp ảnh, quay phim và các công việc trên không khác.
+Điều 46. Điều lệ vận chuyển
+1. Điều lệ vận chuyển là bộ phận cấu thành của hợp đồng vận chuyển hàng không, quy định các điều kiện của người vận chuyển đối với việc vận chuyển hành khách, hành lý, hàng hoá, bưu gửi bằng đường hàng không.
+2. Hãng hàng không Việt Nam có trách nhiệm ban hành Điều lệ vận chuyển và thông báo cho cơ quan có thẩm quyền theo quy định.
+Điều 47. Quyền vận chuyển hàng không
+1. Quyền vận chuyển hàng không là quyền khai thác vận tải hàng không thương mại được cấp cho hãng hàng không.
+2. Hãng hàng không thực hiện các hoạt động xúc tiến thương mại và cung cấp dịch vụ vận tải hàng không thương mại thường lệ sau khi được cơ quan có thẩm quyền cấp quyền vận chuyển hàng không.
+3. Quyền vận chuyển hàng không nội địa chỉ cấp cho các hãng hàng không Việt Nam. Quyền vận chuyển hàng không quốc tế không thường lệ và quyền vận chuyển hàng không nội địa được cấp cùng phép bay.
+4. Hãng hàng không nước ngoài được thực hiện chuyến bay vận tải hàng không nội địa khi được cơ quan có thẩm quyền cho phép trong các trường hợp sau đây:
+a) Phòng chống hoặc khắc phục thiên tai, dịch bệnh;
+b) Cứu trợ nhân đạo khẩn cấp;
+c) Trường hợp đặc biệt khác theo yêu cầu của cơ quan nhà nước có thẩm quyền;
+d) Phục vụ nhu cầu, mục đích riêng của tổ chức, cá nhân.
+5. Việc trao đổi quyền vận chuyển hàng không thương mại giữa Việt Nam và các quốc gia khác được thực hiện thông qua các điều ước quốc tế mà Việt Nam là thành viên. Trường hợp nước Cộng hòa xã hội chủ nghĩa Việt Nam chưa là thành viên của điều ước quốc tế, cơ quan nhà nước có thẩm quyền có thể cho phép hãng hàng không khai thác vận tải hàng không quốc tế thường lệ tạm thời đến và đi từ Việt Nam.
+Điều 48. Hoạt động bán dịch vụ vận tải hàng không thương mại
+1. Hãng hàng không Việt Nam, hãng hàng không nước ngoài được phép bán hoặc xuất vé hành khách, vận đơn hàng không trực tiếp tại chi nhánh, đại lý bán vé trên cơ sở hợp đồng chỉ định đại lý hoặc thông qua giao dịch điện tử.
+2. Hãng hàng không nước ngoài được mở chi nhánh, văn phòng đại diện tại Việt Nam và đăng ký với cơ quan nhà nước có thẩm quyền theo quy định.
+3. Hãng hàng không nước ngoài cung cấp dịch vụ vận tải hàng không thương mại tại Việt Nam được quyền thanh toán, chuyển đổi và chuyển ngoại tệ ra nước ngoài theo quy định của pháp luật Việt Nam và điều ước quốc tế mà nước Cộng hoà xã hội chủ nghĩa Việt Nam là thành viên.
+Điều 49. Vận chuyển hành khách
+1. Người vận chuyển hành khách, hành lý bằng đường hàng không phải có hợp đồng với hành khách về việc vận chuyển. Vé hành khách, Điều lệ vận chuyển, bảng giá dịch vụ vận chuyển và các thoả thuận khác bằng văn bản giữa hai bên là bộ phận của hợp đồng vận chuyển hành khách, hành lý.
+2. Nghĩa vụ của người vận chuyển khi vận chuyển hành khách bao gồm:
+a) Vận chuyển hành khách và hành lý đến địa điểm đến thoả thuận và giao hành lý ký gửi cho người có quyền nhận;
+b) Công bố công khai tiêu chuẩn dịch vụ vận tải hàng không thương mại;
+c) Thông báo kịp thời cho hành khách thông tin về chuyến bay; phải quan tâm, chăm sóc hành khách, đặc biệt đối với hành khách là người khuyết tật hoặc cần sự chăm sóc trong quá trình vận chuyển;
+d) Trong trường hợp hành khách đã được xác nhận chỗ trên chuyến bay nhưng việc vận chuyển bị chậm, bị hủy hoặc bị từ chối vận chuyển mà không phải do lỗi của hành khách thì người vận chuyển phải thông báo kịp thời, xin lỗi hành khách, bảo đảm việc ăn, nghỉ, đi lại và chịu các chi phí có liên quan trực tiếp phù hợp với thời gian phải chờ đợi tại cảng hàng không;
+đ) Trong trường hợp hành khách đã được xác nhận chỗ trên chuyến bay nhưng việc vận chuyển bị chậm, bị hủy hoặc bị từ chối vận chuyển do lỗi của người vận chuyển thì ngoài việc thực hiện nghĩa vụ quy định tại điểm c và d khoản này, người vận chuyển phải thu xếp hành trình phù hợp cho hành khách hoặc hoàn trả lại tiền phần vé chưa sử dụng theo yêu cầu của hành khách mà không được thu bất kỳ một khoản phí liên quan nào;
+e) Trong trường hợp do lỗi của người vận chuyển, hành khách đã được xác nhận chỗ trên chuyến bay nhưng bị từ chối vận chuyển hoặc chuyến bay bị huỷ hoặc chuyến bay bị chậm kéo dài thì người vận chuyển có trách nhiệm thực hiện các nghĩa vụ quy định tại điểm c, d và đ khoản này và phải trả một khoản bồi thường ứng trước không hoàn lại cho hành khách bằng tiền hoặc chứng từ khác có giá trị tương đương. Trường hợp phải bồi thường thiệt hại theo trách nhiệm dân sự của người vận chuyển thì khoản bồi thường này được trừ vào khoản bồi thường theo trách nhiệm dân sự.
+Điều 50. Từ chối vận chuyển hành khách có vé và đã được xác nhận chỗ trên chuyến bay hoặc đang trong hành trình
+1. Do tình trạng sức khoẻ của hành khách mà người vận chuyển nhận thấy việc vận chuyển hoặc vận chuyển tiếp sẽ gây nguy hại cho hành khách đó, cho những người khác  trong tàu bay hoặc gây nguy hại cho chuyến bay.
+2. Để ngăn ngừa lây lan dịch bệnh.
+3. Hành khách không chấp hành quy định về bảo đảm an toàn hàng không, an ninh hàng không, khai thác vận tải hàng không.
+4. Hành khách có hành vi làm mất trật tự công cộng, uy hiếp an toàn bay hoặc gây ảnh hưởng đến tính mạng, sức khoẻ, tài sản của người khác.
+5. Hành khách sử dụng rượu, bia hoặc các chất kích thích khác đến mức không làm chủ được hành vi.
+6. Vì lý do an ninh.
+7. Theo yêu cầu của cơ quan nhà nước có thẩm quyền.
+Điều 51. Quyền của hành khách
+1. Được vận chuyển cùng với hành lý đến địa điểm đến và hưởng các dịch vụ với chất lượng tương ứng theo quy định của pháp luật và hợp đồng vận chuyển.
+2. Trong trường hợp hành khách không được vận chuyển do lỗi của người vận chuyển, hành khách có quyền yêu cầu người vận chuyển thu xếp hành trình phù hợp hoặc hoàn trả lại tiền phần vé hoặc phần dịch vụ chưa sử dụng.
+3. Được người vận chuyển thông báo về mức giới hạn trách nhiệm bồi thường thiệt hại của người vận chuyển áp dụng đối với trường hợp hành khách bị chết, bị thương, hành lý bị hư hỏng, mất và vận chuyển chậm.
+4. Hành khách được nhận lại tiền vé hoặc số tiền tương ứng của phần vé hoặc phần dịch vụ chưa sử dụng, sau khi đã trừ phí và tiền phạt theo điều kiện của vé hoặc hợp đồng vận chuyển, trong các trường hợp quy định tại Điều 50.
+5. Từ chối chuyến bay; nếu đang trong hành trình, hành khách có quyền từ chối bay tiếp tại bất kỳ cảng hàng không hoặc nơi hạ cánh bắt buộc nào và có quyền nhận lại tiền vé hoặc số tiền tương ứng của phần vé hoặc phần dịch vụ chưa sử dụng, sau khi đã trừ phí và tiền phạt theo quy định hãng hàng không.
+6. Được miễn giá dịch vụ vận chuyển hành lý với mức tối thiểu được ghi trong Điều lệ vận chuyển, quy định của hãng hàng không.
+7. Trẻ em dưới mười hai tuổi đi tàu bay được miễn, giảm giá dịch vụ vận chuyển theo quy định của hãng hàng không.
+Trẻ em từ hai tuổi đến dưới mười hai tuổi được bố trí chỗ ngồi riêng; trẻ em dưới hai tuổi không có chỗ ngồi riêng và phải có người lớn đi cùng.
+Điều 52. Nghĩa vụ của hành khách
+1. Thực hiện các quy định về bảo đảm an toàn hàng không, an ninh hàng không.
+2. Thực hiện theo sự chỉ dẫn của người vận chuyển trong quá trình vận chuyển.
+3. Bồi thường thiệt hại khi hành khách có lỗi gây ra thiệt hại cho người vận chuyển, người khai thác tàu bay.
+Điều 53. Vận chuyển hàng hóa
+1. Người vận chuyển hàng hóa bằng đường hàng không phải có hợp đồng với người gửi hàng về việc vận chuyển. Vận đơn hàng không là chứng từ vận chuyển hàng hoá bằng đường hàng không và là bằng chứng của việc giao kết hợp đồng, việc đã tiếp nhận hàng hoá và các điều kiện của hợp đồng.
+2. Vận đơn hàng không phải được sử dụng khi vận chuyển hàng hoá bằng đường hàng không. Trong trường hợp phương tiện lưu giữ thông tin về vận chuyển hàng hoá được sử dụng thay thế cho việc xuất vận đơn hàng không thì theo yêu cầu của người gửi hàng, người vận chuyển xuất biên lai hàng hoá cho người gửi hàng để nhận biết hàng hoá.
+Điều 54. Các trường hợp hàng hóa bị từ chối vận chuyển
+1. Hàng hoá được vận chuyển không đúng với loại hàng hoá đã thoả thuận.
+2. Người gửi hàng không tuân thủ điều kiện và hướng dẫn của người vận chuyển về bao bì, đóng gói, ký hiệu, mã hiệu hàng hoá.
+3. Hàng hóa bị từ chối vận chuyển vì lý do quốc phòng, an ninh.
+Điều 55. Trách nhiệm cung cấp thông tin của người gửi hàng
+1. Chịu trách nhiệm về tính chính xác của thông tin và cam kết liên quan đến hàng hoá được ghi trong vận đơn hàng không hoặc được cung cấp để lưu giữ thông tin trong phương tiện quy định tại khoản 2 Điều 54 của Luật này.
+2. Cung cấp thông tin, tài liệu cần thiết theo yêu cầu của cơ quan hải quan, công an và cơ quan khác có thẩm quyền trước khi hàng hoá được giao cho người nhận hàng. Người vận chuyển không có nghĩa vụ kiểm tra tính chính xác, đầy đủ của thông tin hoặc tài liệu mà người gửi hàng cung cấp.
+3. Bồi thường thiệt hại gây ra cho người vận chuyển hoặc thiệt hại mà người vận chuyển phải chịu trách nhiệm do đã cung cấp thông tin không chính xác, không đầy đủ hoặc không đúng quy cách.
+4. Xuất trình các giấy tờ chỉ rõ tính chất của hàng hoá theo yêu cầu của cơ quan hải quan, công an và cơ quan khác có thẩm quyền.
+Điều 56. Người vận chuyển theo hợp đồng và người vận chuyển thực tế
+1. Người vận chuyển theo hợp đồng là người giao kết hợp đồng vận chuyển bằng đường hàng không với hành khách, người gửi hàng hoặc đại diện của hành khách, người gửi hàng.
+2. Người vận chuyển thực tế là người thực hiện toàn bộ hoặc một phần vận chuyển theo sự uỷ quyền của người vận chuyển theo hợp đồng nhưng không phải là người vận chuyển kế tiếp.
+3. Trách nhiệm của người vận chuyển theo hợp đồng và người vận chuyển thực tế như sau:
+a) Người vận chuyển theo hợp đồng chịu trách nhiệm đối với toàn bộ việc vận chuyển thỏa thuận trong hợp đồng. Người vận chuyển thực tế chịu trách nhiệm đối với phần vận chuyển mà mình thực hiện;
+b) Hành vi của người vận chuyển theo hợp đồng và của nhân viên, đại lý của người vận chuyển theo hợp đồng trong phạm vi thực hiện nhiệm vụ được coi là hành vi của người vận chuyển thực tế liên quan đến phần vận chuyển do người vận chuyển thực tế thực hiện. Người vận chuyển thực tế không phải chịu trách nhiệm cao hơn giới hạn trách nhiệm bồi thường thiệt hại quy định tại Mục 1 Chương VII của Luật này;
+c) Hành vi của người vận chuyển thực tế và của nhân viên, đại lý của người vận chuyển thực tế trong phạm vi thực hiện nhiệm vụ được coi là hành vi của người vận chuyển theo hợp đồng liên quan đến phần vận chuyển do người vận chuyển thực tế thực hiện;
+d) Thoả thuận của người vận chuyển theo hợp đồng về nghĩa vụ không được quy định ở Chương này, thoả thuận về việc từ bỏ các quyền được quy định tại Chương này hoặc thoả thuận về việc kê khai giá trị hàng hoá, hành lý ký gửi theo quy định không ảnh hưởng đến trách nhiệm của người vận chuyển thực tế, trừ trường hợp đã được người vận chuyển thực tế đồng ý.
+Điều 57. Vận chuyển hàng hóa nguy hiểm
+1. Hàng hóa nguy hiểm là vật hoặc chất có khả năng gây nguy hiểm cho sức khoẻ, tính mạng của con người, sự an toàn của chuyến bay, tài sản hoặc môi trường.
+2. Việc vận chuyển hàng hóa thuộc danh mục hàng hóa nguy hiểm được thực hiện theo quy định của pháp luật về hàng không dân dụng và pháp luật khác liên quan.
+3. Việc vận chuyển bằng đường hàng không đối với vũ khí, dụng cụ chiến tranh, vật liệu phóng xạ chỉ được thực hiện khi cơ quan có thẩm quyền cấp phép.
+Điều 58. Bảo hiểm bắt buộc
+1. Người vận chuyển phải mua bảo hiểm bắt buộc trách nhiệm bồi thường thiệt hại đối với tính mạng, sức khoẻ của hành khách, việc mất mát, thiếu hụt, hư hỏng hàng hoá, hành lý và do vận chuyển chậm hoặc thực hiện các biện pháp bảo đảm khác đến mức giới hạn trách nhiệm bồi thường thiệt hại của người vận chuyển.
+2. Người khai thác tàu bay phải mua bảo hiểm bắt buộc trách nhiệm bồi thường thiệt hại đối với người thứ ba ở mặt đất hoặc thực hiện các biện pháp bảo đảm khác đến mức giới hạn trách nhiệm bồi thường thiệt hại của mình.
+Điều 59. Hàng không chung
+1. Hàng không chung là hoạt động khai thác tàu bay không phải là vận tải hàng không thương mại hoặc vận tải hàng không chuyên dùng.
+2. Hoạt động hàng không chung phải đáp ứng các yêu cầu sau đây:
+a) Tàu bay, tổ bay phải được cấp giấy phép, chứng chỉ theo quy định và phù hợp với loại hình hoạt động khai thác được thực hiện;
+b) Bảo đảm các điều kiện về an toàn hàng không, an ninh hàng không, bảo vệ môi trường và các quy định khác của pháp luật có liên quan.
+3. Tổ chức, cá nhân thực hiện hoạt động hàng không chung phải đăng ký loại hình hoạt động theo quy định.
+4. Tổ chức, cá nhân thực hiện hoạt động hàng không chung phải mua bảo hiểm bắt buộc trách nhiệm bồi thường thiệt hại. 
+Chương VI
+TRÁCH NHIỆM DÂN SỰ
+Mục 1
+QUYỀN VÀ TRÁCH NHIỆM DÂN SỰ CỦA NGƯỜI VẬN CHUYỂN
+Điều 60. Trách nhiệm bồi thường thiệt hại của người vận chuyển
+1. Người vận chuyển có trách nhiệm bồi thường thiệt hại trong trường hợp:
+a) Hành khách chết hoặc bị thương do tai nạn xảy ra trong tàu bay, trong thời gian người vận chuyển đưa hành khách lên tàu bay hoặc rời tàu bay;
+b) Mất mát, thiếu hụt, hư hỏng hàng hoá, hành lý ký gửi do sự kiện xảy ra từ thời điểm người gửi hàng, hành khách giao hàng hóa, hành lý ký gửi cho người vận chuyển đến thời điểm người vận chuyển trả hàng hóa, hành lý ký gửi cho người có quyền nhận; đối với vận chuyển hàng hóa, thời gian trên không bao gồm quá trình vận chuyển bằng đường biển, đường bộ, đường sắt hoặc đường thủy nội địa được thực hiện ngoài cảng hàng không, sân bay; 
+c) Vận chuyển chậm. 
+2. Mức bồi thường thiệt hại và mức giới hạn trách nhiệm bồi thường thiệt hại của người vận chuyển theo quy định của Chính phủ. 
+3. Người vận chuyển chỉ được hưởng mức giới hạn trách nhiệm bồi thường thiệt hại về tính mạng, sức khỏe của hành khách trong trường hợp người vận chuyển chứng minh được rằng thiệt hại xảy ra không phải do lỗi của mình hoặc hoàn toàn do lỗi của bên thứ ba. 
+4. Người vận chuyển không được hưởng mức giới hạn trách nhiệm bồi thường thiệt hại khác trong trường hợp người vận chuyển, nhân viên hoặc đại lý của người vận chuyển thực hiện hành vi gây thiệt hại một cách cố ý hoặc do sự cẩu thả nhưng với nhận thức rằng thiệt hại có thể xảy ra. Trường hợp hành vi đó do nhân viên hoặc đại lý thực hiện thì phải chứng minh được rằng nhân viên hoặc đại lý đó đã hành động khi thực hiện nhiệm vụ của mình.
+Điều 61. Miễn, giảm trách nhiệm bồi thường thiệt hại
+1. Trong trường hợp chứng minh được thiệt hại xảy ra do lỗi của bên có quyền yêu cầu bồi thường thiệt hại, người vận chuyển được miễn một phần hoặc toàn bộ trách nhiệm bồi thường thiệt hại tương ứng với mức độ lỗi của bên có quyền yêu cầu bồi thường thiệt hại.
+2. Trong trường hợp chứng minh được thiệt hại đối với tính mạng, sức khỏe của hành khách xảy ra do lỗi của hành khách, người vận chuyển được miễn một phần hoặc toàn bộ trách nhiệm bồi thường thiệt hại tương ứng với mức độ lỗi của hành khách; người vận chuyển không phải chịu trách nhiệm bồi thường thiệt hại đối với tính mạng, sức khỏe của hành khách nếu thiệt hại đó hoàn toàn do tình trạng sức khỏe của hành khách gây ra.
+3. Người vận chuyển được miễn một phần hoặc toàn bộ trách nhiệm bồi thường thiệt hại đối với hàng hóa tương ứng với mức độ thiệt hại trong các trường hợp sau đây:
+a) Do đặc tính tự nhiên hoặc khuyết tật vốn có của hàng hóa;
+b) Do quyết định của Tòa án hoặc của cơ quan nhà nước có thẩm quyền đối với hàng hóa;
+c) Do xảy ra chiến tranh hoặc xung đột vũ trang;
+d) Do lỗi của người gửi, người nhận hàng hóa hoặc do lỗi của người áp tải được người gửi hàng hoặc người nhận hàng cử đi kèm hàng hóa.
+4. Người vận chuyển được miễn một phần hoặc toàn bộ trách nhiệm bồi thường thiệt hại đối với hành lý ký gửi tương ứng với mức độ thiệt hại do đặc tính tự nhiên hoặc khuyết tật vốn có của hành lý ký gửi gây ra.
+5. Người vận chuyển sẽ không chịu trách nhiệm cho các thiệt hại xảy ra do vận chuyển chậm nếu người vận chuyển chứng minh được mình, nhân viên và đại lý của mình không thể áp dụng hoặc đã áp dụng mọi biện pháp để tránh thiệt hại nhưng thiệt hại vẫn xảy ra.
+Điều 62. Thỏa thuận về mức giới hạn trách nhiệm bồi thường thiệt hại
+1. Mọi thoả thuận của người vận chuyển với hành khách, người gửi hàng, người nhận hàng nhằm miễn, giảm mức giới hạn trách nhiệm bồi thường thiệt hại của người vận chuyển đều không có giá trị pháp lý.
+2. Người vận chuyển có thể thoả thuận với hành khách, người gửi hàng, người nhận hàng về các mức giới hạn trách nhiệm bồi thường thiệt hại cao hơn các mức giới hạn trách nhiệm bồi thường thiệt hại.
+Điều 63. Bồi thường thiệt hại cho người vận chuyển
+Hành khách, người gửi hàng, người nhận hàng phải bồi thường thiệt hại cho người vận chuyển nếu gây thiệt hại cho người vận chuyển hoặc gây thiệt hại cho người thứ ba mà người vận chuyển có trách nhiệm bồi thường.
+Điều 64. Tiền trả trước
+1. Trường hợp xảy ra tai nạn tàu bay gây thiệt hại đến tính mạng, sức khỏe của hành khách thì người vận chuyển phải trả ngay một khoản tiền cho hành khách hoặc người có quyền yêu cầu bồi thường thiệt hại.
+2. Khoản tiền trả trước theo quy định tại khoản 1 Điều này không phải là bằng chứng để xác định lỗi của người vận chuyển và được trừ vào số tiền bồi thường thiệt hại mà người vận chuyển phải trả.
+Điều 65. Khiếu nại và khởi kiện người vận chuyển
+1. Hành khách, người gửi hàng, người nhận hàng hoặc người đại diện hợp pháp của họ có quyền khiếu nại, khởi kiện người vận chuyển để bảo vệ quyền và lợi ích hợp pháp khi bị xâm hại.
+2. Trước khi khởi kiện về mất mát, thiếu hụt, hư hỏng, vận chuyển chậm hàng hoá, hành lý ký gửi, người có quyền khởi kiện quy định tại khoản 1 Điều này phải khiếu nại bằng văn bản đến người vận chuyển trong thời hạn theo quy định của pháp luật. Trường hợp khiếu nại không được chấp nhận hoặc quá thời hạn theo quy định mà không nhận được thông báo trả lời thì người khiếu nại có quyền khởi kiện.
+3. Việc khởi kiện về trách nhiệm bồi thường thiệt hại đối với người vận chuyển chỉ được thực hiện theo các điều kiện và mức giới hạn trách nhiệm bồi thường thiệt hại quy định tại Luật này.
+4. Trường hợp việc khiếu nại không được thực hiện trong thời hạn quy định thì việc khởi kiện không có giá trị, trừ trường hợp có sự lừa dối từ phía người vận chuyển hoặc người có quyền khiếu nại có lý do chính đáng.
+Điều 66. Người bị khởi kiện
+Trong trường hợp việc vận chuyển do người vận chuyển thực tế thực hiện thì người vận chuyển thực tế hoặc người vận chuyển theo hợp đồng hoặc cả hai người vận chuyển đều có thể bị khởi kiện. Trường hợp một người vận chuyển bị khởi kiện thì người vận chuyển đó có quyền đề nghị Toà án đưa người vận chuyển kia tham gia tố tụng.
+Điều 67. Quyền của nhân viên, đại lý của người vận chuyển khi bị khiếu nại
+1. Trong trường hợp nhân viên, đại lý của người vận chuyển bị khiếu nại về bồi thường thiệt hại thì nhân viên, đại lý đó có quyền hưởng các giới hạn trách nhiệm bồi thường thiệt hại của người vận chuyển nếu nhân viên, đại lý đó đã hành động trong phạm vi thực hiện nhiệm vụ.
+2. Tổng số tiền bồi thường thiệt hại mà người vận chuyển, nhân viên, đại lý của người vận chuyển phải chịu không vượt quá mức giới hạn trách nhiệm bồi thường thiệt hại theo quy định của Luật này.
+Điều 68. Giới hạn trách nhiệm bồi thường thiệt hại đối với nhân viên, đại lý
+Trong trường hợp việc vận chuyển do người vận chuyển thực tế thực hiện thì nhân viên hoặc đại lý của người vận chuyển thực tế hoặc của người vận chuyển theo hợp đồng có quyền hưởng các giới hạn trách nhiệm bồi thường thiệt hại của người vận chuyển, nếu chứng minh được đã hành động trong phạm vi thực hiện nhiệm vụ.
+Điều 69. Thẩm quyền giải quyết của Toà án Việt Nam đối với tranh chấp trong vận tải hàng không quốc tế
+1. Toà án Việt Nam có thẩm quyền giải quyết tranh chấp phát sinh từ hợp đồng vận chuyển hàng không quốc tế hành khách, hành lý, hàng hoá theo lựa chọn của người khởi kiện trong các trường hợp sau đây:
+a) Người vận chuyển có trụ sở chính tại Việt Nam;
+b) Người vận chuyển có địa điểm kinh doanh tại Việt Nam và hợp đồng vận chuyển được ký kết tại Việt Nam;
+c) Việt Nam là địa điểm đến của hành trình vận chuyển.
+2. Hợp đồng vận chuyển quốc tế quy định tại khoản 1 Điều này là hợp đồng vận chuyển mà theo thoả thuận của các bên trong hợp đồng, địa điểm xuất phát và địa điểm đến trên lãnh thổ của hai quốc gia hoặc trên lãnh thổ của một quốc gia nhưng có địa điểm dừng thoả thuận trên lãnh thổ của một quốc gia khác, không kể có gián đoạn trong vận chuyển hoặc chuyển tải.
+3. Đối với tranh chấp về thiệt hại xảy ra trong trường hợp hành khách bị chết hoặc bị thương thì ngoài quy định tại khoản 1 Điều này, Toà án Việt Nam có thẩm quyền giải quyết tranh chấp trong trường hợp hành khách có nơi cư trú chính và thường xuyên tại Việt Nam vào thời điểm xảy ra tai nạn, với điều kiện:
+a) Người vận chuyển có hoạt động khai thác vận chuyển hành khách trực tiếp bằng tàu bay của mình hoặc bằng tàu bay của người vận chuyển khác theo hợp đồng giao kết giữa những người vận chuyển về việc liên danh khai thác các chuyến bay vận chuyển hành khách;
+b) Người vận chuyển sử dụng trụ sở của mình hoặc trụ sở của người vận chuyển khác có hợp đồng liên danh giao kết với mình để kinh doanh vận chuyển hành khách bằng đường hàng không tại Việt Nam.
+Điều 70. Giải quyết tranh chấp bằng Trọng tài
+1. Các bên của hợp đồng vận chuyển hàng hoá có thể thoả thuận giải quyết tranh chấp phát sinh bằng Trọng tài. Thoả thuận trọng tài phải được lập thành văn bản.
+2. Đối với tranh chấp phát sinh từ hợp đồng vận chuyển hàng hoá quốc tế liên quan đến trách nhiệm bồi thường thiệt hại của người vận chuyển, việc giải quyết bằng Trọng tài tại Việt Nam chỉ được thực hiện trong các trường hợp quy định tại khoản 1 và khoản 2 Điều 69 của Luật này.
+3. Quy định tại khoản 2 Điều này được coi là một phần của bất kỳ điều khoản hoặc thoả thuận trọng tài nào. Mọi điều khoản và thoả thuận trọng tài trái với quy định này đều bị coi là vô hiệu.
+Điều 71. Thời hiệu khởi kiện về trách nhiệm bồi thường thiệt hại của người vận chuyển
+Thời hiệu khởi kiện về trách nhiệm bồi thường thiệt hại của người vận chuyển đối với thiệt hại xảy ra cho hành khách, hành lý, hàng hoá là hai năm, kể từ ngày tàu bay đến địa điểm đến, ngày tàu bay phải đến địa điểm đến hoặc từ ngày việc vận chuyển bị chấm dứt, tùy thuộc vào thời điểm nào muộn nhất.
+ 
+Mục 2
+TRÁCH NHIỆM BỒI THƯỜNG THIỆT HẠI ĐỐI VỚI
+NGƯỜI THỨ BA Ở MẶT ĐẤT
+Điều 72. Quyền yêu cầu bồi thường thiệt hại
+1. Cơ quan, tổ chức, cá nhân ở mặt đất bị thiệt hại do tàu bay đang bay, người, vật, chất trong tàu bay đang bay gây ra (sau đây gọi là người thứ ba ở mặt đất) có quyền yêu cầu bồi thường thiệt hại, nếu chứng minh được rằng tàu bay đang bay, người, vật, chất từ tàu bay đang bay rơi xuống trực tiếp gây ra thiệt hại đó.
+2. Tàu bay được coi là đang bay kể từ thời điểm tàu bay nổ máy để cất cánh cho đến thời điểm tắt máy sau khi hạ cánh. 
+Điều 73. Trách nhiệm bồi thường thiệt hại
+1. Người khai thác tàu bay phải chịu trách nhiệm bồi thường thiệt hại gây ra cho người thứ ba ở mặt đất. 
+2. Người sử dụng tàu bay bất hợp pháp gây thiệt hại cho người thứ ba ở mặt đất thì phải bồi thường. Người chiếm hữu tàu bay phải chịu trách nhiệm liên đới với người sử dụng bất hợp pháp tàu bay về thiệt hại đã gây ra nếu không chứng minh được rằng mình đã áp dụng mọi biện pháp cần thiết để ngăn chặn việc sử dụng bất hợp pháp đó.
+3. Người khai thác tàu bay là người trực tiếp sử dụng tàu bay hoặc nhân viên của người đó sử dụng tàu bay trong quá trình thực hiện công việc tại thời điểm xảy ra thiệt hại.
+4. Người khai thác tàu bay được hưởng mức giới hạn trách nhiệm bồi thường thiệt hại theo quy định người khai thác tàu bay mất quyền hưởng giới hạn trách nhiệm bồi thường thiệt hại trong các trường hợp:
+a) Thiệt hại xảy ra do lỗi của người khai thác tàu bay, nhân viên, đại lý của người khai thác tàu bay;
+b) Thiệt hại xảy ra khi tàu bay bị sử dụng bất hợp pháp.
+5. Khoản tiền bảo hiểm, tiền bảo đảm quy định tại khoản 2 Điều 58 của Luật này không bị kê biên để bảo đảm thực hiện yêu cầu của chủ nợ của người khai thác tàu bay.
+Điều 74. Áp dụng các quy định về bồi thường thiệt hại
+1. Các quy định tại Mục này được áp dụng đối với tàu bay đang bay gây thiệt hại cho tàu, thuyền, công trình của Việt Nam ở vùng biển thuộc chủ quyền, quyền chủ quyền, quyền tài phán quốc gia của Việt Nam, vùng biển, vùng đất không thuộc chủ quyền, quyền chủ quyền, quyền tài phán của bất kỳ quốc gia nào.
+2. Tòa án nơi xảy ra thiệt hại có thẩm quyền giải quyết yêu cầu bồi thường thiệt hại của người thứ ba ở mặt đất, trừ trường hợp điều ước quốc tế mà Cộng hoà xã hội chủ nghĩa Việt Nam là thành viên có quy định khác.
+3. Người chịu trách nhiệm bồi thường thiệt hại có quyền khởi kiện để truy đòi đối với tổ chức, cá nhân có liên quan đến việc gây ra thiệt hại.
+4. Thời hiệu khởi kiện yêu cầu bồi thường thiệt hại đối với người thứ ba ở mặt đất là hai năm, kể từ ngày phát sinh sự kiện gây thiệt hại.
+ 
+Mục 3
+TRÁCH NHIỆM BỒI THƯỜNG THIỆT HẠI KHI TÀU BAY VA CHẠM HOẶC GÂY CẢN TRỞ NHAU
+Điều 75. Trách nhiệm bồi thường thiệt hại của người khai thác khi tàu bay va chạm hoặc gây cản trở nhau
+1. Trong trường hợp xảy ra thiệt hại do tàu bay va chạm hoặc gây cản trở nhau thì trách nhiệm bồi thường thiệt hại của người khai thác tàu bay được xác định như sau:
+a) Thiệt hại xảy ra do lỗi của một bên thì bên có lỗi phải bồi thường;
+b) Thiệt hại xảy ra do lỗi của nhiều bên thì trách nhiệm bồi thường được xác định theo mức độ lỗi của mỗi bên; trường hợp không xác định được mức độ lỗi thì các bên có trách nhiệm bồi thường ngang nhau.
+2. Quy định tại khoản 1 Điều này không cản trở việc yêu cầu người vận chuyển bồi thường thiệt hại. Người vận chuyển có quyền yêu cầu người khai thác tàu bay có trách nhiệm bồi thường thiệt hại theo quy định tại khoản 1 Điều này thực hiện nghĩa vụ hoàn trả khoản tiền đã bồi thường.
+Điều 76. Trách nhiệm liên đới
+Khi hai hoặc nhiều tàu bay đang bay do va chạm hoặc gây cản trở cho nhau mà gây thiệt hại cho người thứ ba ở mặt đất thì người khai thác tàu bay của mỗi tàu bay gây thiệt hại phải chịu trách nhiệm liên đới đối với thiệt hại đó theo mức độ lỗi của mỗi bên.
+ 
+Chương VII
+AN TOÀN HÀNG KHÔNG VÀ ĐIỀU TRA SỰ CỐ, TAI NẠN TÀU BAY
+Mục 1
+QUẢN LÝ AN TOÀN HÀNG KHÔNG
+Điều 77. An toàn hàng không
+Các hoạt động liên quan tới tàu bay, khai thác tàu bay, cảng hàng không, bảo đảm hoạt động bay, cung cấp dịch vụ hàng không phải tuân thủ quy định về an toàn hàng không và chịu sự quản lý, giám sát về an toàn hàng không của Nhà chức trách hàng không Việt Nam.
+Điều 78. Chương trình an toàn hàng không dân dụng Việt Nam
+1. Chương trình an toàn hàng không dân dụng Việt Nam là hệ thống các quy định và hoạt động nhằm nâng cao mức độ an toàn hàng không, phù hợp với quy mô phát triển và tính đa dạng của hàng không dân dụng.
+2. Nhà chức trách hàng không Việt Nam chịu trách nhiệm triển khai, kiểm tra giám sát việc thực hiện Chương trình an toàn hàng không dân dụng Việt Nam; quyết định miễn trừ áp dụng các quy định kỹ thuật, tiêu chuẩn hoặc yêu cầu bắt buộc trong lĩnh vực tàu bay, khai thác tàu bay, cảng hàng không, bảo đảm hoạt động bay trong trường hợp vì lý do khách quan như chiến tranh, thiên tai, dịch bệnh và các tình huống cần thiết khác.
+Điều 79. Hệ thống quản lý an toàn hàng không
+1. Hệ thống quản lý an toàn hàng không (SMS) là hệ thống các phương thức để quản lý an toàn hàng không, bao gồm cơ cấu tổ chức, chức năng, nhiệm vụ, chính sách và quy trình thực hiện. 
+2. Các cơ quan, tổ chức phải xây dựng hệ thống quản lý an toàn, bao gồm: 
+a) Tổ chức đào tạo, huấn luyện thực hành người lái tàu bay;
+b) Người khai thác tàu bay; 
+c) Tổ chức thiết kế, sản xuất, thử nghiệm, bảo dưỡng tàu bay, động cơ tàu bay, cánh quạt tàu bay và trang thiết bị tàu bay;  
+d) Cơ sở cung cấp dịch vụ bảo đảm hoạt động bay; 
+đ) Người khai thác cảng hàng không; 
+e) Doanh nghiệp cung cấp dịch vụ hàng không tại cảng hàng không.
+Điều 80. Hệ thống thu thập, đánh giá và xử lý dữ liệu an toàn hàng không
+1. Dữ liệu an toàn hàng không là các dữ kiện hoặc số liệu an toàn được thu thập từ công tác điều tra tai nạn hoặc sự cố tàu bay, báo cáo vụ việc an toàn hàng không, công tác giám sát an toàn, các nghiên cứu và khảo sát về an toàn và các nguồn khác có liên quan đến an toàn hàng không để duy trì hoặc nâng cao mức độ an toàn hàng không.
+2. Dữ liệu an toàn hàng không phải được thu thập, tổng hợp, phân tích, đánh giá nhằm xác định các thông tin an toàn hàng không để triển khai biện pháp nâng cao mức độ an toàn hàng không.
+3. Thông tin an toàn hàng không là kết quả của quá trình đánh giá, xử lý dữ liệu an toàn hàng không. Thông tin an toàn hàng không được sử dụng cho mục đích quản lý an toàn.
+4. Thông tin của các tổ chức, cá nhân báo cáo tự nguyện và các dữ liệu an toàn hàng không được thu thập từ hệ thống báo cáo an toàn tự nguyện phải được bảo vệ.
+5. Nhà chức trách hàng không Việt Nam xây dựng trung tâm dữ liệu an toàn hàng không, thiết lập và duy trì hệ thống thu thập, đánh giá, xử lý và chia sẻ thông tin an toàn hàng không nhằm mục đích nâng cao an toàn hàng không.
+Điều 81. Trách nhiệm trao đổi và chia sẻ thông tin an toàn hàng không
+1. Trường hợp xác định các vấn đề an toàn hàng không liên quan đến quốc gia khác, Nhà chức trách hàng không Việt Nam trao đổi, chia sẻ dữ liệu, thông tin an toàn hàng không cho các quốc gia liên quan.
+2. Nhà chức trách hàng không Việt Nam là đầu mối tiếp nhận dữ liệu, thông tin an toàn hàng không từ các quốc gia khác; có trách nhiệm thúc đẩy trao đổi, chia sẻ thông tin an toàn hàng không và tạo điều kiện thuận lợi cho việc chia sẻ, trao đổi thông tin an toàn giữa các doanh nghiệp, tổ chức cung cấp dịch vụ hàng không.
+Điều 82. Xây dựng văn hóa an toàn hàng không
+1. Xây dựng, ứng xử và phát huy văn hóa an toàn hàng không là trách nhiệm của mọi tổ chức, cá nhân tham gia hoạt động hàng không dân dụng.
+2. Các tổ chức cung cấp dịch vụ hàng không, phi hàng không có trách nhiệm xây dựng và tổ chức thực hiện chuẩn mực văn hóa an toàn hàng không trong cơ quan, tổ chức mình.
+3. Nhà chức trách hàng không Việt Nam phối hợp với các cơ quan, tổ chức có liên quan đẩy mạnh công tác tuyên truyền, phổ biến, giáo dục để nâng cao ý thức cộng đồng về an toàn hàng không.
+ Điều 83. Giám sát viên an toàn hàng không
+1. Giám sát viên an toàn hàng không bao gồm giám sát viên an toàn trong các lĩnh vực tàu bay, khai thác tàu bay, hoạt động bay, khai thác cảng hàng không và các hoạt động hàng không dân dụng khác.
+2. Giám sát viên an toàn hàng không là cá nhân có năng lực, kinh nghiệm, trình độ được Nhà chức trách hàng không Việt Nam bổ nhiệm; được đào tạo, bồi dưỡng, huấn luyện chuyên ngành hàng không để đảm bảo đủ năng lực; được bảo đảm chế độ, quyền lợi để thực hiện công tác giám sát an toàn hàng không.
+3. Nhà chức trách hàng không Việt Nam được tuyển dụng, thuê, trưng dụng giám sát viên an toàn hàng không.
+4. Doanh nghiệp cung cấp dịch vụ trong lĩnh vực hàng không có trách nhiệm hỗ trợ, tạo điều kiện cho nhân lực của Nhà chức trách hàng không Việt Nam được đào tạo, bồi dưỡng, huấn luyện, tích lũy kinh nghiệm để thực hiện nhiệm vụ giám sát viên an toàn hàng không.
+5. Giám sát viên an toàn hàng không có nhiệm vụ, quyền hạn sau đây:
+a) Kiểm tra, giám sát việc chấp hành quy định của pháp luật về an toàn hàng không dân dụng;
+b) Yêu cầu cung cấp, sao chép tài liệu và tiếp cận không hạn chế các cơ sở, hệ thống thiết bị của các tổ chức cung cấp dịch vụ phục vụ cho mục đích kiểm tra, giám sát;
+c) Tạm đình chỉ hoạt động của tổ chức, cá nhân và phương tiện vi phạm quy định về an toàn hàng không hoặc không đáp ứng tiêu chuẩn, điều kiện kỹ thuật an toàn hàng không;
+d) Kiến nghị áp dụng biện pháp xử lý, khắc phục những vi phạm trong hoạt động hàng không dân dụng; kiến nghị xử phạt vi phạm hành chính.
+ 
+Mục 2
+ĐIỀU TRA SỰ CỐ NGHIÊM TRỌNG, TAI NẠN TÀU BAY
+Điều 84. Điều tra sự cố nghiêm trọng, tai nạn tàu bay
+1. Sự cố nghiêm trọng, tai nạn tàu bay xảy ra trong lãnh thổ Việt Nam phải được tiến hành điều tra bởi Cơ quan điều tra tai nạn tàu bay của Việt Nam. Trường hợp cần thiết có thể ủy quyền một phần hoặc toàn bộ việc điều tra cho cơ quan điều tra tai nạn tàu bay của quốc gia khác hoặc tổ chức điều tra quốc tế theo Công ước về Hàng không dân dụng quốc tế năm 1944.
+2. Sự cố nghiêm trọng, tai nạn của tàu bay mang quốc tịch Việt Nam hoặc tàu bay của người khai thác tàu bay là tổ chức, cá nhân Việt Nam xảy ra ở ngoài lãnh thổ Việt Nam được tiến hành điều tra theo Công ước về Hàng không dân dụng quốc tế năm 1944.
+3. Việc điều tra sự cố nghiêm trọng, tai nạn tàu bay nhằm xác định nguyên nhân sự cố nghiêm trọng, tai nạn tàu bay, áp dụng các biện pháp phòng ngừa sự cố, tai nạn trong tương lai và không nhằm mục đích truy cứu trách nhiệm đối với cá nhân, tổ chức liên quan; được thực hiện tách biệt và không bị ảnh hưởng bởi các hoạt động khác.
+4. Việc cung cấp hồ sơ và công bố các thông tin liên quan đến sự cố nghiêm trọng, tai nạn tàu bay phải tuân thủ theo quy định.
+5. Cơ quan, tổ chức, cá nhân có trách nhiệm thông báo kịp thời tin tức về sự cố, tai nạn tàu bay và bảo vệ chứng cứ.
+6. Người nào cố ý che giấu, không thông báo về sự cố, tai nạn tàu bay, làm sai lệch thông tin, làm hư hỏng hoặc phá hủy các thiết bị kiểm tra và các bằng chứng khác liên quan đến sự cố, tai nạn tàu bay thì tùy theo tính chất, mức độ mà bị xử phạt hành chính hoặc bị truy cứu trách nhiệm hình sự.
+Điều 85. Cơ quan điều tra tai nạn tàu bay
+1. Cơ quan điều tra tai nạn tàu bay là cơ quan có thẩm quyền thực hiện nhiệm vụ điều tra sự cố nghiêm trọng và tai nạn tàu bay.
+2. Cơ quan điều tra tai nạn tàu bay độc lập với Nhà chức trách hàng không Việt Nam, Nhà chức trách an ninh hàng không Việt Nam.
+3. Người đứng đầu Cơ quan điều tra tai nạn tàu bay quyết định mở cuộc điều tra khi xảy ra sự cố nghiêm trọng hoặc tai nạn tàu bay.
+ 
+Chương VIII
+NHÂN VIÊN HÀNG KHÔNG
+Điều 86. Nhân viên hàng không
+1. Nhân viên hàng không là những người hoạt động liên quan trực tiếp đến bảo đảm an toàn hàng không. 
+2. Nhân viên hàng không phải được đào tạo, huấn luyện và cấp chứng chỉ chuyên môn tại tổ chức đào tạo, huấn luyện nghiệp vụ nhân viên hàng không được cơ quan có thẩm quyền cấp phép hoặc công nhận. Kinh doanh đào tạo, huấn luyện nghiệp vụ nhân viên hàng không là ngành nghề kinh doanh có điều kiện.
+3. Nhân viên hàng không phải được cấp, công nhận giấy phép nhân viên hàng không hoặc cấp chứng chỉ chuyên môn để thực hiện nhiệm vụ.
+4. Nhân viên hàng không phải được ký hợp đồng lao động bằng văn bản với người sử dụng lao động hoặc tổ chức dịch vụ việc làm hoặc doanh nghiệp hoạt động cho thuê lại lao động.
+5. Khi bố trí nhân viên hàng không thực hiện nhiệm vụ, người sử dụng lao động phải bảo đảm nhân viên hàng không có giấy phép hoặc chứng chỉ chuyên môn phù hợp theo quy định.
+6. Nhân viên hàng không khi thực hiện các công việc có tính chất đặc biệt phải chấp hành kỷ luật lao động và thời giờ làm việc, thời giờ nghỉ ngơi theo quy định của Chính phủ.
+7. Thành viên tổ bay, kiểm soát viên không lưu phải được đánh giá sức khỏe tại cơ sở y tế đủ điều kiện và được Nhà chức trách hàng không Việt Nam cấp giấy chứng nhận đủ điều kiện sức khỏe để thực hiện nhiệm vụ.
+8. Thành viên tổ lái và kiểm soát viên không lưu phải được Nhà chức trách hàng không Việt Nam đánh giá trình độ thông thạo tiếng Anh theo tiêu chuẩn ICAO.
+Điều 87. Thành phần tổ bay
+1. Thành viên tổ bay là người được chỉ định bởi người khai thác tàu bay để thực hiện nhiệm vụ trên tàu bay trong thời gian thực hiện nhiệm vụ bay. 
+2. Thành viên tổ bay phải tuân thủ mệnh lệnh của người chỉ huy tàu bay và không được rời tàu bay khi chưa có lệnh của người chỉ huy tàu bay.
+3. Thành viên tổ lái là thành viên tổ bay có giấy phép thực hiện nhiệm vụ điều khiển, vận hành tàu bay và phải mang theo giấy phép nhân viên hàng không trong thời gian thực hiện nhiệm vụ.
+4. Thành viên tổ bay phải mang theo giấy chứng nhận đủ điều kiện về sức khỏe khi thực hiện nhiệm vụ.
+5. Tàu bay chỉ được phép thực hiện chuyến bay khi có đủ thành viên tổ lái theo quy định của pháp luật quốc gia đăng ký tàu bay.
+6. Tiếp viên hàng không là thành viên tổ bay thực hiện nhiệm vụ theo sự phân công của người khai thác tàu bay hoặc người chỉ huy tàu bay nhằm đảm bảo an toàn cho hành khách nhưng không được thực hiện nhiệm vụ như thành viên tổ lái.
+7. Người khai thác tàu bay có nghĩa vụ bảo đảm quyền lợi của thành viên tổ bay theo hợp đồng lao động và quy định của pháp luật Việt Nam.
+Điều 88. Người chỉ huy tàu bay
+1. Người chỉ huy tàu bay là người lái tàu bay được người khai thác tàu bay chỉ định cho một chuyến bay; đối với hoạt động hàng không chung thì do chủ sở hữu tàu bay chỉ định.
+2. Người chỉ huy tàu bay có quyền cao nhất trong tàu bay, chịu trách nhiệm bảo đảm an toàn hàng không, an ninh hàng không cho tàu bay, người và tài sản trong tàu bay trong toàn bộ thời gian của chuyến bay theo quy định.
+3. Quyền của người chỉ huy tàu bay bao gồm:
+a) Quyết định và chịu trách nhiệm về việc cất cánh, hạ cánh, huỷ bỏ chuyến bay, quay trở lại nơi cất cánh hoặc hạ cánh khẩn cấp;
+b) Không thực hiện nhiệm vụ chuyến bay, kế hoạch bay hoặc chỉ dẫn của cơ sở cung cấp dịch vụ không lưu trong trường hợp cần tránh nguy hiểm tức thời, trực tiếp cho hoạt động hàng không và phải báo cáo ngay với cơ sở cung cấp dịch vụ không lưu. Trường hợp vì tránh nguy hiểm tức thời, trực tiếp mà phải bay chệch đường hàng không thì sau khi hết nguy hiểm, người chỉ huy tàu bay và cơ sở cung cấp dịch vụ không lưu phải nhanh chóng áp dụng mọi biện pháp cần thiết để đưa tàu bay về đường hàng không;
+c) Trong thời gian tàu bay đang bay, được áp dụng các biện pháp ngăn chặn đối với những người thực hiện các hành vi vi phạm trong tàu bay theo quy định;
+d) Bàn giao người thực hiện các hành vi quy định tại điểm c khoản 3 Điều này cho cơ quan nhà nước có thẩm quyền khi tàu bay hạ cánh tại cảng hàng không gần nhất;
+đ) Quyết định việc xả nhiên liệu, thả hành lý, hàng hoá hoặc các đồ vật khác từ tàu bay theo quy định tại Điều 41 của Luật này;
+e) Ra mệnh lệnh cần thiết đối với mọi người trong tàu bay và tiếp tục thực hiện nhiệm vụ, quyền hạn cho đến khi cơ quan nhà nước có thẩm quyền đảm nhận trách nhiệm đối với tàu bay, người và tài sản trong tàu bay trong trường hợp hạ cánh bắt buộc;
+g) Thực hiện các công việc cần thiết trong trường hợp không nhận được chỉ thị hoặc chỉ thị không rõ ràng của người khai thác tàu bay và phải thông báo ngay cho người khai thác tàu bay.
+4. Nghĩa vụ của người chỉ huy tàu bay:
+a) Thi hành chỉ thị của người khai thác tàu bay;
+b) Áp dụng mọi biện pháp cần thiết để bảo đảm an toàn cho tàu bay, người và tài sản trong tàu bay khi tàu bay bị lâm nguy, lâm nạn và là người cuối cùng rời khỏi tàu bay;
+c) Thông báo cho cơ sở đang cung cấp dịch vụ không lưu và trợ giúp theo khả năng nhưng không gây nguy hiểm cho tàu bay, người và tài sản trong tàu bay của mình khi phát hiện người, phương tiện giao thông hoặc tài sản khác bị nạn ở ngoài tàu bay;
+d) Áp dụng mọi biện pháp cần thiết để đưa tàu bay về đường hàng không trong trường hợp bay chệch đường hàng không.
+Chương IX
+AN NINH HÀNG KHÔNG
+Điều 89. Bảo đảm an ninh hàng không 
+Bảo đảm an ninh hàng không được thực hiện bằng nhiều biện pháp: 
+1. Bảo vệ an ninh, quốc phòng, bảo đảm trật tự, an toàn xã hội theo quy định của pháp luật về an ninh quốc gia, quốc phòng, công an nhân dân, phòng, chống khủng bố và pháp luật khác có liên quan; 
+2. Thiết lập khu vực hạn chế tại cảng hàng không và nơi có công trình, trang bị, thiết bị hàng không để bảo vệ tàu bay và công trình, trang bị, thiết bị tại khu vực đó; 
+3. Kiểm tra, soi chiếu, giám sát an ninh hàng không đối với tàu bay, phương tiện, người, hành lý, hàng hóa, việc ra, vào và hoạt động trong khu vực hạn chế theo quy định; lục soát đối với tàu bay, phương tiện, người, hành lý, hàng hóa khi có dấu hiệu uy hiếp an ninh hàng không; 
+4. Loại trừ khả năng chuyên chở bất hợp pháp vật phẩm nguy hiểm bằng đường hàng không; áp dụng biện pháp phòng ngừa đặc biệt khi cho phép chuyên chở vật phẩm nguy hiểm, đối tượng tiềm ẩn uy hiếp an ninh hàng không; cấm vận chuyển vĩnh viễn hoặc có thời hạn đối với hành khách gây rối, người có hành vi can thiệp bất hợp pháp vào hoạt động hàng không dân dụng hoặc trường hợp theo yêu cầu của cơ quan nhà nước có thẩm quyền. 
+5. Giám sát an ninh hàng không, duy trì trật tự, kỷ luật tại cảng hàng không, nơi có công trình, trang bị, thiết bị hàng không và trên tàu bay; 
+6. Phòng, chống khủng bố trên tàu bay; 
+7. Áp dụng các biện pháp phòng ngừa đặc biệt khi cho phép vận chuyển đối tượng nguy hiểm; 
+8. Kiểm tra lý lịch bao gồm án tích khi tuyển chọn và trong suốt quá trình công tác đối với các nhân sự thực hiện các biện pháp kiểm soát an ninh; kiểm tra lý lịch bao gồm án tích và huấn luyện nhận thức an ninh đối với người được cấp giấy phép an ninh dài hạn để vào và hoạt động tại khu vực hạn chế.
+Điều 90. Thiết lập và bảo vệ các khu vực hạn chế
+1. Khu vực hạn chế là khu vực của cảng hàng không và nơi có công trình, trang bị, thiết bị hàng không mà việc ra, vào và hoạt động tại đó phải tuân thủ các quy định của cơ quan nhà nước có thẩm quyền. Khu vực hạn chế được kiểm tra, soi chiếu, giám sát, lục soát an ninh hàng không.
+2. Việc thiết lập các khu vực hạn chế tại cảng hàng không và nơi có công trình, trang bị, thiết bị hàng không phải phù hợp với mục đích bảo đảm an ninh hàng không và tính chất hoạt động hàng không dân dụng.
+Điều 91. Kiểm tra, soi chiếu, giám sát, lục soát an ninh hàng không đối với chuyến bay
+1. Tàu bay phải được kiểm tra, giám sát an ninh hàng không trước khi thực hiện chuyến bay; trường hợp có dấu hiệu hoặc thông tin đe dọa liên quan đến an ninh, an toàn của chuyến bay phải được lục soát an ninh hàng không.
+2. Hành khách, thành viên tổ bay, người phục vụ chuyến bay, người khác có liên quan, hành lý, hàng hoá, bưu gửi và các vật phẩm khác phải được kiểm tra, soi chiếu, giám sát an ninh hàng không trước khi lên tàu bay; trường hợp có dấu hiệu hoặc có thông tin đe dọa liên quan đến an ninh, an toàn của chuyến bay thì phải được lục soát an ninh hàng không. Việc giám sát an ninh hàng không, duy trì trật tự, kỷ luật trên tàu bay phải được thực hiện trong suốt chuyến bay.
+Điều 92. Đối phó với hành vi can thiệp bất hợp pháp vào hoạt động hàng không dân dụng
+1. Hành vi can thiệp bất hợp pháp vào hoạt động hàng không dân dụng là hành vi có khả năng uy hiếp an toàn hoạt động hàng không dân dụng, bao gồm một trong các hành vi sau đây:
+a) Cưỡng đoạt trái phép tàu bay;
+b) Phá hủy tàu bay đang khai thác;
+c) Bắt giữ con tin trong tàu bay hoặc tại cảng hàng không;
+d) Xâm nhập bằng vũ lực vào tàu bay, cảng hàng không và công trình, trang bị, thiết bị hàng không dân dụng;
+đ) Đưa vật phẩm nguy hiểm vào tàu bay, cảng hàng không và khu vực hạn chế khác cho mục đích phạm tội. Vật phẩm nguy hiểm bao gồm vũ khí, đạn dược, chất cháy, chất dễ cháy, chất nổ, chất dễ nổ, chất độc hóa học và sinh học, chất phóng xạ và các vật hoặc chất khác có khả năng gây nguy hiểm hoặc được dùng để gây nguy hiểm cho sức khỏe, tính mạng của con người, an toàn của chuyến bay;
+e) Sử dụng tàu bay như một vũ khí với mục đích gây tử vong, thương tích nghiêm trọng cho người hoặc thiệt hại nghiêm trọng cho tài sản hoặc môi trường;
+g) Cung cấp thông tin sai đến mức uy hiếp an toàn của tàu bay đang bay hoặc trên mặt đất; an toàn của hành khách, tổ bay, nhân viên mặt đất hoặc người tại cảng hàng không và công trình, trang bị, thiết bị hàng không dân dụng;
+h) Cố ý thực hiện hành vi vi phạm pháp luật uy hiếp đến an toàn khai thác tàu bay; khai thác cảng hàng không; bảo đảm hoạt động bay.
+2. Mọi biện pháp đối phó với hành vi can thiệp bất hợp pháp vào hoạt động hàng không dân dụng phải ưu tiên bảo đảm an toàn cho tàu bay và tính mạng con người.
+3. Tàu bay đang bay bị can thiệp bất hợp pháp phải được ưu tiên về điều hành bay và các trợ giúp cần thiết khác.
+4. Trong trường hợp đặc biệt, vượt quá phạm vi thẩm quyền của các Bộ, ngành có liên quan, Thủ tướng Chính phủ quyết định xử lý các vấn đề về bảo đảm an toàn cho tàu bay, tổ bay, hành khách, hành lý, hàng hóa trong tàu bay.
+5. Hãng hàng không phải chịu toàn bộ chi phí liên quan đến việc đối phó với những hành vi can thiệp bất hợp pháp đối với tàu bay của mình.
+Điều 93. Lực lượng kiểm soát an ninh hàng không
+1. Lực lượng kiểm soát an ninh hàng không được tổ chức để thực hiện các biện pháp bảo đảm an ninh hàng không, trật tự, an toàn xã hội theo chức năng, nhiệm vụ được giao.
+2. Địa bàn hoạt động của lực lượng kiểm soát an ninh hàng không bao gồm cảng hàng không; trên tàu bay; cơ sở cung cấp dịch vụ không lưu; tổ chức sản xuất, bảo dưỡng, sửa chữa tàu bay, thiết bị tàu bay; tổ chức cung cấp dịch vụ hàng không tại cảng hàng không; tổ chức xử lý hàng hoá, bưu gửi để đưa lên tàu bay.
+3. Lực lượng kiểm soát an ninh hàng không được tuyển chọn, đào tạo, huấn luyện đáp ứng yêu cầu nghiệp vụ; có trang phục, phù hiệu, cấp hiệu riêng theo quy định.
+4. Lực lượng kiểm soát an ninh hàng không được trang bị, sử dụng vũ khí, công cụ hỗ trợ, thiết bị, phương tiện để thực hiện nhiệm vụ theo quy định của pháp luật.
+Điều 94. Giám sát viên an ninh hàng không
+1. Giám sát viên an ninh hàng không là cá nhân có năng lực, kinh nghiệm, trình độ phù hợp được Nhà chức trách an ninh hàng không Việt Nam bổ nhiệm để thực hiện việc kiểm soát chất lượng an ninh hàng không gồm thử nghiệm, kiểm tra, điều tra an ninh hàng không.
+2. Người thực hiện thử nghiệm, kiểm tra, điều tra an ninh hàng không phải có thẻ giám sát viên an ninh hàng không do Nhà chức trách an ninh hàng không Việt Nam cấp. Giám sát viên an ninh hàng không khi thực hiện nhiệm vụ phải xuất trình thẻ, được quyền tiếp cận, vào bất kỳ khu vực hạn chế, phương tiện, thiết bị hàng không, tàu bay, yêu cầu cung cấp thông tin, tài liệu để thực hiện nhiệm vụ; được quyền đình chỉ các hành vi vi phạm, lập biên bản, thu hồi tài liệu, thẻ, giấy phép có liên quan của đối tượng vi phạm. 
+3. Nhà chức trách an ninh hàng không Việt Nam được tuyển dụng, thuê, trưng dụng giám sát viên an ninh hàng không.
+4. Doanh nghiệp cung cấp dịch vụ trong lĩnh vực hàng không có trách nhiệm hỗ trợ, tạo điều kiện cho nhân lực của Nhà chức trách an ninh hàng không Việt Nam được đào tạo, bồi dưỡng, huấn luyện, tích lũy kinh nghiệm để thực hiện nhiệm vụ giám sát viên an ninh hàng không.
+Điều 95. Chương trình an ninh
+1. Chương trình an ninh nhằm quy định trách nhiệm của cơ quan, tổ chức, cá nhân có liên quan trong việc thực hiện quy trình, thủ tục, biện pháp bảo đảm an ninh hàng không.
+2. Chương trình an ninh bao gồm:
+a) Chương trình an ninh hàng không dân dụng Việt Nam;
+b) Chương trình huấn luyện an ninh hàng không dân dụng Việt Nam;
+c) Chương trình kiểm soát chất lượng an ninh hàng không Việt Nam;
+d) Chương trình an ninh của người khai thác cảng hàng không;
+đ) Chương trình an ninh của người khai thác tàu bay, hãng hàng không Việt Nam và nước ngoài;
+e) Chương trình an ninh của cơ sở cung cấp dịch vụ không lưu;
+g) Chương trình an ninh của doanh nghiệp sản xuất, bảo dưỡng, sửa chữa tàu bay, thiết bị tàu bay;
+h) Chương trình an ninh của doanh nghiệp cung cấp dịch vụ hàng không tại cảng hàng không;
+i) Chương trình an ninh của doanh nghiệp xử lý hàng hoá, bưu gửi để đưa lên tàu bay.
+k) Chương trình huấn luyện an ninh hàng không của tổ chức huấn luyện nhân viên hàng không.
+Điều 96. Trách nhiệm bảo đảm an ninh hàng không của tổ chức, cá nhân tham gia hoạt động hàng không dân dụng
+1. Nhà chức trách an ninh hàng không Việt Nam bảo đảm an ninh hàng không, trật tự, an toàn xã hội đối với các địa bàn: cảng hàng không; trên tàu bay; tổ chức xử lý hàng hóa, bưu gửi để đưa lên tàu bay.
+2. Người khai thác cảng hàng không, người khai thác tàu bay, hãng hàng không, cơ sở cung cấp dịch vụ không lưu, tổ chức sản xuất, bảo dưỡng, sửa chữa tàu bay, thiết bị tàu bay, tổ chức cung cấp dịch vụ hàng không tại cảng hàng không, tổ chức xử lý hàng hóa, bưu gửi để đưa lên tàu bay chịu trách nhiệm xây dựng, trình Nhà chức trách an ninh hàng không Việt Nam phê duyệt và tổ chức thực hiện chương trình an ninh theo quy định .
+3. Người khai thác tàu bay, hãng hàng không nước ngoài thực hiện vận chuyển thương mại đến và đi từ Việt Nam phải có chương trình an ninh được Nhà chức trách an ninh hàng không nơi đăng ký phê duyệt và trình Nhà chức trách an ninh hàng không Việt Nam để được chấp thuận và cam kết thực hiện quy trình bổ sung bảo đảm an ninh điểm khai thác nhằm tuân thủ các yêu cầu của các Chương trình an ninh hàng không dân dụng quốc gia Việt Nam.
+4. Hãng hàng không, người khai thác tàu bay thực hiện chuyến bay quốc tế tại Việt Nam có trách nhiệm cung cấp thông tin trước về chuyến bay, hành khách và tổ bay cho cơ quan nhà nước có thẩm quyền.
+5. Tổ chức, cá nhân khác tham gia hoạt động hàng không dân dụng phải thực hiện các quy định của pháp luật về an ninh hàng không.
+ 
+Chương X
+QUẢN LÝ NHÀ NƯỚC VỀ HÀNG KHÔNG DÂN DỤNG
+Điều 97. Nội dung quản lý nhà nước về hàng không dân dụng
+1. Quản lý nhà nước về hàng không dân dụng bao gồm các nội dung sau đây:
+a) Ban hành và tổ chức thực hiện văn bản quy phạm pháp luật, định mức kinh tế - kỹ thuật, tiêu chuẩn, quy chuẩn kỹ thuật, quy chế, quy trình về hàng không dân dụng;
+b) Xây dựng và tổ chức thực hiện chiến lược, quy hoạch, kế hoạch, chính sách phát triển ngành hàng không dân dụng theo quy định của pháp luật;
+c) Quản lý về hoạt động bay dân dụng trong lãnh thổ Việt Nam và vùng thông báo bay do Việt Nam quản lý; quản lý kế hoạch bảo đảm hoạt động bay; quản lý việc đầu tư xây dựng cơ sở cung cấp dịch vụ, hệ thống kỹ thuật, trang bị, thiết bị bảo đảm hoạt động bay;
+d) Quản lý việc đầu tư xây dựng, tổ chức khai thác kết cấu hạ tầng hàng không theo quy định;
+đ) Quản lý hoạt động vận tải hàng không thương mại, vận tải hàng không chuyên dùng và hàng không chung; cấp phép bay, quyền vận chuyển hàng không; điều phối giờ đi, đến tại cảng hàng không;
+e) Đăng ký tàu bay và đăng ký các quyền đối với tàu bay;
+g) Quản lý phát triển công nghiệp hàng không;
+h) Cấp, công nhận chứng chỉ, giấy phép, giấy chứng nhận và các giấy tờ, tài liệu khác liên quan đến hoạt động hàng không dân dụng;
+i) Quản lý việc bảo đảm an ninh, an toàn hàng không; tổ chức và bảo đảm an ninh, an toàn chuyến bay chuyên cơ.
+k) Quản lý hoạt động tìm kiếm, cứu nạn và điều tra sự cố, tai nạn tàu bay.
+l) Quản lý chướng ngại vật hàng không;
+m) Hợp tác quốc tế về hàng không dân dụng;
+n) Quản lý việc đào tạo và phát triển nguồn nhân lực của ngành hàng không dân dụng, giám định sức khỏe nhân viên hàng không;
+o) Quản lý hoạt động khoa học, công nghệ trong lĩnh vực hàng không dân dụng; bảo vệ môi trường, phòng, tránh thiên tai, ứng phó với biến đổi khí hậu trong hoạt động hàng không dân dụng;
+p) Quản lý giá, phí và lệ phí trong hoạt động hàng không dân dụng;
+q) Kiểm tra, thanh tra, giải quyết khiếu nại, tố cáo và xử lý vi phạm trong hoạt động hàng không dân dụng;
+r) Công nhận, áp dụng tiêu chuẩn, quy trình, quy định, hướng dẫn, chỉ dẫn kỹ thuật, khuyến cáo thực hành của ICAO; quy trình, tiêu chuẩn, quy định, hướng dẫn, chỉ dẫn kỹ thuật, khuyến cáo thực hành tiên tiến, hiện đại của các Nhà chức trách hàng không và các tổ chức quốc tế về hàng không dân dụng được ứng dụng rộng rãi trên thế giới;
+s) Quản lý chất lượng dịch vụ trong hoạt động hàng không dân dụng.
+2. Chính phủ thống nhất quản lý nhà nước về hàng không dân dụng.
+3. Bộ Xây dựng chịu trách nhiệm trước Chính phủ thực hiện quản lý nhà nước về hàng không dân dụng trừ quy định tại khoản 4 và khoản 5 Điều này; tổ chức và khai thác vùng trời phục vụ hoạt động hàng không dân dụng.
+4. Bộ Quốc phòng có trách nhiệm bảo vệ chủ quyền vùng trời, giám sát hoạt động bay dân dụng; phối hợp với Bộ Xây dựng và Bộ Công an trong việc tổ chức và khai thác vùng trời phục vụ hoạt động hàng không dân dụng.
+5. Bộ Công an chịu trách nhiệm trước Chính phủ thực hiện quản lý nhà nước về an ninh hàng không; phối hợp với Bộ Xây dựng và Bộ Quốc phòng trong việc tổ chức và khai thác vùng trời phục vụ hàng không dân dụng.
+6. Bộ, cơ quan ngang bộ trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm phối hợp với Bộ Xây dựng thực hiện quản lý nhà nước về hàng không dân dụng theo quy định của Chính phủ.
+7. Uỷ ban nhân dân các cấp trong phạm vi nhiệm vụ, quyền hạn của mình thực hiện quản lý nhà nước khu vực lân cận cảng hàng không, đầu tư xây dựng, bảo vệ môi trường cảng hàng không; phối hợp trong công tác tìm kiếm, cứu nạn và điều tra sự cố, tai nạn tàu bay, quản lý chướng ngại vật hàng không.
+Điều 98. Nhà chức trách hàng không Việt Nam
+1. Nhà chức trách hàng không Việt Nam do Chính phủ thành lập để thực hiện trách nhiệm quản lý nhà nước về an toàn hàng không và nhiệm vụ, quyền hạn khác trong lĩnh vực hàng không dân dụng.
+2. Nhà chức trách hàng không Việt Nam thực hiện cấp, công nhận giấy phép, chứng chỉ theo quy định của ICAO và các điều ước quốc tế mà Việt Nam là thành viên.
+3. Người đứng đầu Nhà chức trách hàng không Việt Nam tổ chức thực hiện nhiệm vụ, quyền hạn của Nhà chức trách hàng không Việt Nam.
+4. Cảng vụ hàng không là cơ quan trực thuộc Nhà chức trách hàng không Việt Nam được thành lập để thực hiện một số nhiệm vụ, quyền hạn của Nhà chức trách hàng không Việt Nam tại các cảng hàng không, trừ cảng hàng không chuyên dùng.
+Điều 99. Nhà chức trách an ninh hàng không Việt Nam
+1. Nhà chức trách an ninh hàng không Việt Nam chịu trách nhiệm phát triển, thực hiện và duy trì chương trình an ninh hàng không dân dụng quốc gia để phòng ngừa, phát hiện, ngăn chặn, đấu tranh làm thất bại các hành vi can thiệp bất hợp pháp vào hoạt động hàng không dân dụng.
+2. Nhà chức trách an ninh hàng không Việt Nam có trách nhiệm điều phối hoạt động giữa các bộ, ngành và các tổ chức khác của Nhà nước, người khai thác cảng hàng không và tàu bay, các cơ sở cung cấp dịch vụ không lưu và các thực thể khác có liên quan trong việc thực hiện các quy định của các chương trình an ninh hàng không dân dụng quốc gia thông qua cơ chế Ủy ban quốc gia về an ninh hàng không và tạo thuận lợi hàng không.
+3. Tổ chức đánh giá việc tuân thủ các tiêu chuẩn của ICAO về an ninh hàng không tại các cảng hàng không nước ngoài có khai thác chuyến bay đến Việt Nam; xem xét, quyết định tạm dừng khai thác các chuyến bay, tạm đình chỉ các hãng hàng không khai thác chuyến bay từ nước ngoài đến Việt Nam không tuân thủ hoặc không đáp ứng tiêu chuẩn của ICAO về an ninh hàng không.
+Điều 100. Hoạt động phối hợp quản lý nhà nước tại cảng hàng không
+1. Cảng vụ hàng không và các cơ quan khác tại cảng hàng không thực hiện các hoạt động nghiệp vụ và phối hợp giải quyết các vấn đề phát sinh trong phạm vi nhiệm vụ, quyền hạn của mình, bảo đảm an toàn, an ninh, chất lượng dịch vụ và hoạt động bình thường của cảng hàng không.
+2. Cảng vụ hàng không chủ trì, phối hợp hoạt động của các cơ quan quản lý nhà nước tại cảng hàng không; triệu tập và chủ trì các cuộc họp liên tịch định kỳ hoặc bất thường giữa các cơ quan quản lý nhà nước và các tổ chức hoạt động tại cảng hàng không.
+3. Trường hợp cảng hàng không bị công bố là khu vực có dịch bệnh nguy hiểm, Cảng vụ hàng không phối hợp các cơ quan, tổ chức hoạt động trên địa bàn cảng hàng không để áp dụng các biện pháp thích hợp ngăn ngừa lây lan dịch bệnh và dập tắt dịch bệnh theo sự chỉ đạo chuyên môn của các cơ quan nhà nước có thẩm quyền.
+Điều 101. Giá dịch vụ và phí, lệ phí thuộc lĩnh vực hàng không
+1. Việc quản lý giá dịch vụ, phí, lệ phí thuộc lĩnh vực hàng không thực hiện theo quy định của pháp luật về giá, pháp luật về phí và lệ phí.
+2. Nhà chức trách hàng không Việt Nam, Nhà chức trách an ninh hàng không Việt Nam và tổ chức được cơ quan nhà nước có thẩm quyền giao cung cấp dịch vụ công được bố trí tương ứng từ các khoản thu phí, lệ phí thuộc lĩnh vực hàng không sau khi nộp vào ngân sách nhà nước để đảm bảo thực hiện nhiệm vụ của nhà chức trách và phục vụ cho hoạt động cung cấp dịch vụ công. 
+3. Doanh nghiệp cảng hàng không, tổ chức cung cấp dịch vụ khai thác nhà ga hành khách, tổ chức cung cấp dịch vụ bảo đảm an ninh hàng không ủy quyền cho hãng hàng không thu hộ giá dịch vụ phục vụ hành khách tại cảng hàng không, phí bảo đảm an ninh hành khách, hành lý và có quyền thực hiện, kiến nghị thực hiện các biện pháp bảo đảm quyền lợi của mình khi hãng hàng không vi phạm nghĩa vụ thanh toán tại khoản 4 Điều này.
+4. Hãng hàng không có trách nhiệm thanh toán khoản thu hộ giá dịch vụ phục vụ hành khách tại cảng hàng không và phí bảo đảm an ninh hành khách, hành lý cho doanh nghiệp cảng hàng không, tổ chức cung cấp dịch vụ khai thác nhà ga hành khách, tổ chức cung cấp dịch vụ bảo đảm an ninh hàng không theo quy định.
+Chương XI
+ĐIỀU KHOẢN THI HÀNH
+Điều 102. Sửa đổi, bổ sung, thay thế, bãi bỏ một số khoản, điều của các luật có liên quan 
+1. Sửa đổi, bổ sung, bãi bỏ một số điều của Luật Quy hoạch số 21/2017/QH14 ngày 24 tháng 11 năm 2017 như sau: 
+a) Sửa đổi, bổ sung số thứ tự 4 Phụ lục số I Danh mục các quy hoạch ngành quốc gia ban hành kèm theo như sau: 
+“4. Quy hoạch hệ thống cảng hàng không toàn quốc (không bao gồm cảng hàng không chuyên dùng).”;
+b) Sửa đổi, bổ sung số thứ tự 18 Phụ lục số II Danh mục các quy hoạch có tính chất kỹ thuật, chuyên ngành ban hành kèm theo như sau: 
+“18. Quy hoạch cửa khẩu; quy hoạch tuyến, ga đường sắt; quy hoạch cảng hàng không (không bao gồm cảng hàng không chuyên dùng).”;
+c) Bãi bỏ số thứ tự 19 Phụ lục II.
+2. Sửa đổi, bổ sung, thay thế, bãi bỏ một số điều của Luật Giá số 16/2023/QH15 ngày 19 tháng 6 năm 2023 như sau: 
+a) Thay thế cụm từ “Dịch vụ cho thuê mặt bằng cảng hàng không, sân bay và dịch vụ cơ bản thiết yếu tại cảng hàng không, sân bay” tại số thứ tự 7 Phụ lục số 02 thành cụm từ “Dịch vụ cho thuê mặt bằng cảng hàng không”; 
+b) Thay thế cụm từ “Dịch vụ cất cánh, hạ cánh tàu bay; dịch vụ điều hành bay đi, đến; dịch vụ bảo đảm an ninh hàng không và dịch vụ điều hành bay qua vùng thông báo bay do Việt Nam quản lý; dịch vụ phục vụ hành khách tại cảng hàng không” tại số thứ tự 07 Phụ lục số 02 bằng cụm từ “Dịch vụ cất cánh, hạ cánh tàu bay; dịch vụ điều hành bay đi, đến; dịch vụ điều hành bay qua vùng thông báo bay do Việt Nam quản lý; dịch vụ phục vụ hành khách tại cảng hàng không”;
+c) Thay thế cụm từ “Dịch vụ cho thuê sân đậu tàu bay; dịch vụ cho thuê quầy làm thủ tục hành khách; dịch vụ cho thuê băng chuyền hành lý; dịch vụ cho thuê cầu dẫn khách lên, xuống tàu bay; dịch vụ phục vụ kỹ thuật thương mại mặt đất trọn gói tại các cảng hàng không, sân bay; dịch vụ phân loại tự động hành lý đi; dịch vụ tra nạp xăng dầu hàng không; dịch vụ sử dụng hạ tầng hệ thống tra nạp ngầm cung cấp nhiên liệu tại cảng hàng không, sân bay; nhượng quyền khai thác dịch vụ hàng không tại cảng hàng không sân bay, bao gồm các dịch vụ nhượng quyền: nhà ga hành khách; nhà ga, kho hàng hóa; phục vụ kỹ thuật thương mại mặt đất; sửa chữa, bảo dưỡng phương tiện, trang thiết bị hàng không; kỹ thuật hàng không; cung cấp suất ăn hàng không; cung cấp xăng dầu hàng không” tại số thứ tự 07 Phụ lục số 02 bằng cụm từ “Dịch vụ cho thuê sân đậu tàu bay; dịch vụ cho thuê quầy làm thủ tục hành khách; dịch vụ cho thuê băng chuyền hành lý; dịch vụ cho thuê cầu dẫn khách lên, xuống tàu bay; dịch vụ phục vụ kỹ thuật thương mại mặt đất trọn gói tại các cảng hàng không; dịch vụ phân loại tự động hành lý đi; dịch vụ tra nạp xăng dầu hàng không; dịch vụ sử dụng hạ tầng hệ thống tra nạp ngầm cung cấp nhiên liệu tại cảng hàng không; nhượng quyền khai thác dịch vụ hàng không tại cảng hàng không, bao gồm các dịch vụ nhượng quyền: nhà ga hành khách; nhà ga, kho hàng hóa; phục vụ kỹ thuật thương mại mặt đất; sửa chữa, bảo dưỡng phương tiện, trang thiết bị hàng không; kỹ thuật hàng không; cung cấp suất ăn hàng không; cung cấp xăng dầu hàng không; bảo dưỡng, sửa chữa tàu bay, động cơ tàu bay, cánh quạt tàu bay và trang thiết bị tàu bay tại Việt Nam.”;
+d) Bãi bỏ khoản 1 Điều 73. 
+3. Sửa đổi, bổ sung số thứ tự 4 mục V Phụ lục số 01 Danh mục phí, lệ phí ban hành kèm theo Luật Phí và lệ phí số 97/2015/QH13 ngày 25 tháng 11 năm 2015 như sau: 
+“4.9: Phí bảo đảm an ninh hàng không do Bộ Tài chính quy định”. 
+4. Bãi bỏ số thứ tự 93 Phụ lục IV Danh mục ngành, nghề đầu tư kinh doanh có điều kiện ban hành kèm theo Luật Đầu tư số 61/2020/QH14 ngày 17 tháng 06 năm 2020.
+Điều 103. Hiệu lực thi hành
+1. Luật này có hiệu lực thi hành từ ngày ... tháng … năm 20….
+2. Luật này thay thế Luật Hàng không dân dụng Việt Nam ngày 29 tháng 6 năm 2006 và Luật sửa đổi, bổ sung một số điều của Luật Hàng không dân dụng Việt Nam ngày 21 tháng 11 năm 2014.
+3. Quy hoạch tổng thể phát triển hệ thống cảng hàng không, sân bay toàn quốc và quy hoạch cảng hàng không, sân bay được cấp có thẩm quyền phê duyệt trước thời điểm Luật này có hiệu lực tiếp tục được thực hiện cho đến khi được cấp có thẩm quyền phê duyệt điều chỉnh hoặc thay thế.
+4. Chính phủ quy định chi tiết Điều 6, Điều 7, Điều 8 Chương I và khoản 3 Điều 1 trong trường hợp lựa chọn áp dụng các quy định này của Luật HKDDVN cho hoạt động của tàu bay công vụ; Chương II (Tàu bay), Chương III (Cảng hàng không), Chương IV (Hoạt động bay), Chương V (Vận tải hàng không và hàng không chung), Điều 60 của Chương VI (Trách nhiệm dân sự), Chương VII (An toàng hàng không, điều tra sự cố, tai nạn tàu bay), Chương VIII (Nhân viên hàng không), Chương IX (An ninh hàng không), Điều 98, Điều 99 Chương X (Quản lý nhà nước về hàng không dân dụng) và hướng dẫn thực hiện Luật này.
+Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa, kỳ họp thứ   thông qua ngày  tháng      năm 2025
+                                          	 .                 CHỦ TỊCH QUỐC HỘI
+ 
+QUỐC HỘI	CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+  Độc lập - Tự do - Hạnh phúc
+Số: .../2025/QH	Hà Nội, ngày 	   	tháng        	năm
