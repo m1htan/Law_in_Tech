@@ -30,3 +30,8 @@ pdf2image
 beautifulsoup4
 lxml
 chardet
+ddgs>=2.4.0
+yake==0.4.8
+tqdm>=4.66.4
+pandas>=2.2.2
+pyarrow>=17.0.0

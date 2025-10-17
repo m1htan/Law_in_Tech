@@ -1,0 +1,10 @@
+{
+  "model": "hf",
+  "proxy": {
+    "non_neutral_rate": 0.3693,
+    "pos_precision_on_pos_lexicon": 0.984,
+    "neg_precision_on_neg_lexicon": 0.9109,
+    "pos_lexicon_support": 1124,
+    "neg_lexicon_support": 348
+  }
+}

@@ -1,7 +1,5 @@
 [
-  "https?://(www\\.)?chinhphu\\.vn/(he-thong-van-ban|du-thao-vbqppl).*",
-  "https?://(www\\.)?vbpl\\.vn/.*",
+  "https?://(www\\.)?mst\\.gov\\.vn/van-ban-phap-luat\\.htm.*",
   "https?://duthaoonline\\.quochoi\\.vn/.*",
-  "https?://(www\\.)?moj\\.gov\\.vn/dtvb/.*",
-  "https?://(www\\.)?luatminhkhue\\.vn/(van-ban|tags/.*(chuyen|so|ai|tri-tue|khoa-hoc)).*"
+  "https?://(www\\.)?chinhphu\\.vn/du-thao-vbqppl.*"
 ]
