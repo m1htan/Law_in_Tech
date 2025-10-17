@@ -1,0 +1,2696 @@
+BỘ CÔNG THƯƠNG CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+______________ Độc lập - Tự do - Hạnh phúc
+_____________________________________
+Số: /BC-BCT Hà Nội, ngày tháng 6 năm 2025
+BÁO CÁO
+Tổng kết việc thi hành pháp luật về thương mại điện tử,
+Nghị định số 52/2013/NĐ-CP ngày 16/5/2013 của Chính phủ
+về thương mại điện tử, Nghị định số 85/2021/NĐ-CP ngày 25/9/2021
+của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số
+52/2013/NĐ-CP ngày 16/5/2013 của Chính phủ về thương mại điện tử
+___________
+Thực hiện quy định của Luật Ban hành văn bản quy phạm pháp luật, Bộ
+Công Thương đã tiến hành tổng kết việc thi hành pháp luật về thương mại điện tử
+(sau đây gọi là TMĐT), Nghị định số 52/2013/NĐ-CP ngày 16/5/2013 của Chính
+phủ về TMĐT, Nghị định số 85/2021/NĐ-CP ngày 25/9/2021 của Chính phủ sửa
+đổi, bổ sung một số điều của Nghị định số 52/2013/NĐ-CP ngày 16/5/2013 của
+Chính phủ về TMĐT. Kết quả như sau:
+I. BỐI CẢNH THỰC HIỆN TỔNG KẾT
+1. Bối cảnh trong nước và quốc tế
+1.1. Bối cảnh phát triển của TMĐT trong nước
+Trong bối cảnh TMĐT toàn cầu phát triển mạnh mẽ, Việt Nam là một trong
+những thị trường năng động và tiềm năng nhất tại khu vực Đông Nam Á. Theo
+báo cáo cập nhật mới nhất do Google, Temasek và Bain & Company công bố,
+Việt Nam được xếp thứ 3 trong khu vực Đông Nam Á về quy mô thị trường
+TMĐT năm 2024, chỉ sau Indonesia và Thái Lan. Tốc độ tăng trưởng trung bình
+của thị trường TMĐT đạt trên 20% mỗi năm, với quy mô TMĐT bán lẻ ước đạt
+25 tỷ USD vào năm 2024. Năm 2024, tổng doanh thu từ TMĐT bán lẻ đạt hơn 25
+tỷ USD, chiếm 10% tổng doanh thu bán lẻ hàng hóa và dịch vụ tiêu dùng cả nước,
+tăng 22% so với cùng kỳ năm trước. Những con số này không chỉ khẳng định sức
+hút của TMĐT, mà còn phản ánh sự thay đổi mạnh mẽ trong thói quen tiêu dùng
+của người dân, từ mua sắm truyền thống sang mua sắm trực tuyến. Đây cũng là
+cơ sở quan trọng để Việt Nam tiếp tục hoàn thiện chính sách, pháp luật và hạ tầng
+nhằm thúc đẩy TMĐT trở thành một trong những động lực chính của nền kinh tế
+số.
+Tuy nhiên, cùng với sự phát triển, TMĐT cũng đặt ra nhiều thách thức đối
+2
+với các cơ quan quản lý trong việc kiểm soát gian lận thương mại, bảo vệ quyền
+lợi người tiêu dùng, chống hàng giả, hàng nhái, hàng không rõ nguồn gốc. Hiện
+nay, tình trạng lợi dụng TMĐT để buôn bán hàng giả, hàng không rõ nguồn gốc
+vẫn diễn ra trên các nền tảng trực tuyến, gây ảnh hưởng đến các doanh nghiệp sản
+xuất, kinh doanh chân chính.
+1.2. Bối cảnh phát triển của TMĐT quốc tế
+Trong hơn hai thập kỷ qua, TMĐT đã trở thành một trong những lĩnh vực
+phát triển nhanh nhất của nền kinh tế toàn cầu. Với sự bùng nổ của công nghệ
+thông tin, hạ tầng viễn thông và nền tảng số, TMĐT đã thay đổi căn bản phương
+thức giao dịch truyền thống, tạo ra chuỗi cung ứng và mô hình kinh doanh mới
+mang tính toàn cầu hóa sâu rộng.
+Theo thống kê TMĐT từ Emarketer, số lượng người mua sắm trực tuyến
+đạt 2,77 tỷ vào năm 2025, minh chứng cho sự bùng nổ của thống kê TMĐT nhờ
+vào sự gia tăng tỷ lệ sử dụng internet cùng tính tiện lợi vượt trội của hình thức
+mua sắm trực tuyến. Từ những thống kê TMĐT của Statista, dự kiến đến năm
+2027, 22,6% tổng số giao dịch mua bán lẻ sẽ được thực hiện trực tuyến, đánh dấu
+sự thay đổi lớn trong hành vi tiêu dùng toàn cầu. Tỷ lệ giao dịch bán lẻ trực tuyến
+tăng trưởng đều đặn, trung bình 0,32% mỗi năm kể từ năm 2021, khẳng định xu
+hướng này sẽ tiếp tục bùng nổ trong tương lai.
+Các nền kinh tế lớn như Trung Quốc, Hoa Kỳ, Châu Âu tiếp tục giữ vai trò
+dẫn dắt, trong khi các nước đang phát triển ở Đông Nam Á, Nam Á, châu Phi ghi
+nhận sự tăng trưởng bứt phá nhờ sự phổ cập của điện thoại thông minh, ví điện tử
+và logistics xuyên biên giới. Sự phát triển của các nền tảng số xuyên biên giới như
+Amazon, Alibaba, Shopee, TikTok, Temu, Shein... kết nối thị trường nội địa với
+quốc tế, đồng thời tạo điều kiện cho doanh nghiệp vừa và nhỏ, hộ kinh doanh cá
+thể tiếp cận thị trường toàn cầu chỉ với chi phí đầu tư thấp.
+Tuy nhiên, sự phát triển nhanh chóng của TMĐT quốc tế cũng đặt ra nhiều
+thách thức về thể chế, như: bảo vệ quyền lợi người tiêu dùng trong môi trường số;
+đảm bảo an ninh, an toàn thông tin; quản lý thuế đối với hoạt động TMĐT xuyên
+biên giới; chống hàng giả, gian lận thương mại; và đảm bảo sự công bằng giữa
+các chủ thể trong nền kinh tế số. Nhiều quốc gia đã có những điều chỉnh mạnh mẽ
+trong chính sách và pháp luật để thích ứng, như ban hành luật TMĐT chuyên biệt,
+xây dựng cơ sở dữ liệu TMĐT quốc gia, yêu cầu xác thực người bán trên nền tảng
+số, kiểm soát dòng tiền và dữ liệu xuyên biên giới, đồng thời thúc đẩy hợp tác
+quốc tế về quản lý TMĐT và thương mại số.
+3
+Trên thế giới hiện có nhiều nước đã xây dựng Luật TMĐT, cụ thể:
+Malaysia, Campuchia, Philipines, Hungary, Rumani, Macedonia, Ireland, Malta,
+Luxembourg, Iran, Trung Quốc… Nhìn chung, nhiều nước xây dựng Luật TMĐT
+dựa trên những khái niệm và nguyên tắc của Luật mẫu về TMĐT của
+UNCITRAL, trong đó, về cơ bản các nước công nhận giá trị pháp lý của thông
+điệp dữ liệu điện tử nhằm tạo ra môi trường pháp lý an toàn cho các hoạt động
+TMĐT.
+Một số nước khác tuy không xây dựng Luật TMĐT nhưng đã có những văn
+bản điều chỉnh riêng cho lĩnh vực này. Chẳng hạn, Uỷ ban châu Âu ban hành Chỉ
+thị về TMĐT vào năm 2000 (Directive 2000/31/EC on electronic commerce) và
+gần đây là Đạo luật Kỹ thuật số (Digital Markets Act). Indonesia ban hành Quy
+định số 80/2019 về TMĐT (Reg 80/2019), Quy định số 31/2024 về cấp phép kinh
+doanh, quảng cáo, hướng dẫn và giám sát các doanh nghiệp thương mại qua hệ
+thống điện tử (thay thế Quy định số 50/2020) …
+Mặt khác, một số nước xây dựng luật liên quan đến TMĐT từ góc độ bảo
+vệ người tiêu dùng với mục đích nâng cao niềm tin của người tiêu dùng đối với
+TMĐT từ đó thúc đẩy lĩnh vực này phát triển lành mạnh, bền vững. Nhật Bản ban
+hành Luật Bảo vệ người tiêu dùng mua sắm trên các nền tảng số (Act on the
+Protection of consumers who use digital platforms for shopping). Hàn Quốc ban
+hành Luật Bảo vệ người tiêu dùng trong TMĐT (Act on the Consumer protection
+in electronic commerce). Ấn Độ ban hành Quy định về TMĐT năm 2020
+(Consumer Protection (E-commerce) Rules) theo quy định của Luật Bảo vệ người
+tiêu dùng 2019.
+Nhìn chung, kinh nghiệm xây dựng khung khổ pháp luật về TMĐT của đa
+số các quốc gia và khu vực cho thấy quan điểm thống nhất của các bên trong việc
+không thể coi TMĐT chỉ là một phương thức hoạt động thương mại mà cần phải
+đặt TMĐT là một phương thức hoạt động thương mại đặc biệt, tiềm ẩn nhiều phức
+tạp, cần có văn bản pháp lý riêng biệt điều chỉnh các khía cạnh đặc thù của lĩnh
+vực này.
+Kinh nghiệm quốc tế cho thấy, để phù hợp với xu thế chung của thế giới,
+Việt Nam rất cần xây dựng Luật TMĐT để điều chỉnh toàn diện lĩnh vực này, góp
+phần bảo vệ quyền lợi của các bên tham gia, thúc đẩy đổi mới sáng tạo, và tạo
+động lực để Việt Nam phát triển kinh tế số.
+2. Quá trình thực hiện tổng kết
+Bộ Công Thương đã thực hiện tổng kết thi hành Nghị định số 52/2013/NĐ-
+4
+CP và Nghị định số 85/2021/NĐ-CP trên phạm vi toàn quốc, giai đoạn từ năm
+2013 đến hết năm 2024. Cụ thể như sau:
+- Trong quá trình thực hiện tổng kết Kế hoạch phát triển TMĐT quốc gia
+giai đoạn 2021-2025 và xây dựng dự thảo Kế hoạch phát triển TMĐT quốc gia
+giai đoạn 2026-2030, Bộ Công Thương đã hai lần1 gửi Công văn tới tới các Bộ,
+ban, ngành, địa phương phối hợp và tổ chức 01 Hội thảo2 lấy ý kiến rộng rãi các
+doanh nghiệp về việc báo cáo tổng kết tình hình phát triển TMĐT quốc gia. 17
+Bộ và 49 tỉnh, thành phố trực thuộc trung ương, 01 Hiệp hội, 02 cơ quan truyền
+thông và cộng đồng doanh nghiệp đã tham gia góp ý nhằm hoàn thiện các chính
+sách liên quan đến quản lý và pháp triển TMĐT. Một trọng các nội dung trọng
+tâm của báo cáo tổng kết tình hình phát triển TMĐT về các cơ chế, chính sách
+nhằm đáp ứng nhu cầu phát triển TMĐT trong bối cảnh cuộc Cách mạng công
+nghiệp 4.0, nâng cao năng lực quản lý và tổ chức hoạt động TMĐT, đấu tranh
+chống các hành vi gian lận thương mại, xâm phạm quyền sở hữu trí tuệ và cạnh
+tranh không lành mạnh trong TMĐT, nâng cao lòng tin của người tiêu dùng.
+- Ngày 03/10/2024, Bộ Công Thương tổ chức tổng kết tình hình triển khai,
+đánh giá hiệu quả hoạt động chứng thực hợp đồng điện tử với sự tham dự của các
+thương nhân, tổ chức đã được Bộ Công Thương xác nhận đăng ký hoạt động
+chứng thực hợp đồng điện tử.
+- Ngày 15/12/2024, Bộ Công Thương thực hiện thu thập phiếu khảo sát,
+điều tra và yêu cầu các tổ chức, doanh nghiệp, chủ sở hữu nền tảng TMĐT trên
+toàn quốc báo cáo tình hình triển khai thực tế, đồng thời đề xuất các kiến nghị,
+phản ánh vướng mắc trong quá trình thực thi pháp luật TMĐT. Kết quả khảo sát
+được tổng hợp từ các đơn vị đại diện cho các nhóm đối tượng khác nhau (doanh
+nghiệp lớn, doanh nghiệp SME, tổ chức trung gian, nền tảng mạng xã hội…), qua
+đó tạo nên một cơ sở dữ liệu thực tiễn có độ phủ rộng, phản ánh đa chiều và xác
+thực.
+- Trong năm 2024, Bộ Công Thương đã tổ chức các đoàn làm việc, kết hợp
+trong các đoàn công tác của Bộ Công Thương làm việc với các địa phương nhằm
+1 Công văn số 6814/BCT-TMĐT ngày 03/10/2023 gửi các bộ, ban, ngành, địa phương phối hợp
+xây dựng Báo cáo tình hình thực hiện Kế hoạch tổng thể phát triển TMĐT quốc gia giai đoạn 2021-
+2025; Công văn số 8881/BCT- TMĐT ngày 13/12/2023 đôn đốc lần hai gửi các bộ, ban, ngành, địa
+phương phối hợp xây dựng Báo cáo tình hình thực hiện Kế hoạch tổng thể phát triển TMĐT giai đoạn
+2021-2025.
+2 Hội thảo ngày 25/11/2024, với sự tham dự của hơn 100 doanh nghiệp có ý kiến về kết quả thực
+hiện Kế hoạch phát triển TMĐT quốc gia giai đoạn 2021-2025.
+5
+trao đổi, tiếp thu các ý kiến về thực trạng quản lý, phát triển TMĐT và giải quyết
+các kiến nghị, đề xuất của địa phương theo thẩm quyền. Kiến nghị, đề xuất của
+các địa phương tập trung chủ yếu: đẩy mạnh phân cấp phân quyền quản lý hoạt
+động TMĐT, công tác thống kê về TMĐT còn hạn chế, quản lý hoạt động TMĐT
+trên các mô hình đặc thù, TMĐT xuyên biên giới; vai trò, trách nhiệm của đơn vị
+cung cấp dịch vụ trung gian hỗ trợ hoạt động TMĐT…
+- Ngày 17/01/2025, Bộ Công Thương đã đăng tải công khai 5 bộ tài liệu
+liên quan đến hồ sơ liên quan đến Luật TMĐT, gồm: Hồ sơ xây dựng luật, báo
+cáo đánh giá tác động, báo cáo tổng kết thực thi pháp luật hiện hành, báo cáo đề
+xuất chính sách. Các tài liệu này đã được đăng công khai trên Cổng thông tin điện
+tử Chính phủ và Cổng thông tin điện tử Bộ Công Thương, đồng thời xin ý kiến
+bằng văn bản.3 Tính đến tháng 15/4/2025, Bộ Công Thương đã nhận được 954 ý
+kiến của cơ quan, tổ chức, đơn vị, địa phương. Các ý kiến góp ý tập trung yêu cầu
+làm rõ khái niệm đồng bộ và thống nhất về nền tảng số trong lĩnh vực TMĐT, các
+khó khăn trong quản lý hoạt động TMĐT đặc thù TMĐT xuyên biên giới, quy
+định cụ thể về trách nhiệm của đơn vị cung cấp dịch vụ trung gian hỗ trợ hoạt
+động TMĐT, thống nhất quy định về cấp phép dịch vụ chứng thực hợp đồng điện
+tử trong lĩnh vực TMĐT, cần cụ thể hơn các quy định về phát triển TMĐT bền
+vững.
+- Ngày 09/4/2025, tại Hà Nội, Bộ Công Thương đã tổ chức Hội nghị tham
+vấn chính sách xây dựng Luật TMĐT. Hội nghị có sự tham dự của đại diện Hội
+đồng Dân tộc, Ủy ban Khoa học Công nghệ và Môi trường, Ủy ban Kinh tế và
+Tài chính, Ủy ban Quốc phòng, An ninh và Đối ngoại, Ủy ban Công tác đại biểu
+của Quốc hội, Ngân hàng Nhà nước, Bộ Ngoại giao, Bộ Quốc phòng, Bộ Văn hóa,
+Thể thao và Du lịch, Bộ Xây dựng, Bộ Công an, Bộ Y tế. Tại Hội nghị, các đại
+biểu nhất trí về việc cần thiết ban hành Luật TMĐT và tập trung phản ánh các
+nhóm vấn đề trong thực thi pháp luật về TMĐT cần được giải quyết: cơ chế bảo
+vệ người tiêu dùng trong giao dịch điện tử; kiểm soát hoạt động TMĐT xuyên
+biên giới; khung pháp lý cho mô hình kinh doanh mới trên mạng xã hội, nền tảng
+livestream và các ứng dụng tích hợp trí tuệ nhân tạo; giải pháp tăng cường trách
+nhiệm của nền tảng số trung gian TMĐT và đảm bảo an toàn dữ liệu cá nhân.
+Quá trình thực hiện tổng kết được triển khai đồng bộ và toàn diện, với sự
+3 Văn bản số 402/BCT-TMĐT ngày 15/01/2025 và văn bản đôn đốc lần 2 số 1075/BCT-TMĐT ngày
+14/02/2025
+4 19 Bộ, cơ quan ngang Bộ thuộc Chính phủ; 63 Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương;
+01 Hiệp hội và 03 tổ chức, doanh nghiệp tham gia góp ý.
+6
+tham gia tích cực, trách nhiệm của các bộ, ngành, địa phương, tổ chức, doanh
+nghiệp và các bên liên quan. Các ý kiến góp ý thu thập được từ quá trình khảo sát,
+làm việc trực tiếp, gửi văn bản, hội thảo, tham vấn chính sách đều thể hiện sự
+đồng thuận, thống nhất cao về sự cần thiết và cấp bách phải xây dựng Luật TMĐT,
+nhằm thể chế hóa kịp thời các chủ trương, chính sách lớn của Đảng và Nhà nước,
+khắc phục những tồn tại, bất cập trong thực tiễn thi hành pháp luật hiện hành, đáp
+ứng yêu cầu phát triển nhanh và bền vững của TMĐT.
+II. KẾT QUẢ THỰC HIỆN
+1. Việc tổ chức thi hành văn bản quy phạm pháp luật về TMĐT
+Hội nhập kinh tế quốc tế ngày càng sâu rộng mang đến động lực mạnh mẽ
+cho việc đổi mới, hoàn thiện môi trường pháp lý, cải cách thể chế kinh tế thị
+trường và cơ chế quản lý trong nước. Điều này không chỉ tạo ra môi trường kinh
+doanh thông thoáng hơn mà còn góp phần vào sự tăng trưởng kinh tế bền vững,
+chuyển đổi cơ cấu kinh tế và phát triển các ngành hàng đáp ứng tốt hơn nhu cầu
+từ các thị trường đã ký kết hiệp định thương mại tự do (FTA) với Việt Nam.
+Từ năm 2005, Bộ Chính trị đã ban hành Nghị quyết số 48-NQ/TW ngày
+24/5/2005 về chiến lược xây dựng và hoàn thiện hệ thống pháp luật Việt Nam đến
+năm 2010, định hướng đến năm 2020. Tiếp đó, Nghị quyết số 06-NQ/TW ngày
+5/11/2016 nhấn mạnh: "Hội nhập kinh tế quốc tế là trọng tâm của hội nhập quốc
+tế; các lĩnh vực hội nhập khác phải tạo điều kiện thuận lợi cho hội nhập kinh tế
+quốc tế. Hội nhập kinh tế quốc tế là nhiệm vụ của toàn dân, trong đó doanh nhân,
+doanh nghiệp và đội ngũ trí thức đóng vai trò tiên phong. Nhà nước cần tập trung
+khuyến khích, hỗ trợ nâng cao năng lực cạnh tranh quốc gia, doanh nghiệp, và sản
+phẩm Việt Nam, qua đó thúc đẩy sự phát triển của nền kinh tế".
+Trong những giai đoạn này, phát triển TMĐT được xem là một chính sách
+nhất quán của Chính phủ Việt Nam. Thủ tướng Chính phủ đã ban hành các Kế
+hoạch tổng thể phát triển TMĐT cho từng giai đoạn 5 năm (Kế hoạch tổng thể
+phát triển TMĐT giai đoạn 2006-2010 theo quyết định số 222/2005/QĐ-TTg ngày
+15/9/2005 của Thủ tướng Chính phủ; Kế hoạch tổng thể phát triển TMĐT giai
+đoạn 2011 - 2015 theo Quyết định số 1073/QĐ-TTg ngày 12/07/2010 của Thủ
+tướng Chính phủ; Quyết định số 689/QĐ-TTg ngày 11/5/2014 của Thủ tướng
+Chính phủ phê duyệt Chương trình phát triển TMĐT quốc gia giai đoạn 2014-
+2020; Quyết định số 1563/QĐ-TTg ngày 08/8/2016 phê duyệt Kế hoạch tổng thể
+phát triển TMĐT giai đoạn 2016-2020; Quyết định số 645/QĐ-TTg ngày
+15/5/2020 phê duyệt Kế hoạch tổng thể phát triển TMĐT quốc giai giai đoạn
+7
+2021-2025). Trong đó, Quyết định số 645/QĐ-TTg ngày 15/5/2020 được coi là
+văn bản quan trọng với những giải pháp toàn diện và nguồn lực cụ thể làm cơ sở
+cho việc triển khai nhiều hoạt động liên quan tới TMĐT trong bối cảnh Cách
+mạng công nghiệp IV (CMCN 4.0).
+1.1. Thực trạng tổ chức thi hành pháp luật TMĐT giai đoạn từ năm 2006
+đến trước năm 2015
+Năm 2006, Luật Công nghệ thông tin được ban hành, cùng với Luật Giao
+dịch điện tử năm 2005 đã trở thành khung pháp lý cho giao dịch điện tử nói chung
+và TMĐT nói riêng. Luật Giao dịch điện tử 2005 đặt nền tảng pháp lý cơ bản cho
+các giao dịch điện tử trong xã hội bằng việc thừa nhận giá trị pháp lý của thông
+điệp dữ liệu, đồng thời quy định khá chi tiết về chữ ký điện tử, một yếu tố đảm
+bảo độ tin cậy của thông điệp dữ liệu khi tiến hành giao dịch. Nếu Luật Giao dịch
+điện tử tập trung điều chỉnh các khía cạnh pháp lý của giao dịch điện tử, thì Luật
+Công nghệ thông tin chủ yếu quy định về hoạt động ứng dụng và phát triển công
+nghệ thông tin cùng những biện pháp bảo đảm về mặt chính sách và hạ tầng cho
+các hoạt động này.
+Ngoài ra, hoạt động TMĐT và các hoạt động liên quan đến TMĐT nói
+chung và việc giải quyết các tranh chấp trong lĩnh vực TMĐT còn chịu sự điều
+chỉnh của một số luật như: Luật Viễn thông năm 2009; Luật Bảo vệ người tiêu
+dùng năm 2010; Luật Quảng cáo năm 2012; Luật Đầu tư năm 2014 (được thay
+thế bởi Luật Đầu tư năm 2020); Luật Cạnh tranh năm 2004 (được thay thế bởi
+Luật Cạnh tranh năm 2018); Luật An toàn thông tin mạng năm 2015; Luật An
+ninh mạng năm 2018.
+Ngoài các văn bản luật, Chính phủ và các cơ quan có thẩm quyền đã ban
+hành nhiều văn bản dưới luật để hướng dẫn cụ thể và quản lý các hoạt động giao
+dịch và các hoạt động liên quan trong TMĐT như: Nghị định số 57/2006/NĐ-CP
+về TMĐT ngày 09/06/2006 đánh dấu một bước tiến lớn trong việc tiếp tục hoàn
+thiện khung pháp lý về TMĐT; Nghị định 26/2007/NĐ-CP ngày 15/02/2007 quy
+định chi tiết thi hành Luật Giao dịch điện tử về Chữ ký số và Dịch vụ chứng thực
+chữ ký số; Nghị định 27/2007/NĐ-CP ngày 23/02/2007 về giao dịch điện tử trong
+hoạt động tài chính; Nghị định 35/2007/NĐ-CP ngày 08/03/2007 về giao dịch
+điện tử trong hoạt động Ngân hàng; Nghị định số 90/2008/NĐ-CP ngày 13/8/2008
+về chống thư rác; Nghị định 25/2011/NĐ-CP ngày 06/04/2011 quy định chi tiết
+và hướng dẫn thi hành một số điều của Luật Viễn thông; Nghị định 43/2011/NĐ-
+CP ngày 13/06/2011 quy định về việc cung cấp thông tin và dịch vụ công trực
+tuyến trên trang thông tin điện tử hoặc cổng thông tin điện tử của cơ quan nhà
+8
+nước; Nghị định số 106/2011/NĐ-CP ngày 23/11/2011 sửa đổi, bổ sung Nghị định
+số 26/2007/NĐ-CP về Chữ ký và Dịch vụ chứng thực chữ ký; Nghị định
+77/2012/NĐ-CP ngày 05/10/2012 sửa đổi, bổ sung Nghị định số 90/2008/NĐ-CP
+về Chống thư rác; Nghị định số 101/2012/NĐ-CP ngày 22/11/2012 về Thanh toán
+không dùng tiền mặt; Nghị định số 52/2013/NĐ-CP ngày 16/5/2013 về TMĐT;
+Nghị định số 72/2013/NĐ-CP ngày 15/7/2013 về Quản lý, cung cấp, sử dụng dịch
+vụ Internet và thông tin trên mạng; Nghị định số 154/2013/NĐ-CP ngày
+08/11/2013 quy định về khu công nghệ thông tin tập trung; Nghị định số
+170/2013/NĐ-CP ngày 13/11/2013 sửa đổi, bổ sung một số điều của Nghị định
+số 26/2007/NĐ-CP ngày 15/02/2007 quy định chi tiết thi hành Luật Giao dịch
+điện tử về chữ ký số và dịch vụ chứng thực chữ ký số và Nghị định số
+106/2011/NĐ-CP ngày 23/11/2011 sửa đổi, bổ sung một số điều của Nghị định
+số 26/2007/NĐ-CP ngày 15/02/2007; Nghị định số 181/2013/NĐ-CP ngày
+14/11/2013 quy định chi tiết thi hành một số điều của Luật Quảng cáo. Trong đó,
+quan trọng nhất là Nghị định số 52/2013/NĐ-CP ngày 16/5/2013 về TMĐT (sau
+đây gọi là Nghị định 52) thay thế Nghị định 57/2006/NĐ-CP ngày 09/6/2006 của
+Chính phủ về TMĐT.
+Nghị định 52 được xây dựng với mục tiêu thiết lập hành lang pháp lý cho
+các giao dịch TMĐT được tiến hành một cách minh bạch, trên cơ sở cạnh tranh
+lành mạnh, qua đó tạo điều kiện để TMĐT phát triển, góp phần nâng cao sức cạnh
+tranh của doanh nghiệp và xây dựng tập quán thương mại hiện đại cho Việt Nam.
+Năm nguyên tắc lớn trong quá trình xây dựng Nghị định 52 bao gồm:
+- Nghị định được xây dựng nhằm tạo hành lang pháp lý cho các hoạt động
+ứng dụng TMĐT, qua đó thúc đẩy sự phát triển của TMĐT tại Việt Nam và nâng
+cao hiệu quả quản lý của Nhà nước đối với lĩnh vực này.
+- Nghị định chỉ điều chỉnh những vấn đề mang tính đặc thù hoặc khi phát
+sinh trên môi trường điện tử thì có phạm vi tác động lớn hơn trong môi trường
+truyền thống, không nhắc lại những quy định pháp luật chung về kinh doanh -
+thương mại mà các chủ thể tham gia TMĐT đương nhiên có nghĩa vụ tuân thủ.
+- Nghị định hướng tới việc đảm bảo sự bình đẳng giữa TMĐT và thương
+mại truyền thống, các chủ thể tham gia TMĐT phải tuân thủ nghĩa vụ pháp luật
+không nhiều hơn cũng không ít hơn khi tham gia hoạt động thương mại trong môi
+trường truyền thống.
+- Các quy định được xây dựng nhằm đảm bảo sự cân bằng lợi ích giữa các
+chủ thể tham gia TMĐT là doanh nghiệp và người tiêu dùng.
+9
+- Nghị định được xây dựng để điều chỉnh các hành vi ứng dụng TMĐT
+trong một giai đoạn tương đối dài, trong bối cảnh tốc độ đổi mới công nghệ của
+lĩnh vực này diễn ra hết sức nhanh chóng. Do vậy, các quy định của Nghị định
+cần được xây dựng trên nguyên tắc trung lập về công nghệ, để không trở thành
+khuôn khổ cứng nhắc hạn chế sự phát triển và ứng dụng các công nghệ mới trong
+thực tiễn hoạt động TMĐT.
+Về cơ bản, Nghị định 52 có vai trò quan trọng trong sự phát triển của nền
+kinh tế nói chung, với xã hội tiêu dùng và với ngành TMĐT nói riêng trong giai
+đoạn này. Đây là văn bản mang tính chất thúc đẩy phát triển TMĐT, cơ bản tạo
+môi trường minh bạch cho thị trường mua sắm trực tuyến, góp phần tạo thói quen
+tiêu dùng, mua sắm hiện đại của người dân. Điểm sáng trong giai đoạn này ghi
+nhận ở tốc độ phát triển về quy mô thị trường TMĐT B2C, doanh thu bán lẻ trực
+tuyến năm 2021 đạt 13,7 tỷ USD, tăng gần 7 lần so với thời điểm trước khi ban
+hành Nghị định (giai đoạn năm 2012-2013 doanh thu TMĐT B2C chỉ xấp xỉ 2 tỷ
+USD). So với tổng mức bán lẻ hàng hóa và doanh thu dịch vụ tiêu dùng cả nước,
+doanh thu TMĐT B2C Việt Nam năm 2021 chiếm khoảng 7%. Với tốc độ tăng
+trưởng này, trong giai đoạn này, Việt Nam là quốc gia có thị trường TMĐT phát
+triển năng động nhất trong khu vực Đông Nam Á .
+Ngoài ra, về xử lý vi phạm trong lĩnh vực TMĐT có các Nghị định sau:
+Nghị định 158/2013/NĐ-CP ngày 12/11/2013 quy định xử phạt vi phạm hành
+chính trong lĩnh vực văn hóa, thể thao du lịch và quảng cáo; Nghị định số
+174/2013/NĐ-CP ngày 13/11/2013 quy định xử phạt vi phạm hành chính trong
+hoạt động thương mại, sản xuất, buôn bán hàng giả, hàng cấm và bảo vệ quyền
+lợi người tiêu dùng; Nghị định số 25/2014/NĐ-CP ngày 07/4/2014 quy định về
+phòng, chống tội phạm và vi phạm pháp luật khác có sử dụng công nghệ cao.
+1.2. Thực trạng tổ chức thi hành TMĐT giai đoạn từ 2015 đến nay
+TMĐT tại Việt Nam giai đoạn này trở thành một hình thái kinh doanh phổ
+cập của doanh nghiệp, và có sức lan tỏa mạnh mẽ trong cộng đồng người tiêu
+dùng. Theo báo cáo "e-Conomy SEA 2024" của Google và Temasek, Việt Nam
+hiện đứng trong nhóm ba quốc gia dẫn đầu khu vực Đông Nam Á về tốc độ phát
+triển TMĐT, với dự báo giá trị nền kinh tế số của Việt Nam sẽ đạt 36 tỷ USD vào
+năm 2024. Mặc dù gặp phải những tác động từ đại dịch COVID-19, ngành TMĐT
+vẫn duy trì được mức tăng trưởng ấn tượng, đóng góp đáng kể vào nền kinh tế số
+của khu vực.
+Nhận ra được vai trò, sự cần thiết của TMĐT trong công cuộc công nghiệp
+10
+hóa, hiện đại hóa đất nước, đặc biệt trong bối cảnh Cuộc cách mạng công nghiệp
+4.0 (sau đây gọi là CMCN 4.0), Chính phủ, Thủ tướng Chính phủ đã có những
+chính sách lâu dài và nhất quán nhằm phát triển TMĐT với các Kế hoạch tổng thể
+cho 05 năm theo từng giai đoạn hình thành và phát triển của TMĐT Việt Nam,
+bắt đầu từ năm 2006 đến nay. Theo Quyết định số 645/QĐ-TTg ngày 15/5/2020
+của Thủ tướng Chính phủ phê duyệt Kế hoạch tổng thể phát triển TMĐT quốc gia
+giai đoạn 2021 – 2025, TMĐT tại Việt Nam đã được dự báo có sự tăng trưởng
+mạnh mẽ với 55% người dân Việt Nam tham gia mua sắm trực tuyến, giá trị mua
+hàng hóa và dịch vụ trực tuyến trung bình đạt 600 USD/người/năm, và doanh số
+TMĐT bán lẻ B2C tăng trưởng khoảng 25% mỗi năm và ước đạt 35 tỷ USD vào
+năm 2025, chiếm khoảng 10% tổng mức bán lẻ hàng hóa và doanh thu dịch vụ
+tiêu dùng của cả nước.
+Tiếp nối thành công từ giai đoạn 2011–2015, Bộ Công Thương đã xây dựng
+và trình Thủ tướng Chính phủ ban hành Quyết định số 1563/QĐ-TTg ngày
+08/8/2016, phê duyệt Kế hoạch tổng thể phát triển TMĐT giai đoạn 2016–2020.
+Quyết định này khẳng định vai trò then chốt của TMĐT như một hạ tầng quan
+trọng trong lĩnh vực thương mại và xã hội thông tin. TMĐT không chỉ hỗ trợ
+doanh nghiệp Việt Nam phát triển thị trường nội địa và mở rộng xuất nhập khẩu,
+mà còn giúp nâng cao năng lực cạnh tranh quốc gia thông qua việc tham gia chuỗi
+cung ứng toàn cầu, góp phần đẩy nhanh quá trình công nghiệp hóa, hiện đại hóa
+đất nước. Chính sách phát triển trong giai đoạn này nhấn mạnh sự kết hợp hài hòa
+giữa vai trò chủ đạo của doanh nghiệp trong triển khai hoạt động TMĐT và vai
+trò quản lý của nhà nước trong thiết lập hạ tầng và môi trường pháp lý thuận lợi,
+đồng thời bảo vệ quyền lợi người tiêu dùng.
+Trong giai đoạn 2016–2020, TMĐT tại Việt Nam ghi nhận sự phát triển
+vượt bậc cả về tốc độ tăng trưởng và quy mô thị trường, ngay cả khi nhiều quốc
+gia phát triển bắt đầu chứng kiến sự chững lại trong lĩnh vực này. TMĐT Việt
+Nam duy trì mức tăng trưởng trung bình 24% mỗi năm, đạt doanh thu bán lẻ 11,8
+tỷ USD vào năm 2020, chiếm 5,5% tổng doanh thu bán lẻ cả nước. Số lượng người
+tiêu dùng trực tuyến ước tính đạt 49 triệu người, với giá trị mua sắm trung bình
+mỗi người lên tới 240 USD. TMĐT ngày càng trở thành một phần không thể thiếu
+trong đời sống kinh tế, xã hội, không chỉ phổ biến trong cộng đồng người tiêu
+dùng mà còn được doanh nghiệp xem là hình thức kinh doanh thiết yếu.
+Bên cạnh đó, hạ tầng pháp lý cho TMĐT cũng được hoàn thiện với những
+quy định cụ thể nhằm quản lý hiệu quả hơn các hoạt động trực tuyến. Luật Quản
+lý thuế 2019 đã đưa ra các quy định rõ ràng về nghĩa vụ thuế đối với giao dịch
+11
+TMĐT; Luật An ninh mạng 2018 bảo đảm an toàn thông tin trong các hoạt động
+giao dịch trực tuyến; và các nghị định như Nghị định số 09/2018/NĐ-CP hay Nghị
+định số 165/2018/NĐ-CP đã tạo hành lang pháp lý để quản lý tốt hơn các hoạt
+động của nhà đầu tư nước ngoài và giao dịch tài chính trên môi trường số. Song
+song với đó, hệ thống thanh toán không dùng tiền mặt phát triển nhanh chóng, trở
+thành phương thức thanh toán phổ biến tại các siêu thị, trung tâm mua sắm và cơ
+sở phân phối hiện đại. Hệ thống logistics phục vụ TMĐT cũng được mở rộng, với
+sự tham gia ngày càng nhiều của các doanh nghiệp bưu chính vào chuỗi cung ứng.
+Năm 2021, Chính phủ ban hành Nghị định số 85/2021/NĐ-CP ngày
+25/9/2021 (Nghị định 85/2021/NĐ-CP) sửa đổi, bổ sung một số điều của Nghị
+định số 52/2013/NĐ-CP ngày 16/5/2013 nhằm hướng đến các mục đích sau đây:
+- Hoàn thiện thể chế, pháp luật về TMĐT để đáp ứng yêu cầu phát triển,
+đặc biệt trong bối cảnh TMĐT Việt Nam tăng trưởng nhanh và mạnh mẽ thời gian
+qua, chiếm tỷ trọng ngày càng lớn trong hệ thống thương mại nội địa;
+- Khắc phục những vướng mắc, bất cập phát sinh từ thực tiễn thi hành Nghị
+định 52 đảm bảo môi trường lành mạnh, cạnh tranh bình đẳng cho TMĐT, đảm
+bảo quyền lợi người tiêu dùng trong TMĐT;
+- Cải cách thủ tục hành chính (TTHC), tạo điều kiện thuận lợi và khuyến
+khích doanh nghiệp triển khai ứng dụng TMĐT.
+Về cơ bản, trong giai đoạn này, pháp luật Việt Nam đã ghi nhận các hoạt
+động kinh doanh, thương mại trên các phương tiện điện tử, quy định kinh doanh
+dịch vụ TMĐT là một ngành, nghề kinh doanh; thừa nhận giá trị pháp lý của
+chứng từ điện tử; các quy định về thuế như hướng dẫn giao dịch điện tử trong lĩnh
+vực thuế, công nhận tổ chức cung cấp dịch vụ giá trị gia tăng về giao dịch điện tử
+trong hoạt động Hải quan; quy định về vấn đề bảo vệ người tiêu dùng khi tham
+gia giao dịch TMĐT như trong giao dịch thương mại truyền thống. Các văn bản
+liên quan đến vấn đề bảo vệ người tiêu dùng trong TMĐT thời gian qua chủ yếu
+tập trung vào 2 khía cạnh đặc thù là bảo vệ thông tin cá nhân của người tiêu dùng
+và bảo vệ quyền lợi người tiêu dùng trong quá trình giao kết hợp đồng trên các
+website, ứng dụng TMĐT. Bảo vệ thông tin cá nhân của người tiêu dùng bao gồm
+vấn đề quản lý và sử dụng thông tin cá nhân trong TMĐT, chống thư rác và quản
+lý thư quảng cáo thương mại, xử lý tội phạm về thông tin cá nhân. Vấn đề về bảo
+vệ người tiêu dùng trong quá trình giao kết hợp đồng trên các website, ứng dụng
+TMĐT chủ yếu được giải quyết thông qua các quy định về nghĩa vụ cung cấp
+thông tin và quy trình giao kết hợp đồng trên môi trường điện tử, nhằm thu hẹp
+12
+khoảng cách về bất bình đẳng thông tin đối với người tiêu dùng và nâng cao tính
+minh bạch của môi trường trên không gian mạng.
+Năm 2023 là năm cột mốc quan trọng với việc Quốc hội thông qua Luật Giao
+dịch điện tử (sửa đổi) và Luật Bảo vệ quyền lợi người tiêu dùng (sửa đổi). Các
+luật này lần đầu tiên đưa ra quy định rõ ràng về các mô hình kinh doanh đặc thù
+trên môi trường không gian mạng, như nền tảng số và nền tảng trung gian. Những
+quy định này không chỉ nâng cao tính minh bạch trong quản lý, mà còn gia tăng
+trách nhiệm của các bên liên quan, đồng thời tăng cường bảo vệ quyền lợi người
+tiêu dùng trước các rủi ro trong giao dịch trực tuyến.
+2. Những nội dung cơ bản của Nghị định số 52/2013/NĐ-CP và Nghị
+định số 85/2021/NĐ-CP sửa đổi, bổ sung Nghị định số 52/2012/NĐ-CP
+2.1. Về phạm vi điều chỉnh và đối tượng áp dụng của Nghị định
+Phạm vi điều chỉnh của Nghị định là “việc phát triển, ứng dụng và quản lý
+hoạt động TMĐT”. Phạm vi này rộng hơn phạm vi của Nghị định về TMĐT ban
+hành năm 2006, trong đó chỉ giới hạn điều chỉnh việc “sử dụng chứng từ điện tử
+trong hoạt động thương mại và hoạt động có liên quan đến thương mại”.
+Liên quan đến đối tượng áp dụng, tại Điều 2 Nghị định 52, đối tượng áp
+dụng được liệt kê là các thương nhân, tổ chức, cá nhân tham gia hoạt động TMĐT
+trên lãnh thổ Việt Nam. Nghị định này cũng mở rộng hơn so với Nghị định cũ là
+điều chỉnh cả các thương nhân, tổ chức nước ngoài có sự hiện diện tại Việt Nam
+thông qua “hoạt động đầu tư, lập chi nhánh, văn phòng đại diện, hoặc thiết lập
+website dưới tên miền Việt Nam”.
+2.2. Về giao kết hợp đồng trong TMĐT
+Các quy định tại Chương II-Giao kết hợp đồng trong TMĐT, từ Điều 9 đến
+Điều 23 Nghị định 52 là các nội dung quan trọng, điều chỉnh các vấn đề pháp lý
+của chứng từ điện tử trong giao kết và thực hiện hợp đồng trên môi trường điện
+tử.
+Mặc dù, giá trị pháp lý của văn bản, chứng từ điện tử trong giao dịch dân
+sự nói chung và thương mại nói riêng đã được đề cập tại Luật Giao dịch điện tử,
+Bộ Luật dân sự (sửa đổi), Luật Thương mại (sửa đổi). Cụ thể, Luật Giao dịch điện
+tử quy định thông tin ở dạng thông điệp dữ liệu không bị phủ nhận giá trị pháp lý,
+Bộ luật Dân sự quy định giao dịch dân sự thông qua phương tiện điện tử dưới hình
+thức thông điệp dữ liệu được coi là giao dịch bằng văn bản và Luật Thương mại
+thừa nhận giá trị pháp lý của thông điệp dữ liệu trong hoạt động thương mại, các
+13
+thông điệp dữ liệu đáp ứng các điều kiện, tiêu chuẩn kỹ thuật theo quy định của
+pháp luật thì được thừa nhận có giá trị pháp lý tương đương văn bản. Nghị định
+52 đã kế thừa các quy định tại ba văn bản nói trên, đồng thời làm rõ quy định về
+các điều kiện để chứng từ điện tử có giá trị pháp lý như bản gốc, về các tiêu chí
+để đánh giá tính toàn vẹn của chứng từ điệ tử và các tiêu chí về sự bảo đảm đủ tin
+cậy trong trao đổi và sử dụng chứng từ điện tử.
+Liên quan đến các quy định về “giao kết hợp đồng sử dụng chức năng đặt
+hàng trực tuyến trên website TMĐT”. Do đặc thù của môi trường Internet, quy
+trình giao kết hợp đồng trên các website TMĐT thường tuân theo những trình tự
+và điều kiện rất khác biệt so với giao dịch truyền thống. Trên môi trường điện tử,
+khách hàng là người đề nghị giao kết hợp đồng, nhưng thương nhân mới là người
+quy định các điều khoản của hợp đồng. Ngoài ra, người tiêu dùng khi tham gia
+giao dịch cũng thường bị hạn chế trong việc tiếp cận thông tin do những tiêu chí
+về sản phẩm, điều kiện giao dịch được cung cấp phân tán ở nhiều nơi trên website,
+thông tin cũng có thể không đầy đủ hoặc được cung cấp dưới những hình thức mà
+người tiêu dùng không dễ tiếp cận. Mục 2 Chương này được xây dựng nhằm giải
+quyết những vấn đề nói trên và nâng cao tính minh bạch của quy trình giao dịch
+trên các website TMĐT.
+2.3. Về quản lý hoạt động TMĐT
+Khoản 1 Điều 3 Nghị định 52 quy định “Hoạt động TMĐT là việc tiến hành
+một phần hoặc toàn bộ quy trình của hoạt động thương mại bằng phương tiện
+điện tử có kết nối với mạng Internet, mạng viễn thông di động, hoặc các mạng mở
+khác”.
+Thực tiễn hoạt động TMĐT giai đoạn 2013 cũng cho thấy, sự ra đời và phát
+triển của các mô hình kinh doanh trong lĩnh vực TMĐT khá đa dạng. Nghị định
+chọn hướng tiếp cận điều chỉnh các hoạt động thương mại trên môi trường điện
+tử diễn ra trên nền tảng là website, do đây là hình thái phổ biến nhất. Các chủ thể
+truy cập vào website thông qua máy tính nối mạng Internet, mạng WAN, điện
+thoại nối mạng viễn thông di động... để tiến hành một phần hay toàn bộ quy trình
+của hoạt động thương mại.
+Việc nhận dạng và phân loại các mô hình kinh doanh này giúp cho công tác
+quản lý được thuận lợi. Bên cạnh đó, việc phân định quyền và trách nhiệm của
+các bên tham gia những mô hình kinh doanh này sẽ giúp thiết lập môi trường cạnh
+tranh công bằng và minh bạch cho TMĐT. Với hai mục tiêu nói trên, Chương III
+về Hoạt động TMĐT là chương quan trọng nhất và chiếm khối lượng lớn nhất
+14
+trong toàn bộ nội dung của Nghị định.
+Bên cạnh một số quy định chung như phân loại các chủ thể tham gia hoạt
+động TMĐT, các hình thức website TMĐT, và các nguyên tắc hoạt động TMĐT;
+nội dung chính của Chương III là những quy định cụ thể về hoạt động của từng
+loại hình website TMĐT, bao gồm 2 nhóm chính là (i) website TMĐT bán hàng
+và (ii) website cung cấp dịch vụ TMĐT. Trong đó, website cung cấp dịch vụ
+TMĐT lại chia thành 3 loại: sàn giao dịch TMĐT, website đấu giá trực tuyến, và
+website khuyến mại trực tuyến.
+- Website TMĐT bán hàng: Quy định về hoạt động của website TMĐT bán
+hàng chủ yếu tập trung vào nghĩa vụ của chủ website trong việc cung cấp thông
+tin, từ thông tin về thương nhân cho đến thông tin về hàng hóa, dịch vụ, giá cả,
+vận chuyển, thanh toán, và các điều kiện giao dịch chung. Những quy định này
+nhằm đảm bảo sự minh bạch thông tin và bảo vệ lợi ích cho người tiêu dùng khi
+tham gia giao dịch trên website TMĐT.
+- Website cung cấp dịch vụ TMĐT: Chủ sở hữu những website dạng này
+không trực tiếp bán hàng hóa và dịch vụ đầu cuối đến người tiêu dùng, mà chỉ
+đóng vai trò cung cấp môi trường để người mua và người bán gặp gỡ, kết nối nhu
+cầu và tiến hành giao dịch. Mối quan hệ nhiều chiều giữa người mua, người bán
+và chủ website khiến sự phân định quyền và trách nhiệm trong mỗi giao dịch trên
+website trở nên phức tạp. Để giải quyết vấn đề đó, Chương III Nghị định đã quy
+định cụ thể trách nhiệm của các thương nhân, tổ chức chủ website và các thương
+nhân, tổ chức, cá nhân bán hàng hóa, dịch vụ trên những website dạng này.
+Chương III cũng quy định một số nội dung mang tính đặc thù với mỗi loại hình
+website khác nhau, như quy chế hoạt động của giao dịch TMĐT, hợp đồng dịch
+vụ khuyến mại và thông tin về hàng hóa dịch vụ được khuyến mại trên website
+khuyến mại trực tuyến, hay các yếu tố mang tính kỹ thuật của một quy trình đấu
+giá tiến hành trên website đấu giá trực tuyến.
+Nghị định quy định cụ thể ba cấp độ quản lý đối với hoạt động TMĐT, cụ
+thể:
+i) Các thương nhân, tổ chức, cá nhân khi thiết lập website TMĐT bán hàng
+phải làm thủ tục thông báo với cơ quan quản lý nhà nước;
+ii) Các thương nhân, tổ chức cung cấp dịch vụ TMĐT phải tiến hành đăng
+ký website cung cấp dịch vụ;
+iii) Các tổ chức thực hiện một số chức năng giám sát, hỗ trợ doanh nghiệp
+ứng dụng TMĐT khác phải được xác nhận trước khi hoạt động.
+15
+2.3.1. Các quy định về điều kiện thiết lập và thủ tục thông báo website
+TMĐT bán hàng
+Tại Điều 52 Nghị định 52, các đối tượng được thiết lập website TMĐT bán
+hàng bao gồm các thương nhân, tổ chức và cả cá nhân đã được cấp mã số thuế cá
+nhân. Việc cho phép cá nhân thiết lập website TMĐT bán hàng, thể hiện quyền
+tự do hoạt động thương mại của người dân và sự hài hòa giữa phương thức kinh
+doanh truyền thống và phương thức kinh doanh trên môi trường điện tử.
+Các đối tượng này thực hiện hoạt động thông báo hoàn toàn trên môi trường
+trực tuyến, thông qua Cổng thông tin Quản lý hoạt động TMĐT tại địa chỉ
+online.gov.vn. Các thông tin thông báo khá đơn giản và là các thông tin cơ bản
+được quy định tại Điều 53 Nghị định, ví dụ: tên miền website; loại hình hàng hóa,
+dịch vụ giới thiệu trên website; tên đăng ký của thương nhân, tổ chức hoặc tên
+của cá nhân sở hữu website; địa chỉ trự sở của thương nhân, tổ chức hoặc địa chỉ
+thường trú của cá nhân và một số các thông tin cơ bản khác. Thẩm quyết xác nhận
+thông báo webiste TMĐT bán hàng là Bộ Công Thương (Cục TMĐT và Kinh tế
+số).
+2.3.2. Các quy định về điều kiện, thủ tục đăng ký website cung cấp dịch vụ
+TMĐT
+Về điều kiện thiết lập website: Nghị định 52 quy định đối tượng được thiết
+lập website loại hình này là các thương nhân, tổ chức được thành lập theo quy
+định của pháp luật. Mục đích của việc đăng ký là nhằm hướng dẫn các doanh
+nghiệp cung cấp dịch vụ TMĐT thiết lập website theo đúng quy định của pháp
+luật, đồng thời tạo điều kiện để cơ quan quản lý nhà nước thống kê và theo dõi
+hoạt động của những website TMĐT này. Việc xác nhận đăng ký cho một website
+cung cấp dịch vụ TMĐT không có nghĩa là xác nhận hay đảm bảo uy tín kinh
+doanh và chất lượng hàng hóa, dịch vụ giao dịch trên website đó.
+Về thủ tục đăng ký: Thực hiện trực tuyến thông qua Cổng thông tin Quản
+lý hoạt động TMĐT tại địa chỉ online.gov.vn, không cần phải tiếp xúc với cán bộ
+xét duyệt hồ sơ.
+Về thời điểm đăng ký: thương nhân, tổ chức cung cấp dịch vụ TMĐT phải
+tiến hành đăng ký website sau khi website đã được hoàn thiện với đầy đủ cấu trúc,
+tính năng và thông tin theo đề án tại hồ sơ, nhưng trước khi website chính thức
+cung cấp dịch vụ đến người dùng. Quy định này nhằm đảm bảo cho cơ quan cấp
+đăng ký có thể rà soát, đối chiếu giữa thông tin thực tế hiển thị trên website với
+những thông tin được cung cấp tại hồ sơ đăng ký, đồng thời tạo điều kiện để cơ
+16
+quan cấp đăng ký tư vấn cho doanh nghiệp chỉnh sửa, bổ sung những thông tin
+còn thiếu trước khi đưa website vào hoạt động, nhằm đảm bảo quyền lợi tốt nhất
+cho người sử dụng dịch vụ.
+Về thẩm quyền cấp đăng ký: Bộ Công Thương (Cục TMĐT và Kinh tế số)
+có thẩm quyền tiếp nhận, xử lý hồ sơ, xác nhận đăng ký và quản lý, giám sát hoạt
+động của các website cung cấp dịch vụ TMĐT đã được cấp đăng ký.
+2.3.3. Các hoạt động đánh giá, giám sát và chứng thực trong TMĐT
+Bên cạnh các nội dung quy định về quản lý hoạt động đối với website
+TMĐT, Nghị định 52 còn có những quy định đối với 03 hoạt động: (i) hoạt động
+đánh giá tín nhiệm webiste TMĐT; (ii) hoạt động đánh giá và chứng nhận chính
+sách bảo vệ thông tin cá nhân trong TMĐT; (iii) hoạt động chứng thực hợp đồng
+điện tử.
+- Hoạt động đánh giá tín nhiệm webiste TMĐT: Hoạt động đánh giá tín
+nhiệm website TMĐT là hoạt động tương đối đặc thù và thường được các đơn vị
+truyền thông, tổ chức bảo vệ người tiêu dùng, hiệp hội ngành hàng thực hiện ở
+những quy mô khác nhau. Việc đánh giá tín nhiệm website TMĐT có thể phản
+ánh ý kiến đánh giá chủ quan của người tiêu dùng, hoặc dựa trên một bộ tiêu chí
+khách quan của các chuyên gia, nhưng cơ quan đánh giá sẽ phải chịu trách nhiệm
+về đánh giá của mình. Đa số hoạt động đánh giá tín nhiệm hiện nay được thực
+hiện trên cơ sở không thường xuyên và chỉ là một phần nhỏ trong hoạt động của
+các tổ chức này.
+Điều 61 Nghị định 52 quy định điều kiện tiến hành hoạt động đánh giá tín
+nhiệm website TMĐT là các thương nhân, tổ chức được thành lập theo pháp luật
+Việt Nam; độc lập về mặt tổ chức và tài chính với các thương nhân, tổ chức, cá
+nhân sở hữu website TMĐT được đánh giá tín nhiệm; có bộ tiêu chí và quy trình
+đánh giá website TMĐT được công bố công khai, minh bạch, áp dụng thống nhất
+cho các đối tượng được đánh giá. Nghị định 52 quy định, thương nhân, tổ chức
+thực hiện hoạt động này phải đăng ký với Bộ Công Thương.
+- Hoạt động chứng thực hợp đồng điện tử: Điều 63 Nghị định 52 quy định
+về hoạt động của các tổ chức cung cấp dịch vụ chứng thực hợp đồng điện tử, với
+mục tiêu tạo thuận lợi cho giao dịch TMĐT trong xã hội. Do các chứng từ, hợp
+đồng điện tử được xác nhận bởi tổ chức chứng thực hợp đồng điện tử sẽ có giá trị
+tham chiếu khi giải quyết các tranh chấp thương mại về sau. Nghị định 52 quy
+định điều kiện về chủ thể cung cấp dịch vụ này là thương nhân, tổ chức thành lập
+theo pháp luật Việt Nam, có đề án chi tiết cho hoạt động cung cấp dịch vụ được
+17
+Bộ Công Thương thẩm định. Theo đó, các đối tượng này khi thực hiện cung cấp
+dịch vụ phải có giấy phép hoạt động (có thời hạn theo đề nghị cấp phép) do Bộ
+Công Thương cấp.
+2.4. An toàn an ninh trong giao dịch TMĐT
+Do đặc thù của giao dịch TMĐT là được thực hiện trên môi trường mạng,
+các đối tác thực hiện giao dịch mua bán, thanh toán mà không cần phải gặp mặt
+trực tiếp, nên nhu cầu về thông tin cá nhân là rất lớn, bao gồm cả những thông tin
+riêng tư nhất của khách hàng. Thông tin cá nhân đã và đang trở thành thứ hàng
+hóa có giá trị đối với doanh nghiệp. Người tiêu dùng khó có thể hình dung hết
+được những nguy cơ thông tin cá nhân của mình bị khai thác bất hợp pháp khi
+tham gia giao dịch, mua bán trên môi trường mạng.
+Từ Điều 68 đến Điều 75 Nghị định 52 là các quy định về bảo vệ thông tin
+cá nhân trong TMĐT và an toàn thanh toán trong TMĐT. Các quy định trên được
+xây dựng trên cơ sở tham khảo các quy định khung của APEC về bảo vệ thông tin
+cá nhân trong TMĐT (APEC Privacy Framework) để đảm bảo sự hài hòa với luật
+pháp quốc tế khi Việt Nam tham gia những cơ chế hợp tác về TMĐT của khu vực
+này trong tương lai.
+Mục 1 Chương V “Bảo vệ thông tin cá nhân trong TMĐT” cụ thể hóa quy
+định “Bảo vệ thông tin của người tiêu dùng” của Luật bảo vệ quyền lợi người tiêu
+dùng năm 2010 để phù hợp với hoạt động thu thập thông tin trong môi trường
+điện tử. Mục này quy định rõ các nguyên tắc cũng như cách thức thực hiện các
+nguyên tắc về bảo vệ thông tin cá nhân, từ việc thông báo và xin phép người tiêu
+dùng khi thu thập, sử dụng thông tin, cho đến nguyên tắc sử dụng, đảm bảo an
+toàn, kiểm tra, cập nhật và điều chỉnh cho thông tin cá nhân, cũng như trách nhiệm
+của các bên trong việc thực hiện những quy định này.
+Mục 2 “An toàn thanh toán trong TMĐT” quy định về trách nhiệm của
+những thương nhân, tổ chức, cá nhân sở hữu website TMĐT trên đó có thực hiện
+thanh toán trực tuyến. Mục này cũng quy định các yêu cầu kỹ thuật đối với một
+hệ thống thanh toán trực tuyến trên website TMĐT nhằm giảm thiểu rủi ro, đảm
+bảo an toàn cho thông tin thanh toán của khách hàng.
+2.5. Về giải quyết tranh chấp và hoạt động thanh tra, kiểm tra
+Chương VI Nghị định 52 đưa ra những quy định mang tính nguyên tắc về
+xử phạt vi phạm hành chính trong TMĐT (Điều 78). Ngoài ra, Chương VI cũng
+bao gồm một số quy định về nguyên tắc giải quyết tranh chấp trong TMĐT (Điều
+76) và thẩm quyền thanh tra, kiểm tra trong TMĐT (Điều 77).
+18
+Các hoạt động kinh doanh trên môi trường điện tử diễn ra rất đa dạng và
+phong phú, từ chủ thể tham gia hoạt động, đến mô hình – phương thức hoạt động,
+các loại hình hàng hóa, dịch vụ cũng đa dạng dẫn đến các hành vi vi phạm cũng
+phức tạp và tinh vi. Để đảm bảo môi trường lành mạnh cho TMĐT phát triển, bên
+cạnh việc xây dựng khung pháp lý điều chỉnh hoạt động TMĐT của các chủ thể
+trong xã hội, việc đảm bảo thực thi những quy định đó thông qua các cơ chế giải
+quyết tranh chấp, thanh tra, kiểm tra và xử lý vi phạm cũng có vai trò không kém
+phần quan trọng. Trên tinh thần đó, trong giai đoạn 2014-2019, Bộ Công Thương
+đã trình Chính phủ ban hành, hoặc tự ban hành một số văn bản quy phạm pháp
+luật cụ thể, điều chỉnh các vấn đề về xử lý vi phạm hành chính trong TMĐT, về
+thanh tra, kiểm tra trong lĩnh vực TMĐT.
+2.6. Hạ tầng pháp luật quản lý hoạt động TMĐT sửa đổi, bổ sung bởi
+Nghị định số 85/2021/NĐ-CP
+Cùng với sự đổi mới liên tục của công nghệ, hoạt động TMĐT cũng là lĩnh
+vực chịu nhiều tác động và thay đổi nhanh chóng nhất. Nhiều mô hình TMĐT
+mới xuất hiện, đa dạng về cách thức hoạt động, phức tạp về chủ thể tham gia, một
+số mô hình bán các loại hình hàng hoá, dịch vụ chưa được điều chỉnh bởi các
+khuôn khổ pháp luật hiện hành; các hành vi vi phạm về TMĐT ngày càng diễn ra
+tinh vi; hoạt động TMĐT có yếu tố nước ngoài phát sinh dưới nhiều hình thức, và
+một số vấn đề khác đang đặt ra yêu cầu mới đối với cơ quan quản lý nhà nước, cụ
+thể: (i) Vấn nạn hàng giả, hàng không rõ nguồn gốc xuất xứ và hàng kém chất
+lượng trên môi trường điện tử; (ii) Hoạt động TMĐT trên mạng xã hội đang bùng
+nổ và khó kiểm soát; (iii) Khó khăn trong quản lý hoạt động TMĐT có yếu tố
+nước ngoài. Để tiếp tục hoàn thiện hạ tầng pháp lý trong lĩnh vực này, năm 2021,
+Bộ Công Thương đã chủ trì, phối hợp cùng các đơn vị xây dựng dự thảo và trình
+Chính phủ ban hành Nghị định 85 nhằm hướng đến các mục đích sau đây:
+(i) Hoàn thiện thể chế, pháp luật về TMĐT để đáp ứng yêu cầu phát triển,
+đặc biệt trong bối cảnh TMĐT Việt Nam tăng trưởng nhanh và mạnh mẽ thời gian
+qua, chiếm tỷ trọng ngày càng lớn trong hệ thống thương mại nội địa;
+(ii) Khắc phục những vướng mắc, bất cập phát sinh từ thực tiễn thi hành
+Nghị định 52 đảm bảo môi trường lành mạnh, cạnh tranh bình đẳng cho TMĐT,
+đảm bảo quyền lợi người tiêu dùng trong TMĐT;
+(iii) Cải cách TTHC, tạo điều kiện thuận lợi và khuyến khích doanh nghiệp
+triển khai ứng dụng TMĐT.
+Nghị định số 85 có nhiều nội dung sửa đổi, bổ sung mới được điều chỉnh
+19
+trên cơ sở thực tiễn thi hành cũng như bối cảnh nhiều mô hình hoạt động TMĐT
+mới xuất hiện theo xu thế Cách mạng công nghiệp 4.0. Tám (08) quy định nổi bật
+trong Nghị định số 85 cụ thể như sau:
+2.6.1. Quy định cụ thể hơn về thông tin hàng hóa, dịch vụ phải công bố
+trong giao dịch TMĐT
+Nhằm minh bạch thông tin hàng hoá, dịch vụ trong hoạt động TMĐT,
+chống hàng giả, hàng xâm phạm quyền sở hữu trí tuệ, Nghị định 85 sửa đổi, bổ
+sung theo hướng cụ thể hóa những thông tin hàng hóa phải công khai trên website
+TMĐT, bao gồm các nội dung bắt buộc thể hiện trên nhãn hàng hóa theo theo quy
+định pháp luật về nhãn hàng hóa, trừ các thông tin có tính chất riêng biệt theo sản
+phẩm như: năm, tháng, ngày sản xuất; hạn sử dụng; số lô sản xuất; số khung, số
+máy.
+Đối với hàng hóa, dịch vụ thuộc danh mục hàng hóa, dịch vụ kinh doanh
+có điều kiện hoặc thuộc ngành, nghề đầu tư kinh doanh có điều kiện trên website
+TMĐT bán hàng, người bán phải công bố số, ngày cấp và nơi cấp Giấy phép, Giấy
+chứng nhận đủ điều kiện, văn bản xác nhận, hoặc các hình thức văn bản khác theo
+quy định pháp luật về điều kiện kinh doanh của ngành, nghề và hàng hóa, dịch vụ
+đó.
+2.6.2. Tăng cường trách nhiệm của thương nhân, tổ chức cung cấp dịch vụ
+TMĐT trong việc quản lý các giao dịch trên nền tảng của mình
+Nhằm tăng tính minh bạch, lành mạnh của môi trường giao thương trên các
+sàn giao dịch TMĐT, Nghị định 85 bổ sung một số trách nhiệm của thương nhân,
+tổ chức cung cấp dịch vụ TMĐT như sau: yêu cầu người bán nước ngoài cung cấp
+thông tin theo quy định tại Điều 29 Nghị định 52, và các thông tin này phải được
+dịch sang tiếng Việt; gỡ bỏ thông tin hàng hóa, dịch vụ vi phạm pháp luật trong
+vòng 24 giờ khi có yêu cầu của cơ quan quản lý nhà nước có thẩm quyền, đáp ứng
+nhu cầu phản ứng nhanh trong quá trình xử lý vi phạm trên môi trường điện tử;
+phối hợp với các chủ thể quyền sở hữu trí tuệ để gỡ bỏ các sản phẩm xâm phạm
+quyền sở hữu trí tuệ khi có căn cứ xác thực; Cung cấp thông tin với cơ quan nhà
+nước về thông tin các đối tượng có hành vi vi phạm, chủ động cập nhập từ khoá
+để lọc thông tin hàng hoá, dịch vụ theo khuyến cáo của cơ quan quản lý chức
+năng, đồng thời phải tham gia giải quyết khiếu nại, phản ánh và tranh chấp tại
+Cổng thông tin Quản lý hoạt động TMĐT của Bộ Công Thương.
+Đối với sàn giao dịch TMĐT có chức năng đặt hàng trực tuyến, ngoài các
+nghĩa vụ trên, thương nhân, tổ chức cung cấp dịch vụ TMĐT có trách nhiệm chỉ
+20
+định đầu mối tiếp nhận yêu cầu và cung cấp thông tin trực tuyến cho cơ quan quản
+lý nhà nước về các đối tượng có dấu hiệu vi phạm pháp luật; đầu mối này sẽ cung
+cấp thông tin trong vòng 24 giờ kể từ thời điểm tiếp nhận yêu cầu để kịp thời phục
+vụ công tác thanh tra, kiểm tra, xử lý vi phạm và giải quyết khiếu nại, tố cáo. Sàn
+giao dịch TMĐT cũng có trách nhiệm là đầu mối tiếp nhận và giải quyết các khiếu
+nại của người tiêu dùng trong trường hợp một giao dịch thực hiện trên sàn giao
+dịch TMĐT có nhiều hơn 2 bên tham gia.
+2.6.3. Thu hẹp đối tượng thực hiện thủ tục thông báo với Bộ Công Thương
+Thực tiễn triển khai từ giai đoạn 2013 đến 2021 cho thấy, nhiều website
+TMĐT bán hàng có cấu trúc tĩnh, chỉ đưa thông tin giới thiệu doanh nghiệp và
+giới thiệu về hàng hóa, dịch vụ, ít cập nhật thông tin, không có chức năng đặt hàng
+trực tuyến. Với những website dạng này, không có tương tác và giao dịch thực tế
+diễn ra trên website, do đó không phát sinh những vấn đề cần giám sát trên môi
+trường điện tử. Do đó, Nghị định 85 sửa đổi, bổ sung theo hướng chỉ website
+TMĐT bán hàng có chức năng đặt hàng trực tuyến mới phải thực hiện TTHC
+thông báo với Bộ Công Thương.
+2.6.4. Quản lý hoạt động TMĐT trên mạng xã hội
+Với mục tiêu thiết lập cơ sở pháp lý đầy đủ, hoàn thiện chính sách, tăng
+cường kiểm soát hoạt động TMĐT trên mạng xã hội, hạn chế hành vi lợi dụng
+mạng xã hội để buôn bán hàng giả, hàng nhái, hàng vi phạm sở hữu trí tuệ trên
+môi trường mạng, Nghị định 85 đã bổ sung mạng xã hội có một trong các đặc tính
+sau thì được coi là sàn giao dịch TMĐT và phải thực hiện các nghĩa vụ pháp lý
+giống như sàn giao dịch TMĐT: (a) cho phép người tham gia mở các gian hàng
+để trưng bày, giới thiệu hàng hóa hoặc dịch vụ; (b) cho phép người tham gia được
+mở tài khoản để thực hiện quá trình giao kết hợp đồng với khách hàng; (c) có
+chuyên mục mua bán, trên đó cho phép người tham gia đăng tin mua bán hàng
+hóa và dịch vụ, đồng thời người tham gia trực tiếp hoặc gián tiếp trả phí cho việc
+thực hiện các hoạt động đó.
+2.6.5. Quản lý người bán nước ngoài trên sàn giao dịch TMĐT
+Từ việc xác định chủ sàn giao dịch TMĐT là người nắm giữ hệ thống công
+nghệ và quản lý toàn bộ thông tin về các giao dịch diễn ra trên sàn, Nghị định 85
+quy định cụ thể trách nhiệm của chủ sàn giao dịch TMĐT trong việc quản lý người
+bán nước ngoài. Theo đó, chủ sàn giao dịch TMĐT Việt Nam là người chịu trách
+nhiệm xác thực danh tính của người bán nước ngoài khi cho phép các đối tượng
+này tham gia mua bán hàng hoá trên sàn; quy định này cũng phù hợp với các quy
+21
+định về việc xác thực danh tính của người bán nội địa trên sàn giao dịch TMĐT.
+Sàn giao dịch TMĐT cũng có trách nhiệm đại diện cho người bán nước ngoài giải
+quyết các khiếu nại của người tiêu dùng, có trách nhiệm thông báo nghĩa vụ thuế
+của người bán nước ngoài khi tham gia sàn giao dịch TMĐT theo quy định của
+pháp luật Việt Nam
+Khi có hoạt động bán hàng hoá của thương nhân, tổ chức nước ngoài trên
+sàn giao dịch TMĐT, chủ sàn có trách nhiệm yêu cầu người bán nước ngoài không
+có hiện diện tại Việt Nam thực hiện quyền xuất/nhập khẩu theo quy định của pháp
+luật; hoặc tổ chức việc thực hiện hoạt động nhập khẩu theo ủy thác của người mua
+đối với hàng hóa; hoặc yêu cầu thương nhân, tổ chức nước ngoài chỉ định đại lý
+thương mại của mình tại Việt Nam.
+2.6.6. Thương nhân, tổ chức nước ngoài hoạt động cung cấp dịch vụ TMĐT
+tại Việt Nam
+Nghị định 85 bổ sung quy định điều chỉnh đối với các thương nhân, tổ chức
+nước ngoài hoạt động cung cấp dịch vụ TMĐT tại Việt Nam - là thương nhân, tổ
+chức vận hành website cung cấp dịch vụ TMĐT đáp ứng một trong các tiêu chí
+sau: có tên miền Việt Nam; hoặc có ngôn ngữ hiển thị là tiếng Việt; hoặc có trên
+100.000 lượt giao dịch từ Việt Nam trong một năm.
+Thương nhân, tổ chức nước ngoài hoạt động cung cấp dịch vụ TMĐT tại
+Việt Nam phải thực hiện thủ tục đăng ký với Bộ Công Thương trong vòng 12
+tháng kể từ ngày Nghị định 85 có hiệu lực.
+Ngoài việc đăng ký hoạt động cung cấp dịch vụ TMĐT tại Việt Nam, những
+thương nhân, tổ chức nước ngoài này phải thành lập văn phòng đại diện tại Việt
+Nam theo quy định của pháp luật hoặc chỉ định đại diện ủy quyền của mình tại
+Việt Nam. Đồng thời, có trách nhiệm phối hợp với cơ quan quản lý nhà nước
+trong việc ngăn chặn các giao dịch hàng hóa, dịch vụ vi phạm pháp luật; thực hiện
+nghĩa vụ bảo vệ quyền lợi người tiêu dùng, chất lượng sản phẩm, hàng hóa theo
+quy định của pháp luật Việt Nam; thực hiện nghĩa vụ báo cáo với Bộ Công
+Thương số liệu thống kê về tình hình hoạt đọng của năm trước đó.
+2.6.7. Điều kiện tiếp cận thị trường đối với nhà đầu tư nước ngoài
+Hoạt động TMĐT là ngành, nghề tiếp cập thị trường có điều kiện đối với
+nhà đầu tư nước ngoài đã được quy định tại Nghị định số 31/2021/NĐ-CP ngày
+26/3/2021 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của
+Luật Đầu tư.
+22
+Nghị định 85 đã bổ sung các điều kiện tiếp thị trường đối với nhà đầu tư
+nước ngoài bao gồm (a) Nhà đầu tư nước ngoài đầu tư kinh doanh hoạt động cung
+cấp dịch vụ TMĐT tại Việt Nam theo quy định tại khoản 1, khoản 2 Điều 21 Luật
+Đầu tư; (b) Nhà đầu tư nước ngoài chi phối từ 01 doanh nghiệp trở lên thuộc nhóm
+5 doanh nghiệp có vị trí thống lĩnh thị trường dịch vụ TMĐT theo danh sách do
+Bộ Công Thương công bố phải có ý kiến thẩm định của Bộ Quốc phòng, Bộ Công
+an. Nhóm doanh nghiệp có vị trí thống lĩnh thị trường quy định tại điểm này không
+bao gồm doanh nghiệp có thị phần ít hơn 10% trên thị trường liên quan. Việc đánh
+giá yếu tố chi phối và vị trí thống lĩnh thị trường được căn cứ vào quy định hiện
+hành theo pháp luật cạnh tranh, pháp luật doanh nghiệp và pháp luật khác có liên
+quan
+3. Kết quả thi hành Nghị định số 52/2013/NĐ-CP và Nghị định số
+85/2021/NĐ-CP
+3.1. Hoạt động hướng dẫn nghiệp vụ, giải đáp khó khăn, vướng mắc
+trong quá trình thực thi pháp luật
+Theo quy định tại Nghị định số 52/2013/NĐ-CP, Bộ Công Thương là đơn
+vị chịu trách nhiệm hướng dẫn, kiểm tra việc thực hiện. Ngay sau Nghị định ban
+hành, Bộ Công Thương đã phối hợp với các đơn vị trong và ngoài Bộ chủ động,
+tích cực, tổ chức triển khai và thực hiện hoạt động tập huấn, phổ biến, tuyên
+truyền, hướng dẫn cho cán bộ quản lý nhà nước tại 63 tỉnh/thành phố trực thuộc
+Trung ương, các thương nhân, tổ chức và các cá nhân có liên quan đến nội dung
+quản lý hoạt động TMĐT, cũng như hướng dẫn thi hành và làm rõ các quy định
+trong Nghị định này.
+Trong quá trình triển khai thi hành Nghị định 52/2013/NĐ-CP, Bộ Công
+Thương thường xuyên tiếp nhận, trả lời vướng mắc của các thương nhân, tổ chức,
+cá nhân hoạt động trong lĩnh vực TMĐT. Công tác hướng dẫn nghiệp vụ, giải đáp
+vướng mắc được thực hiện bằng nhiều hình thức như thông qua việc: hướng dẫn
+trực tiếp, công văn trả lời, công văn hướng dẫn nghiệp vụ, qua đường dây nóng
+điện thoại, qua Cổng thông tin Quản lý hoạt động TMĐT, qua thư điện tử… Thông
+qua Cổng thông tin Quản lý hoạt động TMĐT (online.gov.vn), Bộ Công Thương
+đã chủ động xây dựng chuyên mục các nhóm câu hỏi thường gặp, phục vụ trả lời
+những vấn đề thường nhật của người dân. Mặt khác, do các TTHC hiện hành về
+TMĐT được thực hiện 100% trên mạng, Bộ Công Thương đã thiết lập đường dây
+nóng, với 10 cán bộ trực tiếp trả lời điện thoại, thực hiện tư vấn và xử lý hồ sơ
+trực tuyến. Trung bình, trong giờ hành chính, Bộ Công Thương tiếp nhận hơn
+6.500 cuộc tư vấn/năm cho người dân và doanh nghiệp thông qua đường dây nóng,
+23
+hoặc trả lời trực tiếp, hoặc thông qua các hình thức trả lời bằng thư điện tử, trả lời
+bằng văn bản.
+Việc giải đáp vướng mắc thông qua các hình thức nêu trên giúp cho thương
+nhân, tổ chức, cá nhân áp dụng pháp luật có cách hiểu và thực hiện đúng trong
+quá trình thực thi pháp luật về TMĐT, qua đó giúp bảo vệ quyền và lợi ích chính
+đáng của các bên tham gia cũng như những người có liên quan.
+3.2. Hoạt động tuyên truyền, phổ biến, nâng cao nhận thức về pháp luật
+trong lĩnh vực TMĐT
+Trong giai đoạn 2013 đến nay, hoạt động tuyên truyền, phổ biến chính sách,
+pháp luật, nâng cao nhận thức về TMĐT đã được thực hiện liên tục, thường xuyên,
+thông qua nhiều hình thức, phương thức như: hội thảo, tập huấn, xuất bản sách,
+tài liệu, cổng thông tin điện tử, báo chí, đào tạo trực tuyến... Công tác tuyên truyền,
+phổ biến, nâng cao nhận thức về pháp luật TMĐT được thực hiện cụ thể như sau:
+- Thực hiện tuyên truyền, quảng bá thông tin tới thương nhân, tổ chức, cá
+nhân về các quy định tại Nghị định 52/2013/NĐ-CP, Nghị định 85/2021/NĐ-CP,
+Nghị định 185/2013/NĐ-CP, Nghị định 124/2015/NĐ-CP, Thông tư số
+47/2014/TT-BCT, Thông tư số 59/2015/TT-BCT... Đăng cảnh báo đến người dân
+nhiều trường hợp và hành vi lừa đảo như: Cảnh báo hiện tượng lừa đảo từ các
+website nạp thẻ; Thông báo tới các website cung cấp dịch vụ TMĐT về chiêu thức
+lừa đảo mới trên các website, mạng xã hội; Khuyến cáo về việc kinh doanh áo in
+hình lá cần sa trên các website TMĐT; Cảnh báo tình trạng lừa đảo bằng cách giả
+mạo thư điện tử giao dịch của doanh nghiệp, đồng thời yêu cầu các đơn vị cung
+cấp dịch vụ TMĐT gỡ bỏ các sản phẩm vi phạm; Cảnh báo lợi dụng TMĐT để
+lừa đảo; Cảnh báo về bán hàng cấm, hàng xâm phạm quyền sở hữu trí tuệ...
+- Xây dựng tài liệu hướng dẫn mua sắm trực tuyến an toàn; hướng dẫn người
+tiêu dùng để tránh mua phải hàng giả, hàng nhái và đăng tải công khai trên website
+của Cục TMĐT và Kinh tế số, Cổng thông tin quản lý hoạt động TMĐT tại địa
+chỉ online.gov.vn; Xây dựng Báo cáo TMĐT, Sách trắng TMĐT qua các năm
+theo đó cập nhật các thông tin mới nhất về hạ tầng pháp luật TMĐT.
+- Xây dựng tài liệu hỏi đáp về pháp luật TMĐT để hướng dẫn các đơn vị
+thực thi pháp luật, doanh nghiệp và người dân về pháp luật TMĐT.
+- Tuyên truyền, phổ biến kiến thức và giáo dục pháp luật, giải đáp pháp luật
+cho doanh nghiệp và người dân trên Cổng thông tin điện tử Chính phủ
+(chinhphu.vn), Cổng thông tin của Bộ Công Thương (moit.gov.vn), Website của
+Cục TMĐT và Kinh tế số (idea.gov.vn), Cổng Thông tin quản lý hoạt động TMĐT
+24
+(online.gov.vn), chuyên trang TMĐT trên báo điện tử www.vnexpress.net (ra mắt
+vào ngày 01/7/2015).
+- Số liệu về hoạt động đào tạo, tập huấn về TMĐT trong giai đoạn 2013 đến
+nay cụ thể như sau:
++ Từ năm 2013 đến năm 2015, Bộ Công Thương đã chủ động, tích cực triển
+khai mỗi năm hơn 95 các chương trình hội thảo, toạ đàm, các khóa tập huấn, tuyên
+truyền về TMĐT, về công tác quản lý nhà nước, nghiệp vụ thanh tra chuyên
+ngành, kiểm tra các website TMĐT tại các tỉnh, thành phố trên khắp cả nước. Đối
+tượng tham gia các khóa tập huấn là các cán bộ quản lý nhà nước ở địa phương,
+doanh nghiệp sản xuất kinh doanh thuộc mọi thành phần kinh tế, ngoài ra còn có
+sự tham gia của sinh viên các trường đại học, cao đẳng. Các khóa tập huấn trong
+giai đoạn này đón nhận sự tham gia của trên 5.000 lượt học viên/năm.
++ Từ năm 2016 đến nay, Bộ Công Thương đã phối hợp với các cơ quan
+quản lý nhà nước tại địa phương tổ chức tổng cộng hơn 263 lớp tập huấn về TMĐT
+trên phạm vi toàn quốc, với sự tham gia của trên 30.000 học viên; trung bình mỗi
+năm tổ chức khoảng 52 lớp tập huấn tại các địa bàn tỉnh/thành phố khác nhau cho
+gần 6.000 học viên. Số liệu cụ thể như sau: năm 2016: Phối hợp với các Sở Công
+Thương tổ chức 51 lớp cho khoảng 5.400 đại biểu là cán bộ nhà nước, doanh
+nghiệp và sinh viên trên toàn quốc; năm 2017: Phối hợp với các Sở Công Thương
+tổ chức 50 lớp cho khoảng 5.600 đại biểu là cán bộ nhà nước, doanh nghiệp và
+sinh viên trên toàn quốc. Đào tạo, tập huấn riêng biệt cho doanh nghiệp xuất nhập
+khẩu tại Hà Nội: 200 người; năm 2018: Phối hợp với các Sở Công Thương tổ
+chức 47 lớp cho khoảng 4.800 đại biểu là cán bộ nhà nước, doanh nghiệp và sinh
+viên trên toàn quốc. Đào tạo cho doanh nghiệp xuất nhập khẩu tại Hà Nội: 11 lớp
+cho khoảng 220 người; năm 2019: tính đến hết tháng 11/2019, phối hợp với các
+Sở Công Thương tổ chức 62 lớp cho khoảng 5.800 đại biểu là cán bộ nhà nước,
+doanh nghiệp và sinh viên trên toàn quốc. Đào tạo cho doanh nghiệp xuất nhập
+khẩu tại Hà Nội: 9 lớp cho khoảng 180 người. Phối hợp với Google đào tạo cho
+sinh viên và doanh nghiệp: 23 lớp cho khoảng 7.500 người.
+- Bên cạnh các hình thức phổ biến, tuyên truyền, đào tạo trực tiếp, Bộ Công
+Thương còn triển khai các giải pháp và chương trình đào tạo về TMĐT trên môi
+trường trực tuyến (e-learning). Điển hình của chương trình e-learning là phối hợp
+với bộ phận bán hàng quốc tế của tập đoàn Amazon (Amazon Global Selling) để
+triển khai chương trình đào tạo 8 tuần về các kỹ năng bán hàng xuyên biên giới
+trên sàn giao dịch Amazon.com. Đối tượng tham gia là các giảng viên đại học
+chuyên trách về TMĐT, thương mại quốc tế. Nội dung thông tin tuyên truyền đã
+25
+triển khai xoay quanh các mảng đề tài chính như: 1) Thông tin, tuyên truyền về
+các cơ chế, chính sách phát triển TMĐT trong bối cảnh CMCN 4.0; 2) Thông tin,
+cập nhật các ban hành, sửa đổi, bổ sung các quy định liên quan tới việc quản lý
+hoạt động TMĐT; 3) Thông tin về các hành vi gian lận thương mại, xâm phạm
+quyền SHTT và cạnh tranh không lành mạnh trong TMĐT; 4) Công tác thanh tra,
+kiểm tra, xử phạt các hành vi buôn lậu, gian lận thương mại, buôn bán hàng giả,
+hàng vi phạm quyền SHTT và cạnh tranh không lành mạnh trong TMĐT; 5) Quản
+lý thuế đối với hoạt động TMĐT; 6) Thông tin về các sự kiện TMĐT thường niên
+mang tính kích cầu cho thị trường trong nước và mở rộng cho hoạt động TMĐT
+xuyên biên giới; 7) Công tác ứng dụng TMĐT hỗ trợ các ngành hàng xuất khẩu
+chủ lực, mở rộng tiêu thụ cho hàng hóa nội địa và thúc đẩy phát triển TMĐT tại
+các địa phương; 8) Thông tin về các giải pháp hỗ trợ chuyển đổi số trong các
+doanh nghiệp, đặc biệt là doanh nghiệp vừa và nhỏ, ứng dụng các công nghệ số
+nhằm cải tiến mô hình sản xuất, kinh doanh; (9) Tập huấn, nâng cao nhận thức
+cho doanh nghiệp và cơ quan quản lý nhà nước về các cam kết TMĐT trong FTA
+mà Việt Nam đã ký kết và thực thi.
+3.3. Thực trạng xác nhận thông báo, đăng ký hoạt động TMĐT
+Cổng thông tin Quản lý hoạt động TMĐT (online.gov.vn) được xây dựng
+và chính thức đi vào hoạt động từ ngày 01/7/2013, cung cấp dịch vụ công trực
+tuyến giúp doanh nghiệp thực hiện thủ tục thông báo và đăng ký cung cấp dịch vụ
+TMĐT. Cổng thông tin Quản lý hoạt động TMĐT cho phép thương nhân, tổ chức,
+cá nhân thực hiện thủ tục thông báo, đăng ký đối với website TMĐT, ứng dụng
+trên thiết bị di động; đăng ký đối với hoạt động chứng thực hợp đồng điện tử.
+Bộ Công Thương thực hiện quản lý hoạt động TMĐT theo quy định tại
+Nghị định số 52/2013/NĐ-CP, từ năm 2013 đến nay. Doanh nghiệp, tổ chức, cá
+nhân hoạt động TMĐT thực hiện mở tài khoản trên Cổng thông tin quản lý hoạt
+động TMĐT và tiến hành khai báo hồ sơ cho website hoặc ứng dụng TMĐT của
+mình. Kết quả xác nhận của Bộ Công Thương với các nền tảng TMĐT là biểu
+tượng trực tuyến được gắn trực tiếp tại website, ứng dụng TMĐT. Kết quả xác
+nhận hoạt động TMĐT của website và ứng dụng TMĐT từ năm 2015 đến nay trên
+Cổng thông tin quản lý hoạt động TMĐT ghi nhận có sự tăng trưởng vượt bậc, từ
+7.286 tài khoản lên tới 89.548 tài khoản; đồng thời, số lượng tài khoản cá nhân
+cũng có sự tăng trưởng ấn tượng, từ 3.398 tài khoản vào năm 2015 lên tới 28.025
+tài khoản vào năm 2024, tương đương số hồ sơ của tổ chức và cá nhân tăng hơn
+11 lần trong gần một thập kỷ. Số liệu này cho thấy sự gia nhập mạnh mẽ của các
+tổ chức và cá nhân vào lĩnh vực TMĐT. Sự gia tăng đáng kể này không chỉ minh
+26
+chứng cho sự chuyển đổi mô hình kinh doanh truyền thống sang kinh doanh số
+hóa mà còn phản ánh xu hướng tiêu dùng mới của người dân, khi các nền tảng
+trực tuyến ngày càng đáp ứng tốt hơn nhu cầu mua sắm đa dạng, tiện lợi và nhanh
+chóng. Mỗi doanh nghiệp, tổ chức, cá nhân chỉ được đăng ký một tài khoản duy
+nhất tại Cổng thông tin quản lý hoạt động TMĐT theo mã số thuế hoạt động, một
+tài khoản có thể nộp hồ sơ cho nhiều website, ứng dụng di động TMĐT.
+3.3.1. Tình hình xác nhận thông báo/đăng ký website, ứng dụng TMĐT
+Theo thống kê từ Cổng thông tin, số lượng website và ứng dụng di động
+TMĐT bán hàng được Bộ Công Thương xác nhận đã tăng từ 3.470 nền tảng vào
+năm 2014 lên 53.949 nền tảng vào năm 2024, tức tăng khoảng 15,6 lần trong vòng
+10 năm. Đáng chú ý hơn, số lượng website và ứng dụng cung cấp dịch vụ TMĐT
+(như các sàn giao dịch, nền tảng trung gian) đã tăng từ 39 nền tảng lên 1.048 nền
+tảng, với tốc độ tăng trưởng vượt bậc lên tới 26,9 lần trong cùng giai đoạn. Những
+con số này là minh chứng rõ ràng cho sự phát triển mạnh mẽ và ổn định của thị
+trường TMĐT Việt Nam, phản ánh sự quan tâm và đầu tư không ngừng của các
+doanh nghiệp trong nước cũng như sự tham gia ngày càng sâu rộng của các doanh
+nghiệp quốc tế. Sự tăng trưởng này còn cho thấy vai trò quan trọng của TMĐT
+trong việc thúc đẩy hiện đại hóa thương mại, hỗ trợ các doanh nghiệp tiếp cận thị
+trường rộng lớn hơn và gia tăng hiệu quả kinh doanh. Đồng thời, nó cũng khẳng
+định sức hấp dẫn của thị trường TMĐT Việt Nam, khi liên tục thu hút sự quan
+tâm của các nhà đầu tư lớn, các tập đoàn công nghệ, và các thương hiệu nổi tiếng,
+góp phần đưa Việt Nam trở thành một trong những điểm sáng trên bản đồ TMĐT
+khu vực Đông Nam Á.
+Số lượng website, ứng dụng di động TMĐT được Bộ Công Thương xác
+nhận thông báo, đăng ký trong giai đoạn 2015-2024
+Hoạt động cung cấp dịch Hoạt động TMĐT bán hàng
+Năm vụ TMĐT (đăng ký) (thông báo)
+Website Ứng dụng Website Ứng dụng
+Năm 2015 44 0 2.893 0
+Năm 2016 40 8 2.785 4
+Năm 2017 45 11 3.900 8
+Năm 2018 40 15 4.685 32
+Năm 2019 53 40 4.921 34
+Năm 2020 80 49 5.951 84
+Năm 2021 116 44 6.871 100
+Năm 2022 70 30 6.282 129
+27
+Năm 2023 102 51 4.707 95
+Năm 2024 120 69 6.781 109
+Tổng số 734 314 52.949 592
+Nhằm giải quyết nhanh chóng, hiệu quả các phản ánh, kiến nghị trong
+TMĐT, tạo môi trường kinh doanh minh bạch, lành mạnh, củng cố niềm tin cho
+các bên tham gia giao dịch TMĐT có ứng dụng công nghệ số và áp dụng giải
+quyết tranh chấp trực tuyến, Bộ Công Thương đã nghiên cứu, xây dựng Hệ thống
+quản lý và giải quyết phản ánh, kiến nghị trực tuyến trong TMĐT tại địa chỉ
+chonghanggia.online.gov.vn. Hệ thống quản lý và giải quyết phản ánh, kiến nghị
+trực tuyến trong TMĐT là hệ thống dịch vụ công mức độ 4, hỗ trợ tiếp nhận, kết
+nối xử lý các phản ánh, khiếu nại của người tiêu dùng trực tuyến. Hệ thống thực
+hiện giải pháp xây dựng mô hình giải quyết phản ánh trực tuyến trong TMĐT với
+mục đích tạo ra công cụ kết nối, chia sẻ thông tin và phối hợp giữa các đơn vị
+chức năng trong và ngoài Bộ Công Thương giải quyết nhanh chóng, hiệu quả các
+phản ánh trong TMĐT. Việc triển khai hệ thống góp phần vào việc thực hiện cam
+kết cải cách TTHC tại Bộ Công Thương trong giải quyết phản ánh về TMĐT,
+nhằm tạo ra một môi trường kinh doanh minh bạch, lành mạnh, củng cố niềm tin
+cho các bên khi tham gia giao dịch TMĐT. Trung bình mỗi năm Bộ Công Thương
+tiếp nhận và xử lý khoảng hơn 200 kiến nghị, các nội dung kiến nghị liên quan
+đến các hành vi như: không đăng ký, thông báo website/ứng dụng, cung cấp sản
+phẩm không đảm bảo chất lượng, giả mạo doanh nghiệp khác nhằm lừa đảo khách
+hàng.
+3.3.2. Tình hình xác nhận đăng ký hoạt động chứng thực hợp đồng điện tử
+Bên cạnh Hoá đơn thì Hợp đồng là chứng từ quan trọng nhất trong hoạt
+động kinh doanh của doanh nghiệp trên môi trường trực tuyến. Bộ Công Thương
+được Chính phủ giao quản lý nhà nước đối với hoạt động Hợp đồng mẫu, chứng
+thực Hợp đồng điện tử. Trong giai đoạn 2022 – 2023, Bộ Công Thương cũng đã
+tham gia, hoàn thiện hành lang pháp lý và có đề xuất hoàn thiện pháp luật về dịch
+vụ tin cây tại Luật Giao dịch điện tử 2023, quy định rõ đối với hoạt động chứng
+thực hợp đồng điện tử để đảm bảo việc ứng dụng Hợp đồng điện tử an toàn trong
+giao dịch điện tử. Hướng đến mục tiêu cơ bản đến năm 2025, tỷ lệ doanh nghiệp
+sử dụng hợp đồng điện tử đạt trên 80% được giao tại Quyết định số 411/QĐ-TTg
+của Thủ tướng Chính phủ Phê duyệt Chiến lược quốc gia phát triển kinh tế số và
+xã hội số đến năm 2025, định hướng đến năm 2030. Theo điều tra của Bộ Công
+Thương, tỷ lệ doanh nghiệp có sử dụng hợp đồng điện tử là 41%, còn cách tương
+đối xa so với mục tiêu được Chính phủ đề ra.
+28
+Ngày 25/9/2021, Chính phủ ban hành Nghị định số 85/2021/NĐ-CP sửa
+đổi, bổ sung quy định Nghị định số 52/2013/NĐ-CP; theo đó, văn bản này có bổ
+sung nghĩa vụ của thương nhân, tổ chức cung cấp dịch vụ chứng thực hợp đồng
+điện tử trong việc chịu trách nhiệm về tính bảo mật và toàn vẹn của các chứng từ
+điện tử mà mình lưu trữ và chứng thực; trách nhiệm về cung cấp tài liệu và hỗ trợ
+cơ quan quản lý nhà nước điều tra các hành vi vi phạm pháp luật liên quan đến
+chứng từ điện tử mà mình lưu trữ và chứng thực; trách niệm về công bố công khai
+Quy chế hoạt động cung cấp dịch vụ chứng thực hợp đồng điện tử với các nội
+dung theo hướng dẫn của Bộ Công Thương; và trách nhiệm liên quan đến việc
+phải kết nối với Cổng thông tin Quản lý hoạt động TMĐT, báo cáo Bộ Công
+Thương về tình hình cung cấp dịch vụ chứng thực hợp đồng điện tử theo yêu cầu.
+Thực hiện theo quy định của Luật Giao dịch điện tử năm 2023, Nghị định số
+85/2021/NĐ-CP, Bộ Công Thương thực hiện quản lý và giám sát hoạt động của
+các tổ chức cung cấp dịch vụ chứng thực hợp đồng điện tử thông qua Cổng thông
+tin quản lý hoạt động TMĐT. Theo báo cáo từ các tổ chức chứng thực hợp đồng
+điện tử tới tháng 30/8/2024 số lượng các doanh nghiệp sử dụng dịch vụ chứng
+thực hợp đồng điện tử đạt 48.533.
+Danh sách doanh nghiệp được Bộ Công Thương xác nhận đăng ký
+hoạt động chứng thực hợp đồng điện tử đến năm 2024
+STT Tên đơn vị Tên viết tắt
+1 Công ty TNHH FPT IS FIS
+2 Tổng Công ty Viễn thông Viettel VTT
+3 Tập đoàn Bưu chính Viễn thông Việt Nam VNPT
+4 Công ty Cổ phần Giải pháp Thanh toán Việt Nam VNPAY
+5 Tổng công ty Viễn thông MobiFone MOBIFONE
+6 Công ty Cổ phần Bkav BKAV
+7 Công ty Cổ phần Dịch vụ số SAVIS DIGITAL SAVIS
+8 CTCP Tập Đoàn Công Nghệ CMC CMC
+9 Công ty Cổ phần MISA MISA
+10 Công ty Cổ phần Công nghệ tin học EFY Việt Nam EFY
+11 Công ty CP Phần mềm Quản lý doanh nghiệp FAST FAST
+29
+Số lượng hợp đồng điện tử được các tổ chức cung cấp dịch vụ CeCA
+chứng thực từ năm 2022 – 2024
+2022 2023 2024
+Tháng 1 163 21.703
+Tháng 2 953 13.125
+Tháng 3 1.187 30.159
+Tháng 4 65.060 22.582
+Tháng 5 9.085 29.997
+Tháng 6 3.195 33.475
+Tháng 7 3.723 28.478
+Tháng 8 14.585 37.202
+Tháng 9 38 41.721 44.150
+Tháng 10 3.589 14.510 26.957
+Tháng 11 3.696 20.205 32.256
+Tháng 12 1.378 31.102 52.668
+Tổng 8.701 205.489 372.752
+Việc thẩm định hồ sơ và cấp đăng ký đối với các đơn vị cung cấp dịch vụ
+chứng thực hợp đồng điện tử (CeCA) được Bộ Công Thương thực hiện trên
+nguyên tắc giám sát chặt chẽ các yêu cầu sau:
+(1). Việc đánh giá, phê duyệt đăng ký của CeCA được dựa trên Đề án hoạt
+động cung cấp dịch vụ chứng thực hợp đồng điện tử
+- Đề án và thẩm tra thực tế giải pháp là căn cứ để phê duyệt Xác nhận Đăng
+ký CeCA
+- Hủy bỏ đăng ký khi CeCA không thực hiện đúng Đề án và Quy chế được
+phê duyệt
+- Chấm dứt đăng ký nếu không cung cấp dịch vụ sau 03 tháng được xác
+nhận đăng ký
+(2). Bộ Công Thương công bố công khai trên Cổng thông tin Quản lý hoạt
+động TMĐT (www.online.gov.vn): Danh sách các thương nhân, tổ chức cung cấp
+dịch vụ chứng thực hợp đồng điện tử đã hoàn thành thủ tục đăng ký
+Ngày 03/10/2024, Cục TMĐT và KTS đã tổ chức hội nghị tổng kết tình
+hình thực hiện Nghị định 85/NĐ-CP về tổng kết quá trình triển khai dịch vụ chứng
+thực hợp đồng điện tử giai đoạn 2022 - 2024 và xây dựng kế hoạch triển khai giai
+đoạn 2024 - 2025. Trong hội nghị, 11 tổ chức chứng thực hợp đồng điện tử
+30
+(CeCA) đã được Bộ Công Thương cấp phép là Viettel, VNPT, Mobifone, FPT,
+BKAV,... cũng nêu một số khó khăn trong quá trình triển khai dịch vụ chứng thực
+hợp đồng điện tử nói riêng và dịch vụ hợp đồng điện tử nói chung, cụ thể:
+- Chưa có khuôn khổ pháp lý rõ ràng, Nghị định 52/2013/NĐ-CP và
+85/2021/NĐ-CP chỉ có một điều khoản liên quan tới dịch vụ chứng thực hợp đồng
+điện tử cũng như các quy định về nội dung cấp phép, còn rất nhiều nội dung chưa
+được quy định về hợp đồng điện tử trong từng lĩnh vực khác như tài chính, ngân
+hàng, bảo hiểm, sản phẩm nội dung thông tin số...chưa được quy định và bị loại
+trừ trong phạm vi điều chỉnh của TMĐT dẫn đến hạn chế trong việc áp dụng rộng
+rãi hợp đồng điện tử trên các nền tảng.
+- Chưa có quy định kỹ thuật về việc cung cấp dịch vụ chứng thực để các
+bên triển khai đồng bộ trong quá trình chứng thực; chưa có cơ chế áp dụng về xác
+thực, định danh điện tử đối với các chủ thể tham gia hợp đồng điện để đảm bảo
+tính an toàn, minh bạch với các giao dịch hợp pháp trên không gian mạng.
+3.4. Thực trạng về giải quyết tranh chấp và thanh tra, kiểm tra, xử lý vi
+phạm hành chính trong lĩnh vực TMĐT
+3.4.1. Giải quyết tranh chấp TMĐT trên các website, ứng dụng TMĐT
+Theo quy định tại Nghị định 52/2013/NĐ-CP (được sửa đổi, bổ sung bởi
+Nghị định 85/2021/NĐ-CP), thương nhân, tổ chức, cá nhân sở hữu website TMĐT
+bán hàng có trách nhiệm tiếp nhận và xử lý khiếu nại của khách hàng liên quan
+đến hợp đồng được giao kết trên website TMĐT của mình; chủ sở hữu các website
+cung cấp dịch vụ TMĐT như sàn giao dịch TMĐT có trách nhiệm thiết lập, công
+khai và thực hiện theo Quy chế hoạt động, trong đó bao gồm quy trình giải quyết
+phản ánh, khiếu nại của người tiêu dùng. Quy chế này phải được Bộ Công Thương
+xác nhận và lưu trữ tại Cổng thông tin quản lý hoạt động TMĐT.
+Theo quy định tại điểm a khoản 5 Điều 76 Nghị định số 52/2013/NĐ-CP,
+các thương nhân, tổ chức, cá nhân phải công bố cơ chế giải quyết khiếu nại trên
+website/ứng dụng TMĐT của mình. Việc các nền tảng TMĐT công khai quy trình
+xử lý khiếu nại giúp người tiêu dùng dễ dàng tiếp cận thông tin về quyền lợi và
+cách thức phản ánh vấn đề khi gặp sự cố trong giao dịch. Nghị định số
+52/2013/NĐ-CP cũng quy định, thương nhân, tổ chức cung cấp dịch vụ TMĐT
+có nghĩa vụ định kỳ báo cáo về hoạt động cung cấp dịch vụ của mình với Bộ Công
+Thương để phục vụ công tác thống kê, quản lý hoạt động TMĐT.
+Thực tiễn cho thấy, việc công khai cơ chế giải quyết tranh chấp cũng giúp
+các bên liên quan như đơn vị bán hàng, đơn vị cung cấp các dịch vụ hỗ trợ TMĐT
+31
+như vận chuyển, thanh toán hiểu rõ trách nhiệm của mình, từ đó hạn chế mâu
+thuẫn phát sinh. Điều này phù hợp với nguyên tắc bảo vệ quyền lợi người tiêu
+dùng được quy định trong Luật Bảo vệ quyền lợi người tiêu dùng 2023, cũng như
+các quy định liên quan đến trách nhiệm của chủ sở hữ sàn TMĐT trong Nghị định
+85/2021/NĐ-CP. Về cơ bản, TMĐT hoạt động dựa trên nền tảng niềm tin giữa
+người mua và người bán, khi nền tảng có cơ chế giải quyết khiếu nại rõ ràng và
+công khai, khách hàng sẽ yên tâm hơn khi giao dịch và có xu hướng quay lại mua
+sắm nhiều hơn. Ngược lại, nếu sàn không có quy trình minh bạch hoặc gây khó
+khăn khi khiếu nại, người tiêu dùng có thể mất niềm tin vào nền tảng, ảnh hưởng
+đến uy tín và sự phát triển lâu dài. Bên cạnh đó, việc sàn TMĐT công khai quy
+trình giải quyết khiếu nại không chỉ có lợi cho người tiêu dùng mà còn giúp các
+cơ quan quản lý nhà nước thuận tiện trong giám sát việc tuân thủ quy định. Trường
+hợp khi có tranh chấp xảy ra, quy trình công khai sẽ là căn cứ quan trọng để xác
+định trách nhiệm giữa các bên liên quan, giúp cơ quan chức năng kịp thời can
+thiệp và xử lý vi phạm nếu có.
+Sau đây là ví dụ về việc công khai cơ chế giải quyết khiếu nại trên website
+của doanh nghiệp đã được Bộ Công Thương xác nhận:
+Chính sách đổi trả hàng, hoàn tiền và cơ chế giải quyết tranh chấp trên
+lazada.vn
+32
+Ví dụ trên là sàn TMĐT đã thiết lập quy trình giải quyết khiếu nại được Bộ
+Công Thương xác nhận đăng ký. Theo đó, website này có quy trình giải quyết
+phản ánh, khiếu nại với hai nhóm sản phẩm: (1) Sản phẩm của nhà bán hàng trong
+nước và (2) Sản phẩm của nhà bán hàng nước ngoài. Các bước tiếp nhận, xử lý
+phản ánh, giải quyết khiếu nại thực hiện theo các bước sau:
+Bước 1: Người tiêu dùng khiếu nại qua hotline hoặc kênh hỗ trợ trực tuyến.
+Bước 2: Website tiếp nhận khiếu nại, phối hợp với nhà bán hàng để giải
+quyết. Nếu cần, website có thể đưa ra biện pháp hỗ trợ trực tiếp.
+Bước 3: Nếu khiếu nại vượt quá khả năng xử lý, khách hàng có quyền yêu
+cầu cơ quan nhà nước can thiệp.
+Quy trình này tuân thủ nguyên tắc giải quyết tranh chấp theo từng cấp độ:
+hòa giải nội bộ, tiếp đó là sự can thiệp từ nền tảng, và sự tham gia của cơ quan
+nhà nước nếu không đạt thỏa thuận. Website này có thêm chính sách bảo vệ nhóm
+người tiêu dùng dễ bị tổn thương (người cao tuổi, người khuyết tật, người sống ở
+vùng khó khăn…), cho thấy cam kết của sàn trong việc tuân thủ Luật Bảo vệ
+quyền lợi người tiêu dùng 2023.
+Việc công khai quy trình giải quyết phản ánh, khiếu nại và tranh chấp trên
+sàn TMĐT được quy định tại Nghị định số 52/2013/NĐ-CP đóng vai trò quan
+trọng trong nâng cao sự minh bạch và củng cố niềm tin của người tiêu dùng trong
+giao dịch trực tuyến.
+3.4.2. Giải quyết khiếu nại, phản ánh về TMĐT của Bộ Công Thương
+Bộ Công Thương tiếp nhận phản ánh của tổ chức, cá nhân về bốn (04) hành
+vi vi phạm về TMĐT cụ thể theo quy định tại Điều 31 Thông tư 47/2014/TT-BCT
+ngày 05/12/2014 của Bộ Công Thương quy định về quản lý website TMĐT. Theo
+đó, Bộ Công Thương tiếp nhận các nhóm hành vi sau: (i) Vi phạm các quy định
+về thông báo và đăng ký website TMĐT; (ii) Vi phạm các quy định về giao kết
+hợp đồng trong TMĐT tại Nghị định số 52/2013/NĐ-CP; (iii) Vi phạm các quy
+định về trách nhiệm của người sở hữu website TMĐT bán hàng hoặc người cung
+cấp dịch vụ TMĐT tại Nghị định số 52/2013/NĐ-CP; (iv) Vi phạm các quy định
+về bảo vệ thông tin cá nhân và an toàn thanh toán trong TMĐT tại Nghị định số
+52/2013/NĐ-CP; và (v) Các vi phạm khác quy định tại Điều 4 Nghị định số
+52/2013/NĐ-CP.
+Bộ Công Thương xây dựng cơ chế tiếp nhận, phản hồi thông tin để giải
+quyết khiếu nại, phản ánh và tranh chấp liên quan đến website, ứng dụng TMĐT
+33
+tại Cổng thông tin Quản lý hoạt động TMĐT tại địa chỉ online.gov.vn.
+Số lượng thông tin phản ánh của người dân trên Cổng thông tin Quản lý
+hoạt động TMĐT từ 2020 đến 2024
+Chưa thông báo đăng Giả mạo thông tin Vi phạm pháp luật
+Năm
+ký, thông báo đăng ký khác
+2020 74 21 67
+2021 85 19 191
+2022 84 18 187
+2023 40 17 165
+2024 71 25 178
+Số liệu ghi nhận từ Cổng thông tin quản lý hoạt động TMĐT
+(online.gov.vn) cho thấy thông tin phản ánh của người dân tập trung vào hành vi
+chưa thông báo đăng ký website, ứng dụng TMĐT; hành vi về giả mạo thông tin
+đăng ký của doanh nghiệp và hành vi vi phạm khác. Các hành vi vi phạm pháp
+luật khác tập trung chủ yếu là hành vi giả mạo logo đã đăng ký, giả mạo website
+hoặc thương nhân, tổ chức khác; hành vi kinh doanh hàng cấm, hàng giả, hàng
+xâm phạm quyền sở hữu trí tuệ; hành vi về đánh bạc online; và hành vi kinh doanh
+dịch vụ đa cấp trái phép. Bộ Công Thương không nhận được kiến nghị, phản ánh
+nào về hành vi liên quan đến giao kết hợp đồng trong TMĐT.
+Sự ra đời của Luật Giao dịch điện tử 2023 và Luật Bảo vệ quyền lợi người
+tiêu dùng 2023 đã tạo khung pháp lý chặt chẽ hơn, yêu cầu các nền tảng TMĐT
+phải minh bạch thông tin, tăng cường trách nhiệm trong giải quyết khiếu nại và
+bảo vệ người tiêu dùng. Bộ Công Thương xử lý thông tin phản ánh trên môi trường
+trực tuyến thông qua Cổng thông tin quản lý hoạt động TMĐT (online.gov.vn),
+theo quy trình được quy định tại Thông tư 47/2014/TT-BCT, sau khi có trên 5
+(năm) ý kiến phản ánh từ các tổ chức, cá nhân khác nhau về một hoặc nhiều hành
+vi thì chủ sở hữ website, ứng dụng TMĐT sẽ phải thực hiện giải trình. Sau thời
+hạn 10 ngày làm việc kể từ ngày nhận được yêu cầu giải trình của Bộ Công
+Thương, nếu chủ website, ứng dụng không có phản hồi hoặc không giải trình được
+về các ý kiến phản ánh, thì website đó sẽ bị đưa vào danh sách website, ứng dụng
+TMĐT bị phản ánh về việc có dấu hiệu vi phạm pháp luật và có thể bị xử lý vi
+phạm hành chính theo quy định của pháp luật.
+34
+Cảnh báo trên Cổng thông tin Quản lý hoạt động TMĐT
+3.5. Thanh tra, kiểm tra, xử lý vi phạm hành chính trong TMĐT
+Bộ Công Thương và Sở Công Thương các tỉnh, thành phố được giao chức
+năng thực hiện kiểm tra, thanh tra các thương nhân, tổ chức, cá nhân thiết lập
+website TMĐT theo khoản 2 Điều 77 Nghị định số 52. Trên cơ sở các nội dung
+quy định về TMĐT tại Nghị định số 52/2013/NĐ-CP, Nghị định số 85/2021/NĐ-
+CP, Chính phủ ban hành một số văn bản điều chỉnh các biện pháp xử lý vi phạm
+hành chính trong lĩnh vực TMĐT, cụ thể:
+- Nghị định số 185/2013/NĐ-CP ngày 15/11/2013 quy định về xử phạt vi
+phạm hành chính trong hoạt động thương mại, sản xuất, buôn bán hàng giả, hàng
+cấm và bảo vệ quyền lợi người tiêu dùng. Theo đó, từ Điều 81 đến Điều 85 của
+Nghị định có các quy định cụ thể đối với từng hành vi vi phạm, bám sát nội dung
+về quản lý hoạt động TMĐT tại Nghị định 52/2013/NĐ-CP;
+- Nghị định số 127/2015/NĐ-CP ngày 14/12/2015 của Chính phủ về tổ chức
+và hoạt động ngành Công Thương, trong đó quy định Cục TMĐT và Công nghệ
+thông tin (nay là Cục TMĐT và Kinh tế số) là một trong những cơ quan được giao
+thực hiện chức năng thanh tra chuyên ngành. Ngày 10/8/2016, Bộ Công Thương
+ban hành Thông tư số 15/2016/TT-BCT hướng dẫn một số quy định về thanh tra
+chuyên ngành Công Thương. Các văn bản trên là cơ sở pháp lý để đơn vị chức
+năng thực hiện tốt hơn vai trò quản lý, giám sát, kiểm tra các website TMĐT nhằm
+35
+phát hiện, xử lý nghiêm các sai phạm trong lĩnh vực quản lý của mình;
+- Nghị định số 98/2020/NĐ-CP ngày 26/8/2020 quy định về xử phạt vi
+phạm hành chính trong hoạt động thương mại, sản xuất, buôn bán hàng giả, hàng
+cấm và bảo vệ quyền lợi người tiêu dùng, thay thế Nghị định số 185/2013/NĐ-CP
+và Nghị định số 124/2015/NĐ-CP. Theo đó, từ Điều 62 đến Điều 66 của Nghị
+định có các quy định cụ thể đối với hành vi vi phạm trong lĩnh vực TMĐT;
+- Nghị định số 17/2022/NĐ-CP ngày 31/01/2022 sửa đổi, bổ sung một số
+điều của các nghị định quy định về xử phạt vi phạm hành chính trong lĩnh vực
+hóa chất, vật liệu nổ công nghiệp; điện lực, an toàn đập thủy điện, sử dụng năng
+lượng tiết kiệm và hiệu quả; hoạt động thương mại, sản xuất, buôn bán hàng giả,
+hàng cấm, bảo vệ quyền lợi người tiêu dùng; hoạt động dầu khí, kinh doanh xăng
+dầu và khí, trong đó có bổ sung sửa đổi các hành vi vi phạm trong lĩnh vực TMĐT
+quy định tại Nghị định số 98/2020/NĐ-CP.
+Thực hiện Chương trình công tác của Chính phủ, Thủ tướng Chính phủ năm
+2022, Bộ Công Thương được giao xây dựng, trình Thủ tướng Chính phủ Đề án
+về chống hàng giả và bảo vệ người tiêu dùng trong TMĐT đến năm 2025. Ngày
+29/3/2023, Phó Thủ tướng Chính phủ Trần Lưu Quang đã ký ban hành Quyết định
+số 319/QĐ-TTg phê duyệt Đề án trên (Đề án 319). Đề án là cơ sở pháp lý quan
+trọng để các Bộ, ngành, lực lượng chức năng thực hiện đồng bộ các giải pháp,
+như: Hoàn thiện khung khổ pháp lý, văn bản quy phạm pháp luật; đào tạo, bồi
+dưỡng công chức thực thi công vụ cho công chức; xây dựng Cổng thông tin quản
+lý hoạt động TMĐT; xây dựng cơ sở dữ liệu, hệ thống giám sát, thu thập dữ liệu
+về giao dịch TMĐT trên các nền tảng mạng xã hội, cho phép kết nối, chia sẻ thông
+tin giữa các bộ, ngành, doanh nghiệp phục vụ công tác đấu tranh chống hàng giả
+và bảo vệ người tiêu dùng trong hoạt động TMĐT; tăng cường hợp tác quốc tế về
+công tác chống hàng giả và bảo vệ người tiêu dùng trong hoạt động TMĐT…
+Năm 2024 cũng là năm trọng điểm xử lý vi phạm trong lĩnh vực TMĐT của
+đội ngũ quản lý thị trường. Trong bối cảnh gia tăng vi phạm về hàng giả và bảo
+vệ người tiêu dùng trong TMĐT, Tổng cục quản lý thị trường đã phối hợp với các
+Bộ, ngành, địa phương và các cơ quan, tổ chức liên quan tập trung triển khai Đề
+án 319, bên cạnh việc tổ chức khảo sát, đánh giá và kiến nghị cấp có thẩm quyền
+hoàn thiện hệ thống chính sách, pháp luật về hoạt động TMĐT, yêu cầu các sàn
+giao dịch TMĐT lớn như Shopee, Lazada, Tiki, Tiktokshop, Sendo chia sẻ thông
+tin phục vụ hoạt động kiểm tra, xử lý vi phạm, tăng cường hoạt động sàng lọc,
+phòng ngừa, ngăn chặn vi phạm; trong năm 2024, lực lượng quản lý thị trường đã
+phát hiện, xử lý 3.124 vụ vi phạm (tăng 266% so với năm 2023), chuyển cơ quan
+36
+điều tra 04 vụ, xử phạt vi phạm hành chính 48 tỷ đồng (tăng 220% so với năm
+2023); đặc biệt, trị giá hàng hoá vi phạm trên 34 tỷ đồng (tăng 440% so với năm
+2023). Đối với các nền tảng TMĐT xuyên biên giới đang hoạt động tại Việt Nam
+chưa tuân thủ các quy định của pháp luật, Tổng cục quản lý thị trường đã chỉ đạo
+các đơn vị phối hợp với các lực lượng chức năng liên quan tăng cường giám sát,
+phát hiện, xử lý kho hàng, điểm tập kết hàng hoá (nếu có) và thông qua thực tiễn
+kiểm tra, rà soát, kiến nghị cấp có thẩm quyền tiếp tục hoàn thiện chính sách, pháp
+luật nhằm nâng cao hiệu quả hoạt động, bảo vệ quyền lợi người tiêu dùng.
+Bên cạnh lực lượng quản lý thị trường, các cơ quan có chức năng thanh tra
+chuyên ngành của Bộ Công Thương và Sở Công Thương các tỉnh, thành phố được
+giao thực hiện công tác thanh tra, kiểm tra đối với thương nhân, tổ chức, cá nhân
+hoạt động TMĐT theo khoản 2 Điều 77 Nghị định số 52/2013/NĐ-CP của Chính
+phủ về TMĐT. Riêng Cục TMĐT và Kinh tế số đã tiến hành thanh tra, kiểm tra
+07 đơn vị năm 2022 (tổng số tiền phạt 144 triệu đồng); 04 đơn vị năm 2023 (tổng
+số tiền phạt 126 triệu đồng). Năm 2024, với 05 đơn vị kiểm tra, 02 đơn vị thanh
+tra theo kế hoạch được phê duyệt, tổng mức xử phạt hành chính do Cục TMĐT
+và Kinh tế số xử phạt là 222 triệu đồng). Bộ Công Thương (đầu mối là Cục TMĐT
+và Kinh tế số) thường xuyên phối hợp với chủ sàn giao dịch TMĐT rà soát, lọc
+theo từ khóa các sản phẩm vi phạm pháp luật. Năm 2022, Cục TMĐT và Kinh tế
+số đã yêu cầu các doanh nghiệp và tổ chức hoạt động TMĐT gỡ bỏ/khóa 1.663
+gian hàng với 6.437 sản phẩm vi phạm; Chặn 5 website vi phạm có dấu hiệu lợi
+dụng TMĐT để kinh doanh hàng giả, hàng nhái và hàng không rõ nguồn gốc xuất
+xứ; Năm 2023: gỡ bỏ hơn 20.000 gian hàng với hơn 50.000 sản phẩm vi phạm.
+Năm 2024, trong quý I, Cục TMĐT và Kinh tế số cùng Cục An ninh mạng và
+Phòng chống tội phạm sử dụng công nghệ cao – Bộ Công An tạm thu giữ 125.088
+sản phẩm các loại bao gồm thực phẩm, mỹ phẩm, hàng gia dụng... (thuộc 242
+danh mục sản phẩm hàng hóa) của đối tượng Nguyễn Hoàng Mai Ly; ngoài ra
+Cục TMĐT và Kinh tế số thực hiện gỡ bỏ các loại thực phẩm bổ sung, sản phẩm
+thuốc Đông y, mỹ phẩm không rõ nguồn gốc, các thiết bị gây nhiêu (thiết bị phá
+sóng) và thiết bị kích sóng điện thoại di động, các sản phẩm bánh trung thu giá rẻ,
+kém chất lượng và nhiều sản phẩm từ động vật hoang dã và các thiết bị bẫy, lưới,
+các thiết bị dẫn dụ để bắt, tận diệt các loại động vật hoang dã, đặc biệt là chim di
+cư, các sản phẩm là thuốc kê đơn đang được bán lẻ không theo quy định của pháp
+luật, kết quả đã gỡ bỏ 3.202 sản phẩm và chặn 1.228 gian hàng vi phạm.
+Kết quả kiểm tra, xử lý cho thấy trong năm 2024, các vi phạm chủ yếu về
+TMĐT phần lớn tập trung vào các hành vi như: không thông báo website TMĐT
+37
+bán hàng với cơ quan quản lý nhà nước có thẩm quyền theo quy định trước khi
+bán hàng; sử dụng biểu tượng đã đăng ký, đã thông báo để gắn lên website cung
+cấp dịch vụ TMĐT hoặc ứng dụng dịch vụ TMĐT khi chưa được xác nhận đăng
+ký của cơ quan nhà nước có thẩm quyền theo quy định; không công bố hoặc công
+bố không đầy đủ, không chính xác trên website TMĐT bán hàng hoặc ứng dụng
+bán hàng thông tin về chủ sở hữu website hoặc ứng dụng và các hành vi pvi phạm
+chủ yếu khác sau khi kiểm tra dự trên dấu hiệu vi phạm ban đầu về lĩnh vực TMĐT
+như: kinh doanh hàng hoá nhập lậu; không đăng ký với cơ quan quản lý nhà nước
+có thẩm quyền theo quy định khi thực hiện khuyến mại; kinh doanh hàng hoá
+không rõ nguồn gốc, xuất xứ; không đăng ký thành lập hộ kinh doanh trong những
+trường hợp phải đăng ký theo quy định.
+Nhằm đẩy mạnh Chính phủ điện tử, tăng cường ứng dụng công nghệ thông
+tin trong công tác quản lý, điều hành, phục vụ doanh nghiệp và người dân một
+cách nhanh chóng, kịp thời và hiệu quả, Bộ Công Thương cũng xây dựng các hệ
+thống website quản lý nhà nước trong nhiều lĩnh vực để cung cấp cho người dân
+và doanh nghiệp như Hệ thống Cổng Dịch vụ công Bộ Công Thương
+(dichvucong.moit.gov.vn); Hệ thống Đăng ký website TMĐT (online.gov.vn); Hệ
+thống Khiếu nại vụ việc cạnh tranh/Khiếu nại vi phạm pháp luật về bảo vệ quyền
+lợi người tiêu dùng/Khiếu nại vi phạm quy định về quản lý hoạt động kinh doanh
+theo phương thức đa cấp (vcca.gov.vn); Hệ thống Lấy ý kiến góp ý các Dự thảo
+văn bản (legal.moit.gov.vn); Hệ thống phản ánh, kiến nghị, khiếu nại website
+TMĐT (chonghanggia.online.gov.vn). Các hệ thống này đóng vai trò là kênh
+thông tin chính thức của Bộ Công Thương để cung cấp các thông tin được xác
+thực tới cộng đồng doanh nghiệp và xã hội.
+Bộ Công Thương đã và đang tập trung xây dựng, cung cấp danh sách một
+số đường dây nóng liên quan đến các lĩnh vực do Bộ quản lý để doanh nghiệp và
+người dân tham khảo như Tổng đài tư vấn, hỗ trợ người tiêu dùng 18006838;
+Đường dây nóng kiểm tra văn bản hành chính của Bộ Công Thương
+02422202133; Tổng đài giải đáp tư vấn về xuất nhập khẩu 02422202240; Tổng
+đài hỗ trợ trực tuyến Hệ thống quản lý và cấp chứng nhận xuất xứ điện tử
+02422205513; Tổng đài phản ánh kiến nghị với lực lượng quản lý thị trường
+1900888655; Đường dây nóng hỗ trợ kỹ thuật hệ thống Dịch vụ công trực tuyến
+Bộ Công Thương 02422205395; Đường dây nóng phản ánh, kiến nghị, khiếu nại
+về website TMĐT 02422205512.
+II. TỒN TẠI, HẠN CHẾ, VẤN ĐỀ MỚI, XU HƯỚNG MỚI
+Bên cạnh đó, sự phát triển nhanh chóng của khoa học công nghệ, sự xuất
+38
+hiện nhiều mô hình kinh doanh mới, đa dạng về mặt chủ thể, phức tạp về mặt bản
+chất và từ thực tiễn quản lý nhà nước trong lĩnh vực TMĐT, dẫn đến các chính
+sách, quy định về TMĐT đã bộc lộ một số tồn tại, hạn chế như sau:
+1. Hệ thống pháp luật về TMĐT còn thiếu tính thống nhất, toàn diện
+- Đảm bảo tính pháp lý cao hơn và ổn định hơn
+Để đảm bảo tính pháp lý cao hơn và ổn định hơn của các văn bản pháp luật,
+cần xây dựng Luật TMĐT thay vì duy trì các văn bản ở cấp nghị định vì luật có
+giá trị pháp lý cao hơn nghị định, là cơ sở để điều chỉnh các vấn đề quan trọng,
+mang tính nguyên tắc và toàn diện trong lĩnh vực TMĐT. Nghị định phải được
+ban hành trên cơ sở một luật. Nếu không có luật gốc làm cơ sở, nghị định sẽ không
+đủ mạnh để điều chỉnh các vấn đề quan trọng trong lĩnh vực TMĐT. Hơn nữa,
+TMĐT là một lĩnh vực phức tạp, liên quan đến nhiều bên, cả trong nước lẫn nước
+ngoài, do vậy, cần phải có một khung pháp lý ổn định, lâu dài để điều chỉnh.
+- Đáp ứng yêu cầu điều chỉnh toàn diện
+TMĐT liên quan đến nhiều lĩnh vực như thương mại, giao dịch điện tử, bảo
+vệ quyền lợi người tiêu dùng, quản lý thuế, bảo mật dữ liệu, chống gian lận thương
+mại... Vì vậy, quan hệ pháp luật trong lĩnh vực TMĐT hiện đang được điều chỉnh
+bởi nhiều văn bản quy phạm pháp luật thuộc các ngành luật khác nhau, như Luật
+Thương mại, Luật Giao dịch điện tử, Luật An toàn thông tin mạng, và Luật An
+ninh mạng. Mặc dù vậy, các quy định hiện hành trong các luật chung hiện nay
+không đủ chi tiết, cụ thể để xử lý các vấn đề đặc thù, phức tạp của TMĐT. Để
+điều chỉnh chi tiết và toàn diện các vấn đề này, cần thiết phải xây dựng văn bản ở
+cấp luật.
+- Đảm bảo sự thống nhất trong hệ thống pháp luật, tránh chồng chéo, trùng
+lắp
+Ngoài ra, các Nghị định hiện hành chưa đồng bộ với các quy định pháp luật
+khác như Luật Bảo vệ quyền lợi người tiêu dùng, Luật Quản lý thuế, Luật Sở hữu
+trí tuệ,… Một số Luật liên quan đến lĩnh vực TMĐT đều mới được ban hành trong
+thời gian gần đây, theo đó, mở rộng phạm vi, đối tượng điều chỉnh, sửa đổi, bổ
+sung một số khái niệm và quy định mới. Do vậy, việc xây dựng Luật TMĐT giúp
+tránh chồng chéo và mâu thuẫn pháp lý giữa các quy định.
+Việc ban hành một Luật chuyên ngành TMĐT chuyên biệt sẽ không chỉ để
+giải quyết các vấn đề hiện tại mà còn định hình tương lai của lĩnh vực TMĐT,
+đảm bảo sự phát triển cân bằng giữa quản lý nhà nước, quyền lợi người tiêu dùng,
+39
+và lợi ích doanh nghiệp.
+2. Các mô hình TMĐT mới chưa có quy định điều chỉnh riêng, tiềm ẩn
+nhiều nguy cơ
+Với sự xuất hiện của các công nghệ mới, nền tảng mới như dữ liệu lớn (Big
+Data), trí tuệ nhân tạo (AI), các mô hình TMĐT ngày càng trở nên phức tạp và đa
+dạng, nhưng hiện nay chưa có quy định pháp luật điều chỉnh riêng biệt:
+- Việc xây dựng nền tảng đa dịch vụ, trong đó cho phép các ứng dụng nhỏ
+đặt trong cùng một siêu ứng dụng đang trở thành một xu hướng trong tương lai.
+Thay vì phải tải tất cả các ứng dụng riêng rẽ, người dùng có thể tải một siêu ứng
+dụng, trong đó có tất cả các ứng dụng nhỏ chạy trên đó.Tuy nhiên, vấn đề đặt ra
+là trách nhiệm pháp lý của các chủ sở hữu ứng dụng trong mối tương quan của
+việc cung cấp hàng hóa, dịch vụ của các ứng dụng nhỏ được tích hợp trên đó: Các
+bên sẽ phải chịu trách nhiệm thế nào nếu có vấn đề xảy ra trong quá trình giao
+dịch. Thêm nữa, các siêu ứng dụng nhiều dịch vụ, dẫn đến việc thu thập lượng lớn
+dữ liệu người dùng (vị trí, giao dịch, sở thích), đặt ra vấn đề liên quan đến bảo vệ
+dữ liệu, dữ liệu người dùng như thế nào, có thể phát sinh nguy cơ nền tảng số lợi
+dụng gây ra hành vi cạnh tranh không lành mạnh, điều hướng người dùng, đồng
+thời ngăn chặn các tổ chức, doanh nghiệp khác gia nhập thị trường v.v…
+- Đặc biệt, một xu hướng phát triển nhanh chóng của TMĐT là hoạt động
+livestream bán hàng. Quy định pháp luật hiện hành điều chỉnh hoạt động
+livestream bán hàng giống như một hoạt động quảng cáo đi kèm với bán hàng, mà
+chưa có các quy định riêng về các chủ thể tham gia livestream (chủ tài khoản,
+người tham gia livestream), các trường thông tin tối thiểu phải cung cấp cho người
+xem, trình độ chuyên môn của người thực hiện livestream, định danh chủ tài
+khoản, nghĩa vụ nộp thuế và các vấn đề về kiểm soát thông tin trong quá trình
+phát livestream. Việc các mô hình, xu hướng trên vượt ra ngoài phạm vi điều
+chỉnh của các chính sách hiện hành khiến cho công tác quản lý gặp nhiều khó
+khăn nhất là trong các vấn đề liên quan đến bảo vệ quyền lợi người tiêu dùng, bảo
+vệ dữ liệu cá nhân, chống thất thu thuế, bất cập. Thực tiễn đã có nhiều vụ việc
+như các phiên livestream bán hàng nhiều tỷ đồng nhưng nhà nước không thu được
+thuế hay hoa hậu quốc tế thực hiện livestream bán kẹo rau củ, thổi phồng chức
+năng của sản phẩm, ảnh hưởng rất lớn đến quyết định mua hàng và sức khỏe của
+người tiêu dùng.
+3. Vấn đề hàng giả, hàng nhái, hàng xâm phạm quyền sở hữu trí tuệ,
+hàng kém chất lượng chưa được kiểm soát triệt để
+40
+Vấn đề kiểm soát hàng giả, hàng cấm, hàng xâm phạm quyền sở hữu trí tuệ,
+hàng kém chất lượng tiếp tục là mối quan ngại chung của cả thị trường thương
+mại truyền thống lẫn TMĐT, đồng thời nhận được sự quan tâm đặc biệt từ các đại
+biểu Quốc hội tại kỳ họp thứ 7 Quốc hội khóa XV. Mặc dù các văn bản pháp lý
+về TMĐT đã quy định việc rà soát, kiểm soát và xử lý các thông tin cũng như hoạt
+động vi phạm, nhưng những hành vi vi phạm trong không gian mạng ngày càng
+trở nên tinh vi. Văn bản pháp lý hiện hành về TMĐT đang giao trách nhiệm cho
+chủ nền tảng TMĐT trong việc xác định danh tính của người bán trong nước và
+nước ngoài trên sàn. Điều này dẫn đến các vấn đề:
+- Khó khăn trong xác định danh tính người bán: Hiện tại, nhiều nền tảng
+TMĐT chưa định danh và xác thực điện tử đối với người bán, dẫn đến việc khó
+kiểm soát chính xác thông tin về người bán, đặc biệt là với người bán ở nước
+ngoài hoặc người bán không tuân thủ quy định pháp luật. Ngoài ra, cơ quan quản
+lý nhà nước cũng không nắm được một người bán hoạt động trên bao nhiêu nền
+tảng TMĐT.
+- Khó khăn trong việc truy vết và xử lý vi phạm: Việc chưa có quy định
+chặt chẽ về việc xác minh và lưu trữ thông tin người bán làm cho công tác điều
+tra và xử lý vi phạm trong giao dịch TMĐT trở nên phức tạp. Các cơ quan chức
+năng khó truy vết kho hàng hoặc đối tượng bán hàng khi có vi phạm.
+- Rủi ro về gian lận và trốn thuế: Vì không có cơ chế định danh điện tử cũng
+như kiểm tra, giám sát toàn diện, các nền tảng TMĐT có thể bị lạm dụng để thực
+hiện các hoạt động gian lận hoặc trốn thuế. Các cơ quan quản lý, đặc biệt là cơ
+quan thuế, không thể theo dõi đầy đủ các giao dịch và hoạt động của người bán.
+- Vấn đề bảo vệ người tiêu dùng: Người tiêu dùng khó có thể xác minh độ
+tin cậy của người bán trên các sàn TMĐT nếu thông tin về người bán không được
+rõ ràng và minh bạch. Điều này ảnh hưởng trực tiếp đến quyền lợi của người tiêu
+dùng và làm giảm độ tin cậy của nền tảng TMĐT.
+4. Hoạt động TMĐT xuyên biên giới phát triển nhanh chóng nhưng cũng
+tiềm ẩn nhiều phức tạp
+Hoạt động TMĐT xuyên biên giới thực sự phát triển mạnh mẽ những năm
+gần đây khi hạ tầng công nghệ thông tin, logistics phát triển mạnh mẽ. Người tiêu
+dùng Việt Nam được hưởng lợi khi có thể tiếp cận với hàng hóa, dịch vụ toàn cầu.
+Tuy nhiên, thực tiễn cho thấy hạ tầng pháp luật hiện hành chưa thể giải quyết,
+điều chỉnh các tồn tại, bất cập của hoạt động TMĐT xuyên biên giới như kiểm
+soát chất lượng hàng nhập khẩu qua TMĐT, rủi ro như hàng giả, hàng kém chất
+41
+lượng, gian lận giao dịch, bảo vệ sản xuất trong nước, v.v…
+a) Bảo vệ quyền lợi người tiêu dùng
+Trong TMĐT xuyên biên giới, các sản phẩm giả mạo thương hiệu, hàng
+giả, hàng kém chất lượng của nước ngoài dễ dàng bị trà trộn vào nền tảng bán
+hàng quốc tế. Người tiêu dùng Việt Nam dễ bị lừa mua phải hàng không chính
+hãng, gây thiệt hại về tài chính và ảnh hưởng tới sức khỏe, an toàn.
+Bên cạnh đó, việc xác định nguồn gốc, xuất xứ của hàng hoá trên các nền
+tảng xuyên biên giới còn thiếu chặt chẽ, dẫn đến khó khăn trong việc kiểm soát,
+hạn chế bảo vệ người tiêu dùng khỏi các sản phẩm sai lệch so với quy định, tiêu
+chuẩn chất lượng. Ngoài ra, các quy trình giải quyết tranh chấp liên quan đến hàng
+giả, hàng kém chất lượng trong TMĐT xuyên biên giới còn thiếu và chưa rõ ràng.
+Người tiêu dùng gặp khó khăn trong việc đòi quyền lợi, đòi lại tiền hoặc yêu cầu
+bồi thường khi mua hàng giả, nhái qua các nền tảng quốc tế.
+b) Bảo vệ sản xuất trong nước
+Phát triển TMĐT xuyên biên giới là xu thế tất yếu khách quan vì xu thế này
+vừa mang lại lợi ích cho người tiêu dùng (được sử dụng hàng hóa đa dạng hơn,
+mua sắm tiện lợi hơn), giúp doanh nghiệp Việt Nam dễ dàng xuất khẩu hàng hóa
+ra thị trường nước ngoài với chi phí thấp hơn. Tuy nhiên, nếu không được kiểm
+soát, TMĐT xuyên biên giới sẽ tạo điều kiện thuận lợi để các hàng hóa nước
+ngoài, đặc biệt là hàng giá rẻ từ các quốc gia khác, xâm nhập thị trường Việt Nam.
+Điều này gây sức ép lớn lên các doanh nghiệp sản xuất trong nước, khiến doanh
+nghiệp trong nước khó cạnh tranh về giá, thậm chí phải giảm giá hoặc ngưng hoạt
+động.
+Hiện nay, chính sách của Việt Nam không đặt ra giới hạn về số lượng hay
+loại hình hàng hóa nhập khẩu qua phương thức TMĐT. Trong khi đó, nhiều quốc
+gia khác áp dụng các quy định chặt chẽ đối với hàng hóa nhập khẩu qua TMĐT.
+Điều này vô hình chung tạo ra sự bất lợi và một sân chơi không công bằng cho
+hàng hóa Việt Nam khi tham gia cạnh tranh trên thị trường quốc tế.
+Việc các quốc gia đã xây dựng luật riêng hoặc các chính sách riêng về
+TMĐT để điều chỉnh và thúc đẩy sự phát triển của lĩnh vực này, trong đó có những
+quy định chặt chẽ về TMĐT xuyên biên giới, đặt ra các bài toán cho cơ quan quản
+lý của Việt Nam trong việc đảm bảo cạnh tranh nhưng cũng đảm bảo hài hòa, bảo
+vệ quyền lợi cho doanh nghiệp Việt Nam trong lĩnh vực TMĐT.
+5. Nhu cầu phát triển TMĐT của kinh tế tư nhân
+42
+Nghị quyết số 68-NQ/TW ngày 04 tháng 5 năm 2025 của Bộ Chính trị về
+phát triển kinh tế tư nhân đã khẳng định kinh tế tư nhân là một động lực quan
+trọng nhất của nền kinh tế quốc gia, với khoảng hơn 940 nghìn doanh nghiệp và
+hơn 5 triệu hộ kinh doanh đang hoạt động, đóng góp khoảng 50% GDP, hơn 30%
+tổng thu ngân sách nhà nước. Tuy nhiên, Nghị quyết số 68-NQ/TW cũng có nêu
+kinh tế tư nhân vẫn đối mặt với nhiều rào cản kìm hãm sự phát triển, chưa bứt phá
+về quy mô và năng lực cạnh tranh, chưa đáp ứng được yêu cầu, kỳ vọng là lực
+lượng nòng cốt của kinh tế đất nước.
+Trong bối cảnh chuyển đổi số toàn cầu, TMĐT trở thành công cụ không thể
+thiếu để các doanh nghiệp, hộ kinh doanh tư nhân nâng cao năng lực cạnh tranh,
+mở rộng thị trường và tối ưu hóa hoạt động. Đặc biệt, với đặc thù linh hoạt, quy
+mô vừa và nhỏ chiếm đa số, TMĐT giúp doanh nghiệp, hộ kinh doanh tiếp cận
+khách hàng toàn quốc – thậm chí toàn cầu – với chi phí thấp hơn nhiều so với
+kênh truyền thống. Nhu cầu này càng trở nên cấp bách khi người tiêu dùng ngày
+càng ưa chuộng mua sắm trực tuyến, đòi hỏi doanh nghiệp phải xây dựng kênh
+phân phối số, tối ưu trải nghiệm khách hàng và đa dạng hóa phương thức thanh
+toán. Bên cạnh đó, TMĐT còn giúp kinh tế tư nhân tăng hiệu quả quản lý chuỗi
+cung ứng, giảm chi phí vận hành và nhanh chóng thích ứng với biến động thị
+trường. Do đó, hoàn thiện thể chế, bổ sung các chính sách về phát triển TMĐT
+nói chung và cho khu vực kinh tế tư nhân là một nhu cầu cấp thiết để kinh tế tư
+nhân bắt kịp xu thế, phát huy tiềm năng và khẳng định vị thế trong kỷ nguyên số.
+6. Xu hướng phát triển TMĐT theo hướng xanh và bền vững
+Quy mô thị trường TMĐT Việt Nam năm 2024 đã đạt mốc 25 tỷ USD, tăng
+trưởng 20% so với năm 2023, đóng góp gần 10% tổng doanh thu hàng hóa và dịch
+vụ tiêu dùng cả nước năm 2024. Với tốc độ tăng trưởng nhanh như vừa qua, dự
+kiến TMĐT sẽ ngày càng gia tăng tỷ trọng đóng góp cho cả nền kinh tế. Tuy vậy,
+do đặc thù của hoạt động TMĐT, càng mở rộng quy mô thì TMĐT càng tạo ra
+một lượng lớn bao bì và phát thải do vận chuyển.
+Theo thống kê của các cơ quan chức năng, ở Hàn Quốc, rác thải do TMĐT
+thải ra môi trường gấp 4,8 lần rác thải truyền thống. Tại Hoa Kỳ, mua sắm trực
+tuyến tốn lượng giấy các-ton nhiều gấp 7 lần so với mua sắm truyền thống. Trong
+khi đó năm 2020, Trung Quốc sử dụng trên 70 tỷ kiện hàng giao dịch TMĐT,
+trong đó đã sử dụng 11 triệu tấn bao bì các-ton và nhựa, trong đó gần 2 triệu tấn
+chất thải nhựa.
+Hiện nay các chính sách về kinh tế số và TMĐT phần lớn vẫn tập trung vào
+43
+các giải pháp phục vụ phát triển nhanh. Trong khi đó, để phù hợp với các cam kết
+quốc tế về bảo vệ môi trường, đã đến lúc Việt Nam cần có các chính sách thúc
+đẩy phát triển TMĐT xanh và bền vững. Trong đó, người tiêu dùng trực tuyến và
+các doanh nghiệp TMĐT cũng như logistics là những đối tượng nòng cốt thực thi
+các giải pháp chính sách.
+Phát triển TMĐT xanh, bền vững không chỉ giúp bảo vệ môi trường mà còn
+thúc đẩy sự phát triển kinh tế lâu dài, nâng cao hình ảnh doanh nghiệp và phù hợp
+xu hướng tiêu dùng toàn cầu. Đây là hướng đi thiết yếu để xây dựng một nền kinh
+tế hiện đại, trách nhiệm và phù hợp với yêu cầu của thời đại mới.
+7. Cần thiết đẩy mạnh cải cách thủ tục hành chính, phân cấp, phân
+quyền cho địa phương trong lĩnh vực TMĐT
+Hiện nay, toàn bộ 15 thủ tục hành chính liên quan đến TMĐT đều được
+cung cấp dưới hình thức dịch vụ công trực tuyến toàn trình và miễn phí trên Cổng
+dịch vụ công của Bộ Công Thương. Các TTHC này hiện đều là TTHC cấp Trung
+ương, do tính chất không phụ thuộc vào địa giới hành chính cũng như sự phức tạp
+trong việc xử lý hồ sơ. Theo số liệu thống kê, số lượng website/ứng dụng TMĐT
+đã được Bộ Công Thương xác nhận thông báo/đăng ký tăng từ 106 website/ứng
+dụng năm 2013 đến 56.162 website/ứng dụng tính đến hết tháng 5/2025.
+Căn cứ chỉ đạo của Chính phủ về phân cấp, phân quyền, trong bối cảnh số
+lượng các website/ứng dụng TMĐT và số lượng giao dịch TMĐT trong nền kinh
+tế tăng trưởng nhanh chóng, việc phân cấp, phân quyền cho địa phương trong xử
+lý các TTHC thuộc lĩnh vực TMĐT là hết sức cần thiết. Phân cấp và phân quyền
+vừa nhằm đảm bảo yêu cầu cải cách hành chính, tăng cường phân cấp quản lý vừa
+tạo điều kiện để địa phương chủ động thực hiện và chịu trách nhiệm nhiều hơn
+trong phát triển và quản lý hoạt động TMĐT.
+Những vướng mắc và bất cập trong việc quản lý lĩnh vực TMĐT như đã
+nêu ở trên đặt ra nhiều vấn đề liên quan đến hệ thống pháp luật, cần được nghiên
+cứu, sửa đổi và bổ sung theo đúng chủ trương của Đảng, Nhà nước và Chính phủ,
+đáp ứng yêu cầu phát triển của đất nước trong giai đoạn mới.
+III. ĐỀ XUẤT, KIẾN NGHỊ
+1. Cơ sở chính trị, pháp lý
+Trong thời gian qua, các chủ trương, chính sách của Đảng, Nhà nước, Chính
+phủ trong lĩnh vực TMĐT được thể hiện trong nhiều Nghị quyết và văn bản quan
+trọng, trong đó nổi bật là:
+44
+- Văn kiện đại hội Đảng khóa XIII và Chiến lược phát triển kinh tế - xã hội
+10 năm 2021-2030: “Phát triển thị trường hàng hoá, dịch vụ theo các phương
+thức tổ chức, giao dịch văn minh, hiện đại, TMĐT”, “Thúc đẩy phát triển kinh tế
+số, xã hội số, sản xuất thông minh, các mô hình sản xuất kinh doanh mới, kinh tế
+chia sẻ, TMĐT”, “Đẩy mạnh phát triển TMĐT và sự hài hoà giữa TMĐT với
+thương mại truyền thống”, Tiếp tục đẩy mạnh công nghiệp hoá, hiện đại hoá dựa
+trên nền tảng của khoa học, công nghệ, đổi mới sáng tạo và công nghệ của cuộc
+Cách mạng công nghiệp lần thứ tư, trong đó tập trung phát triển các ngành ưu
+tiên có mức độ sẵn sàng cao như công nghiệp công nghệ thông tin, điện tử - viễn
+thông; an toàn, an ninh mạng; công nghiệp chế tạo thông minh; tài chính - ngân
+hàng; TMĐT; nông nghiệp số; du lịch số; công nghiệp văn hoá số; y tế; giáo dục
+và đào tạo”;
+- Nghị quyết số 29-NQ/TW ngày 17/11/2022 của Ban Chấp hành Trung
+ương Đảng khóa XIII về tiếp tục đẩy mạnh công nghiệp hóa, hiện đại hóa đất
+nước đến năm 2030, tầm nhìn đến năm 2045 đề cập đến giải pháp: “Rà soát, hoàn
+thiện luật chuyên ngành về du lịch, thương mại, đường sắt, bưu chính, công nghệ
+thông tin, viễn thông và các luật có liên quan; tiếp tục hoàn thiện chính sách,
+pháp luật, đẩy mạnh xã hội hóa để cơ cấu lại các ngành dịch vụ dựa trên nền tảng
+công nghệ hiện đại, nhất là trong các lĩnh vực TMĐT, tài chính, ngân hàng, bảo
+hiểm, y tế, giáo dục, logistics, du lịch, các dịch vụ mới của nền kinh tế số...”;
+- Nghị quyết số 57-NQ/TW ngày 22/12/2024 của Bộ Chính trị về đột phá
+phát triển khoa học công nghệ, đổi mới sáng tạo và chuyển đổi số quốc gia: “Khẩn
+trương, quyết liệt hoàn thiện thể chế; xoá bỏ mọi tư tưởng, quan niệm, rào cản
+đang cản trở sự phát triển; đưa thể chế thành một lợi thế cạnh tranh trong phát
+triển khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số”; “Đẩy mạnh tiêu
+dùng sản phẩm, dịch vụ trên môi trường số, bảo đảm kinh tế số các ngành, lĩnh
+vực chiếm tối thiểu 70% kinh tế số; đẩy mạnh sản xuất thông minh trong các
+ngành, lĩnh vực: Nông nghiệp, thương mại, tài chính, giáo dục, y tế, giao thông,
+logistics”;
+- Nghị quyết số 66-NQ/TW ngày 30/4/2025 của Bộ Chính trị về đổi mới
+công tác xây dựng và thi hành pháp luật đáp ứng yêu cầu phát triển đất nước trong
+kỷ nguyên mới, trong đó có quan điểm, định hướng: “Các hoạt động tổng kết,
+khảo sát thực tiễn, nghiên cứu kinh nghiệm quốc tế, đánh giá tác động chính sách,
+lựa chọn chính sách phải được thực hiện kỹ lưỡng, thực chất, khoa học”; “dứt
+khoát từ bỏ tư duy “không quản được thì cấm””; “Bảo đảm thực chất quyền tự do
+kinh doanh, quyền sở hữu tài sản và quyền tự do hợp đồng, sự bình đẳng giữa các
+45
+doanh nghiệp thuộc mọi thành phần kinh tế; kinh tế tư nhân là một động lực quan
+trọng nhất của nền kinh tế quốc gia”, “tập trung xây dựng pháp luật về khoa học,
+công nghệ, đổi mới sáng tạo và chuyển đổi số, tạo hành lang pháp lý cho những
+vấn đề mới, phi truyền thống (trí tuệ nhân tạo, chuyển đổi số, chuyển đổi xanh,
+khai thác nguồn lực dữ liệu, tài sản mã hóa...)”; “khẩn trương sửa đổi, bổ sung
+các văn bản pháp luật … gắn với phân cấp, phân quyền tối đa theo phương châm
+“địa phương quyết, địa phương làm, địa phương chịu trách nhiệm”..”;
+- Nghị quyết số 68-NQ/TW ngày 04/5/2025 của Bộ Chính trị về phát triển
+kinh tế tư nhân:
++ “Hoàn thiện khung pháp lý cho các mô hình kinh tế mới, kinh doanh dựa
+trên công nghệ và nền tảng số, đặc biệt là công nghệ tài chính, trí tuệ nhân tạo,
+tài sản ảo, tiền ảo, tài sản mã hoá, tiền mã hoá, TMĐT... Có cơ chế thử nghiệm
+đối với những ngành, lĩnh vực mới trên cơ sở hậu kiểm, phù hợp với thông lệ quốc
+tế”
++ “Đẩy mạnh phát triển thị trường trong nước, kích cầu tiêu dùng, đa dạng
+hoá các kênh phân phối, phát triển mạnh các nền tảng số, TMĐT; triển khai thực
+chất, hiệu quả Cuộc vận động "Người Việt Nam ưu tiên dùng hàng Việt Nam";
+nâng cấp, đổi mới chương trình xúc tiến thương mại quốc gia; hỗ trợ doanh
+nghiệp tư nhân xây dựng và quảng bá thương hiệu. Khuyến khích phát triển các
+tập đoàn bán lẻ tư nhân; có chính sách ưu tiên cho doanh nghiệp nhỏ và vừa,
+doanh nghiệp khởi nghiệp sáng tạo tham gia chương trình, kế hoạch, dự án mua
+sắm công phù hợp với thông lệ quốc tế. Nâng cao năng lực thực thi, tận dụng các
+cam kết quốc tế và có cơ chế hỗ trợ hiệu quả giải quyết tranh chấp quốc tế cho
+khu vực kinh tế tư nhân...”
++ “Rà soát, hoàn thiện và thực thi hiệu quả quy định pháp luật về bảo vệ
+quyền sở hữu tài sản, trong đó có quyền sở hữu trí tuệ và tài sản vô hình; giảm
+thiểu rủi ro pháp lý. Có chính sách hỗ trợ định giá, bảo hộ quyền sở hữu trí tuệ
+trong nước; hỗ trợ khuyến khích các doanh nghiệp tư nhân đăng ký quyền sở hữu
+trí tuệ ở nước ngoài và các tổ chức quốc tế. Có chế tài nghiêm khắc đối với hành
+vi vi phạm về sở hữu trí tuệ, nhất là vi phạm trên không gian TMĐT. Bảo đảm
+thực hiện trực tuyến toàn trình thủ tục xác lập quyền sở hữu công nghiệp, cắt
+giảm tối đa thời gian thực hiện thủ tục yêu cầu cấp quyền sở hữu trí tuệ, bảo đảm
+phù hợp với thông lệ quốc tế”
++ “Ban hành khung pháp lý thử nghiệm có kiểm soát (sandbox) đối với
+công nghệ mới, sản phẩm, dịch vụ, mô hình kinh doanh mới; tạo môi trường thuận
+46
+lợi cho doanh nghiệp tư nhân tham gia nghiên cứu và ứng dụng trí tuệ nhân tạo,
+chuỗi khối, dữ liệu lớn, TMĐT, công nghệ tài chính, y tế thông minh...”
+- Kết luận số 119-KL/TW ngày 20/01/2025 của Bộ Chính trị về định hướng
+đổi mới, hoàn thiện quy trình xây dựng pháp luật: “đẩy mạnh thực hiện chủ trương
+phân cấp, phân quyền; cải cách triệt để thủ tục hành chính, giảm chi phí tuân
+thủ... luật điều chỉnh các nội dung về kiến tạo phát triển chỉ quy định những vấn
+đề khung, những vấn đề có tính nguyên tắc thuộc thẩm quyền của Quốc hội, còn
+những vấn đề thực tiễn thường xuyên biến động thì giao Chính phủ, bộ, ngành,
+địa phương quy định để bảo đảm linh hoạt, phù hợp với thực tiễn”;
+- Nghị quyết số 52-NQ/TW ngày 27/9/2019 của Bộ Chính trị về một số chủ
+trương, chính sách chủ động tham gia cuộc Cách mạng công nghiệp lần thứ tư:
+“Hoàn thiện pháp luật, trước hết là pháp luật về doanh nghiệp, khởi nghiệp sáng
+tạo, sở hữu trí tuệ, thương mại, đầu tư, kinh doanh để tạo điều kiện thuận lợi cho
+quá trình chuyển đổi số quốc gia và phát triển các sản phẩm, dịch vụ, mô hình
+kinh tế mới dựa trên nền tảng công nghệ số, Internet và không gian mạng”; “Tập
+trung phát triển các ngành ưu tiên có mức độ sẵn sàng cao như: Công nghiệp
+công nghệ thông tin, điện tử - viễn thông; an toàn, an ninh mạng; công nghiệp
+chế tạo thông minh; tài chính - ngân hàng; TMĐT...”; “Cần có cách tiếp cận mở,
+sáng tạo cho thí điểm đối với những vấn đề thực tiễn mới đặt ra, tạo mọi thuận
+lợi cho đổi mới sáng tạo và tạo điều kiện thuận lợi cho quá trình chuyển đổi số
+quốc gia và phát triển các sản phẩm, dịch vụ, mô hình kinh tế mới dựa trên nền
+tảng công nghệ số. Sớm ban hành khung thể chế thử nghiệm có kiểm soát đối với
+các công nghệ, sản phẩm, dịch vụ, mô hình kinh doanh mới hình thành từ cuộc
+Cách mạng công nghiệp lần thứ Tư. Quy định rõ phạm vi không gian và thời gian
+thử nghiệm.”;
+- Nghị quyết Đại hội đại biểu toàn quốc lần thứ XIII của Đảng đã đưa ra
+định hướng phát triển đất nước giai đoạn 2021-2030, bao gồm: Thúc đẩy nghiên
+cứu, chuyển giao, ứng dụng mạnh mẽ thành tựu của cuộc CMCN 4.0 vào mọi lĩnh
+vực của đời sống xã hội, chú trọng một số ngành, lĩnh vực trọng điểm, có tiềm
+năng, lợi thế để làm động lực cho tăng trưởng theo tinh thần bắt kịp, tiến cùng và
+vượt lên ở một số lĩnh vực so với khu vực và thế giới;
+- Nghị quyết số 141/2024/QH15 ngày 29/6/2024 của Quốc hội về hoạt động
+chất vấn tại Kỳ họp thứ 7, Quốc hội khóa XV, trong đó Quốc hội yêu cầu Bộ Công
+Thương: “Tiếp tục hoàn thiện pháp luật về TMĐT và bảo vệ quyền lợi người tiêu
+dùng…”;
+47
+- Chỉ thị 03-CT/TW ngày 19/5/2021 của Ban Bí thư về tăng cường sự lãnh
+đạo của Đảng đối với Cuộc vận động "Người Việt Nam ưu tiên dùng hàng Việt
+Nam" trong tình hình mới, trong đó nêu giải pháp: “Đẩy mạnh quảng bá, giới
+thiệu sản phẩm, hàng hoá Việt và các doanh nghiệp, cơ sở sản xuất trong nước
+có các sản phẩm, hàng hoá, dịch vụ được người tiêu dùng ưa thích; trọng tâm là
+thị trường trong nước, đồng thời mở rộng ra thị trường nước ngoài, nhất là các
+thị trường mà Việt Nam đã ký Hiệp định Thương mại tự do; Tăng cường ứng dụng
+công nghệ thông tin, phát triển TMĐT và các kênh thương mại hiện đại, kết hợp
+hài hoà với hoạt động thương mại, phân phối truyền thống…”;
+- Nghị quyết số 93/NQ-CP ngày 05/7/2023 của Chính phủ về nâng cao hiệu
+quả hội nhập kinh tế quốc tế, thúc đẩy kinh tế phát triển nhanh và bền vững giai
+đoạn 2023 – 2030 cũng đã nêu rõ một trong những giải pháp về cải cách, hoàn
+thiện thể chế kinh tế là: “Tiếp tục sửa đổi, hoàn thiện hệ thống luật liên quan về
+quản lý cạnh tranh, phòng vệ thương mại, phát triển bền vững, sở hữu trí tuệ,
+TMĐT, mua sắm Chính phủ, lao động, công đoàn… phù hợp với các cam kết FTA
+thế hệ mới và đảm bảo lợi ích của doanh nghiệp, người lao động và nền kinh tế
+trong quá trình hội nhập kinh tế quốc tế”;
+- Nghị quyết số 218/NQ-CP ngày 12/11/2024 về phiên họp Chính phủ
+thường kỳ tháng 10 năm 2024 nêu nhiệm vụ: “Tổng kết, đánh giá việc thi hành
+pháp luật về TMĐT trong thời gian qua; nghiên cứu, đề xuất việc xây dựng Luật
+về TMĐT theo đúng quy định của Luật Ban hành văn bản quy phạm pháp luật”;
+- Nghị quyết số 66/NQ-CP ngày 26/3/2025 của Chính phủ về Về Chương
+trình cắt giảm, đơn giản hóa thủ tục hành chính liên quan đến hoạt động sản xuất,
+kinh doanh năm 2025 và 2026 nêu giải pháp: “Cắt giảm, đơn giản hóa thủ tục
+hành chính liên quan đến hoạt động sản xuất, kinh doanh”, “Cắt giảm, đơn giản
+hóa thủ tục hành chính dựa trên ứng dụng công nghệ, tái sử dụng dữ liệu”, “Đẩy
+mạnh phân cấp, phân quyền trong thực hiện thủ tục hành chính”, “Cắt giảm, đơn
+giản hóa điều kiện đầu tư kinh doanh”, “Đẩy mạnh thực hiện thủ tục hành chính
+không phụ thuộc vào địa giới hành chính”;
+- Công điện số 56/CĐ-TTg ngày 06/6/2024 của Thủ tướng Chính phủ về
+việc tiếp tục tăng cường công tác quản lý nhà nước trong lĩnh vực TMĐT, kinh
+doanh trên nền tảng số, trong đó giao Bộ Công Thương: “…tiếp tục rà soát các
+văn bản quy phạm pháp luật để kịp thời đề xuất, sửa đổi, bổ sung, hoàn thiện
+chính sách pháp luật về quản lý TMĐT”;
+- Công điện số 119/CĐ-TTg của Thủ tướng Chính phủ ngày 25/11/2024 về
+48
+việc tiếp tục đẩy mạnh công tác quản lý nhà nước về TMĐT nêu rõ: “Bộ Công
+Thương chủ trì, phối hợp với các bộ, cơ quan liên quan tiếp tục rà soát Luật
+Thương mại và các văn bản quy phạm pháp luật liên quan để kịp thời đề xuất việc
+xây dựng, sửa đổi, bổ sung chính sách pháp luật về quản lý TMĐT”;
+- Công điện 121/CĐ-TTg ngày 26/11/2024 của Thủ tướng Chính phủ về
+việc tiếp tục đẩy mạnh phát triển thị trường trong nước, kích cầu tiêu dùng yêu
+cầu: “Nghiên cứu và xây dựng cơ chế kiểm soát chặt chẽ hàng nhập khẩu qua
+TMĐT hiện đang tạo sức ép lớn lên hàng hóa sản xuất trong nước, ảnh hưởng tới
+tiêu thụ sản phẩm của doanh nghiệp nội địa”;
+- Quyết định số 165/QĐ-TTg của Thủ tướng Chính phủ ngày 28/02/2023
+phê duyệt Đề án tái cơ cấu ngành Công Thương giai đoạn đến năm 2030 có nêu:
+“Xây dựng và hoàn thiện các chính sách, khung khổ pháp lý tạo thuận lợi cho
+xuất nhập khẩu qua các nền tảng số, đặc biệt là qua kênh TMĐT xuyên biên giới,
+gắn với bảo đảm an toàn, an ninh thông tin và bảo vệ dữ liệu phù hợp với thông
+lệ quốc tế và yêu cầu quản lý của Việt Nam”;
+- Quyết định số 386/QĐ-TTg ngày 17/3/2021 của Thủ tướng Chính phủ về
+phê duyệt đề án phát triển thị trường trong nước gắn với cuộc vận động “người
+Việt Nam ưu tiên dùng hàng Việt Nam” giai đoạn 2021 – 2025 nêu mục tiêu:
+“Giữ thị phần hàng Việt Nam có thế mạnh với tỷ lệ trên 85% tại các kênh phân
+phối hiện đại (trung tâm thương mại, siêu thị, cửa hàng tiện lợi, siêu thị mini,
+TMĐT...) và trên 80% các kênh phân phối truyền thống (chợ, cửa hàng tạp hóa,
+...)”;
+- Nghị quyết số 04/NQ-CP ngày 10/01/2022 của Chính phủ về đẩy mạnh
+phân cấp, phân quyền trong quản lý nhà nước yêu cầu: “…đẩy mạnh phân cấp,
+phân quyền quản lý nhà nước giữa trung ương và địa phương”;
+- Nghị định số 40/2025/NĐ-CP ngày 26/02/2025 của Chính phủ quy định
+chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Công Thương, trong
+đó giao Bộ Công Thương: “Thực hiện quản lý nhà nước về TMĐT. Chủ trì, phối
+hợp, tổ chức thực hiện các chiến lược, kế hoạch, chương trình phát triển TMĐT,
+chính sách và pháp luật điều chỉnh trong hoạt động TMĐT”;
+Những văn bản trên đã thể hiện quyết tâm của Đảng, Nhà nước và Chính
+phủ trong việc hoàn thiện khung pháp lý, thúc đẩy phát triển và quản lý hiệu quả
+lĩnh vực TMĐT trong bối cảnh chuyển đổi số toàn diện và cũng đặt ra nhiều yêu
+cầu, nhiệm vụ mới cần được thể chế hóa thông qua việc đề xuất xây dựng Luật
+TMĐT và tổ chức thực hiện.
+49
+Thêm vào đó, hoạt động TMĐT hiện được điều chỉnh trực tiếp tại Nghị
+định số 52/2013/NĐ-CP ngày 16/5/2013 của Chính phủ về TMĐT (được sửa đổi,
+bổ sung bởi Nghị định số 85/2021/NĐ-CP ngày 25/9/2021 của Chính phủ). Tuy
+nhiên, theo quy định tại khoản 2 Điều 14 Hiến pháp năm 2013 “Quyền con người,
+quyền công dân chỉ có thể bị hạn chế theo quy định của luật trong trường hợp cần
+thiết vì lý do quốc phòng, an ninh quốc gia, trật tự, an toàn xã hội, đạo đức xã
+hội, sức khỏe của cộng đồng” và theo khoản 2 Điều 2 Bộ luật Dân sự năm 2015
+thì “Quyền dân sự chỉ có thể bị hạn chế theo quy định của luật trong trường hợp
+cần thiết vì lý do quốc phòng, an ninh quốc gia, trật tự, an toàn xã hội, đạo đức
+xã hội, sức khỏe của cộng đồng”, trong khi đó, theo đó các hành vi bị cấm trong
+TMĐT cần phải được nâng cấp thành luật để phù hợp với hạ tầng pháp luật hiện
+hành. Vì vậy, việc xây dựng Luật TMĐT để phù hợp với Hiến pháp năm 2013,
+Bộ luật Dân sự năm 2015 là phù hợp, cần thiết.
+2. Đề xuất, kiến nghị
+Trên cơ sở tổng kết thi hành pháp luật về TMĐT, rà soát khó khăn, vướng
+mắc, vấn đề mới, xu hướng mới chưa thể giải quyết tại hạ tầng pháp luật hiện
+hành, đồng thời trên cơ sở rà soát chủ trương, đường lối của Đảng, Nhà nước đối
+với lĩnh vực này, trên cơ sở các chính sách đã được Chính phủ thông qua, Bộ
+Công Thương đề xuất các nội dung cụ thể liên quan đến 06 chính sách của Luật
+TMĐT như sau:
+Chính sách 1: Quy định loại hình và trách nhiệm của chủ thể tham gia
+hoạt động TMĐT
+Hoạt động TMĐT tại Việt Nam đang ngày càng đa dạng với sự xuất hiện
+của nhiều mô hình mới và các chủ thể có mức độ tham gia khác nhau. Tuy nhiên,
+khuôn khổ pháp lý hiện hành vẫn còn thiếu các quy định cụ thể để nhận diện đầy
+đủ các loại hình hoạt động và xác định rõ trách nhiệm pháp lý của từng nhóm chủ
+thể. Điều này dẫn đến khó khăn trong công tác quản lý, gây rủi ro cho người tiêu
+dùng và ảnh hưởng đến sự phát triển lành mạnh của thị trường.
+Dự thảo Luật Thương mại điện tử đã xây dựng khung pháp lý nhận diện
+các loại hình hoạt động TMĐT. Tại Điều 3, Dự thảo Luật quy định bốn loại nền
+tảng TMĐT, bao gồm: (1) nền tảng TMĐT kinh doanh trực tiếp, (2) nền tảng
+TMĐT trung gian, (3) nền tảng mạng xã hội có hoạt động TMĐT, và (4) nền tảng
+tích hợp đa dịch vụ. Đồng thời, Dự thảo Luật cũng giải thích các khái niệm mới
+trong thực tiễn như livestream bán hàng và chức năng đặt hàng trực tuyến, cụ thể:
+"3. Nền tảng thương mại điện tử là nền tảng số được thiết lập để thực hiện
+50
+hoạt động thương mại điện tử, bao gồm nền tảng thương mại điện tử kinh doanh
+trực tiếp, nền tảng thương mại điện tử trung gian, mạng xã hội có hoạt động
+thương mại điện tử và nền tảng số tích hợp đa dịch vụ.
+4. Nền tảng thương mại điện tử kinh doanh trực tiếp là nền tảng số thương
+mại điện tử do các tổ chức, cá nhân thiết lập để trực tiếp thực hiện hoạt động mua
+bán sản phẩm, hàng hóa hoặc cung ứng dịch vụ với khách hàng.
+5. Nền tảng thương mại điện tử trung gian là nền tảng thương mại điện tử
+cho phép nhiều bên đăng ký tài khoản để thực hiện hoạt động giới thiệu, mua bán
+sản phẩm, hàng hóa hoặc cung ứng dịch vụ, có một trong các chức năng: mở gian
+hàng, đặt hàng trực tuyến, tiếp thị liên kết, hoặc phát trực tuyến bán hàng.
+6. Mạng xã hội hoạt động thương mại điện tử là mạng xã hội có một trong
+các chức năng: mở gian hàng, đặt hàng trực tuyến, tiếp thị liên kết, hoặc phát
+trực tuyến bán hàng.
+7. Nền tảng tích hợp đa dịch vụ là nền tảng thương mại điện tử cho phép
+liên kết hoặc tích hợp các nền tảng thương mại điện tử khác trên cùng một hệ
+thống."
+Chính sách này đề xuất việc quy định rõ các loại hình hoạt động TMĐT
+như nền tảng TMĐT kinh doanh trực tiếp, nền tảng trung gian TMĐT, mạng xã
+hội có chức năng bán hàng, các nền tảng cho phép bán hàng qua livestream… Mỗi
+loại hình sẽ tương ứng với các nghĩa vụ cụ thể của chủ quản nền tảng và các bên
+tham gia, từ việc công bố thông tin, xác thực người bán, bảo vệ người tiêu dùng
+đến nghĩa vụ phối hợp với cơ quan quản lý, cụ thể:
+- Đối với nền tảng TMĐT kinh doanh trực tiếp: Điều 20 dự thảo Luật quy
+định chủ quản nền tảng TMĐT kinh doanh trực tiếp có trách nhiệm toàn diện
+trong việc đảm bảo thông tin về hàng hóa, dịch vụ, phương thức giao dịch, bảo
+hành, xử lý khiếu nại và bảo vệ người tiêu dùng:
+Điều 20. Trách nhiệm của chủ quản nền tảng thương mại điện tử kinh
+doanh trực tiếp
+1. Tuân thủ đầy đủ các quy định của Luật này, các quy định của pháp luật
+về bảo vệ dữ liệu, an toàn thông tin mạng, an ninh mạng, các quy định về chất
+lượng sản phẩm, hàng hóa, quảng cáo, thuế, bảo vệ quyền lợi người tiêu dùng và
+các quy định của pháp luật chuyên ngành có liên quan.
+2. Báo cáo trực tuyến định kì thông qua Nền tảng Quản lý hoạt động thương
+mại điện tử hoặc theo yêu cầu của cơ quan quản lý nhà nước có thẩm quyền.
+51
+3. Có biện pháp kiểm tra, rà soát và xử lý kịp thời khi phát hiện hoặc nhận
+được phản ánh về hành vi kinh doanh vi phạm pháp luật; Gỡ bỏ thông tin về sản
+phẩm, hàng hóa, dịch vụ vi phạm pháp luật trong thời gian sớm nhất không quá
+24 giờ kể từ khi nhận được yêu cầu của cơ quan quản lý nhà nước có thẩm quyền.
+4. Trường hợp chủ quản nền tảng thương mại điện tử trực tiếp không có
+hiện diện tại Việt Nam thì thực hiện trách nhiệm tại Điều 31 Luật này.
+5. Chính phủ quy định chi tiết Điều này.
+- Đối với nền tảng thương mại điện tử trung gian, Dự thảo Luật quy định
+tại Điều 22, yêu cầu chủ quản có trách nhiệm xác thực thông tin người bán, kiểm
+duyệt nội dung hiển thị, lưu trữ thông tin giao dịch, phối hợp với cơ quan nhà
+nước và triển khai cơ chế xử lý vi phạm. Đặc biệt, Điều 31 dự thảo Luật có quy
+định đối với nền tảng TMĐT trung gian mà chủ quản nền tảng không có hiện diện
+tại Việt Nam (xuyên biên giới), trách nhiệm này được mở rộng với các yêu cầu
+bổ sung về năng lực kỹ thuật, nhân lực và cơ chế giám sát:
+Điều 22. Trách nhiệm của chủ quản nền tảng thương mại điện tử trung
+gian
+1. Xác thực điện tử danh tính người bán có địa điểm kinh doanh trong nước
+theo quy định của pháp luật về định danh và xác thực điện tử; Xác thực danh tính
+người bán nước ngoài thông qua các giấy tờ hợp pháp hoá lãnh sự.
+2. Duy trì nền tảng đáp ứng các điều kiện nêu tại khoản 3 Điều 21.
+3. Kiểm duyệt nội dung thông tin do người bán khởi tạo trước khi cho phép
+hiển thị trên nền tảng.
+4. Có biện pháp xử lý kịp thời khi phát hiện hoặc nhận được phản ánh về
+hành vi vi phạm pháp luật; Gỡ bỏ thông tin về sản phẩm, hàng hóa, dịch vụ vi
+phạm pháp luật trong thời gian sớm nhất không quá 24 giờ kể từ khi nhận được
+yêu cầu của cơ quan quản lý nhà nước có thẩm quyền.
+5. Phối hợp, hỗ trợ cơ quan nhà nước có thẩm quyền giải quyết tranh chấp,
+khiếu nại, điều tra, xử lý các hành vi kinh doanh vi phạm pháp luật;
+6. Báo cáo trực tuyến định kì thông qua Nền tảng Quản lý hoạt động thương
+mại điện tử hoặc theo yêu cầu của cơ quan quản lý nhà nước có thẩm quyền.
+7. Trường hợp nền tảng có chức năng đặt hàng trực tuyến hoặc chức năng
+liên lạc trực tuyến, chủ quản nền tảng có trách nhiệm:
+a) Cung cấp các thông tin cần thiết và hỗ trợ các bên trong quá trình giải
+52
+quyết tranh chấp;
+b) Trường hợp phát hiện sản phẩm, hàng hoá có khuyết tật, phải thông tin
+trực tiếp cho khách hàng đã mua sản phẩm, hàng hoá đó trên nền tảng; công khai
+trên nền tảng thông tin về sản phẩm, hàng hoá có khuyết tật và phối hợp với người
+bán để thực hiện việc thu hồi sản phẩm, hàng hoá theo quy định của pháp luật;
+c) Cung cấp công cụ để người bán truy cập tài khoản để tải về dữ liệu hàng
+hoá, dịch vụ và thông tin của người mua;
+d) Cung cấp thông tin cho người bán tối thiểu 05 ngày trước khi tạm ngừng,
+chấm dứt hoặc áp đặt bất kỳ hạn chế nào đối với tài khoản người bán, trừ trường
+hợp tạm ngừng, chấm dứt hoặc áp đặt hạn chế theo yêu cầu của cơ quan quản lý
+nhà nước. Đảm bảo người bán có thể truy cập tài khoản để tải về dữ liệu giao
+dịch ngay cả khi tài khoản bị tạm ngừng hoặc chấm dứt.
+8. Liên đới chịu trách nhiệm bồi thường thiệt hại trong trường hợp vi phạm
+quy định tại Điều này trực tiếp dẫn đến thiệt hại cho người mua.
+9. Đối với nền tảng thương mại điện tử trung gian là nền tảng số quy mô
+lớn, ngoài các trách nhiệm nêu tại Điều này, chủ quản nền tảng thương mại điện
+tử trung gian quy mô lớn có các trách nhiệm sau:
+a) Xây dựng hệ thống xử lý khiếu nại trực tuyến cho người dùng tuân thủ
+quy định tại Điều 46 Luật này;
+b) Xây dựng giải pháp khả thi nhằm ngăn chặn thông tin, giao dịch giả
+mạo, các hành vi vi phạm pháp luật thực hiện trên nền tảng;
+c) Theo yêu cầu của cơ quan quản lý nhà nước trong việc thanh tra, kiểm
+tra hành vi có dấu hiệu vi phạm pháp luật, cung cấp cho cơ quan quản lý nhà
+nước dữ liệu giao dịch; mô tả thuật toán liên quan bao gồm giải thích thiết kế, lô-
+gíc, tính năng, mô phỏng;
+d) Không được áp đặt người dùng phải sử dụng dịch vụ thanh toán của một
+nhà cung cấp hoặc sử dụng vận chuyển của một nhà cung cấp;
+đ) Thực hiện các trách nhiệm về bảo vệ quyền lợi người tiêu dùng của nền
+tảng trung gian quy mô lớn theo quy định của pháp luật.
+Điều 31. Điều kiện hoạt động đối với chủ quản nền tảng không có hiện
+diện tại Việt Nam
+1. Chủ quản nền tảng thương mại điện tử kinh doanh trực tiếp không có
+hiện diện tại Việt Nam khi đáp ứng một trong các tiêu chí tại khoản 3 Điều này
+53
+phải chỉ định một pháp nhân tại Việt Nam theo ủy quyền.
+2. Chủ quản nền tảng trung gian thương mại điện tử, nền tảng mạng xã hội
+hoạt động thương mại điện tử, nền tảng tích hợp đa dịch vụ không có hiện diện
+tại Việt Nam khi đáp ứng một trong các tiêu chí tại khoản 3 Điều này, phải thành
+lập pháp nhân tại Việt Nam. Trường hợp có quy định khác tại điều ước quốc tế
+mà Việt Nam là thành viên, chủ quản nền tảng phải chỉ định một pháp nhân tại
+Việt Nam theo ủy quyền. Nội dung ủy quyền phải đảm bảo các trách nhiệm quy
+định tại Điều 32, Điều 33 tùy thuộc vào mô hình hoạt động.
+3. Tiêu chí của nền tảng thương mại điện tử:
+a) Có tên miền quốc gia Việt Nam “.vn”;
+b) Có ngôn ngữ hiển thị là tiếng Việt;
+c) Có trên 100.000 lượt giao dịch từ người mua tại Việt Nam trong một
+năm.
+Chính sách cũng đề xuất yêu cầu bắt buộc đối với việc định danh người bán
+thông qua các cơ sở dữ liệu xác thực như mã số thuế, căn cước công dân hoặc
+giấy phép kinh doanh. Về vấn đề này, Dự thảo Luật quy định rõ tại khoản 1 Điều
+22, yêu cầu nền tảng TMĐT trung gian phải xác minh thông tin người bán (trong
+nước và nước ngoài) bằng các tài liệu hợp pháp hóa lãnh sự và thực hiện lưu trữ
+phục vụ quản lý, kiểm tra, hậu kiểm:
+"1. Xác thực điện tử danh tính người bán có địa điểm kinh doanh trong
+nước theo quy định của pháp luật về định danh và xác thực điện tử; Xác thực
+danh tính người bán nước ngoài thông qua các giấy tờ hợp pháp hoá lãnh sự”.
+Việc định danh rõ ràng sẽ giúp tăng tính minh bạch, bảo vệ quyền lợi người
+tiêu dùng và tạo thuận lợi cho hoạt động giám sát, xử lý vi phạm khi cần thiết.
+Đây cũng là một trong những điều kiện quan trọng góp phần kiểm soát tình trạng
+bán hàng giả, hàng không rõ nguồn gốc, vốn đang gia tăng trên các nền tảng
+TMĐT hiện nay.
+Ngoài ra, cần thiết lập và vận hành nền tảng quản lý hoạt động TMĐT do
+cơ quan nhà nước có thẩm quyền chủ trì, nhằm kết nối, chia sẻ dữ liệu giữa các
+đơn vị quản lý nhà nước từ trung ương đến địa phương. Quy định này đã được thể
+hiện tại Điều 51 Dự thảo Luật, theo đó Bộ Công Thương và các cơ quan chức
+năng sẽ xây dựng, vận hành hệ thống thông tin và cơ sở dữ liệu phục vụ quản lý
+nhà nước về TMĐT, bao gồm kết nối dữ liệu quản lý giữa các cấp chính quyền
+và chia sẻ thông tin với các bộ, ngành có liên quan, cụ thể:
+54
+Điều 51. Cơ sở dữ liệu thương mại điện tử
+1. Cơ sở dữ liệu thương mại điện tử bao gồm:
+a) Dữ liệu về quản lý TMĐT;
+b) Dữ liệu về giao dịch trong TMĐT;
+c) Dữ liệu về quy mô thị trường TMĐT;
+d) Dữ liệu về định danh người bán trên các nền tảng thương mại điện tử;
+đ) Dữ liệu về hải quan, xuất nhập khẩu hàng hóa qua thương mại điện tử;
+e) Dữ liệu về thuế trong thương mại điện tử;
+g) Dữ liệu về vận chuyển, giao nhận trong thương mại điện tử;
+h) Dữ liệu về dịch vụ trung gian thanh toán trong thương mại điện tử;
+i) Dữ liệu về chiến lược, kế hoạch, quy hoạch và các chính sách, quy định
+trong lĩnh vực thương mại điện tử;
+k) Dữ liệu liên quan khác phục vụ công tác quản lý và phát triển về thương
+mại điện tử.
+2. Các nền tảng thương mại điện tử, mạng xã hội có hoạt động thương mại
+điện tử, nền tảng tích hợp đa dịch vụ, nền tảng cung cấp dịch vụ hỗ trợ thương
+mại điện tử, các cơ quan chủ quản, cơ quan quản lý cơ sở dữ liệu quốc gia, chuyên
+ngành và cơ sở dữ liệu có liên quan đến phạm vi dữ liệu trong cơ sở dữ liệu về
+thương mại điện tử có trách nhiệm cung cấp, cập nhật các thông tin nêu tại khoản
+1 Điều này, bảo đảm tính đầy đủ, chính xác, thống nhất, chất lượng của dữ liệu
+được cập nhật chia sẻ.
+3. Các Bộ, ngành, địa phương và các cơ quan có liên quan có trách nhiệm
+kết nối, chia sẻ kết quả điều tra cơ bản và các thông tin có liên quan đến thương
+mại điện tử cho Bộ Công Thương để cập nhật vào cơ sở dữ liệu thương mại điện
+tử.
+Việc hình thành nền tảng này là bước đi cần thiết để xây dựng cơ sở dữ liệu
+tập trung, phục vụ công tác theo dõi, cảnh báo sớm, đánh giá tuân thủ và hoàn
+thiện chính sách quản lý phù hợp với thực tiễn. Chính sách này giữ vai trò nền
+tảng trong việc hoàn thiện hệ thống pháp luật về TMĐT, góp phần nâng cao hiệu
+lực quản lý nhà nước, tạo môi trường kinh doanh minh bạch, ổn định và thúc đẩy
+sự phát triển bền vững của thị trường.
+Chính sách 2: Quy định loại hình và trách nhiệm của chủ thể tham gia
+55
+hoạt động TMĐT xuyên biên giới
+Sự phát triển nhanh chóng của hoạt động TMĐT xuyên biên giới trong
+những năm gần đây đang đặt ra nhiều thách thức mới đối với công tác quản lý nhà
+nước. Ngày càng có nhiều nền tảng, thương nhân và tổ chức nước ngoài cung cấp
+dịch vụ, chào bán hàng hóa, dịch vụ trực tiếp đến người tiêu dùng Việt Nam mà
+không có hiện diện pháp lý trong nước. Trong khi đó, hệ thống pháp luật hiện
+hành chưa có quy định đầy đủ để nhận diện rõ ràng các chủ thể này và xác lập
+trách nhiệm pháp lý tương ứng, gây khó khăn trong việc bảo vệ quyền lợi người
+tiêu dùng, quản lý thuế, kiểm soát chất lượng hàng hóa và bảo đảm môi trường
+cạnh tranh lành mạnh.
+Để khắc phục khoảng trống này, Dự thảo Luật Thương mại điện tử thể hiện
+riêng tại Mục 5 Chương III, gồm các quy định từ Điều 30 đến Điều 33. Theo đó,
+chính sách này đề xuất quy định rõ ràng loại hình và trách nhiệm của các chủ thể
+tham gia hoạt động TMĐT xuyên biên giới, bao gồm:
+- Chủ thể vận hành nền tảng TMĐT xuyên biên giới: Theo Điều 31, các nền
+tảng TMĐT của thương nhân, tổ chức nước ngoài nhưng có hoạt động hướng đến
+người tiêu dùng tại Việt Nam sẽ được xác định là có yếu tố nước ngoài khi đáp
+ứng một trong các tiêu chí như: a) Có tên miền quốc gia Việt Nam “.vn”; b) Có
+ngôn ngữ hiển thị là tiếng Việt; c) Có trên 100.000 lượt giao dịch từ người mua
+tại Việt Nam trong một năm.
+Các nền tảng này sẽ phải tuân thủ các nghĩa vụ tương tự như nền tảng trong
+nước, đồng thời có trách nhiệm chỉ định hoặc thành lập pháp nhân tại Việt Nam
+để thực hiện nghĩa vụ về pháp lý, thuế, bảo vệ người tiêu dùng, theo quy định tại
+Điều 32 (đối với nền tảng kinh doanh trực tiếp) hoặc Điều 33 (đối với nền tảng
+trung gian, mạng xã hội và tích hợp dịch vụ):
+Điều 32. Điều kiện và trách nhiệm của pháp nhân được ủy quyền tại Việt
+nam đối với nền tảng thương mại điện tử kinh doanh trực tiếp
+1. Pháp nhân được uỷ quyền tại Việt Nam quy định tại khoản 1 Điều 31
+phải đáp ứng các điều kiện sau:
+a) Là pháp nhân được thành lập hợp pháp tại Việt Nam, hoạt động tối thiểu
+trong 05 năm liên tục trong lĩnh vực liên quan đến thương mại điện tử, công nghệ
+thông tin hoặc dịch vụ pháp lý;
+b) Điều kiện về tài chính để giải quyết các vấn đề liên quan đến bồi thường
+thiệt hại cho người mua tại Việt Nam, doanh nghiệp phải:
+56
+Phương án 1: ký quỹ tại một ngân hàng thương mại tại Việt Nam. Mức ký
+quỹ là 5 tỷ đồng Việt Nam cho mỗi 100.000 người dùng và không thấp hơn 5 tỷ
+đồng Việt Nam.
+Phương án 2: Vốn điều lệ tối thiểu phải bằng 5% vốn điều lệ của chủ quản
+nền tảng số tại thời điểm đăng ký và không thấp hơn 5 tỷ VNĐ.
+c) Điều kiện nhân lực quản lý và kỹ thuật:
+- Có tối thiểu 01 cán bộ chuyên trách về pháp lý, kinh nghiệm ít nhất 05
+năm, trình độ từ đại học chuyên ngành luật trở lên;
+- Có tối thiểu 02 cán bộ chuyên trách về công nghệ thông tin, kinh nghiệm
+ít nhất 05 năm, trình độ từ đại học trở lên các chuyên ngành sau: công nghệ thông
+tin, an ninh mạng, an toàn thông tin;
+- Có tối thiểu 05 cán bộ chuyên trách về thương mại điện tử, kinh nghiệm
+ít nhất 05 năm, trình độ từ đại học trở lên các chuyên ngành sau: thương mại điện
+tử, kinh tế, tài chính;
+- Có bộ phận hoặc cán bộ chuyên trách chịu trách nhiệm tiếp nhận giải
+quyết tranh chấp bồi thường cho người mua tại Việt Nam.
+2. Pháp nhân được uỷ quyền tại Việt Nam quy định tại khoản 1 Điều 32
+phải thực hiện tối thiểu các trách nhiệm sau:
+a) Nhận uỷ quyền thực hiện thủ tục pháp lý hoạt động thương mại điện tử,
+đăng ký thuế và thực hiện các nghĩa vụ thuế theo quy định pháp luật về thuế;
+b) Có quyền truy cập vào nền tảng thương mại điện tử trực tiếp để thực
+hiện các biện pháp giám sát, gỡ bỏ, ngăn chặn thông tin về hàng hoá, dịch vụ vi
+phạm pháp luật (hoặc theo yêu cầu của cơ quan có thẩm quyền);
+c) Trường hợp phát hiện sản phẩm, hàng hoá có khuyết tật, phải thông tin
+trực tiếp cho khách hàng đã mua sản phẩm, hàng hoá đó trên nền tảng; phối hợp
+với chủ quản để thực hiện việc thu hồi sản phẩm, hàng hoá theo quy định của
+pháp luật;
+d) Phối hợp, hỗ trợ cơ quan nhà nước có thẩm quyền giải quyết tranh chấp,
+khiếu nại, điều tra, xử lý các hành vi kinh doanh vi phạm pháp luật;
+đ) Thực hiện các nghĩa vụ về bảo vệ quyền lợi người tiêu dùng, chất lượng
+sản phẩm, hàng hóa theo quy định của pháp luật Việt Nam;
+e) Thực hiện nghĩa vụ báo cáo định kỳ hoặc theo yêu cầu của cơ quan quản
+lý nhà nước có thẩm quyền;
+57
+g) Thực hiện đăng ký thuế với cơ quan thuế Việt Nam và thực hiện các
+nghĩa vụ thuế theo quy định pháp luật về thuế;
+h) Báo cáo trực tuyến định kì hoặc theo yêu cầu thông qua Nền tảng Quản
+lý hoạt động thương mại điện tử của cơ quan quản lý nhà nước có thẩm quyền,
+bao gồm tối thiểu các thông tin về số tài khoản người dùng, số lượt giao dịch, trị
+giá giao dịch;
+l) Chịu trách nhiệm liên đới trong trường hợp không thực hiện các quy định
+tại Điều này;
+m) Thực hiện các trách nhiệm khác theo quy định của pháp luật.
+Điều 33. Điều kiện và trách nhiệm của pháp nhân được ủy quyền tại Việt
+nam đối với nền tảng thương mại điện tử trung gian, nền tảng mạng xã hội
+hoạt động thương mại điện tử, nền tảng tích hợp đa dịch vụ
+1. Pháp nhân được uỷ quyền tại Việt Nam hoạt động thương mại điện tử
+quy định tại khoản 2 Điều 31 phải đáp ứng các điều kiện sau:
+a) Là pháp nhân được thành lập hợp pháp tại Việt Nam, hoạt động tối thiểu
+trong 08 năm liên tục trong lĩnh vực liên quan đến thương mại điện tử, công nghệ
+thông tin hoặc dịch vụ pháp lý;
+b) Điều kiện về tài chính để giải quyết các vấn đề liên quan đến bồi thường
+thiệt hại cho người mua tại Việt Nam, doanh nghiệp phải ký quỹ tại một ngân
+hàng thương mại tại Việt Nam;
+Phương án 1: ký quỹ tại một ngân hàng thương mại tại Việt Nam. Mức ký
+quỹ là 10 tỷ đồng Việt Nam cho mỗi 100.000 người dùng{giao dịch}và không thấp
+hơn 10 tỷ đồng Việt Nam.
+Phương án 2: Vốn điều lệ tối thiểu phải bằng 5% vốn điều lệ của chủ quản
+nền tảng số tại thời điểm đăng ký và không thấp hơn 10 tỷ VNĐ.
+c) Điều kiện nhân lực quản lý và kỹ thuật:
+- Có tối thiểu 02 cán bộ chuyên trách về pháp lý, kinh nghiệm ít nhất 05
+năm, trình độ từ đại học chuyên ngành luật trở lên;
+- Có tối thiểu 03 cán bộ chuyên trách về công nghệ thông tin, kinh nghiệm
+ít nhất 05 năm, trình độ từ đại học trở lên các chuyên ngành sau: công nghệ thông
+tin, an ninh mạng, an toàn thông tin;
+- Có tối thiểu 05 cán bộ chuyên trách về thương mại điện tử, kinh nghiệm
+ít nhất 05 năm, trình độ từ đại học trở lên các chuyên ngành sau: thương mại điện
+58
+tử, kinh tế, tài chính;
+- Có bộ phận chuyên trách chịu trách nhiệm tiếp nhận giải quyết tranh chấp
+bồi thường cho người mua tại Việt Nam.
+2. Pháp nhân được uỷ quyền tại Việt Nam đối với nền tảng trung gian, nền
+tảng mạng xã hội hoạt động thương mại điện tử quy định tại khoản 2 Điều 32 phải
+thực hiện tối thiểu các trách nhiệm sau:
+a) Nhận uỷ quyền thực hiện đăng ký hoạt động thương mại điện tử với cơ
+quan quản lý nhà nước về thương mại điện tử, đăng ký thuế và thực hiện các nghĩa
+vụ thuế theo quy định pháp luật về thuế;
+b) Thực hiện các biện pháp tuân thủ các quy định pháp luật về chuyển, xử
+lý dữ liệu xuyên biên giới và bảo vệ dữ liệu cá nhân;
+c) Có quyền truy cập vào nền tảng thương mại điện tử trực tiếp để thực
+hiện các biện pháp giám sát, gỡ bỏ, ngăn chặn thông tin về hàng hoá, dịch vụ vi
+phạm pháp luật (hoặc theo yêu cầu của cơ quan có thẩm quyền);
+d) Trường hợp phát hiện sản phẩm, hàng hoá có khuyết tật, phải thông tin
+trực tiếp cho khách hàng đã mua sản phẩm, hàng hoá đó trên nền tảng. Phối hợp
+với chủ quản để thực hiện việc thu hồi sản phẩm, hàng hoá theo quy định của
+pháp luật;
+đ) Phối hợp, hỗ trợ cơ quan nhà nước có thẩm quyền giải quyết tranh chấp,
+khiếu nại, điều tra, xử lý các hành vi kinh doanh vi phạm pháp luật, bao gồm việc
+cung cấp và cách thức dữ liệu được sử dụng có liên quan đến người bán trên nền
+tảng;
+e) Thực hiện các nghĩa vụ về bảo vệ quyền lợi người tiêu dùng, chất lượng
+sản phẩm, hàng hóa theo quy định của pháp luật Việt Nam;
+g) Thực hiện nghĩa vụ báo cáo định kỳ hoặc theo yêu cầu của cơ quan quản
+lý nhà nước có thẩm quyền;
+h) Thực hiện đăng ký thuế với cơ quan thuế Việt Nam và thực hiện các
+nghĩa vụ thuế theo quy định pháp luật về thuế;
+i) Báo cáo trực tuyến định kì hoặc theo yêu cầu thông qua Nền tảng Quản
+lý hoạt động thương mại điện tử của cơ quan quản lý nhà nước có thẩm quyền,
+bao gồm tối thiểu các thông tin về số tài khoản người dùng, số lượt giao dịch, trị
+giá giao dịch;
+k) Chịu trách nhiệm liên đới trong trường hợp không thực hiện các quy
+59
+định tại Điều này;
+l) Thực hiện các trách nhiệm khác theo quy định của pháp luật.
+3. Pháp nhân được uỷ quyền tại Việt Nam đối với nền tảng tích hợp đa dịch
+vụ hoạt động thương mại điện tử quy định tại khoản 2 Điều 31 phải thực hiện tối
+thiểu các trách nhiệm sau:
+a) Nhận uỷ quyền thực hiện đăng ký hoạt động thương mại điện tử với cơ
+quan quản lý nhà nước về thương mại điện tử, đăng ký thuế và thực hiện các nghĩa
+vụ thuế theo quy định pháp luật về thuế;
+b) Thực hiện các biện pháp tuân thủ các quy định pháp luật về chuyển, xử
+lý dữ liệu xuyên biên giới và bảo vệ dữ liệu cá nhân;
+c) Phối hợp, hỗ trợ cơ quan nhà nước có thẩm quyền giải quyết tranh chấp,
+khiếu nại, điều tra, xử lý các hành vi kinh doanh vi phạm pháp luật, bao gồm việc
+cung cấp và cách thức dữ liệu được sử dụng có liên quan đến người bán trên nền
+tảng;
+đ) Thực hiện các nghĩa vụ về bảo vệ quyền lợi người tiêu dùng, chất lượng
+sản phẩm, hàng hóa theo quy định của pháp luật Việt Nam;
+e) Thực hiện nghĩa vụ báo cáo định kỳ hoặc theo yêu cầu của cơ quan quản
+lý nhà nước có thẩm quyền;
+g) Báo cáo trực tuyến định kì hoặc theo yêu cầu thông qua Nền tảng Quản
+lý hoạt động thương mại điện tử của cơ quan quản lý nhà nước có thẩm quyền,
+bao gồm tối thiểu các thông tin về số tài khoản người dùng, số lượt giao dịch, trị
+giá giao dịch;
+h) Chịu trách nhiệm liên đới trong trường hợp không thực hiện các quy
+định tại Điều này;
+i) Thực hiện các trách nhiệm khác theo quy định của pháp luật.
+- Đối với người bán nước ngoài không hiện diện tại Việt Nam: Dự thảo
+Luật quy định, người bán nước ngoài khi thực hiện giao dịch TMĐT với người
+tiêu dùng Việt Nam cũng phải cung cấp đầy đủ thông tin định danh, đồng thời
+tuân thủ nghĩa vụ công bố thông tin minh bạch, bảo đảm chất lượng hàng hóa,
+nghĩa vụ về thuế và chính sách bảo vệ người tiêu dùng Việt Nam tương tự như
+người bán trong nước. Các nghĩa vụ này sẽ được nền tảng thương mại điện tử
+trung gian kiểm soát, thông qua việc định danh và lưu trữ thông tin giao dịch.
+- Đối với hoạt động xuất nhập khẩu qua nền tảng TMĐT: Điều 30 quy định
+60
+rõ hoạt động xuất khẩu, nhập khẩu hàng hóa qua nền tảng TMĐT phải tuân thủ
+pháp luật về ngoại thương, hải quan, thuế và các quy định chuyên ngành. Điều
+này nhằm bảo đảm sự minh bạch trong hoạt động thương mại, đồng thời kiểm
+soát hàng hóa bị cấm, hàng giả, hàng không rõ nguồn gốc:
+Điều 30. Xuất nhập khẩu qua nền tảng thương mại điện tử
+1. Sản phẩm, hàng hóa, dịch vụ xuất nhập khẩu qua nền tảng thương mại
+điện tử phải đáp ứng quy định của pháp luật về quản lý ngoại thương và cam kết
+mở cửa thị trường trong các điều ước quốc tế mà Việt Nam là thành viên.
+2. Tổ chức kinh tế có vốn đầu tư nước ngoài, chi nhánh của thương nhân
+nước ngoài tại Việt Nam, thương nhân nước ngoài không có hiện diện tại Việt
+Nam thực hiện hoạt động xuất nhập khẩu theo quy định của pháp luật về quản lý
+ngoại thương.
+3. Thủ tục thông quan hàng hoá xuất nhập khẩu thực hiện theo quy định
+của pháp luật về hải quan.
+- Đối với hoạt động đầu tư nước ngoài trong lĩnh vực TMĐT, dự thảo Luật
+thiết lập cơ chế quản lý nhằm bảo đảm an ninh kinh tế, an toàn thông tin và sự
+phát triển lành mạnh của thị trường nội địa. Theo quy định tại Điều 34 dự thảo
+Luật, hoạt động TMĐT được xác định là ngành, nghề tiếp cận thị trường có điều
+kiện đối với nhà đầu tư nước ngoài. Việc đầu tư được thực hiện thông qua thành
+lập tổ chức kinh tế hoặc góp vốn, mua cổ phần, phần vốn góp tại doanh nghiệp
+Việt Nam theo pháp luật về đầu tư. Đặc biệt, đối với các trường hợp nhà đầu tư
+nước ngoài chi phối nền tảng TMĐT quy mô lớn, Dự thảo quy định phải đáp ứng
+điều kiện về an ninh quốc gia. Tiêu chí chi phối bao gồm: sở hữu trên 50% vốn
+điều lệ hoặc cổ phần có quyền biểu quyết; quyền bổ nhiệm phần lớn lãnh đạo
+doanh nghiệp; hoặc quyền quyết định các vấn đề quan trọng về công nghệ, mô
+hình kinh doanh, huy động và sử dụng vốn. Để kiểm soát hiệu quả các trường hợp
+này, Dự thảo yêu cầu nhà đầu tư nước ngoài thực hiện thủ tục đánh giá an ninh
+quốc gia trong quá trình đề nghị cấp hoặc điều chỉnh Giấy phép kinh doanh, trong
+đó có bước xin ý kiến Bộ Công an theo trình tự chặt chẽ và thời hạn cụ thể. Đồng
+thời, quy định cũng nêu rõ trường hợp ngoại lệ, không áp dụng với nhà đầu tư
+nước ngoài góp vốn vào doanh nghiệp nhỏ và vừa khởi nghiệp sáng tạo theo pháp
+luật hỗ trợ doanh nghiệp. Chính sách này hướng tới mục tiêu ngăn ngừa nguy cơ
+thao túng thị trường, trốn tránh nghĩa vụ thuế, hoặc gây ảnh hưởng tiêu cực đến
+lợi ích người tiêu dùng và an ninh quốc gia. Qua đó, tạo lập môi trường đầu tư
+công bằng, minh bạch và có kiểm soát, phù hợp với định hướng phát triển bền
+61
+vững của lĩnh vực TMĐT tại Việt Nam.
+Điều 34. Hoạt động đầu tư nước ngoài vào lĩnh vực thương mại điện tử
+1. Hoạt động thương mại điện tử là ngành, nghề tiếp cận thị trường có điều
+kiện đối với nhà đầu tư nước ngoài. Nhà đầu tư nước ngoài được đầu tư kinh
+doanh hoạt động thương mại điện tử tại Việt Nam theo hình thức đầu tư thành lập
+tổ chức kinh tế hoặc đầu tư góp vốn, mua cổ phần, mua phần vốn góp theo pháp
+luật về đầu tư.
+2. Trường hợp nhà đầu tư nước ngoài chi phối nền tảng thương mại điện
+tử quy mô lớn thì phải đáp ứng điều kiện về an ninh quốc gia theo pháp luật quy
+định. Nhà đầu tư nước ngoài chi phối tổ chức hoạt động thương mại điện tử khi
+thuộc một trong các trường hợp sau:
+a) Nhà đầu tư nước ngoài nắm giữ quyền sở hữu trên 50% vốn điều lệ hoặc
+trên 50% cổ phần có quyền biểu quyết của tổ chức;
+b) Nhà đầu tư trực tiếp hoặc gián tiếp quyết định bổ nhiệm, miễn nhiệm
+hoặc bãi nhiệm đa số hoặc tất cả thành viên hội đồng quản trị, chủ tịch hội đồng
+thành viên, giám đốc hoặc tổng giám đốc của doanh nghiệp;
+c) Nhà đầu tư có quyền quyết định các vấn đề quan trọng trong hoạt động
+kinh doanh của doanh nghiệp bao gồm việc lựa chọn nền tảng công nghệ, hình
+thức tổ chức kinh doanh; lựa chọn ngành, nghề, địa bàn, hình thức kinh doanh;
+lựa chọn điều chỉnh quy mô và ngành, nghề kinh doanh; lựa chọn hình thức,
+phương thức huy động, phân bổ và sử dụng vốn kinh doanh của tổ chức đó.
+3. Trường hợp quy định tại khoản 2 Điều này, nhà đầu tư thực hiện trong
+quá trình đề nghị cấp, điều chỉnh Giấy phép kinh doanh theo quy định của pháp
+luật về hoạt động mua bán sản phẩm, hàng hóa và các hoạt động liên quan trực
+tiếp đến mua bán sản phẩm, hàng hóa của nhà đầu tư nước ngoài, tổ chức kinh
+tế có vốn đầu tư nước ngoài như sau:
+a) Trong quá trình cho ý kiến theo thẩm quyền đối với Hồ sơ cấp, điều
+chỉnh Giấy phép kinh doanh, cơ quan có thẩm quyền cấp Giấy phép kinh doanh
+có văn bản xin ý kiến Bộ Công an;
+b) Trên cơ sở văn bản đề nghị của cơ quan có thẩm quyền cấp Giấy phép
+kinh doanh, Bộ Công an có văn bản nêu rõ ý kiến chấp thuận hoặc không chấp
+thuận đề nghị của nhà đầu tư, gửi lại cơ quan có thẩm quyền cấp Giấy phép kinh
+doanh trong vòng 20 ngày kể từ ngày nhận được văn bản đề nghị của cơ quan có
+thẩm quyền cấp Giấy phép kinh doanh;
+62
+c) Thời hạn xin ý kiến Bộ Công an không tính vào thời hạn cho ý kiến chấp
+thuận của cơ quan có thẩm quyền cấp Giấy phép kinh doanh theo quy định của
+pháp luật.
+4. Nhà đầu tư có hoạt động đầu tư vào doanh nghiệp nhỏ và vừa khởi
+nghiệp sáng tạo theo quy định của pháp luật về hỗ trợ doanh nghiệp nhỏ và vừa
+không phải thực hiện quy định tại Điều này.
+Chính sách 3: Quy định loại hình và trách nhiệm của các chủ thể tham
+gia nền tảng số đa dịch vụ, mạng xã hội có hoạt động TMĐT
+Việc tích hợp các chức năng thương mại vào nền tảng số đa dịch vụ và
+mạng xã hội đã làm thay đổi đáng kể cách thức giao dịch điện tử giữa các cá nhân
+và tổ chức. Các nền tảng như mạng xã hội, ứng dụng nhắn tin, công cụ giải trí…
+đang ngày càng trở thành không gian phổ biến cho hoạt động giới thiệu, chào bán
+hàng hóa, dịch vụ. Tuy nhiên, hành lang pháp lý hiện hành chưa theo kịp với sự
+phát triển này, đặc biệt trong việc xác định tính chất hoạt động TMĐT trên các
+nền tảng không truyền thống và trách nhiệm pháp lý của các chủ thể liên quan.
+Chính sách này tập trung quy định khái niệm pháp lý và phạm vi áp dụng
+đối với các nền tảng số đa dịch vụ, mạng xã hội có hoạt động TMĐT. Việc định
+danh rõ các nền tảng này là cơ sở quan trọng để xây dựng các quy định phù hợp,
+đảm bảo các hoạt động thương mại diễn ra trên môi trường điện tử được kiểm soát
+hiệu quả, minh bạch. Đối với chủ thể vận hành mạng xã hội có hoạt động TMĐT
+cần quy định trách nhiệm trong việc kiểm soát hoạt động của người bán trên nền
+tảng, bao gồm: xác minh thông tin người bán, kiểm soát nội dung quảng cáo, ngăn
+chặn hành vi vi phạm pháp luật (hàng giả, hàng cấm, hàng xâm phạm quyền sở
+hữu trí tuệ, hàng kém chất lượng…), cung cấp dữ liệu phục vụ quản lý nhà nước
+và hỗ trợ giải quyết tranh chấp khi phát sinh. Đối với các nền tảng số đa dịch vụ
+(siêu ứng dụng) tích hợp nhiều chức năng như giao dịch thương mại, thanh toán,
+gọi xe, đặt đồ ăn… cũng cần được phân loại và áp dụng các nghĩa vụ tương ứng.
+Các chủ thể này phải thực hiện nghĩa vụ bảo vệ người tiêu dùng, công khai thông
+tin dịch vụ, lưu trữ dữ liệu giao dịch và bảo đảm an toàn thông tin cá nhân.
+Dự thảo Luật Thương mại điện tử, lần đầu tiên quy định khái niệm pháp lý
+và phân loại nền tảng số tích hợp đa dịch vụ, mạng xã hội có hoạt động thương
+mại điện tử tại khoản 6, khoản 7 Điều 3:
+6. Mạng xã hội hoạt động thương mại điện tử là mạng xã hội có một trong
+các chức năng: mở gian hàng, đặt hàng trực tuyến, tiếp thị liên kết, hoặc phát
+trực tuyến bán hàng.
+63
+7. Nền tảng tích hợp đa dịch vụ là nền tảng thương mại điện tử cho phép
+liên kết hoặc tích hợp các nền tảng thương mại điện tử khác trên cùng một hệ
+thống.
+Tại Điều 25 Dự thảo Luật có quy định cụ thể về trách nhiệm của chủ thể
+vận hành nền tảng mạng xã hội có hoạt động TMĐT, đặc biệt trong các tình huống
+nền tảng cung cấp chức năng thương mại như đặt hàng trực tuyến, liên lạc trực
+tuyến, livestream bán hàng, chốt đơn qua nhóm kín, hay cung cấp dịch vụ tích
+hợp (vận chuyển, thanh toán, giao đồ ăn, đặt xe…).
+Một là, dự thảo đã yêu cầu các nền tảng này phải thực hiện xác thực danh
+tính người bán, một nghĩa vụ cốt lõi để đảm bảo minh bạch, chống gian lận và
+truy vết giao dịch. Cụ thể: Người bán trong nước phải được xác thực theo quy
+định của pháp luật về định danh và xác thực điện tử. Người bán nước ngoài phải
+cung cấp tài liệu hợp pháp đã được hợp pháp hóa lãnh sự, điều này nhằm thiết lập
+trách nhiệm pháp lý rõ ràng ngay cả với chủ thể là người bán ngoài lãnh thổ Việt
+Nam.
+Hai là, các nền tảng này có nghĩa vụ kiểm duyệt nội dung do người bán
+đăng tải, chỉ cho hiển thị sau khi kiểm duyệt. Đây là một bước đi mạnh mẽ nhằm
+chống hàng giả, hàng cấm, quảng cáo sai sự thật, và vi phạm sở hữu trí tuệ, những
+hành vi vốn phổ biến trên nền tảng mạng xã hội và siêu ứng dụng hiện nay nhưng
+pháp luật trước đây chưa đủ cơ chế xử lý hiệu quả.
+Ba là, chủ nền tảng phải có biện pháp xử lý kịp thời các vi phạm, bao gồm:
+Gỡ bỏ thông tin vi phạm không quá 24 giờ kể từ khi có yêu cầu từ cơ quan quản
+lý nhà nước có thẩm quyền. Phối hợp cung cấp thông tin và dữ liệu phục vụ điều
+tra, xử lý vi phạm, giải quyết tranh chấp và khiếu nại.
+Bốn là, trường hợp nền tảng có chức năng đặt hàng hoặc liên lạc trực tuyến,
+tức hình thành giao dịch có yếu tố hợp đồng điện tử, dự thảo Luật yêu cầu nền
+tảng phải: (i) Hỗ trợ các bên giải quyết tranh chấp, thông tin khách hàng về hàng
+hóa có khiếm khuyết, tổ chức thu hồi sản phẩm, cung cấp dữ liệu cho người bán
+để truy cập, tải về khi có thay đổi về trạng thái tài khoản; (ii) Đặc biệt, phải thông
+báo trước ít nhất 05 ngày nếu nền tảng dự định ngừng, chấm dứt hoặc hạn chế tài
+khoản của người bán (trừ trường hợp theo yêu cầu của cơ quan nhà nước). Ngay
+cả khi tài khoản bị khóa, nền tảng vẫn phải cho phép người bán tải về dữ liệu giao
+dịch, đảm bảo quyền tự chủ thông tin.
+Điều 25. Trách nhiệm của chủ quản nền tảng mạng xã hội hoạt động
+thương mại điện tử
+64
+1. Chủ quản nền tảng mạng xã hội hoạt động thương mại điện tử có trách
+nhiệm thực hiện các quy định tại khoản 1, 3, 4, 5, 6, 7, 8, 9 Điều 22.
+2. Duy trì nền tảng đáp ứng các điều kiện nêu tại khoản 2 Điều 25 Luật
+này.
+3. Trường hợp chủ quản nền tảng mạng xã hội hoạt động thương mại điện
+tử không có hiện diện tại Việt Nam thì thực hiện trách nhiệm tại Điều 31 Luật
+này.
+Điều 22. Trách nhiệm của chủ quản nền tảng thương mại điện tử trung
+gian
+1. Xác thực điện tử danh tính người bán có địa điểm kinh doanh trong nước
+theo quy định của pháp luật về định danh và xác thực điện tử; Xác thực danh tính
+người bán nước ngoài thông qua các giấy tờ hợp pháp hoá lãnh sự.
+3. Kiểm duyệt nội dung thông tin do người bán khởi tạo trước khi cho phép
+hiển thị trên nền tảng.
+4. Có biện pháp xử lý kịp thời khi phát hiện hoặc nhận được phản ánh về
+hành vi vi phạm pháp luật; Gỡ bỏ thông tin về sản phẩm, hàng hóa, dịch vụ vi
+phạm pháp luật trong thời gian sớm nhất không quá 24 giờ kể từ khi nhận được
+yêu cầu của cơ quan quản lý nhà nước có thẩm quyền.
+5. Phối hợp, hỗ trợ cơ quan nhà nước có thẩm quyền giải quyết tranh chấp,
+khiếu nại, điều tra, xử lý các hành vi kinh doanh vi phạm pháp luật;
+6. Báo cáo trực tuyến định kì thông qua Nền tảng Quản lý hoạt động thương
+mại điện tử hoặc theo yêu cầu của cơ quan quản lý nhà nước có thẩm quyền.
+7. Trường hợp nền tảng có chức năng đặt hàng trực tuyến hoặc chức năng
+liên lạc trực tuyến, chủ quản nền tảng có trách nhiệm:
+a) Cung cấp các thông tin cần thiết và hỗ trợ các bên trong quá trình giải
+quyết tranh chấp;
+b) Trường hợp phát hiện sản phẩm, hàng hoá có khuyết tật, phải thông tin
+trực tiếp cho khách hàng đã mua sản phẩm, hàng hoá đó trên nền tảng; công khai
+trên nền tảng thông tin về sản phẩm, hàng hoá có khuyết tật và phối hợp với người
+bán để thực hiện việc thu hồi sản phẩm, hàng hoá theo quy định của pháp luật;
+c) Cung cấp công cụ để người bán truy cập tài khoản để tải về dữ liệu hàng
+hoá, dịch vụ và thông tin của người mua;
+d) Cung cấp thông tin cho người bán tối thiểu 05 ngày trước khi tạm ngừng,
+65
+chấm dứt hoặc áp đặt bất kỳ hạn chế nào đối với tài khoản người bán, trừ trường
+hợp tạm ngừng, chấm dứt hoặc áp đặt hạn chế theo yêu cầu của cơ quan quản lý
+nhà nước. Đảm bảo người bán có thể truy cập tài khoản để tải về dữ liệu giao
+dịch ngay cả khi tài khoản bị tạm ngừng hoặc chấm dứt.
+8. Liên đới chịu trách nhiệm bồi thường thiệt hại trong trường hợp vi phạm
+quy định tại Điều này trực tiếp dẫn đến thiệt hại cho người mua.
+9. Đối với nền tảng thương mại điện tử trung gian là nền tảng số quy mô
+lớn, ngoài các trách nhiệm nêu tại Điều này, chủ quản nền tảng thương mại điện
+tử trung gian quy mô lớn có các trách nhiệm sau:
+a) Xây dựng hệ thống xử lý khiếu nại trực tuyến cho người dùng tuân thủ
+quy định tại Điều 46 Luật này;
+b) Xây dựng giải pháp khả thi nhằm ngăn chặn thông tin, giao dịch giả
+mạo, các hành vi vi phạm pháp luật thực hiện trên nền tảng;
+c) Theo yêu cầu của cơ quan quản lý nhà nước trong việc thanh tra, kiểm
+tra hành vi có dấu hiệu vi phạm pháp luật, cung cấp cho cơ quan quản lý nhà
+nước dữ liệu giao dịch; mô tả thuật toán liên quan bao gồm giải thích thiết kế, lô-
+gíc, tính năng, mô phỏng;
+d) Không được áp đặt người dùng phải sử dụng dịch vụ thanh toán của một
+nhà cung cấp hoặc sử dụng vận chuyển của một nhà cung cấp;
+đ) Thực hiện các trách nhiệm về bảo vệ quyền lợi người tiêu dùng của nền
+tảng trung gian quy mô lớn theo quy định của pháp luật.
+Chính sách 4: Quy định về dịch vụ hỗ trợ TMĐT và trách nhiệm của
+các chủ thể liên quan
+TMĐT hiện nay không chỉ bao gồm các hoạt động mua bán hàng hóa, cung
+ứng dịch vụ trực tiếp trên môi trường mạng mà còn là một hệ sinh thái số phức
+hợp, được vận hành thông qua sự tương tác của nhiều nhóm chủ thể cung cấp dịch
+vụ hỗ trợ chuyên biệt. Các dịch vụ này bao gồm: hạ tầng kỹ thuật, logistics, thanh
+toán, tiếp thị liên kết, đánh giá tín nhiệm, chứng thực hợp đồng điện tử,... đóng
+vai trò then chốt trong bảo đảm tính liên tục, an toàn, minh bạch và hiệu quả của
+các giao dịch TMĐT.
+Tuy nhiên, khuôn khổ pháp luật hiện hành chủ yếu tập trung điều chỉnh
+hành vi của người bán, người mua và các nền tảng TMĐT, trong khi vai trò, trách
+nhiệm và nghĩa vụ pháp lý của các chủ thể cung cấp dịch vụ hỗ trợ chưa được xác
+định đầy đủ và rõ ràng. Khoảng trống này dẫn đến những khó khăn trong quản lý,
+66
+giám sát và xử lý vi phạm phát sinh trong quá trình giao dịch điện tử, đồng thời
+tiềm ẩn rủi ro cho người tiêu dùng.
+Trên cơ sở đó, chính sách này hướng đến việc xây dựng và hoàn thiện hệ
+thống quy định pháp lý đối với các loại hình dịch vụ hỗ trợ TMĐT. Trọng tâm là
+việc: (i) nhận diện, gọi tên và phân loại rõ ràng các nhóm dịch vụ hỗ trợ; (ii) xác
+lập nghĩa vụ công khai, minh bạch thông tin; (iii) quy định trách nhiệm phối hợp
+với cơ quan quản lý nhà nước và (iv) xây dựng cơ chế giám sát, xử lý vi phạm
+một cách đồng bộ và hiệu quả. Cụ thể:
+- Đối với các dịch vụ hạ tầng kỹ thuật phục vụ hoạt động TMĐT, dự thảo
+Luật quy định ba nhóm chính: dịch vụ truyền dẫn, dịch vụ lưu trữ đệm và dịch vụ
+lưu trữ theo yêu cầu. Các dịch vụ này không mới tại Việt Nam, và đã được quy
+định tại Luật sửa đổi, bổ sung một số Điều của Luật Sở hữu trí tuệ năm 2022,
+cùng các văn bản hướng dẫn dưới luật. Các tổ chức cung cấp dịch vụ hạ tầng kỹ
+thuật có nghĩa vụ ngăn chặn kịp thời hành vi vi phạm theo yêu cầu từ cơ quan có
+thẩm quyền trong thời hạn không quá 24 giờ, nhằm tăng cường khả năng quản lý
+và xử lý sự cố trên môi trường số:
+Điều 45. Dịch vụ hạ tầng kỹ thuật phục vụ hoạt động thương mại điện
+tử
+1. Dịch vụ hạ tầng kỹ thuật phục vụ hoạt động thương mại điện tử trong
+phạm vi Luật này bao gồm:
+a) Dịch vụ “chỉ truyền dẫn” là dịch vụ truyền dẫn trên mạng viễn thông và
+mạng Internet nội dung thông tin số do người sử dụng dịch vụ cung cấp hoặc dịch
+vụ cung cấp khả năng truy nhập vào mạng viễn thông và mạng Internet;
+b) Dịch vụ “lưu trữ đệm” là dịch vụ truyền dẫn trên mạng viễn thông và
+mạng Internet nội dung thông tin số do người sử dụng dịch vụ cung cấp mà có
+hoạt động lưu trữ tự động, trung chuyển và tạm thời nội dung thông tin số đó.
+Hoạt động lưu trữ tự động, trung chuyển và tạm thời này được thực hiện với mục
+đích duy nhất là làm cho việc chuyển tiếp nội dung thông tin số đó một cách hiệu
+quả hơn đến người sử dụng dịch vụ khác theo yêu cầu của họ;
+c) Dịch vụ “lưu trữ nội dung thông tin số theo yêu cầu” là dịch vụ cho
+người sử dụng lưu trữ nội dung thông tin số do người sử dụng cung cấp theo yêu
+cầu của họ.
+2. Trong thời hạn 24 giờ kể từ thời điểm nhận được yêu cầu của cơ quan
+nhà nước có thẩm quyền, doanh nghiệp cung cấp dịch vụ hạ tầng kỹ thuật có trách
+67
+nhiệm ngăn chặn hành vi vi phạm theo nội dung yêu cầu đó.
+- Đối với dịch vụ tiếp thị liên kết và tư vấn bán hàng: chính sách này được
+cụ thể hóa tại dự thảo Luật, thông qua việc thiết lập định nghĩa rõ ràng loại hình
+dịch vụ, đồng thời phân định trách nhiệm giữa tổ chức cung cấp dịch vụ và cá
+nhân tham gia tiếp thị liên kết (người phát trực tuyến, người đánh giá sản phẩm).
+Các tổ chức cung cấp dịch vụ phải bảo đảm không hợp tác với nền tảng hoặc sản
+phẩm vi phạm pháp luật. Người tham gia tiếp thị phải tuân thủ quy định pháp luật
+về quảng cáo, khuyến mại, bảo vệ người tiêu dùng và công khai các mối quan hệ
+tài trợ, thông tin sản phẩm và giá cả theo quy định. Chính phủ sẽ ban hành chi tiết
+các điều kiện và thủ tục hành chính liên quan.
+Điều 46. Dịch vụ tiếp thị liên kết, tư vấn bán hàng
+1. Dịch vụ tiếp thị liên kết là dịch vụ trong đó tổ chức, cá nhân tiếp thị liên
+kết trả hoa hồng cho tổ chức cung cấp dịch vụ tiếp thị liên kết để tạo đường dẫn
+truy cập tới các nền tảng thương mại điện tử, dựa trên số lượt truy cập, số lượng
+khách hàng để lại thông tin, doanh thu từ số lượng sản phẩm bán ra qua liên kết.
+Tổ chức cung cấp dịch vụ tiếp thị liên kết có trách nhiệm:
+a) Không được cung cấp dịch vụ tiếp thị liên kết với/cho các nền tảng
+thương mại điện tử không tuân thủ pháp luật Việt Nam;
+b) Không được cung cấp dịch vụ tiếp thị liên kết để giới thiệu sản phẩm,
+hàng hóa, dịch vụ có dấu hiệu vi phạm pháp luật hoặc theo yêu cầu của cơ quan
+có thẩm quyền.
+2. Người phát trực tuyến bán hàng và người cung cấp thông tin đánh giá
+có hoạt động tiếp thị liên kết thực hiện các trách nhiệm sau:
+a) Có kiến thức pháp luật về thương mại điện tử;
+b) Cung cấp thông tin định danh theo quy định của pháp luật cho chủ quản
+nền tảng thương mại điện tử;
+c) Công bố hoặc ủy quyền cho chủ quản nền tảng thương mại điện tử công
+khai việc được tài trợ (nếu có) để phát trực tuyến bán hàng hoặc cung cấp thông
+tin đáng giá trên nền tảng;
+d) Công bố thông tin về sản phẩm, hàng hóa, dịch vụ; thông tin về giá cả
+theo quy định của pháp luật;
+đ) Tuân thủ quy định của pháp luật về quảng cáo, khuyến mại, bảo vệ quyền
+lợi người tiêu dùng và quy định pháp luật khác có liên quan.
+68
+3. Chính phủ quy định chi tiết điều kiện, thẩm quyền, trình tự, thủ tục đáp
+ứng điểm a khoản 2 Điều này.
+- Đối với dịch vụ logistics phục vụ TMĐT, chính sách đề xuất xác định rõ
+tư cách pháp lý của các doanh nghiệp logistics có hợp tác với nền tảng và người
+bán TMĐT. Các đơn vị này có trách nhiệm báo cáo hoạt động, minh bạch hóa
+thông tin hành trình đơn hàng, không hợp tác với nền tảng vi phạm pháp luật và
+phối hợp với cơ quan quản lý trong việc kiểm tra, xử lý các hành vi gian lận
+thương mại.
+Điều 47. Dịch vụ logistics cho thương mại điện tử
+1. Dịch vụ logistics cho thương mại điện tử là dịch vụ do tổ chức ký hợp
+đồng cung cấp dịch vụ logistics với các nền tảng thương mại điện tử và người bán
+trên nền tảng thương mại điện tử.
+2. Trách nhiệm của các chủ thể cung cấp dịch vụ logistics cho thương mại
+điện tử:
+a) Báo cáo về hoạt động cung cấp logistics cho thương mại điện tử cho cơ
+quan quản lý nhà nước về thương mại điện tử;
+b) Không hợp tác, cung cấp dịch vụ cho nền tảng thương mại điện tử vi
+phạm pháp luật Việt Nam.
+3. Chính phủ quy định chi tiết Điều này
+- Đối với dịch vụ trung gian thanh toán: chính sách yêu cầu các tổ chức
+cung cấp dịch vụ thực hiện phân loại riêng đối với các giao dịch phát sinh từ nền
+tảng TMĐT, báo cáo định kỳ về thông tin thanh toán và không cung cấp dịch vụ
+cho nền tảng vi phạm pháp luật. Đây là các biện pháp cần thiết nhằm tăng cường
+phòng chống gian lận, rửa tiền và bảo vệ dữ liệu cá nhân trong môi trường số. Dự
+thảo Luật thiết kế các nội dung này tại Điều 48:
+Điều 48. Dịch vụ trung gian thanh toán cho thương mại điện tử
+1. Dịch vụ trung gian thanh toán cho thương mại điện tử là dịch vụ do các
+tổ chức cung cấp, hoạt động theo pháp luật về thanh toán nhằm cung cấp dịch vụ
+trung gian thanh toán cho các nền tảng thương mại điện tử.
+2. Trách nhiệm của tổ chức cung cấp dịch vụ trung gian thanh toán cho
+thương mại điện tử:
+a) Thực hiện phân loại giao dịch thanh toán phát sinh từ nền tảng thương
+mại điện tử với các giao dịch thanh toán khác;
+69
+b) Báo cáo thông tin liên quan đến giao dịch thanh toán phát sinh qua nền
+tảng thương mại điện tử cho cơ quan quản lý nhà nước có thẩm quyền;
+c) Không hợp tác, cung cấp dịch vụ cho nền tảng thương mại điện tử vi
+phạm pháp luật Việt Nam.
+3. Chính phủ quy định chi tiết Điều này.
+- Đối với dịch vụ chứng thực hợp đồng điện tử trong thương mại: dự thảo
+Luật quy định rõ nội dung, trách nhiệm của bên thứ ba trong việc lưu trữ và bảo
+đảm tính toàn vẹn, bảo mật của hợp đồng điện tử. Doanh nghiệp cung cấp dịch vụ
+có trách nhiệm hỗ trợ điều tra vi phạm, công bố quy chế hoạt động và phải kết nối
+với Nền tảng hợp đồng điện tử quốc gia, thực hiện báo cáo định kỳ. Bộ Công
+Thương được giao nhiệm vụ xây dựng, vận hành nền tảng này để bảo đảm sự tin
+cậy và giá trị pháp lý của các hợp đồng giao kết trên môi trường điện tử.
+Điều 49. Dịch vụ chứng thực hợp đồng điện tử trong thương mại
+1. Dịch vụ chứng thực hợp đồng điện tử trong thương mại là dịch vụ của
+bên thứ ba về lưu trữ và bảo đảm tính toàn vẹn của chứng từ điện tử do các bên
+khởi tạo trong quá trình giao kết và thực hiện hợp đồng.
+2. Trách nhiệm của doanh nghiệp cung cấp dịch vụ chứng thực hợp đồng
+điện tử trong thương mại
+a) Chịu trách nhiệm về tính bảo mật và toàn vẹn của hợp đồng điện tử mà
+mình lưu trữ và chứng thực;
+b) Cung cấp tài liệu và hỗ trợ cơ quan quản lý nhà nước điều tra các hành
+vi vi phạm pháp luật liên quan đến chứng từ điện tử mà mình lưu trữ và chứng
+thực;
+c) Công bố công khai Quy chế hoạt động cung cấp dịch vụ chứng thực hợp
+đồng điện tử với các nội dung theo hướng dẫn của Bộ Công Thương;
+d) Kết nối với Nền tảng hợp đồng điện tử quốc gia của Bộ Công Thương,
+báo cáo về tình hình cung cấp dịch vụ chứng thực hợp đồng điện tử theo yêu cầu.
+3. Bộ Công Thương xây dựng, vận hành Nền tảng hợp đồng điện tử quốc
+gia đảm bảo độ tin cậy của cách thức khởi tạo, gửi, nhận hoặc lưu trữ hợp đồng
+điện tử; bảo đảm và duy trì tính toàn vẹn của hợp đồng điện tử; đảm bảo cách
+thức xác định người khởi tạo, gửi, nhận thông điệp dữ liệu.
+4. Chính phủ quy định chi tiết Điều này, quy định điều kiện kinh doanh,
+thẩm quyền, quy trình, thủ tục, hồ sơ cấp, gia hạn, thay đổi, cấp lại, tạm đình chỉ,
+70
+thu hồi giấy phép kinh doanh dịch vụ chứng thực hợp đồng điện tử trong thương
+mại.
+Chính sách 5: Hoàn thiện khuôn khổ pháp lý về giao kết hợp đồng
+trong TMĐT
+Giao kết hợp đồng là nội dung cốt lõi của TMĐT, thể hiện bản chất giao
+dịch giữa các chủ thể trong môi trường số. Tuy nhiên, khuôn khổ pháp luật hiện
+hành về hợp đồng điện tử còn tồn tại những khoảng trống nhất định, đặc biệt trước
+sự phát triển nhanh chóng của công nghệ và sự đa dạng của các hình thức giao kết
+qua nền tảng số, bao gồm giao kết với hệ thống thông tin tự động, thông qua chức
+năng đặt hàng trực tuyến, hay các giao dịch thực hiện gần như tức thời trên nền
+tảng mạng xã hội hoặc qua phát trực tuyến.
+Để khắc phục các bất cập nêu trên, chính sách này hướng tới việc xây dựng
+và hoàn thiện một khuôn khổ pháp lý đầy đủ, rõ ràng và khả thi về giao kết hợp
+đồng trong môi trường TMĐT, với các nội dung cụ thể đã được thể chế hóa trong
+Chương II – Giao kết hợp đồng trong TMĐT của Dự thảo Luật.
+Trước hết, Dự thảo đã quy định rõ khái niệm hợp đồng điện tử, căn cứ pháp
+lý xác lập giá trị pháp lý tương đương với hợp đồng giấy, cụ thể tại:
+Điều 8. Hợp đồng điện tử trong thương mại
+1. Hợp đồng điện tử là hợp đồng được thể hiện dưới dạng dữ liệu điện tử.
+2. Hợp đồng điện tử có giá trị pháp lý như văn bản, như bản gốc hoặc có
+giá trị làm chứng cứ nếu đáp ứng các điều kiện theo pháp luật giao dịch điện tử.
+Dự thảo cũng bổ sung các quy định mới làm rõ cơ chế hình thành hợp đồng
+trong môi trường số, đặc biệt là khi sử dụng chức năng đặt hàng trực tuyến trên
+nền tảng TMĐT. Các điều khoản này bảo đảm các chủ thể trong giao dịch nắm rõ
+nội dung giao dịch, có khả năng sửa đổi, xác nhận trước khi hợp đồng được giao
+kết, qua đó nâng cao tính minh bạch, bảo vệ quyền lợi của cả bên bán và bên mua,
+cụ thể:
+Điều 11. Thông báo mời đề nghị giao kết hợp đồng điện tử
+1. Một thông báo bằng chứng từ điện tử về đề nghị giao kết hợp đồng mà
+không có bên nhận cụ thể thì chỉ là thông báo mời đề nghị giao kết hợp đồng.
+Thông báo đó chưa được coi là đề nghị giao kết hợp đồng, trừ khi bên thông báo
+chỉ rõ tại thông báo đó trách nhiệm của mình trong trường hợp nhận được trả lời
+chấp nhận.
+2. Trường hợp một nền tảng thương mại điện tử có chức năng đặt hàng
+71
+trực tuyến thì các thông tin giới thiệu về sản phẩm, hàng hóa, dịch vụ và các điều
+khoản liên quan được coi là thông báo mời đề nghị giao kết hợp đồng của tổ chức,
+cá nhân bán hàng theo quy định tại Điều này.
+Thông tin giới thiệu về sản phẩm, hàng hoá, dịch vụ và các điều khoản liên
+quan trên nền tảng thương mại điện tử có chức năng đặt hàng trực tuyến đối với
+hàng hoá, dịch vụ đó được coi là thông báo.
+Điều 12. Cung cấp các điều khoản của hợp đồng khi sử dụng chức năng
+đặt hàng trực tuyến trên nền tảng thương mại điện tử
+Nền tảng thương mại điện tử có chức năng đặt hàng trực tuyến phải cung
+cấp cho khách hàng thông tin về các điều khoản của hợp đồng trước thời điểm
+khách hàng gửi đề nghị giao kết hợp đồng.
+Điều 13. Đề nghị giao kết hợp đồng
+Chứng từ điện tử do khách hàng khởi tạo và gửi đi bằng cách sử dụng chức
+năng đặt hàng trực tuyến được coi là đề nghị giao kết hợp đồng của khách hàng
+đối với sản phẩm, hàng hóa hoặc dịch vụ gắn kèm chức năng đặt hàng trực tuyến
+đó.
+Điều 14. Rà soát và xác nhận nội dung hợp đồng
+Nền tảng thương mại điện tử phải có cơ chế cho phép khách hàng rà soát,
+bổ sung, sửa đổi và xác nhận nội dung giao dịch trước khi sử dụng chức năng đặt
+hàng trực tuyến để gửi đề nghị giao kết hợp đồng. Cơ chế rà soát và xác nhận này
+phải đáp ứng các điều kiện sau:
+- Hiển thị cho khách hàng những thông tin sau:
+a) Tên sản phẩm, hàng hóa hoặc dịch vụ, số lượng và chủng loại;
+b) Phương thức và thời hạn giao hàng hoặc cung ứng dịch vụ;
+c) Tổng giá trị của hợp đồng và các chi tiết liên quan đến phương thức
+thanh toán được khách hàng lựa chọn.
+Những thông tin này phải có khả năng lưu trữ, in ấn được trên hệ thống
+thông tin của khách hàng và hiển thị được về sau.
+- Hiển thị cho khách hàng những thông tin về cách thức trả lời chấp nhận
+đề nghị giao kết hợp đồng và thời hạn trả lời đề nghị giao kết hợp đồng;
+- Cho phép khách hàng sau khi rà soát những thông tin nói trên được lựa
+chọn hủy giao dịch hoặc xác nhận việc đề nghị giao kết hợp đồng.
+72
+Điều 15. Trả lời đề nghị giao kết hợp đồng
+1. Trả lời chấp nhận hoặc không chấp nhận đề nghị giao kết hợp đồng phải
+được thực hiện dưới hình thức phù hợp để thông tin có thể lưu trữ, in và hiển thị
+được tại hệ thống thông tin của khách hàng.
+2. Khi trả lời chấp nhận đề nghị giao kết hợp đồng của khách hàng, tổ chức,
+cá nhân bán hàng phải cung cấp cho khách hàng những thông tin sau:
+a) Danh sách toàn bộ sản phẩm, hàng hóa hoặc dịch vụ khách hàng đặt
+mua, số lượng, giá của từng sản phẩm và tổng giá trị hợp đồng;
+b) Thời hạn giao hàng hoặc cung ứng dịch vụ;
+c) Thông tin liên hệ để khách hàng có thể hỏi về tình trạng thực hiện hợp
+đồng khi cần thiết.
+3. Trường hợp đối tượng của hợp đồng là sản phẩm nội dung thông tin số
+hoặc dịch vụ trực tuyến và việc trả lời chấp nhận đề nghị giao kết hợp đồng được
+thể hiện bằng việc giao sản phẩm hoặc cung ứng dịch vụ thì cơ chế rà soát và xác
+nhận phải đáp ứng các quy định sau:
+a) Hiển thị tên sản phẩm hoặc dịch vụ, tổng số tiền khách hàng phải trả
+cho sản phẩm, hàng hóa, dịch vụ đó và phương thức thanh toán sẽ được áp dụng;
+b) Cho phép khách hàng sau khi rà soát những thông tin trên được lựa chọn
+hủy hoặc xác nhận đề nghị giao kết hợp đồng.
+Điều 16. Chấm dứt đề nghị giao kết hợp đồng
+1. Trường hợp tổ chức, cá nhân bán hàng có công bố thời hạn trả lời đề
+nghị giao kết hợp đồng, nếu hết thời hạn này mà khách hàng vẫn không được trả
+lời thì đề nghị giao kết hợp đồng của khách hàng chấm dứt hiệu lực. Việc trả lời
+chấp nhận sau thời hạn này được coi là một đề nghị giao kết hợp đồng khác từ
+phía tổ chức, cá nhân bán hàng.
+2. Trường hợp tổ chức, cá nhân bán hàng không công bố rõ thời hạn trả
+lời đề nghị giao kết hợp đồng, nếu trong vòng 12 (mười hai) giờ kể từ khi gửi đề
+nghị giao kết hợp đồng, khách hàng không nhận được trả lời đề nghị giao kết hợp
+đồng thì đề nghị giao kết hợp đồng của khách hàng được coi là chấm dứt hiệu
+lực.
+Điều 17. Thời điểm giao kết hợp đồng khi sử dụng chức năng đặt hàng
+trực tuyến trên nền tảng thương mại điện tử
+Thời điểm giao kết hợp đồng khi sử dụng chức năng đặt hàng trực tuyến
+73
+trên nền tảng thương mại điện tử là thời điểm khách hàng nhận được trả lời của
+tổ chức, cá nhân bán hàng chấp nhận đề nghị giao kết hợp đồng theo quy định tại
+Khoản 2 Điều 15 Luật này.
+Điều 18. Thủ tục chấm dứt hợp đồng đối với hợp đồng dịch vụ thương
+mại điện tử và các dịch vụ trực tuyến khác
+1. Nền tảng thương mại điện tử phải cung cấp công cụ trực tuyến để khách
+hàng có thể gửi thông báo chấm dứt hợp đồng khi hết nhu cầu sử dụng dịch vụ.
+Công cụ này phải đáp ứng các điều kiện sau:
+a) Cho phép khách hàng lưu trữ và hiển thị thông báo chấm dứt hợp đồng
+trong hệ thống thông tin của mình sau khi gửi đi;
+b) Có cơ chế phản hồi để khách hàng biết thông báo chấm dứt hợp đồng
+của mình đã được gửi.
+2. Nền tảng thương mại điện tử phải công bố thông tin minh bạch, đầy đủ
+về quy trình, thủ tục chấm dứt hợp đồng, bao gồm các nội dung sau:
+a) Các trường hợp tổ chức, cá nhân cung cấp dịch vụ chấm dứt hợp đồng
+và cách thức giải quyết hậu quả của việc chấm dứt hợp đồng này;
+b) Thời điểm hợp đồng chấm dứt hiệu lực và cách thức thanh toán phí dịch
+vụ trong trường hợp khách hàng là bên chấm dứt hợp đồng;
+c) Trường hợp nền tảng thương mại điện tử không công bố rõ thời điểm
+hợp đồng chấm dứt hiệu lực trong trường hợp khách hàng là bên chấm dứt hợp
+đồng, thì thời điểm khách hàng gửi thông báo được coi là thời điểm hợp đồng
+chấm dứt.
+Chính sách 6: Thúc đẩy phát triển TMĐT xanh và bền vững
+Phát triển TMĐT không thể tách rời mục tiêu phát triển bền vững, nhất là
+trong bối cảnh gia tăng nhu cầu giao dịch trực tuyến kéo theo áp lực lớn đến môi
+trường và tài nguyên. TMĐT nếu không được định hướng đúng đắn sẽ làm gia
+tăng phát thải khí nhà kính, tiêu hao năng lượng, tạo gánh nặng rác thải bao bì,
+cũng như phát sinh nhiều thách thức trong quản lý hậu cần và chuỗi cung ứng. Vì
+vậy, việc đưa ra các chính sách thúc đẩy TMĐT xanh, thân thiện với môi trường
+là cần thiết để hướng TMĐT trở thành một trụ cột trong nền kinh tế số bền vững.
+Chính sách có định hướng rõ ràng về phát triển thị trường TMĐT trong
+nước theo hướng cân bằng giữa tăng trưởng thương mại và hiệu quả môi trường.
+Các tiêu chí phát triển bền vững cần được tích hợp vào chương trình, kế hoạch
+quốc gia, trong đó có việc lồng ghép các mục tiêu giảm phát thải carbon, tiết kiệm
+74
+năng lượng và quản lý chất thải hiệu quả trong toàn bộ chuỗi hoạt động TMĐT,
+từ bán hàng, thanh toán, vận chuyển đến dịch vụ sau bán. Một nội dung quan trọng
+khác là chính sách cần cụ thể hóa các yêu cầu và khuyến khích đối với hoạt động
+TMĐT xanh, bao gồm việc khuyến khích sử dụng vật liệu đóng gói thân thiện với
+môi trường, quản lý chất thải bao bì, áp dụng quy trình giao hàng không phát thải
+và hệ thống lưu trữ tiết kiệm năng lượng. Các tiêu chuẩn xanh cho nền tảng số,
+đóng gói bao bì, vận chuyển, giao hàng ... cần được thiết lập, đánh giá và giám
+sát thực hiện. Chính sách này không chỉ góp phần làm giảm tác động tiêu cực của
+TMĐT đến môi trường, mà còn nâng cao ý thức trách nhiệm xã hội của doanh
+nghiệp, tăng cường niềm tin của người tiêu dùng và thúc đẩy hình thành một hệ
+sinh thái TMĐT phát triển bền vững trong dài hạn.
+Các căn cứ pháp lý và định hướng chính sách liên quan trong Dự thảo Luật
+TMĐT quy định tại mục 1 Chương IV tại Điều 35. Đây là cơ sở để lồng ghép nội
+dung TMĐT xanh, TMĐT bền vững vào các văn bản quy hoạch cấp quốc gia, bảo
+đảm phát triển TMĐT hài hòa giữa tăng trưởng kinh tế và bảo vệ môi trường.
+Trong đó, các khoản hỗ trợ từ ngân sách nhà nước, các quỹ ngoài ngân sách như
+Quỹ phát triển TMĐT có thể được phân bổ cho các nhiệm vụ phát triển TMĐT
+xanh, tại Điều 36 về tài chính cho phát triển TMĐT và Điều 37 về Quỹ phát triển
+TMĐT.
+Điều 35. Chiến lược, Chương trình, Kế hoạch phát triển Thương mại
+điện tử quốc gia
+1. Chiến lược, Chương trình, Kế hoạch thương mại điện tử quốc gia được
+ban hành theo từng thời kỳ.
+2. Chiến lược, Chương trình, Kế hoạch thương mại điện tử quốc gia về
+thương mại điện tử bao gồm các nội dung sau:
+a. Quan điểm, định hướng, và mục tiêu phát triển thương mại điện tử quốc
+gia;
+b. Chính sách thúc đẩy phát triển thương mại điện tử quốc gia;
+c. Danh mục dự án, giải pháp trọng tâm để phát triển thương mại điện tử;
+d. Nguồn lực tài chính, tín dụng từ ngân sách nhà nước và các nguồn vốn
+hợp pháp khác để phát triển thương mại điện tử.
+3. Bộ Công Thương xây dựng, trình Thủ tướng phê duyệt Chiến lược,
+Chương trình, Kế hoạch phát triển Thương mại điện tử quốc gia.
+4. Các bộ ngành và địa phương xây dựng kế hoạch triển khai cụ thể căn cứ
+75
+vào Chiến lược, Chương trình phát triển Thương mại điện tử quốc gia đã phê
+duyệt.
+Điều 36. Tài chính cho phát triển thương mại điện tử
+1. Nguồn tài chính cho phát triển thương mại điện tử, bao gồm:
+a) Nguồn ngân sách nhà nước cho thương mại điện tử theo quy định của
+pháp luật về ngân sách nhà nước;
+b) Nguồn ngân sách nhà nước chi đầu tư phát triển và chi thường xuyên
+cho các hoạt động kinh tế theo quy định của pháp luật về ngân sách nhà nước;
+Quỹ hỗ trợ đầu tư theo quy định của pháp luật về đầu tư;
+c) Quỹ phát triển thương mại điện tử;
+d) Nguồn tài chính hợp pháp khác theo quy định của pháp luật.
+2. Việc lập kế hoạch, dự toán, phân bổ, quản lý, sử dụng ngân sách nhà
+nước hàng năm quy định tại điểm a khoản 1 Điều này thực hiện theo quy định của
+pháp luật về ngân sách nhà nước
+Điều 37. Quỹ phát triển thương mại điện tử
+1. Quỹ phát triển thương mại điện tử là quỹ tài chính nhà nước ngoài ngân
+sách, được hình thành ở trung ương để phát triển thương mại điện tử.
+2. Quỹ phát triển thương mại điện tử được hình thành từ các nguồn tài
+chính sau đây:
+a) Hỗ trợ từ nguồn ngân sách nhà nước;
+b) Nguồn đóng góp tự nguyện của các tổ chức, cá nhân trong nước và ngoài
+nước;
+c) Nguồn tài chính hợp pháp khác theo quy định của pháp luật.
+3. Quỹ có mục tiêu hỗ trợ, tài trợ cho dự án, nhiệm vụ, hoạt động không
+được ngân sách nhà nước cấp kinh phí hoặc cần bổ sung kinh phí nhằm tạo thay
+đổi đột phá, tích cực, hiệu quả, bền vững cho phát triển thương mại điện tử, bao
+gồm:
+a) Nhiệm vụ, hoạt động thúc đẩy phát triển thương mại điện tử trong nước;
+b) Nhiệm vụ, hoạt động thúc đẩy xuất khẩu qua thương mại điện tử, thương
+mại số;
+c) Nhiệm vụ, hoạt động hỗ trợ phát triển nguồn nhân lực cho thương mại
+điện tử;
+76
+d) Nhiệm vụ nghiên cứu, hỗ trợ triển khai Cơ chế thử nghiệm có kiểm soát
+trong thương mại điện tử;
+đ) Hỗ trợ nhiệm vụ, hoạt động khác trong phát triển thương mại điện tử,
+thương mại số theo yêu cầu của cấp có thẩm quyền hoặc do Bộ trưởng Bộ Công
+Thương quyết định.
+4. Quỹ phát triển thương mại điện tử có tư cách pháp nhân, trực thuộc Bộ
+Công Thương, hoạt động theo nguyên tắc sau đây:
+a) Không vì mục đích lợi nhuận;
+b) Quản lý, sử dụng đúng mục đích, đúng pháp luật, kịp thời, hiệu quả, bảo
+đảm công khai, minh bạch;
+c) Được chi cho các hoạt động khi ngân sách nhà nước bố trí chưa đáp ứng
+yêu cầu.
+5. Chính phủ quy định việc thành lập, quản lý, sử dụng Quỹ phát triển
+thương mại điện tử.
+Các chính sách ưu đãi về logistics, thuế có thể lồng ghép thêm tiêu chí về
+phát triển bền vững để khuyến khích doanh nghiệp xuất khẩu qua TMĐT áp dụng
+mô hình thân thiện môi trường, như đóng gói tái chế, vận chuyển xanh, công bố
+mức phát thải được quy định tại Điều 39 dự thảo Luật, cụ thể:
+Điều 39. Thúc đẩy xuất khẩu qua thương mại điện tử
+1. Nhà nước đảm bảo tính đồng bộ giữa trung ương và địa phương trong
+việc thiết lập, xây dựng các chính sách ưu đãi nhằm thúc đẩy xuất khẩu thông qua
+thương mại điện tử xuyên biên giới.
+2. Nhà nước thúc đẩy phát triển thương mại điện tử xuyên biên giới bằng
+việc hoàn thiện, thuận lợi hóa các hệ thống quản lý như hải quan, thuế, thanh
+toán nhằm nâng cao mức độ thuận tiện của thương mại điện tử xuyên biên giới.
+3. Nhà nước tạo cơ chế, chính sách và các điều kiện để xây dựng, vận hành
+khu thí điểm về thương mại điện tử xuyên biên giới hoặc đầu tư vào các khu vực
+riêng hỗ trợ hoạt động thương mại xuyên biên giới, bao gồm các chính sách hỗ
+trợ cho doanh nghiệp, đặc biệt là doanh nghiệp siêu nhỏ, nhỏ và vừa, hộ kinh
+doanh như sau:
+a) Chính sách ưu đãi về quy trình thông quan, kiểm tra, kiểm dịch, kê khai
+và nộp thuế, bảo hiểm;
+b) Chính sách ưu đãi về hậu cần, kho ngoại quan: Khuyến khích các địa
+77
+phương xây dựng kho ngoại quan để thúc đẩy hoạt động xuất khẩu qua thương
+mại điện tử, có chính sách ưu đãi về chi phí thuê kho bãi khi xuất khẩu qua thương
+mại điện tử;
+c) Chính sách ưu đãi về thuế: có cơ chế ưu đãi mức thuế thu nhập doanh
+nghiệp đối với doanh thu từ việc xuất khẩu hàng hoá qua thương mại điện tử.
+4. Nhà nước khuyến khích việc thiết lập trao đổi và hợp tác thương mại
+điện tử xuyên biên giới với các quốc gia và khu vực khác, tham gia xây dựng các
+quy tắc quốc tế về thương mại điện tử và thúc đẩy sự công nhận lẫn nhau về giá
+trị pháp lý của chứng từ điện tử trong thương mại.
+5. Nhà nước thúc đẩy việc thiết lập cơ chế giải quyết tranh chấp thương
+mại
+Qua tổng kết thực tiễn thi hành Nghị định số 52/2013/NĐ-CP và Nghị định
+số 85/2021/NĐ-CP, có thể khẳng định rằng hệ thống pháp luật hiện hành đã góp
+phần quan trọng trong việc định hình và thúc đẩy sự phát triển của TMĐT tại Việt
+Nam. Tuy nhiên, trước những thay đổi nhanh chóng của mô hình kinh doanh,
+công nghệ số và yêu cầu quản lý thực tiễn, các quy định hiện hành bộc lộ nhiều
+hạn chế, không còn đáp ứng yêu cầu điều chỉnh toàn diện và hiệu quả hoạt động
+TMĐT trong giai đoạn mới.
+Trên cơ sở đánh giá đầy đủ kết quả thực hiện và các vấn đề đặt ra từ thực
+tiễn, Bộ Công Thương đã đề xuất 06 nhóm chính sách trọng tâm và xây dựng Dự
+thảo Luật Thương mại điện tử với phạm vi điều chỉnh đầy đủ, phù hợp với định
+hướng phát triển kinh tế số, bảo đảm tính thống nhất của hệ thống pháp luật, phù
+hợp với cam kết quốc tế và nâng cao hiệu quả quản lý nhà nước.
+Bộ Công Thương kính đề xuất Chính phủ xem xét trình Quốc hội dự án Luật
+Thương mại điện tử./.
+Nơi nhận: BỘ TRƯỞNG
+- Như trên;
+- Văn phòng Chính phủ;
+- Bộ Tư pháp;
+- TT. Nguyễn Sinh Nhật Tân;
+- Vụ Pháp chế;
+- Lưu: VT, TMĐT (HangLThu).
+Nguyễn Hồng Diên

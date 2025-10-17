@@ -1,0 +1,1184 @@
+QUỐC HỘI CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+Luật số:…../20..../QH15 Hà Nội, ngày ….. tháng…… năm…..
+DỰ THẢO 1
+ngày 22/6/2025
+LUẬT THƯƠNG MẠI ĐIỆN TỬ
+Căn cứ Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam;
+Quốc hội ban hành Luật Thương mại điện tử.
+Chương I
+NHỮNG QUY ĐỊNH CHUNG
+Điều 1. Phạm vi điều chỉnh
+Luật này quy định về phát triển và quản lý hoạt động thương mại điện tử.
+Điều 2. Đối tượng áp dụng
+Luật này áp dụng đối với tổ chức, cá nhân trong nước và nước ngoài tham
+gia hoạt động thương mại điện tử tại Việt Nam.
+Điều 3. Giải thích từ ngữ
+Trong Luật này, các từ ngữ dưới đây được hiểu như sau:
+1. Hoạt động thương mại điện tử là việc tiến hành một phần hoặc toàn bộ
+quy trình của hoạt động thương mại trên không gian mạng.
+2. Chứng từ điện tử trong giao dịch thương mại (dưới đây gọi tắt là chứng
+từ điện tử) bao gồm hợp đồng, đề nghị, thông báo, xác nhận và các tài liệu khác ở
+dạng dữ liệu điện tử do các bên đưa ra để phục vụ hoạt động thương mại điện tử.
+3. Nền tảng thương mại điện tử là nền tảng số được thiết lập để thực hiện
+hoạt động thương mại điện tử, bao gồm nền tảng thương mại điện tử kinh doanh
+trực tiếp, nền tảng thương mại điện tử trung gian, mạng xã hội có hoạt động
+thương mại điện tử và nền tảng số tích hợp đa dịch vụ.
+4. Nền tảng thương mại điện tử kinh doanh trực tiếp là nền tảng số thương
+mại điện tử do các tổ chức, cá nhân thiết lập để trực tiếp thực hiện hoạt động mua
+bán sản phẩm, hàng hóa hoặc cung ứng dịch vụ với khách hàng.
+5. Nền tảng thương mại điện tử trung gian là nền tảng thương mại điện tử
+cho phép nhiều bên đăng ký tài khoản để thực hiện hoạt động giới thiệu, mua bán
+2
+sản phẩm, hàng hóa hoặc cung ứng dịch vụ, có một trong các chức năng: mở gian
+hàng, đặt hàng trực tuyến, tiếp thị liên kết, hoặc phát trực tuyến bán hàng.
+6. Mạng xã hội hoạt động thương mại điện tử là mạng xã hội có một trong
+các chức năng: mở gian hàng, đặt hàng trực tuyến, tiếp thị liên kết, hoặc phát trực
+tuyến bán hàng.
+7. Nền tảng tích hợp đa dịch vụ là nền tảng thương mại điện tử cho phép
+liên kết hoặc tích hợp các nền tảng thương mại điện tử khác trên cùng một hệ
+thống.
+8. Chủ quản nền tảng thương mại điện tử là tổ chức, cá nhân có thẩm quyền
+quản lý và vận hành nền tảng đó.
+9. Chức năng đặt hàng trực tuyến là chức năng được cài đặt trên nền tảng
+thương mại điện tử cho phép khách hàng khởi tạo đề nghị giao kết hợp đồng, bao
+gồm cả việc giao kết hợp đồng với hệ thống thông tin tự động.
+10. Chức năng liên lạc trực tuyến là chức năng được cài đặt trên nền tảng
+hương mại điện tử cho phép khách hàng và người bán trao đổi thông tin.
+11. Dịch vụ chứng thực hợp đồng điện tử là dịch vụ của bên thứ ba về lưu
+trữ và bảo đảm tính toàn vẹn của chứng từ điện tử do các bên khởi tạo trong quá
+trình giao kết và thực hiện hợp đồng.
+12. Phát trực tuyến bán hàng (livestream bán hàng) là chức năng cho phép
+các tài khoản trên nền tảng số truyền tải trực tuyến thông tin, dữ liệu dưới dạng
+âm thanh, hình ảnh theo thời gian thực nhằm phục vụ hoạt động thương mại điện
+tử.
+13. Cung cấp thông tin đánh giá (review) là hoạt động do tổ chức hoặc cá
+nhân thực hiện việc trải nghiệm và đưa ra nhận xét, cảm nhận chủ quan hoặc
+khách quan về một sản phẩm, hàng hóa, dịch vụ.
+14. Người bán là tổ chức, cá nhân sử dụng nền tảng trung gian thương mại
+điện tử để thực hiện hoạt động mua bán sản phẩm, hàng hóa hoặc cung ứng dịch
+vụ với khách hàng.
+15. Người mua là tổ chức, cá nhân mua sản phẩm, hàng hóa hoặc dịch vụ
+trên nền tảng thương mại điện tử.
+Điều 4. Các nguyên tắc cơ bản trong hoạt động thương mại điện tử
+1. Nguyên tắc tự do, tự nguyện thỏa thuận trong giao dịch thương mại điện
+tử
+3
+Các chủ thể tham gia hoạt động thương mại điện tử có quyền tự do thỏa
+thuận không trái với quy định của pháp luật để xác lập quyền và nghĩa vụ của từng
+bên trong giao dịch. Thỏa thuận này là căn cứ để giải quyết các tranh chấp phát
+sinh trong quá trình giao dịch.
+2. Nguyên tắc xác định phạm vi hoạt động kinh doanh trong thương mại
+điện tử
+Nếu tổ chức, cá nhân tiến hành hoạt động bán sản phẩm, hàng hóa, cung
+ứng dịch vụ và xúc tiến thương mại trên nền tảng thương mại điện tử không nêu
+cụ thể giới hạn địa lý của những hoạt động này, thì các hoạt động kinh doanh đó
+được coi là tiến hành trên phạm vi cả nước.
+3. Nguyên tắc xác định nghĩa vụ về bảo vệ quyền lợi người tiêu dùng trong
+hoạt động thương mại điện tử
+a) Chủ quản nền tảng thương mại điện tử kinh doanh trực tiếp và người bán
+trên nền tảng thương mại điện tử trung gian phải tuân thủ các quy định của pháp
+luật bảo vệ quyền lợi người tiêu dùng khi cung cấp sản phẩm, hàng hóa, dịch vụ
+cho khách hàng;
+b) Trường hợp chủ quản nền tảng thương mại điện tử trung gian thực hiện
+dịch vụ cung cấp thông tin về sản phẩm, hàng hóa, dịch vụ của người bán tới
+người tiêu dùng trên nền tảng thương mại điện tử thì chủ quản đó là bên thứ ba
+trong việc cung cấp thông tin theo pháp luật về bảo vệ quyền lợi người tiêu dùng.
+4. Nguyên tắc áp dụng thống nhất giữa kinh doanh sản phẩm, hàng hóa
+trong môi trường truyền thống và môi trường điện tử
+a) Hoạt động thương mại điện tử đối với sản phẩm, hàng hóa, dịch vụ kinh
+doanh có điều kiện thuộc Danh mục ngành, nghề đầu tư kinh doanh có điều kiện
+phải tuân thủ các quy định pháp luật có liên quan;
+b) Các chủ thể tham gia hoạt động thương mại điện tử phải tuân thủ quy
+định pháp luật có liên quan, phù hợp với thuần phong mỹ tục và đạo đức xã hội.
+Điều 5. Hợp tác quốc tế về thương mại điện tử
+1. Hoạt động hợp tác quốc tế về thương mại điện tử được thực hiện trên
+nguyên tắc tuân thủ pháp luật Việt Nam, điều ước quốc tế mà nước Cộng hòa xã
+hội chủ nghĩa Việt Nam là thành viên và thỏa thuận quốc tế về thương mại điện
+tử trên cơ sở bình đẳng, cùng có lợi, tôn trọng độc lập, chủ quyền và toàn vẹn lãnh
+thổ.
+4
+2. Hoạt động hợp tác quốc tế về thương mại điện tử bao gồm:
+a) Ký kết, gia nhập và thực hiện các điều ước quốc tế song phương, đa
+phương, thoả thuận quốc tế và tham gia tổ chức khu vực, tổ chức quốc tế về thương
+mại điện tử, thương mại số;
+b) Xây dựng và thực hiện chương trình, dự án chung về thương mại điện tử
+trong khuôn khổ thỏa thuận song phương, đa phương, khu vực, liên khu vực và
+quốc tế;
+c) Tham gia xây dựng các quy tắc, tiêu chuẩn quốc tế về thương mại điện
+tử và các hoạt động khác về thương mại điện tử xuyên biên giới.
+3. Bộ Công Thương là cơ quan đầu mối đề xuất, tổ chức thực hiện các hoạt
+động hợp tác quốc tế về thương mại điện tử. Bộ, cơ quan ngang Bộ, Ủy ban nhân
+dân các cấp tổ chức thực hiện hoạt động hợp tác quốc tế về thương mại điện tử
+trong phạm vi quản lý.
+Điều 6. Những hành vi bị cấm
+1. Lợi dụng danh nghĩa hoạt động thương mại điện tử để huy động vốn trái
+phép từ các tổ chức, cá nhân khác;
+2. Thực hiện các hành vi lừa đảo, lừa dối khách hàng trên nền tảng thương
+mại điện tử.
+3. Có hành vi gian dối hoặc cố ý cung cấp thông tin sai sự thật khi thực hiện
+các thủ tục hành chính hoặc khi cung cấp thông tin cho cơ quan quản lý nhà nước.
+4. Lợi dụng hoạt động thương mại điện tử để kinh doanh theo phương thức
+đa cấp nhưng chưa được cấp giấy chứng nhận đăng ký hoạt động bán hàng đa cấp
+theo quy định của pháp luật.
+5. Kinh doanh hoặc tạo điều kiện cho người khác kinh doanh hàng hoá, dịch
+vụ thuộc ngành, nghề cấm đầu tư kinh doanh, hàng giả, hàng xâm phạm quyền sở
+hữu trí tuệ, hàng nhập lậu, hàng hoá không rõ nguồn gốc, xuất xứ, hàng hoá quá
+hạn sử dụng, hàng hoá vi phạm quy định của pháp luật về chất lượng sản phẩm,
+hàng hoá và các quy định pháp luật khác.
+6. Tham gia hoạt động thương mại điện tử trên nền tảng thương mại điện
+tử chưa đáp ứng điều kiện hoạt động tại Việt Nam.
+7. Vận hành nền tảng thương mại điện tử khi chưa hoàn thành các thủ tục
+pháp lý với cơ quan quản lý nhà nước.
+5
+8. Ép buộc hoặc ngăn cản người dùng đăng ký sử dụng hoặc sử dụng nền
+tảng thương mại điện tử khác như là điều kiện bắt buộc để sử dụng dịch vụ.
+9. Sử dụng các thuật toán hoặc biện pháp để hạn chế hoặc ưu tiên việc hiển
+thị sản phẩm, hàng hóa, dịch vụ của các tổ chức, cá nhân kinh doanh mà không
+công khai tiêu chí lựa chọn.
+10. Sử dụng biện pháp để ngăn hiển thị hoặc hiển thị không trung thực kết
+quả phản hồi, đánh giá của người dùng về sản phẩm, hàng hóa, dịch vụ, tổ chức,
+cá nhân kinh doanh trên nền tảng thương mại điện tử, trừ trường hợp phản hồi,
+đánh giá đó vi phạm quy định của pháp luật hoặc trái chuẩn mực đạo đức xã hội.
+Điều 7. Quản lý nhà nước về thương mại điện tử
+1. Nội dung quản lý nhà nước về Thương mại điện tử bao gồm:
+a) Xây dựng, ban hành, tổ chức thực hiện các văn bản quy phạm pháp luật
+về thương mại điện tử; Chiến lược, Quy hoạch, Kế hoạch phát triển Thương mại
+điện tử quốc gia theo từng thời kỳ;
+b) Tuyên truyền, phổ biến chính sách, pháp luật về thương mại điện tử;
+hướng dẫn cơ quan quản lý nhà nước về thương mại điện tử trong quản lý, phát
+triển thương mại điện tử;
+c) Quản lý, giám sát các chủ thể tham gia hoạt động thương mại điện tử;
+d) Báo cáo, thống kê về thương mại điện tử; nghiên cứu, ứng dụng khoa
+học và công nghệ về thương mại điện tử; sản phẩm, dịch vụ về thương mại điện
+tử; quản lý, giám sát, phát triển thị trường thương mại điện tử;
+đ) Thanh tra, kiểm tra, giải quyết khiếu nại, tố cáo và xử lý vi phạm pháp
+luật về thương mại điện tử;
+e) Đào tạo, bồi dưỡng, phát triển nguồn nhân lực và hợp tác quốc tế về
+thương mại điện tử.
+2. Trách nhiệm quản lý nhà nước về thương mại điện tử được quy định như
+sau:
+a) Chính phủ thống nhất quản lý nhà nước về thương mại điện tử;
+b) Bộ Công Thương là cơ quan đầu mối chịu trách nhiệm trước Chính phủ
+thực hiện quản lý nhà nước về thương mại điện tử, xây dựng cơ sở dữ liệu chuyên
+ngành về thương mại điện tử, chủ trì thống kê về thương mại điện tử;
+d) Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ trong phạm vi chức
+6
+năng, nhiệm vụ, quyền hạn của mình phối hợp với Bộ Công Thương quản lý nhà
+nước về thương mại điện tử; kết nối, chia sẻ cơ sở dữ liệu có liên quan đến thương
+mại điện tử với Bộ Công Thương;
+đ) Ủy ban nhân dân cấp tỉnh thực hiện quản lý nhà nước về thương mại điện
+tử tại địa phương; thực hiện công tác thống kê thương mại điện tử và xây dựng,
+phát triển cơ sở dữ liệu về thương mại điện tử tại địa phương, kết nối, chia sẻ cơ
+sở dữ liệu với Bộ Công Thương.
+Chương II
+GIAO KẾT HỢP ĐỒNG TRONG THƯƠNG MẠI ĐIỆN TỬ
+Điều 8. Hợp đồng điện tử trong thương mại
+1. Hợp đồng điện tử là hợp đồng được thể hiện dưới dạng dữ liệu điện tử.
+2. Hợp đồng điện tử có giá trị pháp lý như văn bản, như bản gốc hoặc có
+giá trị làm chứng cứ nếu đáp ứng các điều kiện theo pháp luật giao dịch điện tử.
+Điều 9. Địa điểm kinh doanh
+1. Địa điểm kinh doanh của tổ chức, cá nhân kinh doanh trực tuyến là địa
+điểm được đăng ký hoặc trong trường hợp không đăng ký, là địa điểm cư trú của
+cá nhân kinh doanh trực tuyến.
+2. Trường hợp tổ chức, cá nhân kinh doanh trực tuyến có nhiều địa điểm
+kinh doanh thì địa điểm kinh doanh được xác định là địa điểm được chỉ ra trong
+hợp đồng hoặc là địa điểm có liên quan trực tiếp đến việc thực hiện hợp đồng.
+Điều 10. Lỗi nhập thông tin trong chứng từ điện tử
+1. Trường hợp một người mắc phải lỗi nhập thông tin trong một chứng từ
+điện tử được sử dụng để trao đổi với hệ thống thông tin tự động của bên khác
+nhưng hệ thống thông tin tự động này không hỗ trợ cho người đó sửa lại lỗi thì
+người đó hoặc tổ chức, cá nhân mà người đó đại diện có quyền rút bỏ phần chứng
+từ điện tử có lỗi nếu đáp ứng hai điều kiện sau:
+a) Ngay khi biết có lỗi, người đó hoặc tổ chức, cá nhân mà người đó đại
+diện thông báo cho bên kia về lỗi và nêu rõ đã mắc phải lỗi trong chứng từ điện
+tử này;
+b) Người đó hoặc tổ chức, cá nhân mà người đó đại diện vẫn chưa sử dụng
+hoặc có được bất kỳ lợi ích vật chất hay giá trị nào từ sản phẩm, hàng hóa, dịch
+vụ nhận được từ bên kia.
+7
+2. Quyền rút bỏ phần chứng từ điện tử có lỗi không ảnh hưởng tới trách
+nhiệm giải quyết hậu quả các lỗi phát sinh ngoài những quy định tại điểm a khoản
+này.
+Điều 11. Thông báo mời đề nghị giao kết hợp đồng điện tử
+1. Một thông báo bằng chứng từ điện tử về đề nghị giao kết hợp đồng mà
+không có bên nhận cụ thể thì chỉ là thông báo mời đề nghị giao kết hợp đồng.
+Thông báo đó chưa được coi là đề nghị giao kết hợp đồng, trừ khi bên thông báo
+chỉ rõ tại thông báo đó trách nhiệm của mình trong trường hợp nhận được trả lời
+chấp nhận.
+2. Trường hợp một nền tảng thương mại điện tử có chức năng đặt hàng trực
+tuyến thì các thông tin giới thiệu về sản phẩm, hàng hóa, dịch vụ và các điều khoản
+liên quan được coi là thông báo mời đề nghị giao kết hợp đồng của tổ chức, cá
+nhân bán hàng theo quy định tại Điều này.
+Thông tin giới thiệu về sản phẩm, hàng hoá, dịch vụ và các điều khoản liên
+quan trên nền tảng thương mại điện tử có chức năng đặt hàng trực tuyến đối với
+hàng hoá, dịch vụ đó được coi là thông báo.
+Điều 12. Cung cấp các điều khoản của hợp đồng khi sử dụng chức năng
+đặt hàng trực tuyến trên nền tảng thương mại điện tử
+Nền tảng thương mại điện tử có chức năng đặt hàng trực tuyến phải cung
+cấp cho khách hàng thông tin về các điều khoản của hợp đồng trước thời điểm
+khách hàng gửi đề nghị giao kết hợp đồng.
+Điều 13. Đề nghị giao kết hợp đồng
+Chứng từ điện tử do khách hàng khởi tạo và gửi đi bằng cách sử dụng chức
+năng đặt hàng trực tuyến được coi là đề nghị giao kết hợp đồng của khách hàng
+đối với sản phẩm, hàng hóa hoặc dịch vụ gắn kèm chức năng đặt hàng trực tuyến
+đó.
+Điều 14. Rà soát và xác nhận nội dung hợp đồng
+Nền tảng thương mại điện tử phải có cơ chế cho phép khách hàng rà soát,
+bổ sung, sửa đổi và xác nhận nội dung giao dịch trước khi sử dụng chức năng đặt
+hàng trực tuyến để gửi đề nghị giao kết hợp đồng. Cơ chế rà soát và xác nhận này
+phải đáp ứng các điều kiện sau:
+- Hiển thị cho khách hàng những thông tin sau:
+a) Tên sản phẩm, hàng hóa hoặc dịch vụ, số lượng và chủng loại;
+8
+b) Phương thức và thời hạn giao hàng hoặc cung ứng dịch vụ;
+c) Tổng giá trị của hợp đồng và các chi tiết liên quan đến phương thức thanh
+toán được khách hàng lựa chọn.
+Những thông tin này phải có khả năng lưu trữ, in ấn được trên hệ thống
+thông tin của khách hàng và hiển thị được về sau.
+- Hiển thị cho khách hàng những thông tin về cách thức trả lời chấp nhận
+đề nghị giao kết hợp đồng và thời hạn trả lời đề nghị giao kết hợp đồng;
+- Cho phép khách hàng sau khi rà soát những thông tin nói trên được lựa
+chọn hủy giao dịch hoặc xác nhận việc đề nghị giao kết hợp đồng.
+Điều 15. Trả lời đề nghị giao kết hợp đồng
+1. Trả lời chấp nhận hoặc không chấp nhận đề nghị giao kết hợp đồng phải
+được thực hiện dưới hình thức phù hợp để thông tin có thể lưu trữ, in và hiển thị
+được tại hệ thống thông tin của khách hàng.
+2. Khi trả lời chấp nhận đề nghị giao kết hợp đồng của khách hàng, tổ chức,
+cá nhân bán hàng phải cung cấp cho khách hàng những thông tin sau:
+a) Danh sách toàn bộ sản phẩm, hàng hóa hoặc dịch vụ khách hàng đặt mua,
+số lượng, giá của từng sản phẩm và tổng giá trị hợp đồng;
+b) Thời hạn giao hàng hoặc cung ứng dịch vụ;
+c) Thông tin liên hệ để khách hàng có thể hỏi về tình trạng thực hiện hợp
+đồng khi cần thiết.
+3. Trường hợp đối tượng của hợp đồng là sản phẩm nội dung thông tin số
+hoặc dịch vụ trực tuyến và việc trả lời chấp nhận đề nghị giao kết hợp đồng được
+thể hiện bằng việc giao sản phẩm hoặc cung ứng dịch vụ thì cơ chế rà soát và xác
+nhận phải đáp ứng các quy định sau:
+a) Hiển thị tên sản phẩm hoặc dịch vụ, tổng số tiền khách hàng phải trả cho
+sản phẩm, hàng hóa, dịch vụ đó và phương thức thanh toán sẽ được áp dụng;
+b) Cho phép khách hàng sau khi rà soát những thông tin trên được lựa chọn
+hủy hoặc xác nhận đề nghị giao kết hợp đồng.
+Điều 16. Chấm dứt đề nghị giao kết hợp đồng
+1. Trường hợp tổ chức, cá nhân bán hàng có công bố thời hạn trả lời đề nghị
+giao kết hợp đồng, nếu hết thời hạn này mà khách hàng vẫn không được trả lời thì
+đề nghị giao kết hợp đồng của khách hàng chấm dứt hiệu lực. Việc trả lời chấp
+9
+nhận sau thời hạn này được coi là một đề nghị giao kết hợp đồng khác từ phía tổ
+chức, cá nhân bán hàng.
+2. Trường hợp tổ chức, cá nhân bán hàng không công bố rõ thời hạn trả lời
+đề nghị giao kết hợp đồng, nếu trong vòng 12 (mười hai) giờ kể từ khi gửi đề nghị
+giao kết hợp đồng, khách hàng không nhận được trả lời đề nghị giao kết hợp đồng
+thì đề nghị giao kết hợp đồng của khách hàng được coi là chấm dứt hiệu lực.
+Điều 17. Thời điểm giao kết hợp đồng khi sử dụng chức năng đặt hàng
+trực tuyến trên nền tảng thương mại điện tử
+Thời điểm giao kết hợp đồng khi sử dụng chức năng đặt hàng trực tuyến
+trên nền tảng thương mại điện tử là thời điểm khách hàng nhận được trả lời của
+tổ chức, cá nhân bán hàng chấp nhận đề nghị giao kết hợp đồng theo quy định tại
+Khoản 2 Điều 15 Luật này.
+Điều 18. Thủ tục chấm dứt hợp đồng đối với hợp đồng dịch vụ thương
+mại điện tử và các dịch vụ trực tuyến khác
+1. Nền tảng thương mại điện tử phải cung cấp công cụ trực tuyến để khách
+hàng có thể gửi thông báo chấm dứt hợp đồng khi hết nhu cầu sử dụng dịch vụ.
+Công cụ này phải đáp ứng các điều kiện sau:
+a) Cho phép khách hàng lưu trữ và hiển thị thông báo chấm dứt hợp đồng
+trong hệ thống thông tin của mình sau khi gửi đi;
+b) Có cơ chế phản hồi để khách hàng biết thông báo chấm dứt hợp đồng
+của mình đã được gửi.
+2. Nền tảng thương mại điện tử phải công bố thông tin minh bạch, đầy đủ
+về quy trình, thủ tục chấm dứt hợp đồng, bao gồm các nội dung sau:
+a) Các trường hợp tổ chức, cá nhân cung cấp dịch vụ chấm dứt hợp đồng
+và cách thức giải quyết hậu quả của việc chấm dứt hợp đồng này;
+b) Thời điểm hợp đồng chấm dứt hiệu lực và cách thức thanh toán phí dịch
+vụ trong trường hợp khách hàng là bên chấm dứt hợp đồng;
+c) Trường hợp nền tảng thương mại điện tử không công bố rõ thời điểm
+hợp đồng chấm dứt hiệu lực trong trường hợp khách hàng là bên chấm dứt hợp
+đồng, thì thời điểm khách hàng gửi thông báo được coi là thời điểm hợp đồng
+chấm dứt.
+10
+Chương III
+HOẠT ĐỘNG THƯƠNG MẠI ĐIỆN TỬ
+Mục 1
+NỀN TẢNG THƯƠNG MẠI ĐIỆN TỬ KINH DOANH TRỰC TIẾP
+Điều 19. Điều kiện thiết lập nền tảng thương mại điện tử kinh doanh
+trực tiếp
+1. Chủ quản nền tảng thương mại điện tử kinh doanh trực tiếp phải là tổ
+chức, doanh nghiệp, hộ kinh doanh hoặc cá nhân có đăng ký kinh doanh dưới hình
+thức được pháp luật quy định tại Việt Nam. Trường hợp chủ quản nền tảng thương
+mại điện tử kinh doanh trực tiếp không có hiện diện tại Việt Nam, chủ quản nền
+tảng phải là tổ chức nước ngoài có đăng ký kinh doanh hợp pháp tại quốc gia nơi
+có trụ sở.
+2. Bảo đảm nền tảng thương mại điện tử kinh doanh trực tiếp đáp ứng các
+điều kiện sau:
+a) Hiển thị đầy đủ, rõ ràng thông tin về chủ quản nền tảng thương mại kinh
+doanh trực tiếp, bao gồm: Tên, địa chỉ, số điện thoại, phương thức liên hệ khác
+(nếu có); mã số doanh nghiệp hoặc số quyết định thành lập đối với tổ chức khác;
+mã số thuế cá nhân đối với cá nhân;
+b) Hiển thị thông tin về điều kiện giao dịch chung, bao gồm: Quy trình đặt
+hàng và thanh toán; Chính sách giao hàng và vận chuyển; Quyền và nghĩa vụ của
+các bên; Các điều kiện hoặc hạn chế trong việc bán sản phẩm, hàng hóa, cung ứng
+dịch vụ (nếu có); Chính sách đổi trả hàng và hoàn tiền, bao gồm việc kiểm tra sản
+phẩm, hàng hóa, thời hạn, phương thức, điều kiện đổi trả sản phẩm, hàng hóa,
+điều kiện hoàn tiền; Chính sách bảo hành sản phẩm (nếu có); Phương thức, quy
+trình và các điều kiện cung cấp dịch vụ (nếu có); Cơ chế giải quyết khiếu nại,
+tranh chấp;
+c) Hiển thị đầy đủ, chính xác và rõ ràng thông tin sản phẩm, hàng hóa, dịch
+vụ, bao gồm các nội dung bắt buộc thể hiện trên nhãn sản phẩm, hàng hóa theo
+quy định của pháp luật, trừ các thông tin có tính chất riêng biệt theo sản phẩm,
+bao gồm: ngày, tháng, năm sản xuất; thời hạn sử dụng; số lô sản xuất; số khung,
+số máy; tiêu chuẩn kết quả cần đạt được trong cung cấp sản phẩm, hàng hóa, dịch
+vụ;
+d) Trường hợp kinh doanh sản phẩm, hàng hóa, dịch vụ kinh doanh có điều
+kiện, phải công bố công khai tại vị trí dễ nhận biết trên nền tảng bằng chứng xác
+11
+nhận đủ điều kiện, bao gồm Giấy phép, Giấy chứng nhận đủ điều kiện, văn bản
+xác nhận hoặc các hình thức chứng nhận khác theo quy định của pháp luật khi
+kinh doanh sản phẩm, hàng hóa, dịch vụ có điều kiện;
+đ) Trường hợp nền tảng có chức năng đặt hàng trực tuyến, phải công bố
+thông tin về giá sản phẩm, hàng hóa, dịch vụ; thuế; các chi phí bảo hiểm, vận
+chuyển và các chi phí khác (nếu có); và có cơ chế để khách hàng đọc và xác nhận
+sự đồng ý đối với điều kiện giao dịch chung trước khi đặt hàng;
+e) Lưu trữ đầy đủ và bảo đảm khả năng truy cập thông tin, dữ liệu về sản
+phẩm, hàng hóa, dịch vụ đã đăng tải trên nền tảng, bao gồm dữ liệu điện tử chứa
+hình ảnh, âm thanh của hoạt động livestream bán hàng; thông tin giao dịch liên
+quan đến giao kết hợp đồng trên nền tảng trong thời gian tối thiểu 03 năm;
+g) Nền tảng thương mại điện tử kinh doanh trực tiếp có chức năng đặt hàng
+trực tuyến phải tuân thủ các quy định về giao kết hợp đồng điện tử theo quy định
+tại Chương II Luật này.
+3. Chính phủ quy định chi tiết Điều này, quy định về thẩm quyền, trình tự,
+thủ tục thông báo nền tảng thương mại điện tử kinh doanh trực tiếp trong nước và
+thẩm quyền, trình tự, thủ tục đăng ký nền tảng thương mại điện tử kinh doanh trực
+tiếp nước ngoài.
+Điều 20. Trách nhiệm của chủ quản nền tảng thương mại điện tử kinh
+doanh trực tiếp
+1. Tuân thủ đầy đủ các quy định của Luật này, các quy định của pháp luật
+về bảo vệ dữ liệu, an toàn thông tin mạng, an ninh mạng, các quy định về chất
+lượng sản phẩm, hàng hóa, quảng cáo, thuế, bảo vệ quyền lợi người tiêu dùng và
+các quy định của pháp luật chuyên ngành có liên quan.
+2. Báo cáo trực tuyến định kì thông qua Nền tảng Quản lý hoạt động thương
+mại điện tử hoặc theo yêu cầu của cơ quan quản lý nhà nước có thẩm quyền.
+3. Có biện pháp kiểm tra, rà soát và xử lý kịp thời khi phát hiện hoặc nhận
+được phản ánh về hành vi kinh doanh vi phạm pháp luật; Gỡ bỏ thông tin về sản
+phẩm, hàng hóa, dịch vụ vi phạm pháp luật trong thời gian sớm nhất không quá
+24 giờ kể từ khi nhận được yêu cầu của cơ quan quản lý nhà nước có thẩm quyền.
+4. Trường hợp chủ quản nền tảng thương mại điện tử trực tiếp không có
+hiện diện tại Việt Nam thì thực hiện trách nhiệm tại Điều 31 Luật này.
+5. Chính phủ quy định chi tiết Điều này.
+12
+Mục 2
+NỀN TẢNG THƯƠNG MẠI ĐIỆN TỬ TRUNG GIAN
+Điều 21. Điều kiện thiết lập nền tảng thương mại điện tử trung gian
+1. Chủ quản nền tảng thương mại điện tử trung gian là tổ chức, doanh
+nghiệp theo quy định của pháp luật tại Việt Nam. Trường hợp chủ quản nền tảng
+thương mại điện tử trung gian không có hiện diện tại Việt Nam, chủ quản nền tảng
+phải là tổ chức nước ngoài có đăng ký kinh doanh hợp pháp tại quốc gia nơi có
+trụ sở.
+2. Điều kiện giao dịch chung không trái với quy định của pháp luật, bao
+gồm: chính sách bảo mật; quyền và nghĩa vụ của các bên; thông tin giao hàng và
+thanh toán; chính sách đổi trả hàng và hoàn tiền; cơ chế giải quyết khiếu nại, tranh
+chấp.
+Điều kiện giao dịch chung không trái với quy định của pháp luật, bao gồm:
+chính sách bảo mật; quyền và nghĩa vụ của các bên, cơ chế giải quyết khiếu nại,
+tranh chấp. Đối với nền tảng có chức năng đặt hàng trực tuyến, Điều kiện giao
+dịch chung phải bao gồm cả chính sách giao hàng, thanh toán, chính sách đổi trả
+hàng và hoàn tiền;
+3. Nền tảng thương mại điện tử trung gian đáp ứng các điều kiện sau:
+a) Hệ thống thông tin đáp ứng yêu cầu bảo đảm an toàn thông tin mạng tối
+thiểu cấp độ 3 theo quy định của pháp luật về an toàn thông tin mạng;
+b) Hiển thị đầy đủ, rõ ràng thông tin về chủ quản nền tảng thương mại trung
+gian, bao gồm: Tên, địa chỉ, số điện thoại, phương thức liên hệ khác (nếu có); mã
+số doanh nghiệp hoặc số quyết định thành lập đối với tổ chức khác; thông tin về
+người đại diện theo pháp luật, thông tin đầu mối vận hành nền tảng, bao gồm số
+định danh điện tử, điện thoại, địa chỉ liên hệ;
+c) Có chức năng đăng ký tài khoản đối với người bán và người mua. Chỉ
+người bán đã đăng ký tài khoản mới được đăng thông tin về sản phẩm, hàng hóa,
+dịch vụ. Thông tin đăng ký tài khoản người bán phải bao gồm: thông tin danh tính
+điện tử của tổ chức, doanh nghiệp có địa điểm kinh doanh trong nước theo quy
+định của pháp luật xác thực và định danh điện tử; hoặc tên, mã số hộ kinh doanh;
+tên, số định danh cá nhân của chủ hộ kinh doanh; hoặc tên, số đăng ký của cá nhân
+có đăng ký kinh doanh dưới hình thức được pháp luật quy định; thông tin danh
+tính người bán nước ngoài thông qua các giấy tờ hợp pháp hóa lãnh sự;
+d) Có giải pháp kỹ thuật để xác thực danh tính người bán;
+13
+đ) Hiển thị đầy đủ điều kiện giao dịch chung;
+e) Hiển thị đầy đủ, rõ ràng thông tin người bán (tên, địa chỉ kinh doanh);
+thông tin về sản phẩm, hàng hóa, dịch vụ; thông tin về giá cả; thông tin về vận
+chuyển và giao nhận (đối với sản phẩm, hàng hóa); thông tin về phương thức
+thanh toán. Trường hợp có người bán nước ngoài, thông tin của người bán nước
+ngoài phải bao gồm tên quốc gia, vùng lãnh thổ và được phiên âm sang tiếng Việt
+hoặc thể hiện bằng ký tự La tinh;
+g) Hiển thị đầy đủ, chính xác phản hồi, đánh giá của người mua về người
+bán, sản phẩm, hàng hóa, dịch vụ, trừ trường hợp phản hồi, đánh giá đó vi phạm
+quy định của pháp luật, trái đạo đức xã hội;
+h) Lưu trữ đầy đủ và bảo đảm khả năng truy cập thông tin, dữ liệu về sản
+phẩm, hàng hóa, dịch vụ đã đăng tải trên nền tảng, bao gồm dữ liệu điện tử chứa
+hình ảnh, âm thanh của hoạt động livestream bán hàng; thông tin giao dịch liên
+quan đến giao kết hợp đồng trên nền tảng trong thời gian tối thiểu 03 năm;
+i) Nền tảng thương mại điện tử trung gian có chức năng đặt hàng trực tuyến
+phải có các chức năng để bảo đảm việc tuân thủ các quy định về giao kết hợp đồng
+điện tử theo quy định tại Chương II Luật này.
+4. Chính phủ quy định chi tiết Điều này, quy định điều kiện, thẩm quyền,
+trình tự, hồ sơ thực hiện đăng ký, sửa đổi, bổ sung, chấm dứt đối với nền tảng
+trung gian thương mại điện tử.
+Điều 22. Trách nhiệm của chủ quản nền tảng thương mại điện tử trung
+gian
+1. Xác thực điện tử danh tính người bán có địa điểm kinh doanh trong nước
+theo quy định của pháp luật về định danh và xác thực điện tử; Xác thực danh tính
+người bán nước ngoài thông qua các giấy tờ hợp pháp hoá lãnh sự.
+2. Duy trì nền tảng đáp ứng các điều kiện nêu tại khoản 3 Điều 21.
+3. Kiểm duyệt nội dung thông tin do người bán khởi tạo trước khi cho phép
+hiển thị trên nền tảng.
+4. Có biện pháp kiểm tra, rà soát và xử lý kịp thời khi phát hiện hoặc nhận
+được phản ánh về hành vi vi phạm pháp luật; Gỡ bỏ thông tin về sản phẩm, hàng
+hóa, dịch vụ vi phạm pháp luật trong thời gian sớm nhất không quá 24 giờ kể từ
+khi nhận được yêu cầu của cơ quan quản lý nhà nước có thẩm quyền.
+5. Phối hợp, hỗ trợ cơ quan nhà nước có thẩm quyền giải quyết tranh chấp,
+14
+khiếu nại, điều tra, xử lý các hành vi kinh doanh vi phạm pháp luật;
+6. Báo cáo trực tuyến định kì thông qua Nền tảng Quản lý hoạt động thương
+mại điện tử hoặc theo yêu cầu của cơ quan quản lý nhà nước có thẩm quyền.
+7. Trường hợp nền tảng có chức năng đặt hàng trực tuyến hoặc chức năng
+liên lạc trực tuyến, chủ quản nền tảng có trách nhiệm:
+a) Cung cấp các thông tin cần thiết và hỗ trợ các bên trong quá trình giải
+quyết tranh chấp;
+b) Trường hợp phát hiện sản phẩm, hàng hoá có khuyết tật, phải thông tin
+trực tiếp cho khách hàng đã mua sản phẩm, hàng hoá đó trên nền tảng; công khai
+trên nền tảng thông tin về sản phẩm, hàng hoá có khuyết tật và phối hợp với người
+bán để thực hiện việc thu hồi sản phẩm, hàng hoá theo quy định của pháp luật;
+c) Cung cấp công cụ để người bán truy cập tài khoản để tải về dữ liệu hàng
+hoá, dịch vụ và thông tin của người mua;
+d) Cung cấp thông tin cho người bán tối thiểu 05 ngày trước khi tạm ngừng,
+chấm dứt hoặc áp đặt bất kỳ hạn chế nào đối với tài khoản người bán, trừ trường
+hợp tạm ngừng, chấm dứt hoặc áp đặt hạn chế theo yêu cầu của cơ quan quản lý
+nhà nước. Đảm bảo người bán có thể truy cập tài khoản để tải về dữ liệu giao dịch
+ngay cả khi tài khoản bị tạm ngừng hoặc chấm dứt.
+8. Liên đới chịu trách nhiệm bồi thường thiệt hại trong trường hợp vi phạm
+quy định tại Điều này trực tiếp dẫn đến thiệt hại cho người mua.
+9. Đối với nền tảng thương mại điện tử trung gian là nền tảng số quy mô
+lớn, ngoài các trách nhiệm nêu tại Điều này, chủ quản nền tảng thương mại điện
+tử trung gian quy mô lớn có các trách nhiệm sau:
+a) Xây dựng hệ thống xử lý khiếu nại trực tuyến cho người dùng tuân thủ
+quy định tại Điều 52 Luật này;
+b) Thiết lập cơ chế kiểm soát và giải trình đối với việc sử dụng trí tuệ nhân
+tạo (nếu có) trong hoạt động phân phối, đề xuất, hiển thị sản phẩm, hàng hóa, dịch
+vụ cho người dùng trên nền tảng;
+c) Xây dựng giải pháp khả thi nhằm ngăn chặn thông tin, giao dịch giả mạo,
+các hành vi vi phạm pháp luật thực hiện trên nền tảng;
+d) Theo yêu cầu của cơ quan quản lý nhà nước trong việc thanh tra, kiểm
+tra hành vi có dấu hiệu vi phạm pháp luật, cung cấp cho cơ quan quản lý nhà nước
+dữ liệu giao dịch; mô tả thuật toán liên quan bao gồm giải thích thiết kế, lô-gíc,
+15
+tính năng, mô phỏng;
+đ) Không được áp đặt người dùng phải sử dụng dịch vụ thanh toán của một
+nhà cung cấp hoặc sử dụng vận chuyển của một nhà cung cấp;
+e) Thực hiện các trách nhiệm về bảo vệ quyền lợi người tiêu dùng của nền
+tảng trung gian quy mô lớn theo quy định của pháp luật.
+10. Trường hợp chủ quản nền tảng thương mại điện tử trung gian không có
+hiện diện tại Việt Nam thì thực hiện trách nhiệm tại Điều 31 Luật này.
+Điều 23. Trách nhiệm của người bán trên nền tảng thương mại điện tử
+trung gian
+1. Cung cấp cho chủ quản nền tảng thông tin định danh điện tử đối với
+người bán có địa điểm kinh doanh trong nước; giấy tờ hợp pháp hóa lãnh sự đối
+với người bán nước ngoài.
+2. Cung cấp đầy đủ, rõ ràng thông tin về sản phẩm, hàng hóa, dịch vụ, bao
+gồm các nội dung bắt buộc thể hiện trên nhãn sản phẩm, hàng hóa theo quy định
+của pháp luật, trừ các thông tin có tính chất riêng biệt theo sản phẩm, bao gồm:
+ngày, tháng, năm sản xuất; thời hạn sử dụng; số lô sản xuất; số khung, số máy;
+tiêu chuẩn kết quả cần đạt được trong cung cấp sản phẩm, hàng hóa, dịch vụ.
+3. Tuân thủ các quy định của Luật này, các quy định của pháp luật về bảo
+vệ dữ liệu, an toàn thông tin mạng, an ninh mạng, các quy định về chất lượng sản
+phẩm, hàng hóa, quảng cáo, thuế, bảo vệ quyền lợi người tiêu dùng và các quy
+định của pháp luật chuyên ngành có liên quan.
+Mục 3
+MẠNG XÃ HỘI CÓ HOẠT ĐỘNG THƯƠNG MẠI ĐIỆN TỬ
+Điều 24. Điều kiện thiết lập mạng xã hội hoạt động thương mại điện tử
+1. Chủ quản mạng xã hội hoạt động thương mại điện tử là tổ chức, doanh
+nghiệp theo quy định của pháp luật tại Việt Nam. Trường hợp chủ quản mạng xã
+hội hoạt động thương mại điện tử không có hiện diện tại Việt Nam, chủ quản nền
+tảng phải là tổ chức nước ngoài có đăng ký kinh doanh hợp pháp tại quốc gia nơi
+có trụ sở.
+2. Điều kiện giao dịch chung tuân thủ quy định tại khoản 2 Điều 22.
+3. Nền tảng mạng xã hội hoạt động thương mại điện tử đáp ứng các điều
+kiện sau:
+16
+a) Các quy định tại khoản 3 Điều 22 Luật này;
+b) Có chức năng phân loại và hiển thị dấu hiệu nhận diện tài khoản người
+bán với tài khoản khác;
+c) Tách biệt nội dung hoạt động thương mại điện tử thành các chuyên mục,
+vị trí riêng biệt theo nguyên tắc không xen lẫn với nội dung khác trên nền tảng;
+d) Có công cụ cho phép người bán và người mua xác nhận nội dung hợp
+đồng đối với giao dịch thông qua chức năng liên lạc trực tuyến được tích hợp trên
+nền tảng.
+4. Chính phủ quy định chi tiết Điều này, quy định điều kiện, thẩm quyền,
+trình tự, hồ sơ thực hiện đăng ký, sửa đổi, bổ sung, chấm dứt đối với mạng xã hội
+hoạt động thương mại điện tử.
+Điều 25. Trách nhiệm của chủ quản nền tảng mạng xã hội hoạt động
+thương mại điện tử
+1. Chủ quản nền tảng mạng xã hội hoạt động thương mại điện tử có trách
+nhiệm thực hiện các quy định tại khoản 1, 3, 4, 5, 6, 7, 8, 9 Điều 22.
+2. Duy trì nền tảng đáp ứng các điều kiện nêu tại khoản 2 Điều 24 Luật này.
+3. Trường hợp chủ quản nền tảng mạng xã hội hoạt động thương mại điện
+tử không có hiện diện tại Việt Nam thì thực hiện trách nhiệm tại Điều 31 Luật
+này.
+Điều 26. Trách nhiệm của người bán trên nền tảng mạng xã hội hoạt
+động thương mại điện tử
+Người bán trên nền tảng mạng xã hội hoạt động thương mại điện tử thực
+hiện các trách nhiệm tại quy định tại Điều 23 Luật này.
+Mục 4
+NỀN TẢNG TÍCH HỢP ĐA DỊCH VỤ
+Điều 27. Điều kiện thiết lập nền tảng tích hợp đa dịch vụ
+1. Chủ quản nền tảng tích hợp đa dịch vụ là tổ chức, doanh nghiệp theo quy
+định của pháp luật tại Việt Nam. Trường hợp chủ quản nền tảng tích hợp đa dịch
+vụ không có hiện diện tại Việt Nam, chủ quản nền tảng phải là tổ chức nước ngoài
+có đăng ký kinh doanh hợp pháp tại quốc gia nơi có trụ sở.
+2. Điều kiện giao dịch chung không trái với quy định của pháp luật, bao
+gồm: Tiêu chí và điều kiện kỹ thuật tích hợp nền tảng; quyền và nghĩa vụ của các
+17
+bên, phân quyền và kiểm soát truy cập dữ liệu; chính sách an toàn bảo mật; cơ chế
+giải quyết khiếu nại, tranh chấp.
+3. Nền tảng tích hợp đa dịch vụ đáp ứng các điều kiện sau:
+a) Hệ thống thông tin đáp ứng yêu cầu bảo đảm an toàn thông tin mạng tối
+thiểu cấp độ 3 theo quy định của pháp luật về an toàn thông tin mạng;
+b) Hiển thị đầy đủ, rõ ràng thông tin về chủ quản nền tảng, bao gồm: Tên,
+địa chỉ, số điện thoại, phương thức liên hệ khác (nếu có); mã số doanh nghiệp
+hoặc số quyết định thành lập đối với tổ chức khác; thông tin về người đại diện
+theo pháp luật, thông tin đầu mối vận hành nền tảng, bao gồm số định danh điện
+tử, điện thoại, địa chỉ liên hệ;
+c) Hiển thị đầy đủ điều kiện giao dịch chung.
+4. Chính phủ quy định chi tiết Điều này, quy định điều kiện, thẩm quyền,
+trình tự, hồ sơ thực hiện đăng ký, sửa đổi, bổ sung, chấm dứt đối với nền tảng tích
+hợp đa dịch vụ.
+Điều 28. Trách nhiệm của chủ quản nền tảng tích hợp đa dịch vụ
+1. Chỉ cho phép nền tảng thương mại điện tử hoạt động hợp pháp được tích
+hợp trên nền tảng tích hợp đa dịch vụ.
+2. Xây dựng tiêu chí kỹ thuật, bảo mật và các điều kiện liên quan đến việc
+phân quyền, truy cập, kiểm soát, sử dụng dữ liệu giữa các bên, đảm bảo tuân thủ
+pháp luật về bảo vệ dữ liệu và bảo vệ dữ liệu cá nhân.
+3. Cung cấp công cụ để nền tảng đối tác được tiếp cận và sử dụng dữ liệu
+do nền tảng đó tạo ra trên nền tảng số tích hợp đa dịch vụ.
+4. Không được yêu cầu nền tảng đối tác phải sử dụng dịch vụ do nền tảng
+số tích hợp đa dịch vụ cung cấp hoặc chỉ định như một điều kiện bắt buộc để được
+tích hợp.
+5. Không được hạn chế các nền tảng đối tác kinh doanh và ký kết hợp đồng
+với khách hàng bên ngoài nền tảng số tích hợp đa dịch vụ.
+6. Không được ưu tiên hiển thị sản phẩm của mình hoặc các đối tác chiến
+lược hoặc sử dụng dữ liệu khách hàng để tạo lợi thế cạnh tranh không công bằng.
+7. Có biện pháp kiểm tra, rà soát và xử lý kịp thời khi phát hiện hoặc nhận
+được phản ánh về hành vi kinh doanh vi phạm pháp luật.
+8. Phối hợp, hỗ trợ cơ quan nhà nước có thẩm quyền giải quyết tranh chấp,
+18
+khiếu nại, điều tra, xử lý các hành vi kinh doanh vi phạm pháp luật. Gỡ bỏ nền
+tảng liên kết hoặc tích hợp có dấu hiệu vi phạm pháp luật trong thời gian sớm nhất
+không quá 24 giờ kể từ khi nhận được yêu cầu của cơ quan quản lý nhà nước có
+thẩm quyền.
+9. Lưu trữ đầy đủ dữ liệu giao dịch giữa nền tảng tích hợp đa dịch vụ với
+nền tảng đối tác trong thời gian tối thiểu 03 năm.
+10. Kết nối trực tuyến danh sách các nền tảng đối tác thông qua Nền tảng
+quản lý thương mại điện tử
+11. Báo cáo trực tuyến định kì thông qua Nền tảng Quản lý hoạt động
+thương mại điện tử hoặc theo yêu cầu của cơ quan quản lý nhà nước có thẩm
+quyền.
+12. Chính phủ quy định chi tiết Điều này, quy định điều kiện, thẩm quyền,
+trình tự, hồ sơ thực hiện cấp phép, sửa đổi, bổ sung, chấm dứt đối với nền tảng
+tích hợp đa dịch vụ.
+Điều 29. Trách nhiệm của chủ quản nền tảng thương mại điện tử tích
+hợp trên nền tảng tích hợp đa dịch vụ
+Thực hiện trách nhiệm của chủ quản nền tảng thương mại điện tử quy định
+tại Điều 20, Điều 22, Điều 25 tùy thuộc vào mô hình hoạt động.
+Mục 5
+HOẠT ĐỘNG THƯƠNG MẠI ĐIỆN TỬ CÓ YẾU TỐ NƯỚC NGOÀI
+Điều 30. Xuất nhập khẩu qua nền tảng thương mại điện tử
+1. Sản phẩm, hàng hóa, dịch vụ xuất nhập khẩu qua nền tảng thương mại
+điện tử phải đáp ứng quy định của pháp luật về quản lý ngoại thương và cam kết
+mở cửa thị trường trong các điều ước quốc tế mà Việt Nam là thành viên.
+2. Tổ chức kinh tế có vốn đầu tư nước ngoài, chi nhánh của thương nhân
+nước ngoài tại Việt Nam, thương nhân nước ngoài không có hiện diện tại Việt
+Nam thực hiện hoạt động xuất nhập khẩu theo quy định của pháp luật về quản lý
+ngoại thương.
+3. Thủ tục thông quan hàng hoá xuất nhập khẩu thực hiện theo quy định của
+pháp luật về hải quan.
+Điều 31. Điều kiện hoạt động đối với chủ quản nền tảng không có hiện
+diện tại Việt Nam
+19
+1. Chủ quản nền tảng thương mại điện tử kinh doanh trực tiếp không có
+hiện diện tại Việt Nam khi đáp ứng một trong các tiêu chí tại khoản 3 Điều này
+phải chỉ định một pháp nhân tại Việt Nam theo ủy quyền.
+2. Chủ quản nền tảng trung gian thương mại điện tử, nền tảng mạng xã hội
+hoạt động thương mại điện tử, nền tảng tích hợp đa dịch vụ không có hiện diện
+tại Việt Nam khi đáp ứng một trong các tiêu chí tại khoản 3 Điều này, phải thành
+lập pháp nhân tại Việt Nam. Trường hợp có quy định khác tại điều ước quốc tế
+mà Việt Nam là thành viên, chủ quản nền tảng phải chỉ định một pháp nhân tại
+Việt Nam theo ủy quyền. Nội dung ủy quyền phải đảm bảo các trách nhiệm quy
+định tại Điều 32, Điều 33 tùy thuộc vào mô hình hoạt động.
+3. Tiêu chí của nền tảng thương mại điện tử:
+a) Có tên miền quốc gia Việt Nam “.vn”;
+b) Có ngôn ngữ hiển thị là tiếng Việt;
+c) Có trên 100.000 lượt giao dịch từ người mua tại Việt Nam trong một
+năm.
+Điều 32. Điều kiện và trách nhiệm của pháp nhân được ủy quyền tại
+Việt Nam đối với nền tảng thương mại điện tử kinh doanh trực tiếp
+1. Pháp nhân được uỷ quyền tại Việt Nam quy định tại khoản 1 Điều 31
+phải đáp ứng các điều kiện sau:
+a) Là pháp nhân được thành lập hợp pháp tại Việt Nam, hoạt động tối thiểu
+trong 05 năm liên tục trong lĩnh vực liên quan đến thương mại điện tử, công nghệ
+thông tin hoặc dịch vụ pháp lý;
+b) Điều kiện về tài chính để giải quyết các vấn đề liên quan đến bồi thường
+thiệt hại cho người muatại Việt Nam, doanh nghiệp phải:
+Phương án 1: ký quỹ tại một ngân hàng thương mại tại Việt Nam. Mức ký
+quỹ là 5 tỷ đồng Việt Nam cho mỗi 100.000 người dùng và không thấp hơn 5 tỷ
+đồng Việt Nam.
+Phương án 2: Vốn điều lệ tối thiểu phải bằng 5% vốn điều lệ của chủ quản
+nền tảng số tại thời điểm đăng ký và không thấp hơn 5 tỷ VNĐ.
+c) Điều kiện nhân lực quản lý và kỹ thuật:
+- Có tối thiểu 01 cán bộ chuyên trách về pháp lý, kinh nghiệm ít nhất 05
+năm, trình độ từ đại học chuyên ngành luật trở lên;
+20
+- Có tối thiểu 02 cán bộ chuyên trách về công nghệ thông tin, kinh nghiệm
+ít nhất 05 năm, trình độ từ đại học trở lên các chuyên ngành sau: công nghệ thông
+tin, an ninh mạng, an toàn thông tin;
+- Có tối thiểu 05 cán bộ chuyên trách về thương mại điện tử, kinh nghiệm
+ít nhất 05 năm, trình độ từ đại học trở lên các chuyên ngành sau: thương mại điện
+tử, kinh tế, tài chính;
+- Có bộ phận hoặc cán bộ chuyên trách chịu trách nhiệm tiếp nhận giải
+quyết tranh chấp bồi thường cho người mua tại Việt Nam.
+2. Pháp nhân được uỷ quyền tại Việt Nam quy định tại khoản 1 Điều 32
+phải thực hiện tối thiểu các trách nhiệm sau:
+a) Nhận uỷ quyền thực hiện thủ tục pháp lý hoạt động thương mại điện tử,
+đăng ký thuế và thực hiện các nghĩa vụ thuế theo quy định pháp luật về thuế;
+b) Có quyền truy cập vào nền tảng thương mại điện tử trực tiếp để thực hiện
+các biện pháp giám sát, gỡ bỏ, ngăn chặn thông tin về hàng hoá, dịch vụ vi phạm
+pháp luật (hoặc theo yêu cầu của cơ quan có thẩm quyền);
+c) Trường hợp phát hiện sản phẩm, hàng hoá có khuyết tật, phải thông tin
+trực tiếp cho khách hàng đã mua sản phẩm, hàng hoá đó trên nền tảng; phối hợp
+với chủ quản để thực hiện việc thu hồi sản phẩm, hàng hoá theo quy định của pháp
+luật;
+d) Phối hợp, hỗ trợ cơ quan nhà nước có thẩm quyền giải quyết tranh chấp,
+khiếu nại, điều tra, xử lý các hành vi kinh doanh vi phạm pháp luật;
+đ) Thực hiện các nghĩa vụ về bảo vệ quyền lợi người tiêu dùng, chất lượng
+sản phẩm, hàng hóa theo quy định của pháp luật Việt Nam;
+e) Thực hiện nghĩa vụ báo cáo định kỳ hoặc theo yêu cầu của cơ quan quản
+lý nhà nước có thẩm quyền;
+g) Thực hiện đăng ký thuế với cơ quan thuế Việt Nam và thực hiện các
+nghĩa vụ thuế theo quy định pháp luật về thuế;
+h) Báo cáo trực tuyến định kì hoặc theo yêu cầu thông qua Nền tảng Quản
+lý hoạt động thương mại điện tử của cơ quan quản lý nhà nước có thẩm quyền,
+bao gồm tối thiểu các thông tin về số tài khoản người dùng, số lượt giao dịch, trị
+giá giao dịch;
+l) Chịu trách nhiệm liên đới trong trường hợp không thực hiện các quy định
+tại Điều này;
+21
+m) Thực hiện các trách nhiệm khác theo quy định của pháp luật.
+Điều 33. Điều kiện và trách nhiệm của pháp nhân được ủy quyền tại
+Việt Nam đối với nền tảng thương mại điện tử trung gian, nền tảng mạng xã
+hội hoạt động thương mại điện tử, nền tảng tích hợp đa dịch vụ
+1. Pháp nhân được uỷ quyền tại Việt Nam hoạt động thương mại điện tử
+quy định tại khoản 2 Điều 31 phải đáp ứng các điều kiện sau:
+a) Là pháp nhân được thành lập hợp pháp tại Việt Nam, hoạt động tối thiểu
+trong 08 năm liên tục trong lĩnh vực liên quan đến thương mại điện tử, công nghệ
+thông tin hoặc dịch vụ pháp lý;
+b) Điều kiện về tài chính để giải quyết các vấn đề liên quan đến bồi thường
+thiệt hại cho người mua tại Việt Nam, doanh nghiệp phải ký quỹ tại một ngân
+hàng thương mại tại Việt Nam;
+Phương án 1: ký quỹ tại một ngân hàng thương mại tại Việt Nam. Mức ký
+quỹ là 10 tỷ đồng Việt Nam cho mỗi 100.000 người dùng{giao dịch}và không
+thấp hơn 10 tỷ đồng Việt Nam.
+Phương án 2: Vốn điều lệ tối thiểu phải bằng 5% vốn điều lệ của chủ quản
+nền tảng số tại thời điểm đăng ký và không thấp hơn 10 tỷ VNĐ.
+c) Điều kiện nhân lực quản lý và kỹ thuật:
+- Có tối thiểu 02 cán bộ chuyên trách về pháp lý, kinh nghiệm ít nhất 05
+năm, trình độ từ đại học chuyên ngành luật trở lên;
+- Có tối thiểu 03 cán bộ chuyên trách về công nghệ thông tin, kinh nghiệm
+ít nhất 05 năm, trình độ từ đại học trở lên các chuyên ngành sau: công nghệ thông
+tin, an ninh mạng, an toàn thông tin;
+- Có tối thiểu 05 cán bộ chuyên trách về thương mại điện tử, kinh nghiệm
+ít nhất 05 năm, trình độ từ đại học trở lên các chuyên ngành sau: thương mại điện
+tử, kinh tế, tài chính;
+- Có bộ phận chuyên trách chịu trách nhiệm tiếp nhận giải quyết tranh chấp
+bồi thường cho người mua tại Việt Nam.
+2. Pháp nhân được uỷ quyền tại Việt Nam đối với nền tảng trung gian, nền
+tảng mạng xã hội hoạt động thương mại điện tử quy định tại khoản 2 Điều 32 phải
+thực hiện tối thiểu các trách nhiệm sau:
+a) Nhận uỷ quyền thực hiện đăng ký hoạt động thương mại điện tử với cơ
+22
+quan quản lý nhà nước về thương mại điện tử, đăng ký thuế và thực hiện các nghĩa
+vụ thuế theo quy định pháp luật về thuế;
+b) Thực hiện các biện pháp tuân thủ các quy định pháp luật về chuyển, xử
+lý dữ liệu xuyên biên giới và bảo vệ dữ liệu cá nhân;
+c) Có quyền truy cập vào nền tảng thương mại điện tử trực tiếp để thực hiện
+các biện pháp giám sát, gỡ bỏ, ngăn chặn thông tin về hàng hoá, dịch vụ vi phạm
+pháp luật (hoặc theo yêu cầu của cơ quan có thẩm quyền);
+d) Trường hợp phát hiện sản phẩm, hàng hoá có khuyết tật, phải thông tin
+trực tiếp cho khách hàng đã mua sản phẩm, hàng hoá đó trên nền tảng. Phối hợp
+với chủ quản để thực hiện việc thu hồi sản phẩm, hàng hoá theo quy định của pháp
+luật;
+đ) Phối hợp, hỗ trợ cơ quan nhà nước có thẩm quyền giải quyết tranh chấp,
+khiếu nại, điều tra, xử lý các hành vi kinh doanh vi phạm pháp luật, bao gồm việc
+cung cấp và cách thức dữ liệu được sử dụng có liên quan đến người bán trên nền
+tảng;
+e) Thực hiện các nghĩa vụ về bảo vệ quyền lợi người tiêu dùng, chất lượng
+sản phẩm, hàng hóa theo quy định của pháp luật Việt Nam;
+g) Thực hiện nghĩa vụ báo cáo định kỳ hoặc theo yêu cầu của cơ quan quản
+lý nhà nước có thẩm quyền;
+h) Thực hiện đăng ký thuế với cơ quan thuế Việt Nam và thực hiện các
+nghĩa vụ thuế theo quy định pháp luật về thuế;
+i) Báo cáo trực tuyến định kì hoặc theo yêu cầu thông qua Nền tảng Quản
+lý hoạt động thương mại điện tử của cơ quan quản lý nhà nước có thẩm quyền,
+bao gồm tối thiểu các thông tin về số tài khoản người dùng, số lượt giao dịch, trị
+giá giao dịch;
+k) Chịu trách nhiệm liên đới trong trường hợp không thực hiện các quy định
+tại Điều này;
+l) Thực hiện các trách nhiệm khác theo quy định của pháp luật.
+3. Pháp nhân được uỷ quyền tại Việt Nam đối với nền tảng tích hợp đa dịch
+vụ hoạt động thương mại điện tử quy định tại khoản 2 Điều 32 phải thực hiện tối
+thiểu các trách nhiệm sau:
+a) Nhận uỷ quyền thực hiện đăng ký hoạt động thương mại điện tử với cơ
+quan quản lý nhà nước về thương mại điện tử, đăng ký thuế và thực hiện các nghĩa
+23
+vụ thuế theo quy định pháp luật về thuế;
+b) Thực hiện các biện pháp tuân thủ các quy định pháp luật về chuyển, xử
+lý dữ liệu xuyên biên giới và bảo vệ dữ liệu cá nhân;
+c) Phối hợp, hỗ trợ cơ quan nhà nước có thẩm quyền giải quyết tranh chấp,
+khiếu nại, điều tra, xử lý các hành vi kinh doanh vi phạm pháp luật, bao gồm việc
+cung cấp và cách thức dữ liệu được sử dụng có liên quan đến người bán trên nền
+tảng;
+đ) Thực hiện các nghĩa vụ về bảo vệ quyền lợi người tiêu dùng, chất lượng
+sản phẩm, hàng hóa theo quy định của pháp luật Việt Nam;
+e) Thực hiện nghĩa vụ báo cáo định kỳ hoặc theo yêu cầu của cơ quan quản
+lý nhà nước có thẩm quyền;
+g) Báo cáo trực tuyến định kì hoặc theo yêu cầu thông qua Nền tảng Quản
+lý hoạt động thương mại điện tử của cơ quan quản lý nhà nước có thẩm quyền,
+bao gồm tối thiểu các thông tin về số tài khoản người dùng, số lượt giao dịch, trị
+giá giao dịch;
+h) Chịu trách nhiệm liên đới trong trường hợp không thực hiện các quy định
+tại Điều này;
+i) Thực hiện các trách nhiệm khác theo quy định của pháp luật.
+Điều 34. Hoạt động đầu tư nước ngoài vào lĩnh vực thương mại điện tử
+1. Hoạt động thương mại điện tử là ngành, nghề tiếp cận thị trường có điều
+kiện đối với nhà đầu tư nước ngoài. Nhà đầu tư nước ngoài được đầu tư kinh
+doanh hoạt động thương mại điện tử tại Việt Nam theo hình thức đầu tư thành lập
+tổ chức kinh tế hoặc đầu tư góp vốn, mua cổ phần, mua phần vốn góp theo pháp
+luật về đầu tư.
+2. Trường hợp nhà đầu tư nước ngoài chi phối nền tảng thương mại điện tử
+quy mô lớn thì phải đáp ứng điều kiện về an ninh quốc gia theo pháp luật quy
+định. Nhà đầu tư nước ngoài chi phối tổ chức hoạt động thương mại điện tử khi
+thuộc một trong các trường hợp sau:
+a) Nhà đầu tư nước ngoài nắm giữ quyền sở hữu trên 50% vốn điều lệ hoặc
+trên 50% cổ phần có quyền biểu quyết của tổ chức;
+b) Nhà đầu tư trực tiếp hoặc gián tiếp quyết định bổ nhiệm, miễn nhiệm
+hoặc bãi nhiệm đa số hoặc tất cả thành viên hội đồng quản trị, chủ tịch hội đồng
+thành viên, giám đốc hoặc tổng giám đốc của doanh nghiệp;
+24
+c) Nhà đầu tư có quyền quyết định các vấn đề quan trọng trong hoạt động
+kinh doanh của doanh nghiệp bao gồm việc lựa chọn nền tảng công nghệ, hình
+thức tổ chức kinh doanh; lựa chọn ngành, nghề, địa bàn, hình thức kinh doanh;
+lựa chọn điều chỉnh quy mô và ngành, nghề kinh doanh; lựa chọn hình thức,
+phương thức huy động, phân bổ và sử dụng vốn kinh doanh của tổ chức đó.
+3. Trường hợp quy định tại khoản 2 Điều này, nhà đầu tư thực hiện trong
+quá trình đề nghị cấp, điều chỉnh Giấy phép kinh doanh theo quy định của pháp
+luật về hoạt động mua bán sản phẩm, hàng hóa và các hoạt động liên quan trực
+tiếp đến mua bán sản phẩm, hàng hóa của nhà đầu tư nước ngoài, tổ chức kinh tế
+có vốn đầu tư nước ngoài như sau:
+a) Trong quá trình cho ý kiến theo thẩm quyền đối với Hồ sơ cấp, điều chỉnh
+Giấy phép kinh doanh, cơ quan có thẩm quyền cấp Giấy phép kinh doanh có văn
+bản xin ý kiến Bộ Công an;
+b) Trên cơ sở văn bản đề nghị của cơ quan có thẩm quyền cấp Giấy phép
+kinh doanh, Bộ Công an có văn bản nêu rõ ý kiến chấp thuận hoặc không chấp
+thuận đề nghị của nhà đầu tư, gửi lại cơ quan có thẩm quyền cấp Giấy phép kinh
+doanh trong vòng 20 ngày kể từ ngày nhận được văn bản đề nghị của cơ quan có
+thẩm quyền cấp Giấy phép kinh doanh;
+c) Thời hạn xin ý kiến Bộ Công an không tính vào thời hạn cho ý kiến chấp
+thuận của cơ quan có thẩm quyền cấp Giấy phép kinh doanh theo quy định của
+pháp luật.
+4. Nhà đầu tư có hoạt động đầu tư vào doanh nghiệp nhỏ và vừa khởi nghiệp
+sáng tạo theo quy định của pháp luật về hỗ trợ doanh nghiệp nhỏ và vừa không
+phải thực hiện quy định tại Điều này.
+Chương IV
+PHÁT TRIỂN THƯƠNG MẠI ĐIỆN TỬ VÀ CÁC DỊCH VỤ
+HỖ TRỢ THƯƠNG MẠI ĐIỆN TỬ
+Mục 1
+PHÁT TRIỂN THƯƠNG MẠI ĐIỆN TỬ
+Điều 35. Chiến lược, Chương trình, Kế hoạch phát triển Thương mại
+điện tử quốc gia
+1. Chiến lược, Chương trình, Kế hoạch thương mại điện tử quốc gia được
+ban hành theo từng thời kỳ.
+25
+2. Chiến lược, Chương trình, Kế hoạch thương mại điện tử quốc gia về
+thương mại điện tử bao gồm các nội dung sau:
+a. Quan điểm, định hướng, và mục tiêu phát triển thương mại điện tử quốc
+gia;
+b. Chính sách thúc đẩy phát triển thương mại điện tử quốc gia;
+c. Danh mục dự án, giải pháp trọng tâm để phát triển thương mại điện tử;
+d. Nguồn lực tài chính, tín dụng từ ngân sách nhà nước và các nguồn vốn
+hợp pháp khác để phát triển thương mại điện tử.
+3. Bộ Công Thương xây dựng, trình Thủ tướng phê duyệt Chiến lược,
+Chương trình, Kế hoạch phát triển Thương mại điện tử quốc gia.
+4. Các bộ ngành và địa phương xây dựng kế hoạch triển khai cụ thể căn cứ
+vào Chiến lược, Chương trình phát triển Thương mại điện tử quốc gia đã phê
+duyệt.
+Điều 36. Tài chính cho phát triển thương mại điện tử
+1. Nguồn tài chính cho phát triển thương mại điện tử, bao gồm:
+a) Nguồn ngân sách nhà nước cho thương mại điện tử theo quy định của
+pháp luật về ngân sách nhà nước;
+b) Nguồn ngân sách nhà nước chi đầu tư phát triển và chi thường xuyên cho
+các hoạt động kinh tế theo quy định của pháp luật về ngân sách nhà nước; Quỹ hỗ
+trợ đầu tư theo quy định của pháp luật về đầu tư;
+c) Quỹ phát triển thương mại điện tử;
+d) Nguồn tài chính hợp pháp khác theo quy định của pháp luật.
+2. Việc lập kế hoạch, dự toán, phân bổ, quản lý, sử dụng ngân sách nhà
+nước hàng năm quy định tại điểm a khoản 1 Điều này thực hiện theo quy định của
+pháp luật về ngân sách nhà nước.
+Điều 37. Quỹ phát triển thương mại điện tử
+1. Quỹ phát triển thương mại điện tử là quỹ tài chính nhà nước ngoài ngân
+sách, được hình thành ở trung ương để phát triển thương mại điện tử.
+2. Quỹ phát triển thương mại điện tử được hình thành từ các nguồn tài chính
+sau đây:
+a) Hỗ trợ từ nguồn ngân sách nhà nước;
+26
+b) Nguồn đóng góp tự nguyện của các tổ chức, cá nhân trong nước và ngoài
+nước;
+c) Nguồn tài chính hợp pháp khác theo quy định của pháp luật.
+3. Quỹ có mục tiêu hỗ trợ, tài trợ cho dự án, nhiệm vụ, hoạt động không
+được ngân sách nhà nước cấp kinh phí hoặc cần bổ sung kinh phí nhằm tạo thay
+đổi đột phá, tích cực, hiệu quả, bền vững cho phát triển thương mại điện tử, bao
+gồm:
+a) Nhiệm vụ, hoạt động thúc đẩy phát triển thương mại điện tử trong nước;
+b) Nhiệm vụ, hoạt động thúc đẩy xuất khẩu qua thương mại điện tử, thương
+mại số;
+c) Nhiệm vụ, hoạt động hỗ trợ phát triển nguồn nhân lực cho thương mại
+điện tử;
+d) Nhiệm vụ nghiên cứu, hỗ trợ triển khai Cơ chế thử nghiệm có kiểm soát
+trong thương mại điện tử;
+đ) Hỗ trợ nhiệm vụ, hoạt động khác trong phát triển thương mại điện tử,
+thương mại số theo yêu cầu của cấp có thẩm quyền hoặc do Bộ trưởng Bộ Công
+Thương quyết định.
+4. Quỹ phát triển thương mại điện tử có tư cách pháp nhân, trực thuộc Bộ
+Công Thương, hoạt động theo nguyên tắc sau đây:
+a) Không vì mục đích lợi nhuận;
+b) Quản lý, sử dụng đúng mục đích, đúng pháp luật, kịp thời, hiệu quả, bảo
+đảm công khai, minh bạch;
+c) Được chi cho các hoạt động khi ngân sách nhà nước bố trí chưa đáp ứng
+yêu cầu.
+5. Chính phủ quy định việc thành lập, quản lý, sử dụng Quỹ phát triển
+thương mại điện tử.
+Điều 38. Phát triển thị trường thương mại điện tử trong nước
+1. Nhà nước xây dựng các cơ chế, chính sách nhằm nâng cao giá trị, năng
+lực cạnh tranh của thương mại điện tử Việt Nam, ứng dụng thương mại điện tử
+trong mọi lĩnh vực của nền kinh tế, không ngừng mở rộng quy mô thị trường
+thương mại điện tử Việt Nam.
+2. Thúc đẩy việc đầu tư và xây dựng hạ tầng thương mại điện tử bao gồm:
+27
+hạ tầng số, hạ tầng logistics, hạ tầng thanh toán và các hạ tầng khác để hoàn thiện
+hệ sinh thái thương mại điện tử một cách toàn diện.
+3. Khuyến khích phát triển các loại hình thương mại điện tử mới, tạo ra các
+mô hình kinh doanh mới, tạo điều kiện thuận lợi để tổ chức, cá nhân nghiên cứu,
+đưa ra các sáng kiến trong thương mại điện tử vào hoạt động sản xuất, kinh doanh
+và tiêu dùng, phù hợp với điều kiện thực tiễn và nhu cầu của thị trường.
+4. Khuyến khích nền tảng thương mại điện tử có các cơ chế, chính sách ưu
+tiên đối với sản phẩm, hàng hoá có xuất xứ Việt Nam, các sản phẩm, hàng hoá
+chủ lực của địa phương, vùng miền; ưu tiên hiển thị sản phẩm, dịch vụ có thương
+hiệu uy tín và có hàm lượng nội địa hoá cao trên các nền tảng thương mại điện tử;
+bảo đảm cơ cấu tỷ lệ giữa sản phẩm, hàng hóa nội địa và sản phẩm, hàng hóa nhập
+khẩu.
+Điều 39. Thúc đẩy xuất khẩu qua thương mại điện tử
+1. Nhà nước đảm bảo tính đồng bộ giữa trung ương và địa phương trong
+việc thiết lập, xây dựng các chính sách ưu đãi nhằm thúc đẩy xuất khẩu thông qua
+thương mại điện tử xuyên biên giới.
+2. Nhà nước thúc đẩy phát triển thương mại điện tử xuyên biên giới bằng
+việc hoàn thiện, thuận lợi hóa các hệ thống quản lý như hải quan, thuế, thanh toán
+nhằm nâng cao mức độ thuận tiện của thương mại điện tử xuyên biên giới.
+3. Nhà nước tạo cơ chế, chính sách và các điều kiện để xây dựng, vận hành
+khu thí điểm về thương mại điện tử xuyên biên giới hoặc đầu tư vào các khu vực
+riêng hỗ trợ hoạt động thương mại xuyên biên giới, bao gồm các chính sách hỗ
+trợ cho doanh nghiệp, đặc biệt là doanh nghiệp siêu nhỏ, nhỏ và vừa, hộ kinh
+doanh như sau:
+a) Chính sách ưu đãi về quy trình thông quan, kiểm tra, kiểm dịch, kê khai
+và nộp thuế, bảo hiểm;
+b) Chính sách ưu đãi về hậu cần, kho ngoại quan: Khuyến khích các địa
+phương xây dựng kho ngoại quan để thúc đẩy hoạt động xuất khẩu qua thương
+mại điện tử, có chính sách ưu đãi về chi phí thuê kho bãi khi xuất khẩu qua thương
+mại điện tử;
+c) Chính sách ưu đãi về thuế: có cơ chế ưu đãi mức thuế thu nhập doanh
+nghiệp đối với doanh thu từ việc xuất khẩu hàng hoá qua thương mại điện tử.
+4. Nhà nước khuyến khích việc thiết lập trao đổi và hợp tác thương mại điện
+28
+tử xuyên biên giới với các quốc gia và khu vực khác, tham gia xây dựng các quy
+tắc quốc tế về thương mại điện tử và thúc đẩy sự công nhận lẫn nhau về giá trị
+pháp lý của chứng từ điện tử trong thương mại.
+5. Nhà nước thúc đẩy việc thiết lập cơ chế giải quyết tranh chấp thương mại
+Điều 40. Cơ chế thử nghiệm có kiểm soát trong lĩnh vực thương mại
+điện tử
+1. Cơ chế thử nghiệm có kiểm soát trong lĩnh vực thương mại điện tử là
+môi trường thử nghiệm việc ứng dụng công nghệ và triển khai sản phẩm, dịch vụ,
+mô hình kinh doanh mới trong lĩnh vực thương mại điện tử có giới hạn về phạm
+vi, không gian, thời gian thực hiện; tổ chức tham gia cơ chế thử nghiệm có kiểm
+soát phải đáp ứng điều kiện, tiêu chí xét duyệt tham gia và chịu sự giám sát của
+cơ quan nhà nước có thẩm quyền.
+2. Nhà nước ban hành các chính sách, cơ chế hỗ trợ các doanh nghiệp tham
+gia vào hoạt động thử nghiệm có kiểm soát nhằm đảm bảo hiệu quả công tác thúc
+đẩy phát triển và phù hợp với mục tiêu chuyển đổi số quốc gia, bảo đảm quốc
+phòng, an ninh, phát triển kinh tế - xã hội.
+3. Chính phủ quy định việc quản lý, phát triển, thử nghiệm có kiểm soát các
+hoạt động nghiên cứu, ứng dụng khoa học, công nghệ và đổi mới sáng tạo trong
+thương mại điện tử phù hợp với điều kiện thực tiễn.
+Điều 41. Thanh toán đảm bảo cho thương mại điện tử
+1. Nhà nước khuyến khích các nhà cung cấp nền tảng thương mại điện tử
+thiết lập một cơ chế đảm bảo cho chất lượng sản phẩm, hàng hóa và dịch vụ có
+lợi cho sự phát triển của thương mại điện tử và bảo vệ quyền lợi người tiêu dùng.
+2. Trường hợp chủ quản nền tảng thương mại điện tử và một người bán trên
+nền tảng đồng ý thiết lập tiền ký gửi bảo đảm quyền lợi người tiêu dùng, cả hai
+bên sẽ thỏa thuận rõ ràng về số tiền rút, quản lý, sử dụng và hoàn trả tiền ký gửi
+bảo đảm quyền lợi người tiêu dùng.
+Người tiêu dùng yêu cầu các chủ quản nền tảng thương mại điện tử phải
+chịu trách nhiệm bồi thường trước và các nhà cung cấp nền tảng thương mại điện
+tử sẽ nhận lại tiền từ người bán trên nền tảng sau khi bồi thường.
+Điều 42. Thúc đẩy phát triển thương mại số
+1. Trong phạm vi của Luật này, thương mại số là hoạt động thương mại
+điện tử xuyên biên giới, bao gồm cả việc trao đổi thương mại sản phẩm, hàng hóa
+29
+và thương mại dịch vụ.
+2. Việc xây dựng, ban hành và tổ chức thực hiện các chính sách, chương
+trình nhằm thúc đẩy thương mại số sẽ tập trung vào các mục tiêu sau:
+- Tăng cường tính kết nối và khả năng liên thông của hạ tầng số;
+- Nâng cao kỹ năng số của các bên liên quan;
+- Thúc đẩy hoạt động thương mại điện tử xuyên biên giới nhằm mang lại
+lợi ích thiết thực cho thị trường;
+- Đảm bảo tính bao trùm, tạo điều kiện thuận lợi để mọi đối tượng được tiếp
+cận, tham gia thương mại số, nhằm thu hẹp khoảng cách số.
+3. Tăng cường hoạt động hợp tác quốc tế và tận dụng hiệu quả các Hiệp
+định thương mại tự do nhằm thúc đẩy hoạt động thương mại số.
+Điều 43: Phát triển thương mại điện tử xanh và bền vững
+1. Thương mại điện tử xanh và bền vững là sự phát triển của ngành thương
+mại điện tử nhằm giảm thiểu tác động tiêu cực đến môi trường, đồng thời đảm
+bảo cân bằng giữa sự tăng trưởng kinh tế và bảo vệ môi trường.
+2. Thúc đẩy thương mại điện tử phát triển theo hướng xanh và bền vững
+dựa trên Bộ hướng dẫn về thương mại điện tử xanh và bền vững của Việt Nam,
+bảo đảm hài hòa hóa với tiêu chuẩn quốc tế; nâng cao trách nhiệm của các bên
+tham gia, tối ưu hóa quy trình sản xuất, kinh doanh, cung cấp dịch vụ, sử dụng
+công nghệ, vật liệu thay thế và các giải pháp thân thiện môi trường hướng đến
+kinh tế xanh, kinh tế tuần hoàn.
+3. Các tổ chức, cá nhân tham gia thương mại điện tử có trách nhiệm đảm
+bảo việc sử dụng, ứng dụng, kinh doanh thương mại điện tử đáp ứng Bộ hướng
+dẫn về thương mại điện tử xanh và bền vững.
+4. Bộ Công Thương chủ trì, phối hợp với các bộ, ngành, cơ quan có liên
+quan tổ chức xây dựng, ban hành và cập nhật định kỳ Bộ hướng dẫn về thương
+mại điện tử xanh và bền vững; định kỳ tổ chức đánh giá, công bố kết quả thực
+hiện và xếp hạng mức độ tuân thủ của nền tảng thương mại điện tử, làm cơ sở đề
+xuất chính sách hỗ trợ phù hợp theo từng giai đoạn phát triển.
+5. Chính phủ quy định chi tiết Điều này.
+Điều 44. Phát triển nguồn nhân lực cho thương mại điện tử
+1. Nhà nước khuyến khích các cơ sở giáo dục đại học, giáo dục nghề nghiệp
+30
+xây dựng và triển khai chương trình đào tạo chính quy về thương mại điện tử, nội
+dung chương trình bao gồm pháp luật thương mại điện tử và phát triển bền vững;
+chương trình đào tạo cần bám sát nhu cầu thị trường lao động.
+2. Nhà nước khuyến khích các tổ chức xã hội nghề nghiệp trong lĩnh vực
+thương mại điện tử tham gia vào việc đào tạo, bồi dưỡng và cấp chứng nhận kỹ
+năng nghề nghiệp.
+3. Nhà nước ưu tiên bố trí nguồn lực từ ngân sách nhà nước cho hoạt động
+đào tạo thương mại điện tử tại các địa phương vùng sâu, vùng xa; phát triển nền
+tảng học tập số quốc gia cung cấp các khóa học mở trực tuyến mở (MOOCs) về
+thương mại điện tử; doanh nghiệp đầu tư vào đào tạo nhân lực thương mại điện
+tử được hưởng ưu đãi thuế và được phép sử dụng quỹ phát triển khoa học và công
+nghệ theo quy định.
+4. Chính phủ quy định chi tiết Điều này.
+Mục 2
+CÁC DỊCH VỤ HỖ TRỢ THƯƠNG MẠI ĐIỆN TỬ
+Điều 45. Dịch vụ hạ tầng kỹ thuật phục vụ hoạt động thương mại điện
+tử
+1. Dịch vụ hạ tầng kỹ thuật phục vụ hoạt động thương mại điện tử trong
+phạm vi Luật này bao gồm:
+a) Dịch vụ “chỉ truyền dẫn” là dịch vụ truyền dẫn trên mạng viễn thông và
+mạng Internet nội dung thông tin số do người sử dụng dịch vụ cung cấp hoặc dịch
+vụ cung cấp khả năng truy nhập vào mạng viễn thông và mạng Internet;
+b) Dịch vụ “lưu trữ đệm” là dịch vụ truyền dẫn trên mạng viễn thông và
+mạng Internet nội dung thông tin số do người sử dụng dịch vụ cung cấp mà có
+hoạt động lưu trữ tự động, trung chuyển và tạm thời nội dung thông tin số đó.
+Hoạt động lưu trữ tự động, trung chuyển và tạm thời này được thực hiện với mục
+đích duy nhất là làm cho việc chuyển tiếp nội dung thông tin số đó một cách hiệu
+quả hơn đến người sử dụng dịch vụ khác theo yêu cầu của họ;
+c) Dịch vụ “lưu trữ nội dung thông tin số theo yêu cầu” là dịch vụ cho người
+sử dụng lưu trữ nội dung thông tin số do người sử dụng cung cấp theo yêu cầu của
+họ.
+2. Trong thời hạn 24 giờ kể từ thời điểm nhận được yêu cầu, doanh nghiệp
+cung cấp dịch vụ hạ tầng kỹ thuật có trách nhiệm ngăn chặn hành vi vi phạm theo
+31
+yêu cầu của cơ quan nhà nước có thẩm quyền.
+Điều 46. Dịch vụ tiếp thị liên kết, tư vấn bán hàng
+1. Dịch vụ tiếp thị liên kết là dịch vụ trong đó tổ chức, cá nhân tiếp thị liên
+kết trả hoa hồng cho tổ chức cung cấp dịch vụ tiếp thị liên kết để tạo đường dẫn
+truy cập tới các nền tảng thương mại điện tử, dựa trên số lượt truy cập, số lượng
+khách hàng để lại thông tin, doanh thu từ số lượng sản phẩm bán ra qua liên kết.
+Tổ chức cung cấp dịch vụ tiếp thị liên kết có trách nhiệm:
+a) Không được cung cấp dịch vụ tiếp thị liên kết với các nền tảng thương
+mại điện tử không tuân thủ pháp luật Việt Nam;
+b) Không được cung cấp dịch vụ tiếp thị liên kết để giới thiệu sản phẩm,
+hàng hóa, dịch vụ có dấu hiệu vi phạm pháp luật hoặc theo yêu cầu của cơ quan
+có thẩm quyền.
+2. Người phát trực tuyến bán hàng và người cung cấp thông tin đánh giá có
+hoạt động tiếp thị liên kết thực hiện các trách nhiệm sau:
+a) Có kiến thức pháp luật về thương mại điện tử;
+b) Cung cấp thông tin định danh theo quy định của pháp luật cho chủ quản
+nền tảng thương mại điện tử;
+c) Công bố hoặc ủy quyền cho chủ quản nền tảng thương mại điện tử công
+khai việc được tài trợ (nếu có) để phát trực tuyến bán hàng hoặc cung cấp thông
+tin đáng giá trên nền tảng;
+d) Công bố thông tin về sản phẩm, hàng hóa, dịch vụ; thông tin về giá cả
+theo quy định của pháp luật;
+đ) Tuân thủ quy định của pháp luật về quảng cáo, khuyến mại, bảo vệ quyền
+lợi người tiêu dùng và quy định pháp luật khác có liên quan.
+3. Chính phủ quy định chi tiết điều kiện, thẩm quyền, trình tự, thủ tục đáp
+ứng điểm a khoản 2 Điều này.
+Điều 47. Dịch vụ logistics cho thương mại điện tử
+1. Dịch vụ logistics cho thương mại điện tử là dịch vụ do tổ chức ký hợp
+đồng cung cấp dịch vụ logistics với các nền tảng thương mại điện tử và người bán
+trên nền tảng thương mại điện tử.
+2. Trách nhiệm của các chủ thể cung cấp dịch vụ logistics cho thương mại
+điện tử
+32
+a) Báo cáo về hoạt động cung cấp logistics cho thương mại điện tử cho cơ
+quan quản lý nhà nước về thương mại điện tử;
+b) Không hợp tác, cung cấp dịch vụ cho nền tảng thương mại điện tử vi
+phạm pháp luật Việt Nam.
+3. Chính phủ quy định chi tiết Điều này.
+Điều 48. Dịch vụ trung gian thanh toán cho thương mại điện tử
+1. Dịch vụ trung gian thanh toán cho thương mại điện tử là dịch vụ do các
+tổ chức cung cấp, hoạt động theo pháp luật về thanh toán nhằm cung cấp dịch vụ
+trung gian thanh toán cho các nền tảng thương mại điện tử.
+2. Trách nhiệm của tổ chức cung cấp dịch vụ trung gian thanh toán cho
+thương mại điện tử:
+a) Thực hiện phân loại giao dịch thanh toán phát sinh từ nền tảng thương
+mại điện tử với giao dịch thanh toán khác;
+b) Báo cáo thông tin liên quan đến giao dịch thanh toán phát sinh qua nền
+tảng thương mại điện tử cho cơ quan quản lý nhà nước có thẩm quyền;
+c) Không hợp tác, cung cấp dịch vụ cho nền tảng thương mại điện tử vi
+phạm pháp luật Việt Nam.
+3. Chính phủ quy định chi tiết Điều này.
+Điều 49. Dịch vụ chứng thực hợp đồng điện tử trong thương mại
+1. Dịch vụ chứng thực hợp đồng điện tử trong thương mại là dịch vụ của
+bên thứ ba về lưu trữ và bảo đảm tính toàn vẹn của chứng từ điện tử do các bên
+khởi tạo trong quá trình giao kết và thực hiện hợp đồng.
+2. Trách nhiệm của doanh nghiệp cung cấp dịch vụ chứng thực hợp đồng
+điện tử trong thương mại
+a) Chịu trách nhiệm về tính bảo mật và toàn vẹn của hợp đồng điện tử mà
+mình lưu trữ và chứng thực;
+b) Cung cấp tài liệu và hỗ trợ cơ quan quản lý nhà nước điều tra các hành
+vi vi phạm pháp luật liên quan đến chứng từ điện tử mà mình lưu trữ và chứng
+thực;
+c) Công bố công khai Quy chế hoạt động cung cấp dịch vụ chứng thực hợp
+đồng điện tử với các nội dung theo hướng dẫn của Bộ Công Thương;
+33
+d) Kết nối với Nền tảng hợp đồng điện tử quốc gia của Bộ Công Thương,
+báo cáo về tình hình cung cấp dịch vụ chứng thực hợp đồng điện tử theo yêu cầu.
+3. Bộ Công Thương xây dựng, vận hành Nền tảng hợp đồng điện tử quốc
+gia đảm bảo độ tin cậy của cách thức khởi tạo, gửi, nhận hoặc lưu trữ hợp đồng
+điện tử; bảo đảm và duy trì tính toàn vẹn của hợp đồng điện tử; đảm bảo cách thức
+xác định người khởi tạo, gửi, nhận thông điệp dữ liệu.
+4. Chính phủ quy định chi tiết Điều này, quy định điều kiện kinh doanh,
+thẩm quyền, quy trình, thủ tục, hồ sơ cấp, gia hạn, thay đổi, cấp lại, tạm đình chỉ,
+thu hồi giấy phép kinh doanh dịch vụ chứng thực hợp đồng điện tử trong thương
+mại.
+Chương V
+DỮ LIỆU VỀ THƯƠNG MẠI ĐIỆN TỬ
+Điều 50. Nền tảng Quản lý hoạt động thương mại điện tử
+1. Nền tảng Quản lý hoạt động thương mại điện tử là nền tảng do Bộ Công
+Thương xây dựng, quản lý, vận hành, khai thác đồng bộ và thống nhất quản lý,
+phát triển thương mại điện tử.
+2. Chức năng của Nền tảng Quản lý hoạt động thương mại điện tử:
+a) Tiếp nhận, xử lý, trả kết quả thủ tục hành chính trực tuyến trong lĩnh vực
+thương mại điện tử trên phạm vi cả nước;
+b) Tiếp nhận, xử lý các phản ánh, khiếu nại của tổ chức, cá nhân về các nền
+tảng thương mại điện tử, nền tảng trung gian thương mại điện tử, người bán vi
+phạm pháp luật;
+c) Tiếp nhận, xử lý các báo cáo, thống kê thương mại điện tử;
+d) Công bố danh sách nền tảng thương mại điện tử, danh sách các tổ chức
+cung cấp dịch vụ chứng thực hợp đồng điện tử trong thương mại hoạt động hợp
+pháp;
+đ) Công bố danh sách nền tảng thương mại điện tử, người bán vi phạm pháp
+luật;
+e) Chia sẻ, kết nối dữ liệu về thủ tục hành chính trong lĩnh vực thương mại
+điện tử với Cổng dịch vụ công quốc gia, các cơ sở dữ liệu quốc gia và cơ sở dữ
+liệu chuyên ngành có liên quan.
+34
+Điều 51. Cơ sở dữ liệu thương mại điện tử
+1. Cơ sở dữ liệu thương mại điện tử bao gồm:
+a) Dữ liệu về quản lý thương mại điện tử;
+b) Dữ liệu về giao dịch trong thương mại điện tử;
+c) Dữ liệu về quy mô thị trường thương mại điện tử;
+d) Dữ liệu về định danh người bán trên các nền tảng thương mại điện tử;
+đ) Dữ liệu về hải quan, xuất nhập khẩu hàng hóa qua thương mại điện tử;
+e) Dữ liệu về thuế trong thương mại điện tử;
+g) Dữ liệu về vận chuyển, giao nhận trong thương mại điện tử;
+h) Dữ liệu về dịch vụ trung gian thanh toán trong thương mại điện tử;
+i) Dữ liệu về chiến lược, kế hoạch, quy hoạch và các chính sách, quy định
+trong lĩnh vực thương mại điện tử;
+k) Dữ liệu liên quan khác phục vụ công tác quản lý và phát triển về thương
+mại điện tử.
+2. Các nền tảng thương mại điện tử, mạng xã hội có hoạt động thương mại
+điện tử, nền tảng tích hợp đa dịch vụ, nền tảng cung cấp dịch vụ hỗ trợ thương
+mại điện tử, các cơ quan chủ quản, cơ quan quản lý cơ sở dữ liệu quốc gia, chuyên
+ngành và cơ sở dữ liệu có liên quan đến phạm vi dữ liệu trong cơ sở dữ liệu về
+thương mại điện tử có trách nhiệm cung cấp, cập nhật các thông tin nêu tại khoản
+1 Điều này, bảo đảm tính đầy đủ, chính xác, thống nhất, chất lượng của dữ liệu
+được cập nhật chia sẻ.
+3. Bộ Công Thương có trách nhiệm sau:
+a) Tổ chức xây dựng, vận hành, bảo trì, nâng cấp hạ tầng kỹ thuật công
+nghệ thông tin và phần mềm khai thác cơ sở dữ liệu về thương mại điện tử tại
+trung ương, đảm bảo đồng bộ, thống nhất trong phạm vi cả nước;
+b) Thu thập, cập nhật, tiếp nhận và quản lý cơ sở dữ liệu thương mại điện
+tử;
+c) Kết nối, chia sẻ thông tin từ cơ sở dữ liệu thương mại điện tử với cơ sở
+dữ liệu tổng hợp quốc gia, cổng dịch vụ công quốc gia, các hệ thống thông tin, cơ
+sở dữ liệu các Bộ, ngành, địa phương có liên quan theo phạm vi được phân công;
+d) Cung cấp thông tin về thương mại điện tử cho các tổ chức, cá nhân theo
+35
+quy định của pháp luật.
+4. Chính phủ quy định chi tiết về việc xây dựng, quản lý, vận hành, phạm
+vi khai thác và chia sẻ cơ sở dữ liệu thương mại điện tử.
+Chương VI
+GIẢI QUYẾT TRANH CHẤP, THANH TRA, KIỂM TRA
+VÀ XỬ LÝ VI PHẠM
+Điều 52. Giải quyết tranh chấp trong thương mại điện tử
+1. Chủ quản nền tảng thương mại điện tử theo quy định của Luật này xây
+dựng hệ thống xử lý khiếu nại cho người dùng và đảm bảo các nguyên tắc sau:
+a) Hệ thống xử lý khiếu nại nội bộ dễ dàng truy cập, thân thiện người dùng,
+cho phép cũng như tạo điều kiện thuận lợi cho việc gửi các khiếu nại có đủ cơ sở
+chính xác và đầy đủ;
+b) Chủ quản nền tảng thương mại điện tử xử lý khiếu nại được gửi một cách
+kịp thời, không phân biệt đối xử, cẩn trọng, bảo đảm căn cứ vào chứng cứ, dữ liệu
+giao dịch điện tử và quy định pháp luật có liên quan;
+c) Chủ quản nền tảng thương mại điện tử thông báo ngay cho người khiếu
+nại về quyết định của họ đối với thông tin liên quan đến khiếu nại và khả năng
+giải quyết tranh chấp ngoài tòa án và các khả năng khắc phục;
+d) Chủ quản nền tảng thương mại điện tử phải đảm bảo các quyết định được
+đưa ra dưới sự giám sát của nhân viên có trình độ phù hợp và không chỉ dựa trên
+các phương tiện tự động.
+2. Tranh chấp giữa tổ chức, cá nhân bán sản phẩm, hàng hóa và cung ứng
+dịch vụ với khách hàng trong quá trình thực hiện hợp đồng phải được giải quyết
+trên cơ sở các điều khoản của hợp đồng công bố tại nền tảng thương mại điện tử
+tại thời điểm giao kết hợp đồng và quy định của pháp luật có liên quan.
+3. Việc giải quyết tranh chấp phải thông qua thương lượng giữa các bên,
+hòa giải, trọng tài hoặc tòa án theo các thủ tục, quy định hiện hành về giải quyết
+tranh chấp.
+Điều 53. Thanh tra, kiểm tra trong thương mại điện tử
+1. Tổ chức có hoạt động thương mại điện tử quy định tại Luật này chịu sự
+kiểm tra của Bộ Công Thương, Sở Công Thương các tỉnh, thành phố và các cơ
+quan quản lý nhà nước có liên quan theo quy định của pháp luật.
+36
+2. Hoạt động thanh tra thương mại điện tử theo pháp luật về thanh tra.
+Chương VII
+ĐIỀU KHOẢN THI HÀNH
+Điều 54. Hiệu lực thi hành
+Luật này có hiệu lực thi hành từ ngày tháng năm 2026.
+Điều 55. Quy định chuyển tiếp
+1. Xác nhận thông báo, đăng ký hoạt động kinh doanh nền tảng thương mại
+điện tử bán hàng và nền tảng trung gian thương mại điện tử cấp trước ngày Luật
+này có hiệu lực thi hành thì được tiếp tục sử dụng đến hết ngày .. tháng .. năm
+2026.
+2. Đối với hồ sơ thông báo, đăng ký của website thương mại điện tử bán
+hàng, website ứng dụng cung cấp dịch vụ đã nộp cho cơ quan nhà nước có thẩm
+quyền nhưng đến ngày Luật này có hiệu lực thi hành chưa được xác nhận thông
+báo, đăng ký thì được tiếp tục áp dụng quy định của pháp luật về thương mại điện
+tử.
+Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa
+XV, kỳ họp thứ .... thông qua ngày .... tháng ..... năm 20.....
+CHỦ TỊCH QUỐC HỘI

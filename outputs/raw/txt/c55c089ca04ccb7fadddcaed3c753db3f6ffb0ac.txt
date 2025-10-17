@@ -1,0 +1,516 @@
+BỘ CÔNG THƯƠNG CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+________________________ Độc lập - Tự do - Hạnh phúc
+___________________________________________
+Hà Nội, ngày tháng 6 năm 2025
+BẢN ĐÁNH GIÁ THỦ TỤC HÀNH CHÍNH, VIỆC PHÂN QUYỀN,
+PHÂN CẤP, BẢO ĐẢM BÌNH ĐẲNG GIỚI, VIỆC THỰC HIỆN
+CHÍNH SÁCH DÂN TỘC TRONG DỰ THẢO
+LUẬT THƯƠNG MẠI ĐIỆN TỬ
+Thực hiện quy định của Luật Ban hành văn bản quy phạm pháp luật và
+Nghị quyết số 176/NQ-CP ngày 17/6/2025 của Chính phủ về việc bổ sung xây
+dựng Luật Thương mại điện tử vào Chương trình lập pháp của Quốc hội năm
+2025, Bộ Công Thương đã tiến hành đánh giá thủ tục hành chính, việc phân quyền,
+phân cấp, bảo đảm bình đẳng giới, việc thực hiện chính sách dân tộc trong dự án,
+dự thảo Luật Thương mại điện tử. Kết quả như sau:
+I. TỔ CHỨC THỰC HIỆN ĐÁNH GIÁ
+1. Bối cảnh xây dựng dự án, dự thảo văn bản quy phạm pháp luật
+Trong bối cảnh thương mại điện tử (sau đây gọi là TMĐT) toàn cầu phát
+triển mạnh mẽ, Việt Nam là một trong những thị trường năng động và tiềm năng
+nhất tại khu vực Đông Nam Á. Theo báo cáo cập nhật mới nhất do Google,
+Temasek và Bain & Company công bố, Việt Nam được xếp thứ 3 trong khu vực
+Đông Nam Á về quy mô thị trường TMĐT năm 2024, chỉ sau Indonesia và Thái
+Lan. Tốc độ tăng trưởng trung bình của thị trường TMĐT đạt trên 20% mỗi năm,
+với quy mô TMĐT bán lẻ ước đạt 25 tỷ USD vào năm 2024. Năm 2024, tổng
+doanh thu từ TMĐT bán lẻ đạt hơn 25 tỷ USD, chiếm 10% tổng doanh thu bán lẻ
+hàng hóa và dịch vụ tiêu dùng cả nước, tăng 22% so với cùng kỳ năm trước.
+Những con số này không chỉ khẳng định sức hút của TMĐT, mà còn phản ánh sự
+thay đổi mạnh mẽ trong thói quen tiêu dùng của người dân, từ mua sắm truyền
+thống sang mua sắm trực tuyến. Đây cũng là cơ sở quan trọng để Việt Nam tiếp
+tục hoàn thiện chính sách, pháp luật và hạ tầng nhằm thúc đẩy TMĐT trở thành
+một trong những động lực chính của nền kinh tế số.
+Hiện nay, khung pháp lý điều chỉnh hoạt động TMĐT chủ yếu dựa trên các
+quy định của Nghị định số 52/2013/NĐ-CP ngày 16/5/2013 của Chính phủ về
+TMĐT (sau đây gọi tắt là Nghị định 52/2013/NĐ-CP); Nghị định số 85/2021/NĐ-
+CP ngày 25/9/2021 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số
+52/2013/NĐ-CP ngày 16/5/2013 của Chính phủ về TMĐT (sau đây gọi là Nghị
+2
+định 85/2021/NĐ-CP) và các văn bản hướng dẫn thi hành. Sau hơn 10 năm thực
+hiện, Nghị định 52 đã góp phần thiết lập nền tảng pháp lý ban đầu cho hoạt động
+TMĐT tại Việt Nam, từng bước điều chỉnh các hành vi thương mại trên môi
+trường số và hỗ trợ phát triển thị trường.
+Tuy nhiên, bên cạnh sự phát triển nhanh chóng của khoa học công nghệ, sự
+xuất hiện nhiều mô hình kinh doanh mới, đa dạng về mặt chủ thể, phức tạp về mặt
+bản chất và từ thực tiễn quản lý nhà nước trong lĩnh vực TMĐT, dẫn đến các chính
+sách, quy định về TMĐT đã bộc lộ một số tồn tại, hạn chế như sau:
+Một là, thách thức lớn nhất hiện nay trong quản lý TMĐT là sự thiếu thống
+nhất và thiếu tính toàn diện của hệ thống pháp luật điều chỉnh lĩnh vực này. Hiện
+nay, các quy định về TMĐT được ban hành dưới dạng nghị định của Chính phủ,
+trong khi các nghị định chỉ mang tính chất quy định chi tiết, hướng dẫn thi hành
+luật. Về nguyên tắc lập pháp, nghị định phải được xây dựng trên cơ sở một đạo
+luật do Quốc hội ban hành. Nếu không có “luật gốc” làm nền tảng, các quy định
+ở cấp nghị định sẽ rất khó đảm bảo tính ổn định, thống nhất và đủ độ sâu để xử lý
+các vấn đề phức tạp, đặc thù của TMĐT. Trong khi đó, TMĐT là một lĩnh vực
+đặc thù, đan xen giữa nhiều ngành, lĩnh vực khác nhau, bao gồm: thương mại,
+công nghệ, tài chính, bảo vệ người tiêu dùng cho đến an toàn thông tin, sở hữu trí
+tuệ, an ninh mạng và các pháp luật liên quan khác. Do đó, hoạt động TMĐT đang
+bị điều chỉnh bởi nhiều luật khác nhau như Luật Thương mại, Luật Giao dịch điện
+tử, Luật Bảo vệ quyền lợi người tiêu dùng, Luật Quản lý thuế, Luật An toàn thông
+tin mạng, Luật An ninh mạng... Tuy nhiên, phần lớn các luật này chỉ quy định các
+nguyên tắc chung trong lĩnh vực đặc thù về thuế, an toàn bảo mật nói chung, trong
+khi thực tiễn TMĐT lại đang đặt ra những tình huống pháp lý rất cụ thể liên quan
+đến các mô hình hoạt động của nền tảng số và việc kiểm soát thông tin, lưu
+thông/giao dịch của sản phẩm, hàng hóa, dịch vụ, đòi hỏi quy định chi tiết và đồng
+bộ. Việc thiếu một đạo luật chuyên ngành về TMĐT khiến cho các quy định hiện
+hành bị phân tán và không nhất quán. Mặt khác, thời gian gần đây, nhiều dự án
+luật có liên quan đến TMĐT đã được sửa đổi, ban hành mới với nội dung mở rộng
+phạm vi điều chỉnh, bổ sung nhiều khái niệm và yêu cầu pháp lý mới; ví dụ, Luật
+Bảo vệ quyền lợi người tiêu dùng (2023), Luật Giao dịch điện tử (2023), hay các
+quy định mới trong Luật Sở hữu trí tuệ, Luật Quản lý thuế… đều có ảnh hưởng
+trực tiếp đến hoạt động TMĐT. Tuy nhiên, các nghị định hiện hành trong lĩnh vực
+này chưa được cập nhật để đồng bộ với hệ thống pháp luật mới, dẫn đến khoảng
+trống hoặc xung đột pháp lý trong thực thi.
+Hai là, các mô hình TMĐT mới chưa được điều chỉnh đầy đủ, tiềm ẩn nhiều
+3
+rủi ro. Sự phát triển nhanh của công nghệ như trí tuệ nhân tạo (AI), dữ liệu lớn
+(Big Data), cùng với sự nổi lên của các mô hình nền tảng số tích hợp đa dịch vụ
+và hình thức bán hàng mới như livestream, đang làm thay đổi căn bản cách thức
+vận hành TMĐT. Tuy nhiên, hệ thống pháp luật hiện nay chưa theo kịp những
+biến đổi này. Một ví dụ điển hình là các siêu ứng dụng tích hợp nhiều dịch vụ trên
+cùng một nền tảng (nền tảng tích hợp đa dịch vụ). Việc nhiều ứng dụng nhỏ hoạt
+động trong một hệ sinh thái chung đặt ra câu hỏi về trách nhiệm pháp lý giữa các
+bên tham gia, quyền và nghĩa vụ khi xảy ra tranh chấp, cũng như cách xử lý dữ
+liệu người dùng được thu thập. Nếu không có quy định rõ ràng, các nền tảng tích
+hợp đa dịch vụ có thể lợi dụng để thao túng thị trường hoặc gây cản trở cạnh tranh.
+Tương tự, hình thức bán hàng qua livestream đang phát triển mạnh nhưng hiện
+vẫn chưa có những quy định cụ thể về chủ thể, về trách nhiệm pháp lý, định danh,
+hay những quy định về nội dung bắt buộc công khai, cũng như nghĩa vụ thuế.
+Điều này gây khó khăn trong việc giám sát, bảo vệ người tiêu dùng và kiểm soát
+thất thu ngân sách. Thực tế đã ghi nhận các vụ việc livestream bán hàng không
+minh bạch, thổi phồng công dụng sản phẩm, gây thiệt hại cho người tiêu dùng và
+thách thức công tác quản lý.
+Ba là, vấn đề kiểm soát hàng giả, hàng cấm và hàng xâm phạm quyền sở
+hữu trí tuệ trên nền tảng TMĐT còn nhiều bất cập. Việc phát hiện và xử lý hàng
+giả, hàng cấm, hàng vi phạm quyền sở hữu trí tuệ và hàng kém chất lượng tiếp tục
+là thách thức lớn đối với cả thương mại truyền thống lẫn TMĐT. Mặc dù pháp
+luật hiện hành đã quy định trách nhiệm rà soát, kiểm soát và xử lý vi phạm, song
+các hành vi gian lận trên không gian mạng ngày càng tinh vi, gây khó khăn cho
+công tác quản lý. Một trong những bất cập chính là việc xác minh danh tính người
+bán. Nhiều nền tảng TMĐT hiện chưa áp dụng quy trình định danh và xác thực
+đầy đủ, đặc biệt đối với người bán ở nước ngoài. Điều này khiến cơ quan quản lý
+khó xác định được người bán là ai, hoạt động ở đâu và trên bao nhiêu nền tảng
+cùng lúc. Bên cạnh đó, việc thiếu quy định bắt buộc về lưu trữ và chia sẻ thông
+tin người bán khiến công tác truy vết khi xử lý hành vi vi phạm hoặc đối tượng vi
+phạm gặp nhiều khó khăn. Khoảng trống pháp lý này tạo điều kiện cho các hành
+vi gian lận thương mại, trốn thuế diễn ra dưới nhiều hình thức khác nhau, trong
+khi cơ quan thuế và các đơn vị chức năng chưa đủ công cụ để giám sát hiệu quả.
+Quan trọng hơn, người tiêu dùng cũng gặp khó khăn trong việc đánh giá độ tin
+cậy của người bán nếu thông tin không minh bạch, gây ra rủi ro trong giao dịch
+và làm suy giảm lòng tin vào TMĐT. Thực tế này cho thấy yêu cầu cấp thiết phải
+hoàn thiện quy định pháp luật để tăng cường trách nhiệm của các nền tảng trong
+định danh, xác minh người bán và hỗ trợ cơ quan chức năng trong công tác giám
+4
+sát, truy vết và xử lý vi phạm.
+Bốn là, hoạt động TMĐT xuyên biên giới đang ngày càng phát triển mạnh
+mẽ nhờ vào sự bứt phá của hạ tầng công nghệ thông tin và logistics. Người tiêu
+dùng trong nước có thêm nhiều lựa chọn, doanh nghiệp Việt Nam cũng dễ dàng
+tiếp cận thị trường toàn cầu. Tuy nhiên, hệ thống pháp luật hiện hành chưa theo
+kịp thực tiễn phát triển, dẫn đến nhiều rủi ro như quyền lợi người tiêu dùng bị xâm
+hại hay sản xuất trong nước bị đe dọa. Cụ thể, hàng giả, hàng nhái, hàng kém chất
+lượng từ nước ngoài có thể dễ dàng tiếp cận thị trường Việt Nam thông qua các
+nền tảng xuyên biên giới. Trong khi đó, cơ chế giải quyết tranh chấp trong TMĐT
+xuyên biên giới còn yếu và chưa rõ ràng. Khi có vấn đề xảy ra, người tiêu dùng
+khó có thể đòi lại quyền lợi hoặc khiếu nại thành công. Đây là lỗ hổng lớn trong
+việc bảo vệ người tiêu dùng trong môi trường số. Về phía doanh nghiệp trong
+nước, nếu không có biện pháp kiểm soát hợp lý, TMĐT xuyên biên giới có thể
+làm gia tăng áp lực cạnh tranh từ hàng hóa nhập khẩu giá cạnh tranh, gây tổn hại
+cho sản xuất nội địa. Trong khi nhiều quốc gia đã áp dụng các biện pháp kiểm
+soát hàng nhập khẩu qua TMĐT, thì Việt Nam hiện chưa có cơ chế tương ứng,
+tạo ra sự bất cân đối trong cạnh tranh.
+Năm là, phát triển TMĐT hiện là động lực thúc đẩy khu vực kinh tế tư nhân
+chuyển mình trong kỷ nguyên số. Nghị quyết số 68-NQ/TW ngày 4/5/2025 của
+Bộ Chính trị khẳng định kinh tế tư nhân là một trong những động lực quan trọng
+nhất của nền kinh tế, với hơn 940.000 doanh nghiệp và 5 triệu hộ kinh doanh,
+đóng góp khoảng 50% GDP và hơn 30% tổng thu ngân sách nhà nước. Tuy nhiên,
+khu vực này vẫn chưa thực sự bứt phá về quy mô, năng lực cạnh tranh và vai trò
+dẫn dắt trong nền kinh tế. Trong bối cảnh chuyển đổi số diễn ra mạnh mẽ, TMĐT
+trở thành công cụ chiến lược giúp khu vực kinh tế tư nhân vượt qua những hạn
+chế cố hữu. Với đặc điểm linh hoạt, quy mô nhỏ và vừa, các doanh nghiệp và hộ
+kinh doanh tư nhân có thể tận dụng TMĐT để tiếp cận thị trường rộng lớn hơn,
+tiết kiệm chi phí, tối ưu vận hành và tăng khả năng thích ứng với biến động. Thực
+tế cho thấy, nhu cầu ứng dụng TMĐT trong khu vực kinh tế tư nhân là rất lớn và
+ngày càng cấp thiết, nhất là khi hành vi tiêu dùng đang chuyển mạnh sang môi
+trường số. Do đó, việc hoàn thiện khung pháp lý về TMĐT, đặc biệt là chính sách
+hỗ trợ phát triển TMĐT cho khối doanh nghiệp tư nhân, là yêu cầu cấp bách nhằm
+thúc đẩy tăng trưởng, nâng cao năng lực cạnh tranh và đóng góp bền vững cho
+nền kinh tế quốc gia.
+Sáu là, vấn đề về thúc đẩy phát triển TMĐT theo hướng xanh và bền vững.
+Với quy mô đạt 25 tỷ USD năm 2024, chiếm gần 10% tổng doanh thu bán lẻ hàng
+5
+hóa và dịch vụ tiêu dùng cả nước, TMĐT Việt Nam đang tăng trưởng nhanh và
+ngày càng đóng vai trò quan trọng trong nền kinh tế. Tuy nhiên, đằng sau sự tăng
+trưởng đó là những thách thức lớn về môi trường, đặc biệt là lượng rác thải bao
+bì và khí thải phát sinh từ hoạt động giao nhận. Kinh nghiệm quốc tế cho thấy:
+rác thải từ TMĐT tại Hàn Quốc cao gấp gần 5 lần so với thương mại truyền thống;
+tại Hoa Kỳ, lượng giấy các-ton tiêu thụ trong mua sắm trực tuyến cao gấp 7 lần;
+Trung Quốc từng ghi nhận gần 2 triệu tấn rác thải nhựa phát sinh từ hoạt động
+giao hàng TMĐT. Điều này cho thấy, nếu không có chính sách kiểm soát phù hợp,
+phát triển TMĐT sẽ kéo theo hệ lụy về môi trường. Trong khi các chính sách hiện
+hành chủ yếu tập trung thúc đẩy tăng trưởng nhanh, việc phát triển TMĐT theo
+hướng xanh và bền vững trở thành yêu cầu cấp thiết, nhất là trong bối cảnh Việt
+Nam đã cam kết mạnh mẽ về bảo vệ môi trường và phát triển bền vững. Trọng
+tâm của hướng đi này là khuyến khích doanh nghiệp TMĐT, đơn vị logistics và
+người tiêu dùng cùng hành động: giảm thiểu bao bì không phân hủy, tối ưu hóa
+chuỗi cung ứng xanh, áp dụng các hình thức giao hàng thân thiện với môi trường.
+TMĐT xanh không chỉ góp phần bảo vệ môi trường mà còn nâng cao năng lực
+cạnh tranh dài hạn, đáp ứng xu thế tiêu dùng mới và góp phần xây dựng nền kinh
+tế hiện đại, trách nhiệm và bền vững.
+Bảy là, vấn đề về tăng cường cải cách thủ tục hành chính và phân cấp trong
+quản lý TMĐT. Hiện nay, toàn bộ 15 thủ tục hành chính (TTHC) thuộc lĩnh vực
+TMĐT đã được Bộ Công Thương cung cấp trực tuyến toàn trình và miễn phí trên
+Cổng dịch vụ công. Tuy nhiên, các TTHC này đều do cấp Trung ương thực hiện,
+chủ yếu vì đặc thù không phụ thuộc địa giới hành chính và yêu cầu xử lý phức
+tạp. Thống kê cho thấy, số lượng website/ứng dụng TMĐT thực hiện thông
+báo/đăng ký với Bộ Công Thương đã tăng mạnh, từ 106 trường hợp năm 2013 lên
+hơn 56.000 trường hợp năm 2025, dữ liệu này phần nào phản ánh tốc độ tăng
+trưởng mạnh mẽ của hoạt động TMĐT trong nền kinh tế số. Trong bối cảnh đó,
+việc đẩy mạnh cải cách TTHC và thực hiện phân cấp, phân quyền cho địa phương
+là cần thiết và phù hợp với chỉ đạo chung của Đảng và Nhà nước. Việc này không
+chỉ giảm tải cho cơ quan Trung ương, mà còn tạo điều kiện để địa phương phát
+huy vai trò chủ động trong công tác quản lý, theo dõi, xử lý hồ sơ và hỗ trợ doanh
+nghiệp TMĐT trên địa bàn. Thúc đẩy phân cấp sẽ góp phần nâng cao hiệu quả
+quản lý, rút ngắn thời gian xử lý TTHC, đồng thời thúc đẩy TMĐT phát triển đồng
+đều, bền vững trên phạm vi cả nước.
+Những vướng mắc và bất cập trong việc quản lý lĩnh vực TMĐT như đã
+nêu ở trên đặt ra yêu cầu sửa đổi, bổ sung, hoàn thiện hệ thống khuôn khổ pháp
+6
+luật về TMĐT theo đúng chủ trương của Đảng, Nhà nước và Chính phủ, đáp ứng
+yêu cầu phát triển của đất nước trong giai đoạn mới. Trên cơ sở đánh giá đầy đủ
+kết quả thực hiện và các vấn đề đặt ra từ thực tiễn, việc cấp thiết là cần khẩn
+trương xây dựng, hoàn thiện Dự thảo Luật Thương mại điện tử với phạm vi điều
+chỉnh phù hợp với định hướng phát triển kinh tế số, bảo đảm tính thống nhất của
+hệ thống pháp luật, phù hợp với cam kết quốc tế và nâng cao hiệu quả quản lý nhà
+nước.
+2. Mục đích, yêu cầu đánh giá
+2.1. Mục đích: đánh giá tính hợp lý, hợp pháp, hiệu quả của thủ tục hành
+chính; tính phù hợp trong phân quyền, phân cấp; tác động đến bình đẳng giới và
+việc thực hiện chính sách dân tộc trong dự thảo Luật Thương mại điện tử.
+2.2. Yêu cầu: nội dung đánh giá khách quan, đầy đủ, bám sát thực tiễn và
+phù hợp quy định pháp luật.
+II. KẾT QUẢ ĐÁNH GIÁ
+1. Đánh giá tác động thủ tục hành chính: Thông báo hoạt động nền
+tảng thương mại điện tử kinh doanh trực tiếp, được quy định tại khoản 2
+Điều 19 Dự thảo Luật Thương mại điện tử
+1.1. Tên thủ tục: Thông báo hoạt động nền tảng TMĐT kinh doanh trực
+tiếp.
+- Nhóm TTHC dự kiến ban hành mới/được sửa đổi, bổ sung/được bãi
+bỏ/được giữ nguyên so với quy định hiện hành: TTHC được giữ nguyên so với
+quy định hiện hành, TTHC này đã được quy định tại Nghị định 52/2013/NĐ-CP.
+- Chủ thể thực hiện: Tổ chức, cá nhân thiết lập và vận hành nền tảng TMĐT
+kinh doanh trực tiếp tại Việt Nam
+- Hình thức thực hiện: Trực tuyến thông qua Nền tảng quản lý hoạt động
+TMĐT.
+- Sự cần thiết ban hành thủ tục hành chính: Thủ tục này cần thiết nhằm phục
+vụ công tác quản lý nhà nước đối với hoạt động của các nền tảng TMĐT, đặc biệt
+trong bối cảnh mô hình nền tảng kinh doanh trực tiếp ngày càng phổ biến, tiềm
+ẩn rủi ro về gian lận thương mại, chất lượng hàng hóa, nghĩa vụ thuế, bảo vệ người
+tiêu dùng… Việc thông báo giúp cơ quan nhà nước có cơ sở dữ liệu để giám sát,
+cảnh báo, xử lý kịp thời các hành vi vi phạm phát sinh trong quá trình vận hành
+nền tảng. Thủ tục thông báo bảo đảm tính linh hoạt, không tạo ra gánh nặng hành
+chính không cần thiết.
+7
+- Tính hợp lý, hợp pháp của thủ tục hành chính: Được quy định phù hợp
+với nguyên tắc phân loại mức độ quản lý rủi ro; bảo đảm thống nhất với pháp luật
+về TMĐT, quản lý ngành nghề có điều kiện và pháp luật về bảo vệ người tiêu
+dùng. Quy định phù hợp theo quy định của Luật Ban hành văn bản quy phạm pháp
+luật; bảo đảm rõ ràng về đối tượng, trình tự, trách nhiệm pháp lý.
+- Chi phí tuân thủ thủ tục hành chính: Được thực hiện hoàn toàn trên môi
+trường mạng, không yêu cầu nộp hồ sơ giấy, không thu phí. Chi phí tuân thủ ở
+mức rất thấp, chủ yếu là chi phí cơ hội của thời gian kê khai, phù hợp với tinh
+thần cải cách thủ tục hành chính và chuyển đổi số.
+1.2. Việc phân quyền, phân cấp: Dự thảo Luật giao Chính phủ quy định chi
+tiết thẩm quyền xử lý TTHC. Thủ tục này dự kiến phân cấp Sở Công Thương các
+tỉnh, thành phố trực thuộc Trung ương tiếp nhận và xử lý. Việc phân cấp góp phần
+giảm tải cho cấp trung ương, tăng tính chủ động cho địa phương trong giám sát
+hoạt động TMĐT tại địa bàn, phù hợp định hướng cải cách hành chính và phân
+quyền của Chính phủ.
+1.3. Bảo đảm bình đẳng giới: Không có yếu tố phân biệt giới tính trong điều
+kiện, quy trình thực hiện hoặc tác động của thủ tục này. Thủ tục được thiết kế trên
+nền tảng số, tạo cơ hội tiếp cận công bằng cho mọi đối tượng, không phân biệt
+giới.
+1.4. Việc thực hiện chính sách dân tộc: Không có tác động đặc thù liên quan
+đến chính sách dân tộc. Thủ tục áp dụng thống nhất cho mọi thương nhân, tổ chức
+có liên quan, không phân biệt vùng miền hoặc thành phần dân tộc.
+2. Đánh giá tác động thủ tục hành chính: Đăng ký (đăng ký mới; sửa
+đổi, bồ sung đăng ký; chấm dứt đăng ký) hoạt động nền tảng TMĐT kinh
+doanh trực tiếp của thương nhân, tổ chức không có hiện diện tại Việt Nam,
+được quy định tại khoản 2 Điều 19 Dự thảo Luật Thương mại điện tử
+2.1. Tên thủ tục: Đăng ký (đăng ký mới; sửa đổi, bồ sung đăng ký; chấm
+dứt đăng ký) hoạt động nền tảng TMĐT kinh doanh trực tiếp của thương nhân, tổ
+chức không có hiện diện tại Việt Nam
+- Nhóm TTHC dự kiến ban hành mới/được sửa đổi, bổ sung/được bãi
+bỏ/được giữ nguyên so với quy định hiện hành: TTHC mới.
+- Chủ thể thực hiện: Tổ chức thiết lập và vận hành nền tảng TMĐT kinh
+doanh trực tiếp tại Việt Nam nhưng không có hiện diện tại Việt Nam.
+- Hình thức thực hiện: Trực tuyến thông qua Nền tảng quản lý hoạt động
+8
+TMĐT.
+- Sự cần thiết ban hành thủ tục hành chính: Thủ tục này cần thiết nhằm thiết
+lập cơ chế quản lý nhà nước đối với hoạt động của các nền tảng TMĐT xuyên
+biên giới, đặc biệt khi chủ thể vận hành không có hiện diện tại Việt Nam. Việc
+đăng ký giúp cơ quan chức năng có thông tin chính thức về nền tảng, đầu mối
+pháp lý và phạm vi hoạt động để phục vụ công tác giám sát, bảo vệ người tiêu
+dùng, thực thi nghĩa vụ thuế, phòng chống gian lận thương mại và bảo đảm cạnh
+tranh lành mạnh. Thủ tục đăng ký là công cụ quản lý cần thiết, tương thích với
+thông lệ quốc tế, góp phần bảo vệ chủ quyền số quốc gia.
+- Tính hợp lý, hợp pháp của thủ tục hành chính: Được quy định phù hợp
+với nguyên tắc phân loại mức độ quản lý rủi ro; bảo đảm thống nhất với pháp luật
+về TMĐT đầu tư nước ngoài, bảo vệ người tiêu dùng và các quy định liên quan
+đến hoạt động xuyên biên giới. Hợp pháp theo Luật Ban hành văn bản quy phạm
+pháp luật; bảo đảm rõ ràng về thẩm quyền, đối tượng, trình tự, trách nhiệm pháp
+lý.
+- Chi phí tuân thủ thủ tục hành chính: Thủ tục được thực hiện hoàn toàn
+trên môi trường số, không yêu cầu hồ sơ giấy, không thu phí. Chi phí tuân thủ tập
+trung ở chi phí thời gian để kê khai và chuẩn bị thông tin đăng ký.
+2.2. Việc phân quyền, phân cấp: Theo dự thảo Luật, Chính phủ sẽ quy định
+cụ thể về thẩm quyền xử lý thủ tục đăng ký.
+2.3. Bảo đảm bình đẳng giới: Không có yếu tố phân biệt giới tính trong điều
+kiện, quy trình thực hiện hoặc tác động của thủ tục này. Thủ tục được thiết kế trên
+nền tảng số, bảo đảm quyền tiếp cận công bằng cho mọi chủ thể, không phân biệt
+giới.
+2.4. Việc thực hiện chính sách dân tộc: Không có tác động đặc thù liên quan
+đến chính sách dân tộc. Thủ tục áp dụng thống nhất cho mọi tổ chức, doanh nghiệp
+nước ngoài có liên quan, không phân biệt vùng lãnh thổ, sắc tộc hoặc địa bàn hoạt
+động.
+3. Đánh giá tác động thủ tục hành chính: Đăng ký (đăng ký mới; sửa
+đổi, bồ sung đăng ký; chấm dứt đăng ký) hoạt động nền tảng TMĐT trung
+gian, được quy định tại khoản 4 Điều 21 dự thảo Luật Thương mại điện tử
+3.1. Tên thủ tục: Đăng ký (đăng ký mới; sửa đổi, bồ sung đăng ký; chấm
+dứt đăng ký) hoạt động nền tảng TMĐT trung gian, được quy định tại khoản 4
+Điều 21 dự thảo Luật Thương mại điện tử
+9
+- Nhóm TTHC dự kiến ban hành mới/được sửa đổi, bổ sung/được bãi
+bỏ/được giữ nguyên so với quy định hiện hành: TTHC cũ, đã được quy định tại
+Nghị định số 52/2013/NĐ-CP.
+- Chủ thể thực hiện: Tổ chức thiết lập và vận hành nền tảng TMĐT trung
+gian tại Việt Nam, bao gồm cả tổ chức không có hiện diện tại Việt Nam.
+- Hình thức thực hiện: Trực tuyến thông qua Nền tảng quản lý hoạt động
+TMĐT.
+- Sự cần thiết ban hành thủ tục hành chính: Thủ tục đăng ký là cần thiết để
+xác lập trách nhiệm pháp lý, đảm bảo tính minh bạch và điều kiện hoạt động đối
+với các nền tảng trung gian, nơi diễn ra hoạt động giao dịch TMĐT đa dạng, phức
+tạp giữa nhiều chủ thể. Nền tảng TMĐT trung gian có vai trò quan trọng trong
+việc kết nối người bán và người mua, tiềm ẩn nhiều rủi ro về gian lận thương mại,
+chất lượng hàng hóa, bảo vệ người tiêu dùng, giao kết hợp đồng điện tử… Việc
+yêu cầu đăng ký tạo cơ sở để cơ quan nhà nước kiểm soát mức độ tuân thủ pháp
+luật, thúc đẩy cạnh tranh lành mạnh, bảo vệ lợi ích hợp pháp của các bên liên
+quan.
+- Tính hợp lý, hợp pháp của thủ tục hành chính: Thủ tục được thiết kế phù
+hợp với nguyên tắc phân loại rủi ro theo mô hình hoạt động. Việc yêu cầu đăng
+ký đối với nền tảng TMĐT trung gian có căn cứ pháp lý rõ ràng tại Điều 21 dự
+thảo Luật Thương mại điện tử, đồng thời phù hợp với pháp luật về doanh nghiệp,
+đầu tư, bảo vệ người tiêu dùng, giao kết hợp đồng điện tử và an toàn thông tin
+mạng. Thủ tục bảo đảm rõ ràng về đối tượng, điều kiện, trách nhiệm pháp lý của
+các chủ thể liên quan, tuân thủ quy định của Luật Ban hành văn bản quy phạm
+pháp luật.
+- Chi phí tuân thủ thủ tục hành chính: Thực hiện hoàn toàn trên môi trường
+mạng, không thu phí, không yêu cầu hồ sơ giấy. Chi phí tuân thủ chủ yếu là chi
+phí kê khai thông tin và chuẩn bị tài liệu chứng minh điều kiện hoạt động. Chi phí
+này phù hợp với tính chất và quy mô hoạt động của nền tảng.
+3.2. Việc phân quyền, phân cấp: Theo dự thảo Luật, Chính phủ sẽ quy định
+cụ thể về thẩm quyền xử lý thủ tục đăng ký.
+3.3. Bảo đảm bình đẳng giới: Thủ tục không có yếu tố phân biệt giới tính
+trong quy trình, điều kiện hoặc tác động. Việc thực hiện qua nền tảng số giúp tạo
+điều kiện tiếp cận công bằng cho mọi đối tượng không phân biệt giới, tăng cường
+sự tham gia của nữ giới vào lĩnh vực TMĐT.
+10
+3.4. Việc thực hiện chính sách dân tộc: Thủ tục áp dụng thống nhất trên
+toàn quốc, không phân biệt vùng miền, địa bàn dân cư hay thành phần dân tộc.
+Không có tác động đặc thù đến nhóm dân tộc thiểu số. Nền tảng số giúp tạo điều
+kiện cho các tổ chức, cá nhân vùng sâu vùng xa dễ dàng tiếp cận và tuân thủ quy
+định pháp luật.
+4. Đánh giá tác động thủ tục hành chính: Đăng ký (đăng ký mới; sửa
+đổi, bồ sung đăng ký; chấm dứt đăng ký) mạng xã hội có hoạt động TMĐT,
+được quy định tại khoản 4 Điều 24 dự thảo Luật Thương mại điện tử.
+4.1. Tên thủ tục: Đăng ký (đăng ký mới; sửa đổi, bồ sung đăng ký; chấm
+dứt đăng ký) mạng xã hội có hoạt động TMĐT, được quy định tại khoản 4 Điều
+24 dự thảo Luật Thương mại điện tử.
+- Nhóm TTHC dự kiến ban hành mới/được sửa đổi, bổ sung/được bãi
+bỏ/được giữ nguyên so với quy định hiện hành: TTHC cũ, đã được quy định tại
+Nghị định số 52/2013/NĐ-CP.
+- Chủ thể thực hiện: Tổ chức thiết lập và vận hành mạng xã hội có chức
+năng cho phép người dùng thực hiện hoạt động TMĐT tại Việt Nam, bao gồm cả
+tổ chức không có hiện diện tại Việt Nam.
+- Hình thức thực hiện: Trực tuyến thông qua Nền tảng quản lý hoạt động
+TMĐT.
+- Sự cần thiết ban hành thủ tục hành chính: Thủ tục này là cần thiết nhằm
+quản lý hiệu quả các hoạt động TMĐT diễn ra trên môi trường mạng xã hội, nền
+tảng có mức độ tương tác cao, quy mô người dùng lớn, dễ phát sinh vi phạm về
+gian lận, hàng giả, hành vi thương mại không minh bạch và xâm phạm quyền lợi
+người tiêu dùng. Đặc biệt trong bối cảnh xu hướng “social commerce” phát triển
+mạnh, việc yêu cầu đăng ký giúp nhà nước có dữ liệu đầu mối để kiểm soát rủi
+ro, phân loại mô hình, bảo đảm trách nhiệm pháp lý của chủ thể vận hành nền
+tảng. Đồng thời, đây là cơ sở để thúc đẩy sự minh bạch, bảo vệ người tiêu dùng
+và bảo đảm nghĩa vụ thuế từ hoạt động kinh doanh trên mạng xã hội.
+- Tính hợp lý, hợp pháp của thủ tục hành chính: Thủ tục được xây dựng trên
+cơ sở quy định rõ ràng về điều kiện, trách nhiệm và cơ chế xác lập nghĩa vụ của
+chủ thể mạng xã hội có hoạt động TMĐT tại Điều 24 dự thảo Luật Thương mại
+điện tử. Nội dung thủ tục thống nhất với pháp luật chuyên ngành liên quan như
+Luật Giao dịch điện tử, Luật Bảo vệ người tiêu dùng, Luật Viễn thông, Luật An
+toàn thông tin mạng và Luật An ninh mạng. Việc yêu cầu tách biệt nội dung
+TMĐT, gắn định danh người bán và chức năng xác nhận giao dịch góp phần nâng
+11
+cao tính minh bạch và tuân thủ pháp luật trong môi trường số.
+- Chi phí tuân thủ thủ tục hành chính: Thực hiện trực tuyến, không yêu cầu
+nộp hồ sơ giấy, không thu phí. Chi phí tuân thủ chủ yếu là thời gian chuẩn bị
+thông tin, dữ liệu kỹ thuật và hồ sơ pháp lý của nền tảng, phù hợp với năng lực
+vận hành và mô hình hoạt động của các chủ thể thiết lập mạng xã hội. Chi phí này
+hợp lý và phù hợp với yêu cầu quản lý đối với một loại hình kết hợp giữa mạng
+xã hội và TMĐT.
+4.2. Việc phân quyền, phân cấp: Dự thảo Luật giao Chính phủ quy định chi
+tiết thẩm quyền xử lý thủ tục hành chính.
+4.3. Bảo đảm bình đẳng giới: Thủ tục không có yếu tố phân biệt giới tính.
+Việc thực hiện trên nền tảng số bảo đảm mọi giới đều có thể tiếp cận, thực hiện
+thủ tục một cách công bằng, minh bạch và thuận lợi.
+4.4. Việc thực hiện chính sách dân tộc: Không có tác động đặc thù đến
+nhóm dân tộc thiểu số. Thủ tục được áp dụng thống nhất cho tất cả tổ chức, doanh
+nghiệp có liên quan, không phân biệt vùng miền, địa phương hay thành phần dân
+tộc.
+5. Đánh giá tác động thủ tục hành chính: Đăng ký (đăng ký mới; sửa
+đổi, bồ sung đăng ký; chấm dứt đăng ký) nền tảng tích hợp đa dịch vụ, được
+quy định tại khoản 4 Điều 27 dự thảo Luật Thương mại điện tử
+5.1. Tên thủ tục: Đăng ký (đăng ký mới; sửa đổi, bồ sung đăng ký; chấm
+dứt đăng ký) nền tảng tích hợp đa dịch vụ, được quy định tại khoản 4 Điều 27 dự
+thảo Luật Thương mại điện tử
+- Nhóm TTHC dự kiến ban hành mới/được sửa đổi, bổ sung/được bãi
+bỏ/được giữ nguyên so với quy định hiện hành: TTHC cũ, đã được quy định tại
+Nghị định số 52/2013/NĐ-CP.
+- Chủ thể thực hiện: Tổ chức thiết lập và vận hành nền tảng tích hợp đa dịch
+vụ tại Việt Nam, bao gồm cả tổ chức không có hiện diện tại Việt Nam.
+- Hình thức thực hiện: Trực tuyến thông qua Nền tảng quản lý hoạt động
+TMĐT.
+- Sự cần thiết ban hành thủ tục hành chính: Việc đăng ký nền tảng tích hợp
+đa dịch vụ là cần thiết nhằm quản lý nhà nước đối với mô hình siêu nền tảng, nền
+tảng trong nền tảng, vừa cung cấp dịch vụ TMĐT trung gian, vừa cho phép các
+nền tảng khác khác được tích hợp như nền tảng mạng xã hội, livestream, logistics,
+trung gian thanh toán, tài chính tiêu dùng, bảo hiểm, v.v. Đây là mô hình có khả
+12
+năng lan tỏa và ảnh hưởng lớn đến thị trường, người tiêu dùng và trật tự thương
+mại. Do đó, việc đăng ký là cơ sở để cơ quan chức năng xác lập thông tin đầu
+mối, giám sát trách nhiệm của chủ thể vận hành, đồng thời bảo vệ lợi ích của
+người tiêu dùng và bảo đảm nghĩa vụ pháp lý của nền tảng trong giao dịch điện
+tử.
+- Tính hợp lý, hợp pháp của thủ tục hành chính: Thủ tục này phù hợp với
+xu hướng điều chỉnh pháp luật theo hướng lấy rủi ro làm trung tâm, phân loại mô
+hình nền tảng để áp dụng mức độ quản lý phù hợp. Việc yêu cầu đăng ký không
+chỉ bảo đảm tính hợp pháp của hoạt động mà còn tạo điều kiện minh bạch hóa
+trách nhiệm vận hành trong môi trường số phức tạp.
+- Chi phí tuân thủ thủ tục hành chính: Thủ tục được thực hiện hoàn toàn
+trên môi trường mạng, không phát sinh chi phí nộp hồ sơ giấy, không thu phí. Chi
+phí tuân thủ ở mức phù hợp với năng lực của các doanh nghiệp vận hành nền tảng
+tích hợp, thường là các đơn vị có khả năng về công nghệ, tổ chức và nhân lực.
+Mức chi phí chủ yếu là chi phí hành chính nội bộ để chuẩn bị hồ sơ, dữ liệu hệ
+thống và thực hiện kê khai thông tin.
+5.2. Việc phân quyền, phân cấp: Dự thảo Luật giao Chính phủ quy định chi
+tiết điều kiện, trình tự, hồ sơ và thẩm quyền thực hiện thủ tục hành chính.
+5.3. Bảo đảm bình đẳng giới: Không có yếu tố phân biệt giới tính trong quá
+trình thực hiện hoặc tác động của thủ tục hành chính này. Hình thức thực hiện trực
+tuyến tạo điều kiện tiếp cận công bằng cho mọi đối tượng không phân biệt giới
+tính, tuổi tác hoặc đặc điểm cá nhân.
+5.4. Việc thực hiện chính sách dân tộc: Thủ tục không có tác động đặc thù
+đến các nhóm dân tộc thiểu số. Áp dụng thống nhất cho tất cả các tổ chức, doanh
+nghiệp có liên quan, không phân biệt dân tộc, vùng miền hay thành phần xã hội.
+6. Đánh giá tác động thủ tục hành chính: Xác nhận kiến thức pháp luật
+về TMĐT đối với người phát trực tuyến bán hàng, được quy định tại điểm a
+khoản 2 Điều 46 của Dự thảo Luật Thương mại điện tử
+6.1. Tên thủ tục: Xác nhận kiến thức pháp luật về TMĐT đối với người phát
+trực tuyến bán hàng, được quy định tại điểm a khoản 2 Điều 46 của Dự thảo Luật
+Thương mại điện tử
+- Nhóm TTHC dự kiến ban hành mới/được sửa đổi, bổ sung/được bãi
+bỏ/được giữ nguyên so với quy định hiện hành: TTHC mới.
+- Chủ thể thực hiện: Cá nhân hoạt động livestream bán hàng hoặc cung cấp
+13
+thông tin đánh giá có hoạt động tiếp thị liên kết trên nền tảng TMĐT.
+- Hình thức thực hiện: Thực hiện trực tuyến hoặc trực tiếp, đào tạo ngắn
+hạn hoặc kiểm tra nhận thức theo hướng đơn giản, linh hoạt theo quy định của
+Chính phủ.
+- Sự cần thiết ban hành thủ tục hành chính: Livestream bán hàng là hình
+thức phổ biến trong TMĐT hiện nay, có tốc độ phát triển nhanh và tiềm ẩn nhiều
+rủi ro liên quan đến quảng cáo sai lệch, gian lận thương mại, hàng giả, vi phạm
+quyền lợi người tiêu dùng và nghĩa vụ thuế. Việc yêu cầu cá nhân livestream phải
+có kiến thức pháp luật về TMĐT là cần thiết nhằm nâng cao ý thức tuân thủ pháp
+luật, trách nhiệm cá nhân, góp phần bảo đảm môi trường kinh doanh lành mạnh.
+Thủ tục này giúp thiết lập cơ sở pháp lý để nhận diện, kiểm soát và xử lý vi phạm
+của cá nhân có ảnh hưởng trên không gian mạng, đồng thời thúc đẩy phát triển
+nghề nghiệp minh bạch, chính danh.
+- Tính hợp lý, hợp pháp của thủ tục hành chính: Thủ tục được quy định cụ
+thể tại điểm a khoản 2 Điều 46 của Dự thảo Luật Thương mại điện tử, phù hợp
+với nguyên tắc pháp luật về bảo vệ người tiêu dùng, trách nhiệm trong giao dịch
+điện tử và quản trị nền tảng số. Việc yêu cầu xác nhận kiến thức là hợp pháp, có
+thể thực hiện theo phương thức đánh giá trực tuyến hoặc trực tiếp, đào tạo ngắn
+hạn hoặc kiểm tra nhận thức theo hướng đơn giản, linh hoạt. Thủ tục bảo đảm rõ
+ràng về đối tượng, mục đích, phương thức, không gây cản trở quá mức đến quyền
+tự do kinh doanh.
+- Chi phí tuân thủ thủ tục hành chính: Chi phí tuân thủ thấp, chủ yếu là chi
+phí thời gian và công sức cá nhân để hoàn thành nội dung đào tạo, kiểm tra hoặc
+xác nhận nhận thức pháp luật, không yêu cầu chi phí tài chính lớn. Hoàn toàn phù
+hợp với khả năng của đại đa số cá nhân kinh doanh nhỏ lẻ trên nền tảng.
+6.2. Việc phân quyền, phân cấp: Dự thảo Luật giao Chính phủ quy định chi
+tiết nội dung này. Chính phủ có thể ủy quyền cho các đơn vị chuyên môn (trường
+nghề, trung tâm bồi dưỡng, hiệp hội ngành hàng…) tổ chức kiểm tra, xác nhận
+kiến thức.
+6.3. Bảo đảm bình đẳng giới: Không có yếu tố phân biệt giới tính trong nội
+dung, điều kiện hoặc cách thức thực hiện. Thủ tục được thiết kế trên nền tảng số,
+bảo đảm tiếp cận công bằng giữa các giới và các nhóm xã hội khác nhau.
+6.4. Việc thực hiện chính sách dân tộc: Không phân biệt dân tộc hoặc vùng
+miền trong việc tiếp cận và thực hiện thủ tục.
+14
+7. Đánh giá tác động thủ tục hành chính: Cấp phép (cấp, gia hạn, thay
+đổi, cấp lại, tạm đình chỉ, thu hồi giấy phép) dịch vụ chứng thực hợp đồng
+điện tử trong thương mại, được quy định tại khoản 4 Điều 49 dự thảo Luật
+Thương mại điện tử
+7.1. Tên thủ tục: Cấp phép (cấp, gia hạn, thay đổi, cấp lại, tạm đình chỉ, thu
+hồi giấy phép) dịch vụ chứng thực hợp đồng điện tử trong thương mại, được quy
+định tại khoản 4 Điều 49 dự thảo Luật Thương mại điện tử.
+- Nhóm TTHC dự kiến ban hành mới/được sửa đổi, bổ sung/được bãi
+bỏ/được giữ nguyên so với quy định hiện hành: TTHC sửa đổi từ đăng ký, đã
+được quy định tại Nghị định số 52/2013/NĐ-CP.
+- Chủ thể thực hiện: Doanh nghiệp có nhu cầu cung cấp dịch vụ chứng thực
+hợp đồng điện tử trong lĩnh vực thương mại tại Việt Nam.
+- Hình thức thực hiện: Trực tuyến trên Nền tảng quản lý hoạt động TMĐT.
+- Sự cần thiết ban hành thủ tục hành chính: Dịch vụ chứng thực hợp đồng
+điện tử là dịch vụ nền tảng bảo đảm giá trị pháp lý, tính toàn vẹn và độ tin cậy của
+các giao dịch TMĐT. Trong bối cảnh Luật Giao dịch điện tử số (2023) quy định
+khung pháp lý cho dịch vụ tin cậy và có quy định riêng cho dịch vụ chứng thực
+hợp đồng theo pháp luật về TMĐT, việc thiết lập thủ tục cấp phép riêng cho lĩnh
+vực thương mại là cần thiết nhằm bảo vệ lợi ích các bên, đảm bảo môi trường giao
+dịch an toàn và có thể kiểm soát hợp đồng giao kết.
+- Tính hợp lý, hợp pháp của thủ tục hành chính: Thủ tục được quy định tại
+khoản 4 Điều 49 Dự thảo Luật Thương mại điện tử, đồng thời bảo đảm sự thống
+nhất với Luật Giao dịch điện tử năm 2023. Việc yêu cầu cấp phép là hợp lý vì
+doanh nghiệp cung cấp dịch vụ này có trách nhiệm lớn về bảo mật dữ liệu, kết nối
+hạ tầng quốc gia và hỗ trợ cơ quan quản lý điều tra, truy xuất.
+- Chi phí tuân thủ thủ tục hành chính: Chi phí thực hiện thủ tục chủ yếu liên
+quan đến việc chuẩn bị hồ sơ kỹ thuật, quy chế hoạt động, phương án bảo mật,
+kết nối hệ thống.
+7.2. Việc phân quyền, phân cấp: Dự thảo Luật giao Chính phủ quy định chi
+tiết nội dung này.
+7.3. Bảo đảm bình đẳng giới: Thủ tục cấp phép không phân biệt giới tính,
+không tạo ra rào cản bất bình đẳng trong việc tiếp cận hoặc tham gia hoạt động
+kinh doanh. Nội dung thủ tục thiên về năng lực pháp lý, kỹ thuật, không phát sinh
+yếu tố về giới.
+15
+7.4. Việc thực hiện chính sách dân tộc: Không phân biệt dân tộc hoặc vùng
+miền trong việc tiếp cận và thực hiện thủ tục.
+8. Đánh giá tác động thủ tục hành chính: Đăng ký (đăng ký mới; sửa
+đổi, bồ sung đăng ký; chấm dứt đăng ký) đánh giá tín nhiệm website TMĐT.
+- Tên thủ tục: Đăng ký (đăng ký mới; sửa đổi, bồ sung đăng ký; chấm dứt
+đăng ký) đánh giá tín nhiệm website TMĐT.
+- Nhóm TTHC dự kiến ban hành mới/được sửa đổi, bổ sung/được bãi
+bỏ/được giữ nguyên so với quy định hiện hành: TTHC được bãi bỏ.
+Lý do bãi bỏ: Thủ tục này được quy định tại Điều 61 Nghị định số
+52/2013/NĐ-CP. Tuy nhiên, trên thực tế triển khai, hoạt động đánh giá tín nhiệm
+website không phát huy hiệu quả rõ rệt. Người tiêu dùng có xu hướng tin tưởng
+các nền tảng lớn hoặc đánh giá cộng đồng, không dựa vào biểu tượng tín nhiệm
+do tổ chức thứ ba cấp. Xu hướng quản lý TMĐT hiện đại ưu tiên quản lý dữ liệu,
+hành vi giao dịch, kết hợp hậu kiểm. Việc bỏ TTHC này giảm chi phí tuân thủ và
+đơn giản hóa môi trường pháp lý./.

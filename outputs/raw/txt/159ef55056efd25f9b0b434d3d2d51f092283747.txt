@@ -1,0 +1,469 @@
+BỘ TÀI CHÍNH CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+_________ Độc lập - Tự do - Hạnh phúc
+_____________________________________
+Số: /TTr-BTC Hà Nội, ngày tháng 8 năm 2025
+DỰ THẢO 2
+TỜ TRÌNH
+Dự án Luật sửa đổi, bổ sung một số điều của Luật Kinh doanh bảo hiểm
+____________
+Kính gửi: Chính phủ
+Thực hiện quy định của Luật Ban hành văn bản quy phạm pháp luật, Kết
+luận 155/KL-TW ngày 17/5/2025 Kết luận của Bộ Chính trị, Ban Bí thư; Kế
+hoạch số 04-KH/BCDTW ngày 10/6/2025 chỉ đạo rà soát, tháo gỡ khó khăn,
+vướng mắc do quy định pháp luật; Thông báo số 05-TB/BCDTW ngày 11/6/2025
+về kết luận của đồng chí Tổng Bí thư Tô Lâm, Trưởng Ban Chỉ đạo Trung ương
+về hoàn thiện thể chế, pháp luật tại Phiên họp thứ nhất của Ban Chỉ đạo; Nghị
+quyết số 68-NQ/TW ngày 04/5/2025 của Bộ Chính trị về phát triển tư nhân; Nghị
+quyết số 66-NQ/TW ngày 30/4/2025 của Bộ Chính trị về đổi mới công tác xây
+dựng và thi hành pháp luật đáp ứng yêu cầu phát triển đất nước trong kỷ nguyên
+mới; Nghị quyết số 198/2025/QH15 ngày 17/5/2025 của Quốc hội về một số cơ
+chế chính sách đặc biệt phát triển kinh tế tư nhân; Nghị quyết số 206/2025/QH15
+ngày 24/6/2025 của Quốc hội về cơ chế đặc biệt xử lý khó khăn, vướng mắc do
+quy định của pháp luật và Quyết định số 07/QĐ-TTg ngày 05/01/2023 của Thủ
+tướng Chính phủ về việc phê duyệt Chiến lược phát triển thị trường bảo hiểm Việt
+Nam đến năm 2030, trên cơ sở tổng hợp ý kiến thẩm định của Bộ Tư pháp, Bộ
+Tài chính kính trình Chính phủ dự án Luật sửa đổi, bổ sung một số điều của Luật
+Kinh doanh bảo hiểm, với tiến độ trình Quốc hội thông qua tại kỳ họp thứ 10
+(tháng 10/2025) như sau:
+I. SỰ CẦN THIẾT BAN HÀNH VĂN BẢN
+1. Cơ sở chính trị, pháp lý
+a) Cơ sở chính trị
+- Mục IV Kết luận 155/KL-TW ngày 17/5/2025 Kết luận của Bộ Chính
+trị, Ban Bí thư về một số nhiệm vụ trọng tâm cần tập trung thực hiện về sắp xếp
+tổ chức bộ máy và đơn vị hành chính từ nay đến 30/6/2025 giao nhiệm vụ trọng
+tâm: “Rà soát chương trình xây dựng pháp luật để tiến hành sửa đổi, bổ sung
+các quy định, pháp luật có liên quan trong năm 2025.”
+- Điểm 5 Mục III Nghị quyết số 57-NQ/TW ngày 22/12/2024 của Bộ
+Chính trị về đột phá phát triển khoa học, công nghệ, đổi mới sáng tạo và chuyển
+đổi số quốc gia đề ra nhiệm vụ, giải pháp: “Đổi mới toàn diện việc giải quyết
+thủ tục hành chính, cung cấp dịch vụ công không phụ thuộc địa giới hành chính;
+nâng cao chất lượng dịch vụ công trực tuyến, dịch vụ số cho người dân và
+2
+doanh nghiệp, hướng tới cung cấp dịch vụ công trực tuyến toàn trình, cá nhân
+hoá và dựa trên dữ liệu”.
+- Điểm 2 Mục III Nghị quyết số 66-NQ/TW ngày 30/4/2025 của Bộ
+Chính trị về đổi mới công tác xây dựng và thi hành pháp luật đáp ứng yêu cầu
+phát triển đất nước trong kỷ nguyên mới: “Khẩn trương sửa đổi, bổ sung các
+văn bản pháp luật đáp ứng yêu cầu thực hiện chủ trương tinh gọn tổ chức bộ
+máy của hệ thống chính trị, sắp xếp đơn vị hành chính, gắn với phân cấp, phân
+quyền tối đa theo phương châm “địa phương quyết, địa phương làm, địa
+phương chịu trách nhiệm” và việc cơ cấu lại không gian phát triển mới ở từng
+địa bàn.
+- Điểm 2.1 Mục III Nghị quyết số 68-NQ/TW ngày 04/5/2025 của Bộ
+Chính trị về phát triển tư nhân đưa ra giải pháp về đẩy mạnh cải cách, hoàn
+thiện, nâng cao chất lượng thể chế, chính sách “Minh bạch hoá, số hoá, thông
+minh hoá, tự động hoá, áp dụng triệt để trí tuệ nhân tạo và dữ liệu lớn trong
+thực hiện các quy trình, thủ tục hành chính, nhất là về ….bảo hiểm... Trong năm
+2025, … thực hiện cắt giảm ít nhất 30% thời gian xử lý thủ tục hành chính, ít
+nhất 30% chi phí tuân thủ pháp luật, ít nhất 30% điều kiện kinh doanh và tiếp
+tục cắt giảm mạnh trong những năm tiếp theo; Khẩn trương nâng hạng, tái cơ
+cấu thị trường chứng khoán, phát triển thị trường bảo hiểm; Tạo mọi thuận lợi
+trong giải quyết thủ tục hành chính; phân công, phân cấp, phân nhiệm rõ ràng
+giữa các cấp, ngành của từng cơ quan, đơn vị”.
+- Kế hoạch số 04-KH/BCDTW ngày 10/6/2025 chỉ đạo rà soát, tháo gỡ
+khó khăn, vướng mắc do quy định pháp luật giao nhiệm vụ: “Tiếp tục ban hành
+văn bản quy phạm pháp luật tháo gỡ trong cả năm 2025”.
+-Thông báo số 05-TB/BCDTW ngày 11/6/2025 về kết luận của đồng chí
+Tổng Bí thư Tô Lâm, Trưởng Ban Chỉ đạo Trung ương về hoàn thiện thể chế,
+pháp luật tại Phiên họp thứ nhất của Ban Chỉ đạo giao nhiệm vụ: “Việc triển
+khai cần tập trung vào trọng tâm, trọng điểm các nội dung cốt lõi của Nghị quyết
+số 66-NQ/TW; ưu tiên giải quyết vấn đề cấp bách, đặc biệt là tập trung lãnh đạo,
+chỉ đạo thực hiện thành công mục tiêu “Năm 2025, cơ bản hoàn thành việc tháo
+gỡ những “điểm nghẽn” do quy định pháp luật” để qua đó công tác hoàn thiện
+thể chế, pháp luật phải mở đường cho kiến tạo phát triển, huy động mọi người
+dân và doanh nghiệp tham gia vào phát triển kinh tế - xã hội của đất nước”.
+b) Cơ sở pháp lý
+- Điểm b khoản 1 Điều 50 Luật Ban hành văn bản quy phạm pháp luật
+năm 2025: “1. Việc xây dựng, ban hành văn bản quy phạm pháp luật được thực
+hiện theo trình tự, thủ tục rút gọn thuộc trường hợp sau đây:...b) Trường hợp
+cấp bách để giải quyết vấn đề phát sinh trong thực tiễn”.
+- Khoản 3.1 Điều 3 Nghị quyết số 158/2024/QH15 ngày 12/11/2024 của
+Quốc hội về kế hoạch phát triển kinh tế - xã hội năm 2025 đã quy định: “có giải
+pháp mạnh mẽ, quyết liệt để tháo gỡ thể chế, khắc phục điểm nghẽn; đẩy mạnh
+hơn nữa việc rà soát, bổ sung, hoàn thiện thể chế, pháp luật, cơ chế, chính sách
+3
+gắn với nâng cao hiệu lực, hiệu quả tổ chức thực hiện pháp luật; tập trung cắt
+giảm, đơn giản hóa thủ tục hành chính, quy định kinh doanh, tạo thuận lợi, tiết
+giảm chi phí cho người dân, doanh nghiệp” và “đổi mới tư duy trong xây dựng
+pháp luật theo hướng vừa bảo đảm yêu cầu quản lý nhà nước vừa khuyến khích
+sáng tạo, giải phóng toàn bộ sức sản xuất, khơi thông mọi nguồn lực”.
+- Điểm a khoản 4 Điều 16 Nghị quyết số 198/2025/QH15 ngày 17/5/2025
+của Quốc hội về một số cơ chế, chính sách đặc biệt phát triển kinh tế tư nhân
+giao nhiệm vụ: “4. Giao Chính phủ: a) Chậm nhất ngày 31 tháng 12 năm 2025,
+hoàn thành việc rà soát, loại bỏ những điều kiện kinh doanh không cần thiết,
+quy định chồng chéo, không phù hợp, cản trở sự phát triển của doanh nghiệp tư
+nhân; thực hiện giảm ít nhất 30% thời gian xử lý thủ tục hành chính, ít nhất
+30% chi phí tuân thủ pháp luật, ít nhất 30% điều kiện kinh doanh và tiếp tục cắt
+giảm mạnh trong những năm tiếp theo;”.
+- Điểm b khoản 1 Điều 4 Nghị quyết số 206/2025/QH15 ngày 24/6/2025
+của Quốc hội về cơ chế đặc biệt xử lý khó khăn, vướng mắc do quy định của
+pháp luật, “1. Khó khăn, vướng mắc do quy định của pháp luật được xử lý theo
+các phương án sau đây:... b) Ban hành văn bản quy phạm pháp luật theo trình
+tự, thủ tục rút gọn để quy định vấn đề mới, sửa đổi, bổ sung hoặc thay thế quy
+định hiện hành theo quy định của Luật Ban hành văn bản quy phạm pháp luật”;
+- Quyết định số 07/QĐ-TTg ngày 05/01/2023 của Thủ tướng Chính phủ
+về việc phê duyệt Chiến lược phát triển thị trường bảo hiểm Việt Nam đến năm
+2030 đặt ra mục tiêu cho giai đoạn 2022-2025: “Hoàn thiện hệ thống cơ chế,
+chính sách về kinh doanh bảo hiểm đầy đủ, minh bạch, bình đẳng và đồng bộ,
+tiếp cận các chuẩn mực, thông lệ quốc tế về kinh doanh bảo hiểm, tạo thuận lợi
+cho sự phát triển toàn diện thị trường bảo hiểm, bảo đảm thực hiện các nghĩa vụ
+cam kết quốc tế của Việt Nam”.
+2. Cơ sở thực tiễn
+a) Kết quả thực hiện Luật Kinh doanh bảo hiểm năm 2022
+Luật Kinh doanh bảo hiểm số 08/2022/QH15 (KDBH) được Quốc hội
+nước Cộng hòa xã hội chủ nghĩa Việt Nam khoá XV, kỳ họp thứ 3 thông qua
+vào ngày 16/6/2022, có hiệu lực từ ngày 01/01/2023. Với vai trò là luật chuyên
+ngành trong lĩnh vực kinh doanh bảo hiểm, Luật KDBH đã góp phần thể chế hóa
+kịp thời các chủ trương, đường lối của Đảng trong lĩnh vực kinh doanh bảo hiểm
+phục vụ mục tiêu phát triển kinh tế - xã hội và đẩy nhanh sự nghiệp công hóa,
+hiện đại hóa đất nước. Chính phủ và Bộ trưởng Bộ Tài chính đã ban hành 08 văn
+bản quy phạm pháp luật quy định chi tiết và hướng dẫn thi hành Luật KDBH.
+Hệ thống các văn bản quy phạm pháp luật này đã: (i) tạo khung khổ pháp lý cơ
+bản đầy đủ, minh bạch; (ii) thúc đẩy môi trường cạnh tranh lành mạnh, bình
+đẳng giữa các doanh nghiệp; (iii) đảm bảo hài hòa giữa quản lý giám sát thận
+trọng và tạo chủ động trong hoạt động kinh doanh của doanh nghiệp. Bộ Tài
+chính thường xuyên cập nhật, hoàn thiện cơ chế chính sách nhằm tạo động lực
+kinh doanh và phát triển thị trường an toàn, bền vững.
+4
+Về cơ bản, Luật KDBH và các văn bản hướng dẫn đã dần tiếp cận với
+thông lệ, chuẩn mực quốc tế, phù hợp với yêu cầu của nền kinh tế theo cơ chế
+thị trường, góp phần thực hiện thành công các cam kết hội nhập trong lĩnh vực
+kinh doanh bảo hiểm và thị trường tài chính. Việc xây dựng và hoàn thiện hệ
+thống pháp lý về kinh doanh bảo hiểm trong thời gian qua đã từng bước góp
+phần thúc đẩy phát triển thị trường tài chính của Việt Nam.
+Sau khi Luật KDBH được ban hành, trước khó khăn chung của nền kinh
+tế, đa số các chỉ tiêu của thị trường bảo hiểm vẫn tiếp tục duy trì đà tăng trưởng,
+cụ thể như sau:
+- Dự kiến cả năm 2025, tổng tài sản của các DNBH ước đạt 1.067.825 tỷ
+đồng (tăng 29,86% so với năm 2022), trong đó các DNBH phi nhân thọ ước đạt
+149.268 tỷ đồng, các DNBH nhân thọ ước đạt 918.557 tỷ đồng. Tốc độ tăng
+trưởng bình quân giai đoạn 2022-2025 đạt khoảng 9,75%.
+- Dự kiến trong năm 2025, tổng số tiền đầu tư trở lại nền kinh tế ước đạt
+895.954 tỷ đồng (tăng 31,66% so với năm 2022), trong đó các DNBH phi nhân
+thọ ước đạt 82.654 tỷ đồng, các DNBH nhân thọ ước đạt 813.300 tỷ đồng. Tốc
+độ tăng trưởng bình quân giai đoạn 2022-2025 đạt khoảng 10,28%.
+- Dự kiến trong năm 2025, tổng dự phòng nghiệp vụ bảo hiểm ước đạt
+711.973 tỷ đồng (tăng 34,27% so với năm 2022), trong đó các DNBH phi nhân
+thọ ước đạt 42.293 tỷ đồng, các DNBH nhân thọ ước đạt 669.680 tỷ đồng. Tốc
+độ tăng trưởng bình quân giai đoạn 2022-2025 đạt khoảng 10,28%.
+- Dự kiến trong năm 2025, tổng nguồn vốn chủ sở hữu ước đạt 219.456 tỷ
+đồng (tăng 23,59% so với năm 2022), trong đó các DNBH hi nhân thọ đạt
+45.785 tỷ đồng, các DNBH nhân thọ là 173.671 tỷ đồng. Tốc độ tăng trưởng
+bình quân giai đoạn 2022-2025 đạt khoảng 6,83%.
+- Dự kiến trong năm 2025, tổng doanh thu phí bảo hiểm ước đạt 239.636
+tỷ đồng (giảm 3,29% so với năm 2022), trong đó các DNBH phi nhân thọ ước
+đạt 85.938 tỷ đồng, các DNBH nhân thọ ước đạt 153.698 tỷ đồng. Tốc độ tăng
+trưởng bình quân giai đoạn 2022-2025 giảm khoảng 0.91%.
+- Dự kiến trong năm 2025, chi trả quyền lợi bảo hiểm ước đạt 104.459 tỷ
+đồng (tăng 55,44% so với năm 2022), trong đó các DNBH phi nhân thọ ước đạt
+25.912 tỷ đồng, các DNBH nhân thọ ước đạt 78.547 tỷ đồng. Tốc độ tăng trưởng
+bình quân giai đoạn 2022-2025 đạt khoảng 18,18%.
+- Dự kiến trong năm 2025, tổng số phí bảo hiểm thu xếp qua môi giới bảo
+hiểm ước đạt 19.555 tỷ đồng (tăng 16,7% so với năm 2022). Tốc độ tăng trưởng
+bình quân giai đoạn 2022-2025 đạt khoảng 13,64%.
+Các doanh nghiệp có mạng lưới phục vụ khách hàng trên toàn quốc, với
+trên 1.000 chi nhánh, văn phòng đại diện, gần một triệu đại lý, cung cấp hơn
+2.100 sản phẩm bảo hiểm; giải quyết công ăn việc làm cho gần triệu người mỗi
+năm; các vụ tổn thất lớn đều được chi trả bồi thường kịp thời, giúp khách hàng
+nhanh chóng ổn định sản xuất, kinh doanh; góp phần bổ trợ cho các chính sách
+5
+an sinh xã hội và các chương trình mục tiêu, nhiệm vụ cấp bách của Chính phủ
+thông qua các chương trình bảo hiểm nông nghiệp, bảo hiểm thủy sản,..
+b) Bất cập, hạn chế
+Bên cạnh những kết quả đạt được, quy định pháp luật về kinh doanh bảo
+hiểm cũng có một số bất cập chưa phù hợp với chủ trương, chính sách của Đảng
+và Nhà nước về tăng trưởng kinh tế, đặc biệt là phát triển kinh tế tư nhân cũng
+như yêu cầu thực tế về đồng bộ với các văn bản pháp luật khác có liên quan như:
+- Tốc độ tăng trưởng của thị trường bảo hiểm Việt Nam đang có dấu hiệu
+chậm lại, tốc độ tăng trưởng của các chỉ tiêu chủ yếu của thị trường bảo hiểm
+Việt Nam trong giai đoạn 2022-2025 chỉ tăng trên dưới 10%. Do đó, cần có
+chính sách tăng tính chủ động trong việc xây dựng và thiết kế sản phẩm của
+DNBH nhằm đáp ứng tốt hơn nhu cầu đa dạng của các tổ chức, cá nhân trong
+nhiều hoạt động kinh tế và đời sống.
+- Việc hướng tới áp dụng mô hình vốn trên cơ sở rủi ro tại Luật Kinh
+doanh bảo hiểm năm 2022 đã dần tiếp cận với thông lệ quốc tế. Hiện tại, Bộ Tài
+chính chưa có nguồn lực tài chính và nguồn nhân sự có đủ kinh nghiệm, năng
+lực để tiếp tục hoàn thiện mô hình RBC cho thị trường bảo hiểm Việt Nam.
+Bên cạnh đó, Bộ Tài chính đang triển khai xây dựng cơ sở dữ liệu thông
+tin phục vụ cho quá trình quản lý, giám sát thị trường bảo hiểm và xây dựng mô
+hình vốn trên cơ sở rủi ro dự kiến thực hiện vào giai đoạn 2026-2030. Ngoài ra,
+chế độ kế toán của các DNBH hiện nay chủ yếu ghi nhận theo giá trị ghi sổ chưa
+đồng bộ với việc ghi nhận theo giá trị thị trường trong mô hình vốn trên cơ sở
+rủi ro.
+Do đó, việc triển khai ngay mô hình vốn trên cơ sở rủi ro vào năm 2028 sẽ
+gặp khó khăn về nguồn lực và cơ sở hạ tầng thông tin. Theo kinh nghiệm của
+Hong Kong, bên cạnh thời gian hơn 10 năm nghiên cứu xây dựng thì cơ quan
+quản lý cho phép doanh nghiệp bảo hiểm có 3 năm áp dụng thử nghiệm để
+doanh nghiệp có thời gian chuẩn bị nguồn lực và nâng cấp hệ thống công nghệ
+thông tin.
+- Các văn bản quy phạm pháp luật có liên quan đến lĩnh vực bảo hiểm như
+Luật Thanh tra, Luật Xử lý vi phạm hành chính... trong thời gian qua đã được
+sửa đổi, bổ sung. Do vậy, một số quy định của Luật Kinh doanh bảo hiểm không
+còn thống nhất, đồng bộ với quy định mới được sửa đổi, bổ sung tại các văn bản
+pháp luật nêu trên.
+Do đó, từ cơ sở chính trị, pháp lý và cơ sở thực tiễn nêu trên, Bộ Tài
+chính đã rà soát, nghiên cứu các nội dung cắt, giảm, đơn giản hóa thủ tục hành
+chính, điều kiện kinh doanh và tháo gỡ khó khăn, vướng mắc để đề xuất trình
+Bộ trình Chính phủ, Quốc hội để xây dựng Luật sửa đổi, bổ sung một số điều
+của Luật Kinh doanh bảo hiểm trong năm 2025 theo trình tự, thủ tục rút gọn.
+6
+II. MỤC ĐÍCH BAN HÀNH, QUAN ĐIỂM XÂY DỰNG LUẬT
+1. Mục đích ban hành Luật
+Việc xây dựng Luật sửa đổi, bổ sung một số điều Luật Kinh doanh bảo
+hiểm nhằm:
+- Hoàn thiện hành lang pháp lý đồng bộ, thống nhất, thực hiện chủ trương,
+chính sách của Đảng và Nhà nước về tạo điều kiện cho doanh nghiệp phát triển
+thông qua việc cắt giảm điều kiện đầu tư kinh doanh đối với hoạt động kinh
+doanh bảo hiểm; đơn giản hóa thủ tục hành chính giảm thời gian, chi phí tuân
+thủ cho người dân, doanh nghiệp, đồng thời bảo đảm hiệu quả hiệu lực quản lý
+của cơ quan nhà nước thông qua công tác hậu kiểm.
+- Đẩy mạnh phân cấp phân quyền, cải cách thủ tục hành chính, ngăn ngừa
+tham nhũng, lãng phí, tiêu cực; xây dựng Nhà nước pháp quyền xã hội chủ
+nghĩa; góp phần thực hiện mục tiêu ổn định kinh tế vĩ mô, kiểm soát lạm phát,
+thúc đẩy tăng trưởng, bảo đảm các cân đối lớn của nền kinh tế và các mục tiêu
+lớn theo Nghị quyết Đại hội XIII của Đảng.
+2. Quan điểm xây dựng Luật
+- Thể chế hóa quan điểm, chủ trương, đường lối của Đảng, pháp luật của
+Nhà nước, các Nghị quyết của Quốc hội, Chính phủ và các Quyết định của Thủ
+tướng Chính phủ nhằm đổi mới tư duy trong công tác xây dựng pháp luật theo
+chỉ đạo của đồng chí Tổng Bí thư Tô Lâm, bảo đảm ngắn gọn, rõ ràng, dễ hiểu;
+kịp thời tháo gỡ khó khăn, vướng mắc, những điểm nghẽn về thể chế nhằm khơi
+thông mọi nguồn lực, thúc đẩy phát triển kinh tế-xã hội, góp phần thực hiện mục
+tiêu phát triển kinh tế-xã hội theo Nghị quyết số 192/2025/QH15 ngày
+19/2/2025 của Quốc hội.
+- Cắt giảm điều kiện kinh doanh trong hoạt động kinh doanh bảo hiểm và
+đơn giản hóa thủ tục hành chính, bảo đảm bãi bỏ ít nhất 30% điều kiện đầu tư
+kinh doanh, giảm ít nhất 30% thời gian giải quyết của các thủ tục hành chính,
+30% chi phí tuân thủ thủ tục hành chính phù hợp với quy định mới của pháp luật
+về phân cấp, phân quyền, ủy quyền và việc sắp xếp tinh gọn tổ chức bộ máy,
+thực hiện mô hình tổ chức chính quyền địa phương 02 cấp. Kết hợp với chế độ
+hậu kiểm bảo đảm thực hiện có hiệu quả công tác quản lý nhà nước kịp thời phát
+hiện, xử lý nghiêm minh các hành vi vi phạm pháp luật về kinh doanh bảo hiểm,
+giữ vững kỷ cương và sự bền vững của thị trường; bảo vệ quyền và lợi ích hợp
+pháp của nhà đầu tư, khách hàng, sự an toàn của cả hệ thống, tiết giảm chi phí
+xã hội.
+- Kế thừa, tiếp tục phát triển và hoàn thiện những chính sách, quy định
+pháp luật về kinh doanh bảo hiểm còn phù hợp với thực tế và đã có tác động tích
+cực đối với sự phát triển của thị trường bảo hiểm.
+- Bảo đảm tính hợp hiến, hợp pháp và tính thống nhất trong hệ thống pháp
+7
+luật, tính tương thích với cam kết quốc tế có liên quan; xác định rõ nội dung,
+nguyên tắc áp dụng Luật sửa đổi Luật Kinh doanh bảo hiểm bảo đảm không
+chồng chéo, mâu thuẫn giữa Luật này và các luật khác có liên quan.
+III. QUÁ TRÌNH XÂY DỰNG DỰ ÁN LUẬT SỬA ĐỔI, BỔ SUNG
+MỘT SỐ ĐIỀU CỦA LUẬT KINH DOANH BẢO HIỂM
+Theo Nghị quyết số ........, dự án Luật sửa đổi, bổ sung một số điều Luật
+Kinh doanh bảo hiểm được xây dựng theo trình tự, thủ tục rút gọn nhưng vẫn
+phải đảm bảo lấy ý kiến của các đối tượng chịu sự tác động trực tiếp. Căn cứ
+Luật ban hành văn bản quy phạm pháp luật và các văn bản hướng dẫn, Bộ Tài
+chính đã thực hiện như sau:
+1. Rà soát Luật Kinh doanh bảo hiểm và các văn bản quy phạm pháp luật
+có liên quan nhằm cung cấp các luận cứ thực tiễn cho việc xây dựng dự án Luật.
+2. Tổ chức các hội thảo đối thoại với doanh nghiệp bảo hiểm, doanh
+nghiệp môi giới bảo hiểm và Hiệp hội bảo hiểm trong để nắm bắt những khó
+khăn, vướng mắc liên quan đến Luật Kinh doanh bảo hiểm và các văn bản
+hướng dẫn thi hành để kịp thời tháo gỡ.
+3. Xây dựng dự thảo Luật và tổ chức lấy ý kiến góp ý của các các Đoàn
+đại biểu Quốc hội, Bộ, cơ quan ngang Bộ, VCCI, Mặt trận Tổ quốc, Sở Tài
+chính các tỉnh, thành phố trực thuộc trung ương, doanh nghiệp bảo hiểm, doanh
+nghiệp tái bảo hiểm, doanh nghiệp môi giới bảo hiểm, văn phòng đại diện nước
+ngoài, chi nhánh doanh nghiệp nước ngoài và Hiệp hội bảo hiểm là đối tượng
+chịu sự tác động trực tiếp của dự án Luật sửa đổi, bổ sung. Đồng thời, Bộ Tài
+chính cũng đã gửi, đăng tải hồ sơ dự án Luật sửa đổi, bổ sung trên Cổng thông
+tin điện tử của Bộ Tài chính để lấy ý kiến rộng rãi.
+4. Gửi hồ sơ dự án Luật sửa đổi, bổ sung một số điều Luật Kinh doanh
+bảo hiểm đề nghị Bộ Tư pháp thẩm định trước khi trình Chính phủ.
+5. Trên cơ sở ý kiến thẩm định của Bộ Tư pháp tại báo cáo thẩm định số...
+ngày..., Bộ Tài chính đã chỉnh lý, hoàn thiện hồ sơ dự án Luật sửa đổi, bổ sung
+một số điều của Luật Kinh doanh bảo hiểm để trình Chính phủ.
+IV. BỐ CỤC, NỘI DUNG CƠ BẢN CỦA DỰ ÁN LUẬT SỬA ĐỔI,
+BỔ SUNG MỘT SỐ ĐIỀU CỦA LUẬT KINH DOANH BẢO HIỂM
+Dự án Luật sửa đổi, bổ sung một số điều của Luật Kinh doanh bảo hiểm
+giữ nguyên phạm vi điều chỉnh và đối tượng áp dụng của Luật Kinh doanh bảo
+hiểm hiện hành, cụ thể như sau:
+1. Phạm vi điều chỉnh, đối tượng áp dụng
+Luật này quy định về tổ chức và hoạt động kinh doanh bảo hiểm; quyền
+và nghĩa vụ của tổ chức, cá nhân tham gia bảo hiểm; quản lý nhà nước về hoạt
+động kinh doanh bảo hiểm. Luật này không áp dụng đối với bảo hiểm xã hội,
+8
+bảo hiểm y tế và bảo hiểm tiền gửi do Nhà nước thực hiện không mang tính kinh
+doanh.
+Luật này áp dụng đối với doanh nghiệp bảo hiểm, doanh nghiệp tái bảo
+hiểm, đại lý bảo hiểm, doanh nghiệp môi giới bảo hiểm, tổ chức, cá nhân cung
+cấp dịch vụ phụ trợ bảo hiểm, tổ chức tương hỗ cung cấp bảo hiểm vi mô; Chi
+nhánh doanh nghiệp bảo hiểm phi nhân thọ nước ngoài, chi nhánh doanh nghiệp
+tái bảo hiểm nước ngoài; Văn phòng đại diện của doanh nghiệp bảo hiểm nước
+ngoài, doanh nghiệp tái bảo hiểm nước ngoài, doanh nghiệp môi giới bảo hiểm
+nước ngoài, tập đoàn tài chính, bảo hiểm nước ngoài tại Việt Nam; Bên mua bảo
+hiểm, người được bảo hiểm, người thụ hưởng; Cơ quan quản lý nhà nước về
+hoạt động kinh doanh bảo hiểm và các tổ chức, cá nhân có liên quan đến hoạt
+động kinh doanh bảo hiểm.
+2. Về bố cục
+Dự thảo Luật sửa đổi, bổ sung một số điều của Luật Kinh doanh bảo hiểm
+về cơ bản giữ nguyên bố cục của Luật hiện hành. Theo đó, dự thảo Dự thảo Luật
+sửa đổi, bổ sung một số điều của Luật Kinh doanh bảo hiểm bao gồm 03 Điều,
+cụ thể như sau:
+Điều 1. Sửa đổi, bổ sung một số điều của Luật Kinh doanh bảo hiểm.
+Điều 2. Bãi bỏ một số từ, cụm từ, điểm, khoản, điều của Luật Kinh doanh
+bảo hiểm.
+Điều 3: Điều khoản thi hành.
+3. Nội dung cơ bản
+3.1. Tổng quan những nội dung dự kiến sửa đổi, bổ sung
+So với Luật Kinh doanh bảo hiểm hiện hành, dự thảo sửa đổi 27 Điều,
+trong đó:
+(i) Cắt, giảm, đơn giản hóa điều kiện kinh doanh tại 09 điều của Luật
+Kinh doanh bảo hiểm liên quan đến cấp phép thành lập và hoạt động của doanh
+nghiệp bảo hiểm; điều kiện trước khi chính thức hoạt động; điều kiện, tiêu chuẩn
+đối với người quản lý, người kiểm soát; đầu tư ra nước ngoài; điều kiện hoạt
+động đại lý bảo hiểm; cấp phép thành lập và hoạt động của doanh nghiệp môi
+giới bảo hiểm và điều kiện cung cấp dịch vụ phụ trợ bảo hiểm.
+(ii) Cắt, giảm, đơn giản hóa thủ tục hành chính tại 01 Điều của Luật Kinh
+doanh bảo hiểm liên quan đến đăng ký nguyên tắc tách nguồn vồn chủ sở hữu
+bảo hiểm và nguồn phí bảo hiểm của doanh nghiệp bảo hiểm phi nhân thọ, tái
+bảo hiểm.
+(iii) Tăng cường phân cấp, phân quyền cho chính quyền địa phương các
+cấp tại 02 điều liên quan đến quản lý chi nhánh, văn phòng đại diện, địa điểm
+kinh doanh của doanh nghiệp bảo hiểm, doanh nghiệp tái bảo hiểm, chi nhánh
+9
+nước ngoài tại Việt Nam, doanh nghiệp môi giới bảo hiểm
+(iv) Tháo gỡ khó khăn, vướng mắc khác cho doanh nghiệp tại 03 điều của
+Luật Kinh doanh bảo hiểm liên quan đến quy định về chấp thuận phương pháp,
+cơ sở tính phí bảo hiểm của bảo hiểm xe cơ giới, quy định thông báo cho Bộ Tài
+chính sau khi công khai thông tin, chi nhánh và các hình thức tương đương.
+(v) Các nội dung khác (12 điều) về áp dụng song song hai mô hình vốn
+trên cơ sở rủi ro và biên khả năng thanh toán, sửa đổi các quy định liên quan đến
+hoạt động thanh tra, nội dung hoạt động của doanh nghiệp bảo hiểm phi nhân
+thọ, áp dụng pháp luật, nguyên tắc đảm nhiệm chức vụ, chấp thuận bổ nhiệm
+chức danh Chủ tịch HĐQT, Chủ tịch HĐTV, Giám đốc, Tổng giám đốc, chuyên
+gia tính toán tại thời điểm cấp phép, hệ thống thông tin quốc gia về đăng ký
+doanh nghiệp, hoạt động đầu tư của doanh nghiệp môi giới bảo hiểm và việc
+chuyển đổi chứng chỉ đại lý bảo hiểm.
+3.2. Chi tiết các nội dung sửa đổi, bổ sung
+Dự án Luật sửa đổi, bổ sung một số điều của Luật Kinh doanh bảo hiểm
+đã bám sát mục đích, quan điểm chỉ đạo của Đảng và Nhà nước trong việc xây
+dựng văn bản quy phạm pháp luật trong kỷ nguyên mới, cụ thể như sau:
+a) Những quy định chung
+Bổ sung khoản 3 và 4 Điều 3 về áp dụng pháp luật theo hướng tổ chức, cá
+nhân không thuộc đối tượng bị cấm thành lập và quản lý doanh nghiệp tại Việt
+Nam theo quy định của Luật Doanh nghiệp có thể tham gia góp vốn, thành lập,
+quản lý, kiểm soát doanh nghiệp bảo hiểm, doanh nghiệp tái bảo hiểm, doanh
+nghiệp môi giới bảo hiểm, tổ chức tương hỗ cung cấp bảo hiểm vi mô, chi nhánh
+nước ngoài tại Việt Nam; tổ chức được thành lập và hoạt động hợp pháp tại Việt
+Nam, cá nhân có năng lực hành vi dân sự đầy đủ được phép hoạt động đại lý bảo
+hiểm, cung cấp dịch vụ phụ trợ bảo hiểm tại Việt Nam.
+b) Doanh nghiệp bảo hiểm, doanh nghiệp tái bảo hiểm, chi nhánh nước
+ngoài tại Việt Nam
+- Sửa đổi các điều 63, 64, 65, 70, 71, 73, 74, 81, 82, 87, 100, 101, 117 về
+nội dung hoạt động của doanh nghiệp bảo hiểm phi nhân thọ, điều kiện cấp phép
+thành lập và hoạt động của doanh nghiệp, chấp thuận bổ nhiệm chức danh Chủ
+tịch HĐQT, Chủ tịch HĐTV, Giám đốc, Tổng giám đốc, chuyên gia tính toán tại
+thời điểm cấp phép, hệ thống thông tin quốc gia về đăng ký doanh nghiệp, điều
+kiện trước khi chính thức hoạt động, những thay đổi phải được chấp thuận hoặc
+thông báo, điều kiện, tiêu chuẩn đối với người quản lý, người kiểm soát, nguyên
+tắc đảm nhiệm chức vụ, xây dựng, thiết kế, phát triển và cung cấp sản phẩm, đầu
+tư ra nước ngoài, tách nguồn vốn chủ sở hữu và nguồn phí bảo hiểm, trách
+nhiệm công khai thông tin theo hướng cắt, giảm, đơn giản hóa điều kiện kinh
+doanh và thủ tục hành chính cho doanh nghiệp, đồng thời tăng cường phân cấp,
+phân quyền cho cơ quan đăng ký kinh doanh cấp tỉnh quản lý chi nhánh, văn
+10
+phòng đại diện, địa điểm kinh doanh của doanh nghiệp bảo hiểm, doanh nghiệp
+tái bảo hiểm, chi nhánh nước ngoài tại Việt Nam.
+- Sửa Điều 78 về tổ chức hoạt động của doanh nghiệp bảo hiểm, doanh
+nghiệp tái bảo hiểm, chi nhánh nước ngoài theo hướng bổ sung công ty thành
+viên, hội sở hoặc các hình thức tương đương chi nhánh của doanh nghiệp; sửa
+Điều 82 theo hướng cho phép Chuyên gia tính toán được kiêm nhiệm trưởng bộ
+phận định phí bảo hiểm và Kế toán trưởng kiêm trưởng bộ phận tài chính kế
+toán nhằm tháo gỡ khó khăn, vướng mắc cho doanh nghiệp.
+c) Về đại lý bảo hiểm
+Sửa Điều 125 về đại lý bảo hiểm theo hướng cắt, giảm đơn giản hóa điều
+kiện kinh doanh cho đại lý bảo hiểm đã có tại quy định chung, Điều 127 về
+nguyên tắc hoạt động đại lý bảo hiểm.
+d) Về doanh nghiệp môi giới bảo hiểm
+Sửa các điều 133, 136, 138 về điều kiện cấp giấy phép thành lập và hoạt
+động của doanh nghiệp môi giới bảo hiểm, hoạt động đầu tư của doanh nghiệp
+môi giới bảo hiểm và những thay đổi phải được chấp thuận hoặc phải thông báo
+theo hướng hướng cắt, giảm, đơn giản hóa điều kiện kinh doanh và thủ tục hành
+chính cho doanh nghiệp, đồng thời tăng cường phân cấp, phân quyền cho chính
+quyền địa phương các cấp quản lý chi nhánh, văn phòng đại diện, địa điểm kinh
+doanh của doanh nghiệp môi giới bảo hiểm.
+đ) Về dịch vụ phụ trợ bảo hiểm
+Sửa Điều 143 về điều kiện cung cấp dịch vụ phụ trợ bảo hiểm theo hướng
+cắt, giảm, đơn giản hóa điều kiện kinh doanh đối với dịch vụ phụ trợ bảo hiểm
+đối với các điều kiện đã có tại quy định chung.
+e) Về quản lý nhà nước về hoạt động kinh doanh bảo hiểm
+Sửa đổi các điều 151, 152, 153, 154 theo hướng thay thế từ “thanh tra”
+bằng từ “kiểm tra chuyên ngành” do Bộ Tài chính hiện không còn chức năng
+thanh tra mà chỉ có chức năng kiểm tra chuyên ngành đối với lĩnh vực kinh
+doanh bảo hiểm.
+g) Về áp dụng mô hình vốn trên cơ sở rủi ro
+Sửa đổi Điều 156 Luật Kinh doanh bảo hiểm theo hướng kéo dài thời gian
+áp dụng mô hình vốn tối thiểu và biên khả năng thanh toán 1, đồng thời cho
+phép DNBH có thời gian áp dụng thử nghiệm mô hình RBC trong thời gian 3
+năm từ năm 2028-2030. Cụ thể là trong thời gian này DNBH tính toán vốn và
+khả năng thanh toán theo cả 2 mô hình và được lựa chọn mô hình có kết quả tính
+toán cao hơn để có thời gian cho DNBH chuẩn bị tăng vốn. Từ năm 2031 trở đi,
+DNBH phải chính thức áp dụng mô hình vốn trên cơ sở rủi ro.
+h) Về chuyển đổi chứng chỉ đại lý bảo hiểm
+11
+Gia hạn thời gian chuyển tiếp đối với việc chuyển đổi chứng chỉ đại lý
+bảo hiểm để phù hợp với thực tế khối lượng hồ sơ chứng chỉ còn tồn đọng vì
+những lý do khách quan.
+V. NHỮNG NỘI DUNG BỔ SUNG MỚI SO VỚI DỰ THẢO VĂN
+BẢN GỬI THẨM ĐỊNH (NẾU CÓ)*
+VI. DỰ KIẾN NGUỒN LỰC, ĐIỀU KIỆN BẢO ĐẢM CHO VIỆC
+THI HÀNH VĂN BẢN VÀ THỜI GIAN TRÌNH THÔNG QUA/BAN
+HÀNH
+Về nguồn nhân lực: Việc thực hiện các quy định tại dự thảo Luật sửa đổi,
+bổ sung một số điều của Luật Kinh doanh bảo hiểm không làm phát sinh thêm
+nhân lực mới của các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ, Ủy ban
+nhân dân các tỉnh, thành phố trực thuộc trung ương. Việc thực hiện các quy định
+tại dự thảo Luật bảo đảm không tăng tổ chức, biên chế theo đúng yêu cầu của
+Nghị quyết số 39-NQ/TW ngày 17/4/2015 của Bộ Chính trị về tinh giản biên
+chế và cơ cấu lại đội ngũ cán bộ công chức, viên chức và Nghị quyết số 18-
+NQ/TW ngày 25/10/2017.
+- Về kinh phí thực hiện: Kinh phí bảo đảm tổ chức thi hành Luật sau khi
+được ban hành bao gồm: (i) Kinh phí xây dựng văn bản hướng dẫn thi hành Luật
+bao gồm 01 Nghị định và 01 Thông tư quy định chi tiết; (ii) Kinh phí cho tổ
+chức phổ biến, tuyên truyền Nghị định và (iii) Kinh phí tổ chức kiểm tra, giám
+sát tình hình thi hành Luật; Các khoản kinh phí này không phát sinh đáng kể so
+với các năm trước vì đây là các công việc quản lý nhà nước thường xuyên.
+VII. ĐỀ XUẤT, KIẾN NGHỊ
+Ngày …., Bộ Tư pháp đã có báo cáo thẩm định số …. về dự thảo Luật sửa
+đổi, bổ sung một số điều của Luật Kinh doanh bảo hiểm. Theo đó, …..
+Trên cơ sở tiếp thu, giải trình ý kiến thẩm định của Bộ Tư pháp, Bộ Tài
+chính xin báo cáo Chính phủ như sau:
+….
+Với những nội dung như đã báo cáo trên, Bộ Tài chính kính đề nghị
+Chính phủ:
+- Sớm xem xét thông qua Tờ trình và ban hành Nghị quyết giao Bộ trưởng
+Bộ Tài chính thừa ủy quyền của Thủ tướng Chính phủ, thay mặt Chính phủ ký
+Tờ trình của Chính phủ báo cáo Ủy ban Thường vụ Quốc hội về dự thảo Luật
+sửa đổi, bổ sung một số điều của Luật Kinh doanh bảo hiểm để trình Quốc hội
+cho ý kiến và thông qua dự án Luật sửa đổi Luật Kinh doanh bảo hiểm tại kỳ
+họp thứ 10 (tháng 10/2025) Quốc hội khóa XV.
+Trên đây là Tờ trình xây dựng dự án Luật sửa đổi, bổ sung một số điều
+của Luật Kinh doanh bảo hiểm, Bộ Tài chính kính trình Chính phủ xem xét,
+12
+quyết định.
+(Bộ Tài chính xin gửi kèm theo: (1) Dự thảo Luật Kinh doanh bảo hiểm
+(sửa đổi); (2) Báo cáo thẩm định của Bộ Tư pháp về Dự án Luật; (3) Báo cáo
+tiếp thu, giải trình ý kiến thẩm định của Bộ Tư pháp; (4) Bản so sánh dự thảo
+Luật sửa đổi, bổ sung một số điều của Luật Kinh doanh bảo hiểm với Luật Kinh
+doanh bảo hiểm năm 2022; (5) Bản đánh giá thủ tục hành chính; (6) Bản rà
+soát các chủ trương, đường lối của Đảng, văn bản quy phạm pháp luật, điều
+ước quốc tế có liên quan đến dự thảo; (7) Bản tổng hợp ý kiến, tiếp thu, giải
+trình ý kiến góp ý của các Đoàn đại biểu Quốc hội, Bộ, ngành, doanh nghiệp và
+tổ chức có liên quan; (8) Bản chụp ý kiến góp ý của các các Đoàn đại biểu Quốc
+hội, Bộ, ngành, doanh nghiệp và tổ chức có liên quan; (9) Tài liệu khác: Phụ lục
+các chỉ tiêu chủ yếu phát triển thị trường bảo hiểm giai đoạn 2022-2025, Kinh
+nghiệm quốc tế về quá trình chuyển đổi sang mô hình vốn trên cơ sở rủi ro)./.
+Nơi nhận: BỘ TRƯỞNG
+- Như trên;
+- Thủ tướng Chính phủ (để báo cáo);
+- Các Phó Thủ tướng Chính phủ (để báo cáo);
+- Văn phòng Chính phủ;
+- Bộ trưởng (để báo cáo);
+- Bộ Tư pháp;
+- Vụ PC-BTC;
+Nguyễn Văn Thắng
+- Lưu: VT, Cục QLBH.

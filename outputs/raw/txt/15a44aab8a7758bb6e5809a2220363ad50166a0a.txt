@@ -1,0 +1,1320 @@
+QUỐC HỘI CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phú
+Luật số: /2025/QH15 Hà Nội, ngày tháng năm 2025
+Dự thảo
+LUẬT
+TRÍ TUỆ NHÂN TẠO
+Căn cứ Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam;
+Quốc hội ban hành Luật Trí tuệ nhân tạo.
+Chương I
+QUY ĐỊNH CHUNG
+Điều 1. Mục đích và Phạm vi điều chỉnh
+1. Luật này nhằm bảo vệ quyền và lợi ích hợp pháp của tổ chức, cá nhân, phục
+vụ phát triển kinh tế - xã hội, bảo đảm quốc phòng, an ninh và nâng cao năng lực
+cạnh tranh quốc gia.
+2. Luật này quy định về các hoạt động nghiên cứu, phát triển, cung cấp, triển
+khai và sử dụng hệ thống trí tuệ nhân tạo; quyền và nghĩa vụ của tổ chức, cá nhân
+có liên quan; quản lý nhà nước đối với hệ thống trí tuệ nhân tạo.
+Điều 2. Đối tượng áp dụng
+1. Luật này áp dụng đối với các hoạt động liên quan đến hệ thống trí tuệ nhân
+tạo diễn ra trên lãnh thổ nước Cộng hòa xã hội chủ nghĩa Việt Nam, hoặc có sản
+phẩm, dịch vụ hệ thống trí tuệ nhân tạo ảnh hưởng đến thị trường, người dùng, an
+ninh quốc gia, trật tự an toàn xã hội, và quyền, lợi ích hợp pháp của tổ chức, cá nhân
+Việt Nam.
+2. Luật này áp dụng đối với cơ quan, tổ chức, cá nhân Việt Nam và nước ngoài
+tham gia hoặc có liên quan đến các hoạt động được quy định tại Điều 1 và khoản 1
+của Điều này.
+3. Luật này không áp dụng đối với các hệ thống trí tuệ nhân tạo được phát triển,
+triển khai, sử dụng riêng cho mục đích quốc phòng, an ninh, tình báo.
+Điều 3. Giải thích từ ngữ
+Trong Luật này, các từ ngữ dưới đây được hiểu như sau:
+1. Trí tuệ nhân tạo (AI) là một lĩnh vực của khoa học máy tính, tập trung vào
+việc phát triển các hệ thống dựa trên máy móc có khả năng thực hiện các nhiệm vụ
+1
+đòi hỏi trí thông minh của con người.
+2. Hệ thống Trí tuệ nhân tạo (hệ thống AI) là hệ thống dựa trên máy móc được
+thiết kế để hoạt động với các mức độ tự chủ khác nhau, có khả năng suy luận từ dữ
+liệu đầu vào để tạo ra các kết quả đầu ra như dự đoán, nội dung, khuyến nghị hoặc
+quyết định có thể ảnh hưởng đến môi trường thực hoặc môi trường điện tử.
+3. Hạ tầng Trí tuệ nhân tạo Quốc gia là một hệ thống hợp nhất, bao gồm các
+thành phần liên kết chặt chẽ về vật chất và phi vật chất, được quy hoạch và đầu tư
+đồng bộ, là bộ phận trọng yếu của hạ tầng số quốc gia.
+4. Năng lực tự chủ về Trí tuệ nhân tạo quốc gia là năng lực của quốc gia trong
+việc tự chủ phát triển, triển khai và quản trị trí tuệ nhân tạo dựa trên hạ tầng, dữ liệu,
+nhân lực và hệ sinh thái của riêng mình, phù hợp với các giá trị, ưu tiên và lợi ích
+quốc gia.
+5. Nhà cung cấp là tổ chức, cá nhân phát triển một hệ thống trí tuệ nhân tạo
+hoặc một mô hình trí tuệ nhân tạo đa dụng và đưa ra thị trường hoặc đưa vào sử dụng
+dưới tên hoặc thương hiệu của riêng mình.
+6. Bên triển khai là tổ chức, cá nhân sử dụng một hệ thống trí tuệ nhân tạo
+trong phạm vi thẩm quyền của mình, trừ trường hợp hệ thống trí tuệ nhân tạo được
+sử dụng trong hoạt động cá nhân không vì mục đích thương mại.
+7. Chuyển đổi Trí tuệ nhân tạo là quá trình ứng dụng sâu rộng trí tuệ nhân tạo
+làm phương tiện cốt lõi để tái cấu trúc quy trình, đổi mới mô hình hoạt động và tạo
+ra giá trị mới, nhằm thúc đẩy chuyển đổi toàn diện trong các lĩnh vực kinh tế, xã hội,
+và quản trị quốc gia.
+8. Tác tử Trí tuệ nhân tạo (AI Agent) là một hệ thống trí tuệ nhân tạo có khả
+năng hoạt động với mức độ tự chủ cao, có thể độc lập phân rã các mục tiêu phức tạp
+thành các nhiệm vụ con và thực thi các hành động trong môi trường số hoặc môi
+trường vật lý để hoàn thành mục tiêu mà không cần sự can thiệp trực tiếp, liên tục
+của con người.
+9. Mô hình trí tuệ nhân tạo đa dụng là một mô hình trí tuệ nhân tạo, bao gồm
+cả khi được huấn luyện với lượng dữ liệu lớn sử dụng phương pháp tự giám sát trên
+quy mô lớn, thể hiện tính tổng quát đáng kể và có khả năng thực hiện thành thạo một
+loạt các nhiệm vụ riêng biệt, và có thể được tích hợp vào nhiều hệ thống hoặc ứng
+dụng hạ nguồn.
+10. Rủi ro hệ thống là rủi ro đặc thù đối với các năng lực tác động cao của mô
+hình trí tuệ nhân tạo đa dụng, có tác động đáng kể đến thị trường, hoặc do các tác
+động tiêu cực thực tế hoặc có thể dự báo một cách hợp lý đối với sức khỏe, an toàn,
+an ninh công cộng, các quyền cơ bản, hoặc toàn xã hội, có thể lan truyền trên quy
+mô lớn trong chuỗi giá trị.
+2
+Điều 4. Các Nguyên tắc cơ bản
+Mọi hoạt động liên quan đến hệ thống trí tuệ nhân tạo tại Việt Nam phải tuân thủ
+các nguyên tắc cơ bản sau đây:
+1. Lấy con người làm trung tâm (Nhân văn): Hệ thống Trí tuệ nhân tạo phải
+phục vụ và hỗ trợ con người, tôn trọng nhân phẩm, quyền tự do, quyền riêng tư và
+các giá trị văn hóa. Trí tuệ nhân tạo không thay thế con người trong các quyết định
+trọng yếu và phải luôn nằm dưới sự kiểm soát, giám sát và chịu trách nhiệm cuối
+cùng của con người.
+2. Bảo đảm An toàn, công bằng, minh bạch và trách nhiệm: Hệ thống trí tuệ
+nhân tạo phải được phát triển và vận hành một cách an toàn, tin cậy, bảo mật và bảo
+đảm công bằng, không phân biệt đối xử. Đối với các hệ thống trí tuệ nhân tạo có rủi
+ro, phải đảm bảo tính minh bạch, có khả năng giải trình và phải xác định rõ trách
+nhiệm pháp lý đối với các thiệt hại gây ra.
+3. Bảo đảm Tự chủ quốc gia và hội nhập quốc tế: Phát triển năng lực tự chủ về
+công nghệ, hạ tầng, dữ liệu và các mô hình trí tuệ nhân tạo; đồng thời chủ động hợp
+tác, hội nhập quốc tế trên cơ sở hài hoà vời các nguyên tắc và thông lệ quốc tế..
+4. Phát triển Bao trùm và Bền vững: Gắn phát triển trí tuệ nhân tạo với mục
+tiêu phát triển kinh tế - xã hội bền vững, bảo đảm công bằng và cơ hội thụ hưởng
+cho mọi người dân, không ai bị bỏ lại phía sau, bảo vệ môi trường và giữ gìn bản
+sắc văn hoá dân tộc.
+5. Bảo đảm sự cân bằng và hài hòa trong xây dựng và thực thi chính sách:
+a) Nhà nước có trách nhiệm hài hòa hóa các quy định pháp luật về hệ thống trí
+tuệ nhân tạo với các chuẩn mực quốc tế, đồng thời bảo đảm phù hợp với các giá trị,
+bản sắc văn hóa và yêu cầu phát triển của Việt Nam;
+b) Chính sách của Nhà nước phải kết hợp giữa việc thúc đẩy hợp tác quốc tế để
+tiếp thu công nghệ và việc xây dựng năng lực tự chủ quốc gia về hạ tầng, dữ liệu và
+công nghệ lõi;
+c) Chính sách của Nhà nước phải tạo điều kiện cho các doanh nghiệp lớn đầu tư
+vào các dự án chiến lược, đồng thời có cơ chế khuyến khích, bảo vệ sự phát triển
+của các doanh nghiệp khởi nghiệp, doanh nghiệp nhỏ và vừa;
+d) Chính sách của Nhà nước phải cân đối giữa việc phát triển các mô hình nền
+tảng, đa dụng và việc khuyến khích các mô hình chuyên dụng, hiệu quả cho các bài
+toán cụ thể;
+đ) Pháp luật phải bảo đảm quyền tự do nghiên cứu, sáng tạo của tổ chức, cá nhân,
+đồng thời thiết lập các cơ chế quản lý rủi ro hiệu quả để bảo vệ lợi ích công cộng.
+3
+6. Quản lý dựa trên rủi ro: Nhà nước áp dụng biện pháp quản lý tương xứng
+với cấp độ rủi ro của hệ thống trí tuệ nhân tạo, chỉ quy định quản lý bắt buộc đối với
+hệ thống trí tuệ nhân tạo có nguy cơ gây hại rõ ràng. Đối với các hoạt động còn lại,
+ưu tiên các cơ chế khuyến khích đổi mới sáng tạo và áp dụng tiêu chuẩn tự nguyện.
+7. Thúc đẩy đổi mới sáng tạo: Nhà nước kiến tạo môi trường pháp lý và chính
+sách thuận lợi, an toàn để thúc đẩy nghiên cứu, khởi nghiệp và thương mại hóa các
+sản phẩm, dịch vụ liên quan đến hệ thống trí tuệ nhân tạo.
+Điều 5. Trách nhiệm của Nhà nước
+Nhà nước có các trách nhiệm sau đây :
+1. Tôn trọng và bảo vệ sự sáng tạo của tổ chức, cá nhân; kiến tạo môi trường
+pháp lý rõ ràng, an toàn và đáng tin cậy.
+2. Ban hành và triển khai chính sách, chương trình cụ thể để phổ cập kiến thức
+trí tuệ nhân tạo, đào tạo kỹ năng số, hỗ trợ người dân thích ứng và hưởng lợi công
+bằng, đặc biệt là các nhóm dễ bị tổn thương.
+3. Ưu tiên hình thức sử dụng dịch vụ trí tuệ nhân tạo, dịch vụ tính toán và nền
+tảng đám mây cho nhiệm vụ công; chỉ đầu tư sở hữu hạ tầng khi thật sự cần thiết vì
+lý do hiệu quả và an ninh quốc gia.
+4. Chủ động đầu tư, dẫn dắt việc phát triển và làm chủ Hạ tầng trí tuệ nhân tạo
+Quốc gia, các mô hình Trí tuệ nhân tạo nền tảng và công nghệ lõi chiến lược.
+5. Chủ động tham gia, hợp tác quốc tế trong lĩnh vực trí tuệ nhân tạo; thúc đẩy
+nghiên cứu chung, công nhận lẫn nhau về tiêu chuẩn và chứng nhận trí tuệ nhân tạo.
+6. Khuyến khích và tạo điều kiện thuận lợi thu hút đầu tư nước ngoài trong lĩnh
+vực trí tuệ nhân tạo, đồng thời bảo đảm tuân thủ pháp luật Việt Nam và cân bằng
+giữa yêu cầu bảo đảm chủ quyền, lợi ích quốc gia với việc thúc đẩy chuyển giao
+công nghệ, cạnh tranh và hợp tác quốc tế.
+Điều 6. Áp dụng pháp luật
+1. Hoạt động liên quan đến hệ thống trí tuệ nhân tạo phải tuân thủ quy định của
+Luật này và các quy định khác của pháp luật có liên quan.
+2. Hoạt động xử lý dữ liệu cá nhân, bảo đảm an ninh mạng trong các hệ thống
+trí tuệ nhân tạo phải tuân thủ các quy định của pháp luật về bảo vệ dữ liệu cá nhân
+và an ninh mạng.
+3. Trường hợp có sự khác nhau giữa quy định của Luật này với luật khác về
+cùng một vấn đề liên quan đến trí tuệ nhân tạo, áp dụng quy định của Luật này, trừ
+trường hợp luật khác đó quy định cụ thể về việc không áp dụng một phần hoặc toàn
+bộ quy định của Luật này.
+4
+Điều 7. Ủy ban Quốc gia về Trí tuệ nhân tạo
+1. Thành lập Ủy ban Quốc gia về Trí tuệ nhân tạo do Thủ tướng Chính phủ làm
+Chủ tịch để chỉ đạo, điều phối các hoạt động mang tính liên ngành và chiến lược về
+trí tuệ nhân tạo.
+2. Ủy ban có nhiệm vụ:
+a) Xem xét, cho ý kiến về Chiến lược Quốc gia và các Chương trình, Kế hoạch
+hành động về trí tuệ nhân tạo;
+b) Thẩm định các chương trình, dự án quan trọng về trí tuệ nhân tạo;
+c) Chủ trì giải quyết các vấn đề chiến lược, liên ngành có tầm ảnh hưởng lớn;
+d) Kiến nghị hoàn thiện pháp luật, cơ chế, chính sách liên quan đến trí tuệ nhân
+tạo;
+đ) Điều phối Hạ tầng trí tuệ nhân tạo Quốc gia, bảo đảm thống nhất trong quy
+hoạch, đầu tư, vận hành, kết nối và khai thác dùng chung.
+e) Chủ trì nghiên cứu, đề xuất khung pháp lý đối với các hệ thống trí tuệ nhân
+tạo có mức độ tự chủ cao, bao gồm Tác tử trí tuệ nhân tạo, để trình Chính phủ xem
+xét, ban hành hoặc trình cơ quan có thẩm quyền ban hành.
+3. Ủy ban được thành lập một Văn phòng giúp việc thường trực có tính chuyên
+môn cao để thực hiện công tác nghiên cứu, tham mưu, điều phối và giám sát việc thực
+thi các nhiệm vụ của Ủy ban. Ủy ban có thể thành lập Hội đồng hoặc Tiểu ban chuyên
+trách để thực hiện một số nhiệm vụ cụ thể.
+4. Thành phần của Ủy ban bao gồm đại diện lãnh đạo các Bộ, cơ quan ngang Bộ
+liên quan và các chuyên gia, nhà khoa học, đại diện khu vực tư nhân.
+5. Chính phủ quy định chi tiết về cơ cấu, tổ chức và hoạt động của Ủy ban Quốc
+gia về Trí tuệ nhân tạo.
+Chương II
+PHÂN LOẠI VÀ QUẢN LÝ HỆ THỐNG TRÍ TUỆ NHÂN TẠO THEO
+RỦI RO
+Điều 8. Nguyên tắc phân loại và quản lý rủi ro
+Việc phân loại và quản lý hệ thống trí tuệ nhân tạo phải tuân thủ các nguyên tắc
+cơ bản quy định tại Điều 4 của Luật này và các nguyên tắc cụ thể sau đây:
+1. Đánh giá rủi ro phải dựa trên bằng chứng khoa học, dữ liệu xác thực và áp
+dụng các biện pháp quản lý tương xứng với mức độ rủi ro đã được xác định.
+2. Tiêu chí và phương pháp phân loại rủi ro phải được cập nhật linh hoạt, định
+kỳ để phù hợp với sự phát triển của công nghệ và thực tiễn ứng dụng.
+5
+Điều 9. Phân loại hệ thống trí tuệ nhân tạo theo mức độ rủi ro
+Hệ thống trí tuệ nhân tạo được phân loại thành bốn cấp độ rủi ro sau đây để áp
+dụng các biện pháp quản lý tương ứng :
+1. Rủi ro không chấp nhận được là các hệ thống trí tuệ nhân tạo có mục đích
+sử dụng gây tổn hại đến an ninh quốc gia, các giá trị xã hội và quyền con người, bị
+cấm theo quy định tại Điều 11 của Luật này.
+2. Rủi ro cao là các hệ thống trí tuệ nhân tạo được sử dụng trong các lĩnh vực
+hoặc cho các mục đích có khả năng gây tổn hại đáng kể đến tính mạng, sức khỏe,
+các quyền cơ bản của con người, an ninh, trật tự và các lợi ích công cộng quan trọng
+khác.
+3. Rủi ro trung bình là các hệ thống trí tuệ nhân tạo có tương tác trực tiếp với
+con người hoặc tạo ra nội dung mà người sử dụng cần được biết về bản chất nhân
+tạo của nó.
+4. Rủi ro thấp là các hệ thống trí tuệ nhân tạo không thuộc các trường hợp quy
+định tại các khoản 1, 2 và 3 của Điều này.
+5. Chính phủ quy định chi tiết Bộ tiêu chí, các dấu hiệu nhận biết và ban hành
+danh mục ví dụ minh họa cho từng cấp độ rủi ro.
+Điều 10. Minh bạch và gắn nhãn trong hệ thống trí tuệ nhân tạo
+1. Minh bạch trong hệ thống trí tuệ nhân tạo là việc bảo đảm người sử dụng được
+biết khi họ đang tương tác với hệ thống trí tuệ nhân tạo, trừ trường hợp điều đó là
+hiển nhiên trong bối cảnh sử dụng.
+2. Gắn nhãn trong hệ thống trí tuệ nhân tạo là việc áp dụng biện pháp kỹ thuật
+để định danh rõ ràng, có thể đọc bằng máy, đối với các nội dung do hệ thống trí tuệ
+nhân tạo tạo ra hoặc chỉnh sửa sâu (deepfake) khi công bố rộng rãi.
+3. Chính phủ quy định chi tiết hình thức minh bạch, gắn nhãn, tiêu chuẩn kỹ
+thuật và các trường hợp miễn trừ hợp lý.
+Mục 1
+HỆ THỐNG TRÍ TUỆ NHÂN TẠO CÓ RỦI RO
+KHÔNG CHẤP NHẬN ĐƯỢC
+Điều 11. Các trường hợp hệ thống trí tuệ nhân tạo bị cấm
+Nghiêm cấm việc nghiên cứu, phát triển, cung cấp, triển khai và sử dụng hệ
+thống trí tuệ nhân tạo trong các trường hợp sau đây :
+1. Thao túng nhận thức, hành vi của con người một cách có chủ đích nhằm làm
+6
+mất khả năng tự chủ, ra quyết định, dẫn đến hoặc có khả năng dẫn đến tổn hại về thể
+chất hoặc tinh thần.
+2. Lợi dụng các điểm yếu của một nhóm người cụ thể liên quan đến tuổi tác,
+khuyết tật hoặc hoàn cảnh kinh tế, xã hội để tác động đến hành vi của họ.
+3. Chấm điểm tín nhiệm xã hội đối với cá nhân trên phạm vi rộng bởi cơ quan
+nhà nước, dẫn đến sự đối xử bất lợi hoặc không công bằng trong các bối cảnh xã hội
+không liên quan.
+4. Sử dụng hệ thống nhận dạng sinh trắc học từ xa theo thời gian thực tại các địa
+điểm công cộng cho mục đích thực thi pháp luật, trừ các trường hợp đặc biệt do luật
+chuyên ngành quy định nhằm phòng, chống tội phạm nghiêm trọng và phải được cơ
+quan nhà nước có thẩm quyền cho phép theo một trình tự đặc biệt.
+5. Xây dựng hoặc khai thác cơ sở dữ liệu nhận dạng khuôn mặt quy mô lớn thông
+qua việc thu thập hình ảnh một cách tràn lan, không có chủ đích từ internet hoặc
+camera giám sát.
+6. Sử dụng hệ thống nhận diện cảm xúc tại nơi làm việc và các cơ sở giáo dục,
+trừ trường hợp luật chuyên ngành cho phép vì lý do y tế hoặc an toàn với các điều
+kiện nghiêm ngặt.
+7. Sản xuất hoặc phổ biến nội dung giả mạo và các nội dung khác do trí tuệ nhân
+tạo tạo ra có khả năng gây nguy hại nghiêm trọng đến trật tự, an toàn xã hội, an ninh
+quốc gia.
+8. Phát triển hoặc sử dụng hệ thống trí tuệ nhân tạo nhằm chống phá Nhà nước
+Cộng hòa xã hội chủ nghĩa Việt Nam.
+9. Các trường hợp khác do Chính phủ quy định sau khi có ý kiến của các cơ quan
+liên quan và thực hiện tham vấn công khai.
+Mục 2
+HỆ THỐNG TRÍ TUỆ NHÂN TẠO CÓ RỦI RO CAO
+Điều 12. Trình tự và thẩm quyền phân loại hệ thống trí tuệ nhân tạo rủi ro
+cao
+1. Trước khi đưa hệ thống trí tuệ nhân tạo ra thị trường hoặc đưa vào triển khai,
+nhà cung cấp, bên nhập khẩu có trách nhiệm tự đánh giá mức độ rủi ro của hệ thống
+và lưu giữ hồ sơ theo quy định.
+2. Đối với hệ thống trí tuệ nhân tạo thuộc hoặc có khả năng thuộc Danh mục lĩnh
+vực và trường hợp ứng dụng trí tuệ nhân tạo thuộc diện rủi ro cao, hoặc đáp ứng
+7
+các ngưỡng xem xét rủi ro cao theo hướng dẫn của Chính phủ, nhà cung cấp, bên
+nhập khẩu phải nộp hồ sơ để được cơ quan quản lý nhà nước có thẩm quyền xem
+xét, ra quyết định phân loại chính thức.
+3. Cơ quan quản lý nhà nước chuyên ngành về trí tuệ nhân tạo do Chính phủ quy
+định là cơ quan đầu mối chịu trách nhiệm thẩm định hồ sơ và ban hành quyết định
+phân loại. Chính phủ quy định chi tiết về thành phần hồ sơ, trình tự, thủ tục, thời hạn
+thẩm định và trả lời để bảo đảm không gây ách tắc cho hoạt động của doanh nghiệp,
+và việc tiếp nhận, sử dụng kết quả thử nghiệm trong môi trường có kiểm soát theo
+pháp luật về KH&CN, ĐMST (nếu có) trong hồ sơ phân loại. Hồ sơ được nộp, theo
+dõi, phản hồi hoàn toàn trên hệ thống điện tử thống nhất tích hợp với Cơ sở dữ liệu
+quốc gia về trí tuệ nhân tạo. Trường hợp quá thời hạn do Chính phủ quy định mà
+không có yêu cầu bổ sung hoặc quyết định, việc phân loại được xử lý theo cơ chế
+không gây ách tắc cho hoạt động của doanh nghiệp do Chính phủ quy định
+4. Tổ chức, cá nhân không đồng ý với quyết định phân loại có quyền khiếu nại,
+khởi kiện theo quy định của pháp luật.
+5. Việc phân loại hệ thống trí tuệ nhân tạo trong các lĩnh vực chuyên ngành được
+thực hiện trên cơ sở phối hợp giữa cơ quan quản lý nhà nước về trí tuệ nhân tạo và
+các bộ, cơ quan ngang bộ có liên quan.
+Điều 13. Danh mục lĩnh vực và trường hợp ứng dụng trí tuệ nhân tạo thuộc
+diện rủi ro cao
+1. Thủ tướng Chính phủ ban hành và định kỳ cập nhật Danh mục lĩnh vực và
+trường hợp ứng dụng trí tuệ nhân tạo thuộc diện rủi ro cao trên cơ sở đánh giá mức
+độ ảnh hưởng đến quyền con người, an toàn, an ninh, lợi ích công cộng và trật tự xã
+hội theo quy định của pháp luật.
+2. Danh mục quy định tại khoản 1 Điều này bao gồm tối thiểu các lĩnh vực trọng
+yếu sau: y tế; giáo dục và đánh giá năng lực; giao thông và quản lý hạ tầng quan
+trọng; tài chính, ngân hàng và tín dụng; lao động, tuyển dụng và quản trị nhân sự;
+hành chính công và các dịch vụ công thiết yếu; tư pháp và thực thi pháp luật; an sinh
+xã hội; năng lượng và các lĩnh vực khác có rủi ro tương tự.
+3. Các bộ, cơ quan ngang bộ có trách nhiệm hướng dẫn các yêu cầu kỹ thuật,
+tiêu chuẩn, quy trình áp dụng đối với hệ thống trí tuệ nhân tạo rủi ro cao trong phạm
+vi lĩnh vực quản lý của mình. Chính phủ quy định cơ chế phối hợp liên ngành và quy
+trình rà soát, cập nhật danh mục.
+Điều 14. Cơ chế quản lý hệ thống trí tuệ nhân tạo rủi ro cao
+1. Mọi hệ thống trí tuệ nhân tạo được xác định là rủi ro cao phải tuân thủ quy
+8
+định về minh bạch và gắn nhãn theo quy định tại Điều 10 và tuân thủ đầy đủ các
+nghĩa vụ chung quy định tại Điều 15 của Luật này.
+2. Việc kiểm tra, giám sát sự tuân thủ các nghĩa vụ đối với hệ thống trí tuệ nhân
+tạo rủi ro cao được thực hiện theo một trong hai cơ chế sau đây :
+a) Cơ chế hậu kiểm được áp dụng mặc định. Nhà cung cấp được phép đưa hệ
+thống ra thị trường sau khi tự đánh giá và cam kết tuân thủ các nghĩa vụ quy định tại
+Điều 14 của Luật này, đồng thời chịu sự thanh tra, kiểm tra của cơ quan nhà nước có
+thẩm quyền trong quá trình hoạt động.
+b) Cơ chế tiền kiểm được áp dụng bắt buộc đối với các hệ thống trí tuệ nhân tạo
+rủi ro cao thuộc Danh mục lĩnh vực và trường hợp ứng dụng trí tuệ nhân tạo thuộc
+diện rủi ro cao phải đánh giá sự phù hợp trước khi đưa ra thị trường. Các hệ thống
+này phải được kiểm định và cấp chứng nhận hợp quy theo quy định tại Điều 16 của
+Luật này trước khi được cung cấp hoặc triển khai.
+3. Thủ tướng Chính phủ ban hành và cập nhật định kỳ Danh mục lĩnh vực và
+trường hợp ứng dụng trí tuệ nhân tạo thuộc diện rủi ro cao phải đánh giá sự phù
+hợp trước khi đưa ra thị trường. Danh mục này là một tập hợp con của Danh mục
+tại Điều 13 và chỉ bao gồm các hệ thống có nguy cơ gây tổn hại rõ ràng và nghiêm
+trọng nhất.
+4. Chính phủ quy định chi tiết điều kiện và trình tự chuyển đổi giữa hai cơ chế
+trong trường hợp mức độ rủi ro của hệ thống thay đổi trong quá trình vận hành, bao
+gồm việc sử dụng kết quả thử nghiệm trong môi trường có kiểm soát theo pháp luật
+về KH&CN, ĐMST làm căn cứ kỹ thuật khi xem xét chuyển đổi. Các căn cứ định
+hướng để xem xét chuyển đổi bao gồm: (a) mở rộng đáng kể phạm vi áp dụng hoặc
+số lượng người dùng/bị ảnh hưởng; (b) thay đổi mục đích sử dụng ban đầu; (c) thay
+đổi lớn đối với mô hình, thuật toán hoặc dữ liệu huấn luyện; (d) phát sinh sự cố
+nghiêm trọng đã được xác nhận; (đ) tăng mức độ tự chủ của hệ thống làm giảm kiểm
+soát của con người.
+Điều 15. Nghĩa vụ chung đối với hệ thống trí tuệ nhân tạo rủi ro cao
+Nhà cung cấp và bên triển khai hệ thống trí tuệ nhân tạo rủi ro cao có các nghĩa
+vụ sau đây :
+1. Thiết lập, duy trì và vận hành hệ thống quản lý rủi ro trong suốt vòng đời của
+hệ thống.
+2. Thực hiện các biện pháp quản trị dữ liệu, bảo đảm nguồn gốc, chất lượng, tính
+đại diện của dữ liệu huấn luyện, kiểm thử và vận hành; hạn chế và giảm thiểu thiên
+lệch.
+9
+3. Lập và lưu giữ hồ sơ kỹ thuật đầy đủ theo các yêu cầu chi tiết được quy định
+tại Phụ lục của Luật này hoặc theo quy định của Chính phủ; duy trì nhật ký vận hành
+tự động. Hồ sơ kỹ thuật tối thiểu bao gồm: mô tả chức năng, phạm vi và mục đích
+sử dụng; thiết kế và kiến trúc thuật toán; nguồn gốc dữ liệu huấn luyện và kiểm thử;
+kết quả kiểm thử và đánh giá hiệu năng; báo cáo đánh giá rủi ro và phương án giảm
+thiểu; cơ chế giám sát của con người; chính sách bảo mật; nhật ký vận hành và sự
+cố.
+4. Thiết lập cơ chế giám sát, can thiệp và kiểm soát của con người; bảo đảm
+quyền quyết định cuối cùng của con người trong các trường hợp do pháp luật chuyên
+ngành yêu cầu.
+5. Bảo đảm mức độ chính xác, an toàn và an ninh mạng phù hợp với mục đích
+sử dụng đã được công bố.
+6. Thực hiện nghĩa vụ minh bạch đối với người bị ảnh hưởng, bao gồm thông
+báo về bản chất của hệ thống, cơ chế ra quyết định và quyền yêu cầu xem xét lại bởi
+con người.
+7. Đăng ký hệ thống tại Cơ sở dữ liệu quốc gia về trí tuệ nhân tạo trước khi đưa
+vào triển khai.
+8. Thiết lập cơ chế giám sát sau khi đưa hệ thống ra thị trường, bao gồm việc
+theo dõi, thu thập phản hồi và cập nhật, điều chỉnh hệ thống nhằm giảm thiểu rủi ro
+mới phát sinh.
+9. Thực hiện Đánh giá tác động trí tuệ nhân tạo theo quy định tại Điều 45 của
+Luật này.
+10. Báo cáo các sự cố nghiêm trọng qua cổng báo cáo điện tử do cơ quan có
+thẩm quyền công bố và phối hợp điều tra, khắc phục. Chính phủ quy định chi tiết
+ngưỡng phân loại sự cố, thời hạn báo cáo ban đầu, thời hạn báo cáo chi tiết và biểu
+mẫu điện tử thống nhất.
+11. Trường hợp hệ thống trí tuệ nhân tạo có rủi ro cao được phát triển dựa trên
+mô hình trí tuệ nhân tạo đa dụng, nhà cung cấp hệ thống có thể sử dụng hồ sơ kỹ
+thuật, tài liệu đánh giá, báo cáo kiểm thử và các thông tin khác do nhà cung cấp mô
+hình đa dụng đã xây dựng, với điều kiện phải:
+a) Xác minh tính chính xác, đầy đủ và còn hiệu lực của các hồ sơ, tài liệu đó;
+b) Bổ sung và điều chỉnh các hồ sơ, báo cáo để phù hợp với bối cảnh triển khai
+cụ thể;
+c) Chịu trách nhiệm cuối cùng về sự an toàn, tính hợp pháp và tác động của hệ
+10
+thống khi đưa vào thị trường.
+Điều 16. Quy trình tiền kiểm, thử nghiệm có kiểm soát và chứng nhận
+1. Hệ thống trí tuệ nhân tạo thuộc danh mục rủi ro cao trước khi đưa ra thị trường
+phải được đánh giá sự phù hợp tại tổ chức đánh giá sự phù hợp được chỉ định hoặc
+thừa nhận theo quy định của pháp luật.
+2. Hoạt động thử nghiệm trong môi trường có kiểm soát đối với hệ thống trí tuệ
+nhân tạo được thực hiện theo quy định của pháp luật về khoa học và công nghệ, pháp
+luật về đổi mới sáng tạo và pháp luật chuyên ngành có liên quan; kết quả thử nghiệm
+có thể được sử dụng làm căn cứ kỹ thuật trong hồ sơ đánh giá sự phù hợp.
+3. Hệ thống đáp ứng yêu cầu được cấp chứng nhận hợp quy và phải gắn dấu hợp
+quy trước khi lưu thông trên thị trường.
+4. Sau khi được cấp chứng nhận, hệ thống tiếp tục chịu sự giám sát, hậu kiểm
+định kỳ hoặc đột xuất. Trường hợp có thay đổi lớn về thuật toán, dữ liệu huấn luyện
+hoặc mục đích sử dụng, hệ thống phải được đánh giá lại. Chính phủ quy định tiêu
+chí xác định “thay đổi lớn”, trình tự đánh giá lại và cơ chế giám sát.
+5. Việc công nhận hoặc thừa nhận kết quả đánh giá sự phù hợp của tổ chức nước
+ngoài được thực hiện theo quy định của Chính phủ và điều ước quốc tế mà Việt Nam
+là thành viên.
+6. Chính phủ quy định chi tiết quy trình tiền kiểm, tiêu chí đánh giá, hình thức
+chứng nhận sự phù hợp, bảo đảm không gây ách tắc cho hoạt động của doanh nghiệp.
+Mục 3
+QUẢN LÝ HỆ THỐNG TRÍ TUỆ NHÂN TẠO CÓ RỦI RO TRUNG
+BÌNH, RỦI RO THẤP VÀ MÔ HÌNH TRÍ TUỆ NHÂN TẠO ĐA DỤNG
+Điều 17. Quản lý hệ thống trí tuệ nhân tạo rủi ro trung bình
+1. Hệ thống trí tuệ nhân tạo rủi ro trung bình phải tuân thủ các nghĩa vụ về minh
+bạch, gắn nhãn quy định tại Điều 10 của Luật này, và bảo đảm người sử dụng được
+thông báo rõ ràng khi tương tác với hệ thống.
+2. Nhà nước áp dụng cơ chế hậu kiểm đối với hệ thống trí tuệ nhân tạo rủi ro
+trung bình; trường hợp có sự cố nghiêm trọng hoặc khiếu nại tập thể, cơ quan quản
+lý nhà nước có thẩm quyền được yêu cầu thực hiện đánh giá bổ sung hoặc chuyển
+phân loại sang rủi ro cao.
+Điều 18. Quản lý hệ thống trí tuệ nhân tạo rủi ro thấp
+1. Hệ thống trí tuệ nhân tạo rủi ro thấp không phải tuân thủ các nghĩa vụ cụ thể
+11
+tại Luật này, trừ trường hợp pháp luật có liên quan quy định khác.
+2. Nhà nước khuyến khích các tổ chức, cá nhân tự nguyện áp dụng các quy tắc
+ứng xử và tiêu chuẩn kỹ thuật để nâng cao độ tin cậy.
+3. Nhà nước áp dụng cơ chế hậu kiểm linh hoạt khi có dấu hiệu rủi ro phát sinh
+từ các hệ thống này.
+Điều 19. Nghĩa vụ đối với mô hình trí tuệ nhân tạo đa dụng
+1. Nhà cung cấp và bên triển khai hệ thống phát triển từ mô hình trí tuệ nhân tạo
+đa dụng phải tuân thủ quy định về minh bạch, gắn nhãn tại Điều 10 của Luật này.
+2. Nhà cung cấp mô hình trí tuệ nhân tạo đa dụng, bao gồm mô hình ngôn ngữ
+lớn và mô hình ngôn ngữ nhỏ, trước khi đưa mô hình ra thị trường hoặc đưa vào sử
+dụng, phải thực hiện các nghĩa vụ cơ bản sau đây:
+a) Xây dựng và lưu giữ tài liệu kỹ thuật, bao gồm quy trình huấn luyện, kiểm
+thử, các kết quả đánh giá năng lực và giới hạn sử dụng của mô hình.
+b) Thực hiện các biện pháp kiểm thử an toàn để xác định và giảm thiểu các rủi
+ro có thể dự báo được.
+c) Thiết lập chính sách nội bộ để tuân thủ pháp luật về sở hữu trí tuệ. Việc sao
+chép, trích xuất các tác phẩm, cơ sở dữ liệu đã được tiếp cận một cách hợp pháp
+nhằm mục đích duy nhất là huấn luyện các mô hình trí tuệ nhân tạo không được xem
+là hành vi xâm phạm quyền tác giả và quyền liên quan trừ khi có quy định khác tại
+Luật Sở hữu trí tuệ, với điều kiện nhà cung cấp mô hình phải: (a) Áp dụng các biện
+pháp kỹ thuật phù hợp để bảo đảm an ninh và ngăn chặn việc tái sử dụng dữ liệu cho
+mục đích khác; và (b) Tôn trọng quyền của chủ sở hữu trong việc từ chối không cho
+phép sử dụng tác phẩm của mình cho mục đích huấn luyện trí tuệ nhân tạo thông
+qua các tín hiệu máy có thể đọc được. Bộ Khoa học và Công nghệ chủ trì, phối hợp
+với Bộ Văn hóa, Thể thao và Du lịch và các bộ, ngành liên quan ban hành tiêu chuẩn
+kỹ thuật hoặc hướng dẫn về định dạng của tín hiệu máy có thể đọc được này.
+d) Cung cấp thông tin và tài liệu hướng dẫn cho các bên triển khai hoặc sử dụng
+mô hình hạ nguồn, giúp họ hiểu rõ năng lực, giới hạn của mô hình và tuân thủ các
+quy định của Luật này.
+đ) Thiết lập cơ chế báo cáo sự cố nghiêm trọng liên quan đến mô hình.
+e) Thực hiện nghĩa vụ minh bạch, gắn nhãn theo quy định tại Điều 10.
+2. Ngoài các nghĩa vụ quy định tại khoản 1 Điều này, nhà cung cấp mô hình trí
+tuệ nhân tạo đa dụng được xác định là có rủi ro hệ thống phải thực hiện các nghĩa
+vụ tăng cường sau đây:
+12
+a) Thực hiện đánh giá mô hình theo các quy trình và công cụ tiêu chuẩn hóa, bao
+gồm tiến hành và lập tài liệu về kiểm thử đối kháng để chủ động xác định và giảm
+thiểu rủi ro hệ thống.
+b) Liên tục đánh giá và giảm thiểu các rủi ro hệ thống tiềm tàng có thể phát sinh
+từ việc phát triển, đưa ra thị trường hoặc sử dụng mô hình.
+c) Theo dõi, lập hồ sơ và báo cáo kịp thời cho cơ quan quản lý nhà nước có thẩm
+quyền về sự cố nghiêm trọng, biện pháp khắc phục; đồng thời thông tin cho các tổ
+chức, cá nhân sử dụng hoặc tích hợp mô hình có thể bị ảnh hưởng để phối hợp xử
+lý.
+d) Bảo đảm mức độ an ninh mạng đầy đủ cho cả mô hình và cơ sở hạ tầng vật lý
+của nó.
+đ) Liên tục cập nhật, điều chỉnh mô hình trong suốt vòng đời sản phẩm nhằm
+giảm thiểu rủi ro mới phát sinh, kể cả sau khi mô hình đã đưa ra thị trường.
+3. Hồ sơ, báo cáo và tài liệu do nhà cung cấp mô hình đa dụng lập ra là căn cứ
+để các nhà cung cấp hệ thống trí tuệ nhân tạo ở khâu sau sử dụng và kế thừa, nhưng
+không loại trừ nghĩa vụ xác minh và trách nhiệm cuối cùng của các chủ thể đó
+Điều 20. Cơ chế xác định mô hình trí tuệ nhân tạo đa dụng có rủi ro hệ
+thống
+1. Một mô hình trí tuệ nhân tạo đa dụng được xác định là có rủi ro hệ thống nếu
+đáp ứng một trong các điều kiện sau đây:
+a) Có năng lực tác động cao, được xác định khi tổng lượng tính toán tích lũy
+được sử dụng để huấn luyện mô hình vượt quá một ngưỡng do Chính phủ quy định.
+b) Được Ủy ban Quốc gia về Trí tuệ nhân tạo chỉ định là có rủi ro hệ thống dựa
+trên việc xem xét các tiêu chí định tính, ngay cả khi không đạt ngưỡng quy định tại
+điểm a khoản này.
+2. Nhà cung cấp có mô hình đáp ứng điều kiện tại điểm a khoản 1 Điều này phải
+thông báo cho cơ quan quản lý nhà nước có thẩm quyền trước khi đưa mô hình ra
+thị trường. Nhà cung cấp có quyền trình bày các lập luận có căn cứ kỹ thuật để chứng
+minh rằng mô hình của mình không có rủi ro hệ thống.
+3. Trước khi triển khai mô hình được xác định là có rủi ro hệ thống, nhà cung
+cấp phải thực hiện Đánh giá tác động trí tuệ nhân tạo theo quy định tại Điều 45 của
+Luật này. Báo cáo đánh giá được lưu giữ trong hồ sơ kỹ thuật và cung cấp khi có
+yêu cầu của cơ quan quản lý.
+4. Chính phủ quy định chi tiết ngưỡng năng lực tính toán tại điểm a khoản 1 và
+13
+các tiêu chí định tính tại điểm b khoản 1 Điều này, bao gồm nhưng không giới hạn
+ở số lượng tham số, quy mô dữ liệu huấn luyện, số lượng người dùng, mức độ tự
+chủ và tác động thị trường; đồng thời quy định trình tự, thủ tục thông báo, xem xét
+và giải quyết các trường hợp nhà cung cấp không đồng ý với việc xác định rủi ro hệ
+thống. Ngưỡng năng lực tính toán phải được ban hành trong vòng 06 tháng kể từ
+ngày Luật này có hiệu lực, dựa trên cơ sở tham vấn công khai với các chuyên gia,
+hiệp hội ngành nghề và cộng đồng doanh nghiệp, và được rà soát, cập nhật định kỳ
+để phù hợp với sự phát triển của công nghệ.
+Điều 21. Quy tắc ứng xử và các trường hợp ngoại lệ
+1. Nhà nước khuyến khích việc xây dựng, ban hành và áp dụng các Quy tắc ứng
+xử tự nguyện để cụ thể hóa việc thực hiện các nghĩa vụ quy định tại Điều 19 của
+Luật này. Việc tuân thủ Quy tắc ứng xử đã được cơ quan có thẩm quyền phê duyệt
+có thể được sử dụng làm căn cứ để chứng minh sự tuân thủ pháp luật.
+2. Các nghĩa vụ quy định tại điểm a và điểm d khoản 2 Điều 19 của Luật này
+không áp dụng đối với các mô hình trí tuệ nhân tạo đa dụng được phát hành theo
+giấy phép mã nguồn mở tự do, cho phép truy cập, sử dụng, sửa đổi và phân phối
+công khai các tham số của mô hình.
+3. Quy định miễn trừ tại khoản 2 Điều này không áp dụng đối với các mô hình
+trí tuệ nhân tạo đa dụng được xác định là có rủi ro hệ thống theo quy định tại Điều
+19 của Luật này; không áp dụng cho các tổ chức, cá nhân (bên triển khai) sử dụng
+mô hình trí tuệ nhân tạo đa dụng mã nguồn mở làm thành phần cốt lõi để xây dựng,
+cung cấp một hệ thống trí tuệ nhân tạo rủi ro cao ra thị trường hoặc đưa vào sử dụng
+dưới tên hoặc thương hiệu của mình. Trong trường hợp này, bên triển khai đó phải
+chịu đầy đủ trách nhiệm của một nhà cung cấp theo quy định của Luật này đối với
+hệ thống trí tuệ nhân tạo rủi ro cao đó.
+4. Chính phủ quy định chi tiết Điều này, bao gồm quy trình xây dựng, phê duyệt
+Quy tắc ứng xử và các điều kiện, trình tự, thủ tục miễn, giảm nghĩa vụ cho doanh
+nghiệp nhỏ và vừa, doanh nghiệp khởi nghiệp đổi mới sáng tạo.
+Mục 4
+CÔNG CỤ QUẢN LÝ VÀ THỰC THI
+Điều 22. Đăng ký, Cơ sở dữ liệu quốc gia về trí tuệ nhân tạo và công khai
+thông tin
+1. Cơ quan quản lý nhà nước có thẩm quyền thiết lập và quản lý Cơ sở dữ liệu
+quốc gia về hệ thống trí tuệ nhân tạo để phục vụ công tác quản lý, giám sát và cung
+cấp thông tin.
+14
+2. Hệ thống trí tuệ nhân tạo thuộc nhóm rủi ro cao bắt buộc phải được đăng ký
+tại Cơ sở dữ liệu quốc gia trước khi đưa vào sử dụng và phải được cập nhật khi có
+thay đổi quan trọng. Việc đăng ký và cập nhật được thực hiện trên môi trường điện
+tử, liên thông với Cổng Dịch vụ công quốc gia và các cơ sở dữ liệu chuyên ngành
+có liên quan.
+3. Nhà cung cấp nước ngoài có sản phẩm/dịch vụ trí tuệ nhân tạo được cung cấp
+cho người dùng tại Việt Nam và thuộc diện quản lý theo Luật này phải bổ nhiệm đại
+diện pháp lý tại Việt Nam để chịu trách nhiệm về thông báo, đăng ký, kiểm định và
+xử lý vi phạm theo quy định của pháp luật.
+4. Các thông tin cơ bản về hệ thống trí tuệ nhân tạo rủi ro cao được công khai,
+bảo đảm cân bằng giữa tính minh bạch và yêu cầu bảo vệ bí mật nhà nước, bí mật
+kinh doanh và dữ liệu cá nhân. Chính phủ quy định phạm vi, mức độ và hình thức
+công khai thông tin.
+Điều 23. Giám sát, thanh tra và xử lý vi phạm
+1. Cơ quan quản lý nhà nước có thẩm quyền có trách nhiệm giám sát, thanh tra,
+kiểm tra việc tuân thủ các quy định tại Chương này.
+2. Khi có căn cứ cho thấy một hệ thống trí tuệ nhân tạo có mức độ rủi ro cao hơn
+so với phân loại ban đầu, dựa trên khiếu nại tập thể, sự cố nghiêm trọng hoặc thông
+tin từ các nguồn tin cậy, cơ quan quản lý nhà nước có thẩm quyền có quyền yêu cầu
+đánh giá lại hoặc tạm thời áp dụng các biện pháp quản lý tương ứng với mức độ rủi
+ro cao hơn. Chính phủ quy định chi tiết trình tự, thời hạn, tiêu chí áp dụng biện pháp
+tạm thời và cơ chế phối hợp liên ngành.
+3. Khi phát hiện rủi ro nghiêm trọng hoặc hành vi vi phạm pháp luật, cơ quan
+quản lý nhà nước có thẩm quyền được áp dụng các biện pháp tạm thời như tạm đình
+chỉ, thu hồi, ngừng cung cấp hệ thống trí tuệ nhân tạo, không loại trừ các hình thức
+xử phạt hành chính, dân sự hoặc hình sự theo quy định của pháp luật.
+4. Người bị thiệt hại bởi hệ thống trí tuệ nhân tạo có quyền khởi kiện dân sự và
+yêu cầu bồi thường theo pháp luật về trách nhiệm sản phẩm
+5. Tổ chức, cá nhân có quyền khiếu nại, khởi kiện đối với quyết định, hành vi
+hành chính của cơ quan quản lý nhà nước có thẩm quyền theo quy định của pháp
+luật.
+6. Chính phủ quy định chi tiết về thẩm quyền, trình tự, thủ tục thanh tra, kiểm
+tra và xử lý vi phạm.
+Điều 24. Cập nhật tiêu chí, danh mục và phối hợp liên ngành
+1. Cơ quan quản lý nhà nước có thẩm quyền có trách nhiệm chủ trì, phối hợp với
+các bộ, ngành, địa phương định kỳ hai năm một lần hoặc khi cần thiết rà soát, cập
+15
+nhật các tiêu chí phân loại và danh mục rủi ro.
+2. Việc rà soát, cập nhật phải được thực hiện trên cơ sở tham vấn công khai và
+phù hợp với sự phát triển của công nghệ, thực tiễn quản lý và yêu cầu phát triển kinh
+tế - xã hội.
+Chương III
+PHÁT TRIỂN HẠ TẦNG VÀ BẢO ĐẢM CHỦ QUYỀN TRÍ TUỆ NHÂN
+TẠO QUỐC GIA
+Điều 25. Nguyên tắc phát triển hạ tầng và bảo đảm chủ quyền trí tuệ nhân
+tạo quốc gia
+1. Hạ tầng trí tuệ nhân tạo là bộ phận trọng yếu của hạ tầng số quốc gia, được
+quy hoạch, đầu tư, xây dựng và phát triển theo định hướng chiến lược, phục vụ phát
+triển kinh tế – xã hội, quốc phòng, an ninh và nâng cao năng lực cạnh tranh quốc
+gia.
+2. Việc phát triển hạ tầng và bảo đảm chủ quyền trí tuệ nhân tạo quốc gia phải
+tuân thủ các nguyên tắc tại Điều 4 và các nguyên tắc cụ thể sau:
+a) Nhà nước giữ vai trò dẫn dắt trong việc quy hoạch, đầu tư vào các thành
+phần hạ tầng lõi, đồng thời huy động tối đa nguồn lực xã hội thông qua các cơ chế
+hợp tác công – tư, khuyến khích khu vực tư nhân tham gia đầu tư, xây dựng và vận
+hành;
+b) Bảo đảm cân bằng giữa tự chủ quốc gia và hợp tác quốc tế, giữa công nghệ
+mở và công nghệ thương mại, giữa lợi ích công cộng và lợi ích kinh tế;
+c) Bảo đảm công bằng, minh bạch, bao trùm trong tiếp cận và khai thác hạ tầng,
+khuyến khích cạnh tranh lành mạnh, chống độc quyền và lãng phí;
+d) Bảo đảm an ninh, an toàn thông tin, an ninh mạng, bảo vệ dữ liệu trọng yếu
+và quyền riêng tư cá nhân theo quy định của pháp luật về dữ liệu, pháp luật về bảo
+vệ dữ liệu cá nhân, pháp luật về an ninh mạng và các pháp luật liên quan;
+đ) Phát triển bền vững, ưu tiên năng lượng sạch, tiết kiệm năng lượng, gắn với
+bảo vệ môi trường;
+e) Hài hòa với chuẩn mực và thông lệ quốc tế, tham chiếu các khung pháp lý
+tiên tiến về trí tuệ nhân tạo và phù hợp đặc thù Việt Nam.
+Điều 26. Mục tiêu phát triển hạ tầng trí tuệ nhân tạo quốc gia
+1. Chính sách phát triển hạ tầng trí tuệ nhân tạo quốc gia nhằm xây dựng nền
+tảng vật chất, dữ liệu và công nghệ cốt lõi, bảo đảm năng lực tự chủ, giảm phụ thuộc
+công nghệ nước ngoài và thúc đẩy đổi mới sáng tạo.
+16
+2. Mục tiêu cụ thể gồm:
+a) Xây dựng và vận hành hạ tầng tính toán hiệu năng cao, bao gồm siêu máy
+tính quốc gia, GPU cloud và nền tảng trí tuệ nhân tạo dùng chung;
+b) Thiết lập cơ sở dữ liệu quốc gia cho trí tuệ nhân tạo, phục vụ nghiên cứu, đổi
+mới sáng tạo và ứng dụng thực tiễn;
+c) Khuyến khích sử dụng, phát triển và đóng góp mã nguồn mở, dữ liệu, mô
+hình từ doanh nghiệp, tổ chức, cộng đồng vào hạ tầng trí tuệ nhân tạo quốc gia;
+d) Bảo đảm chủ quyền dữ liệu bằng cách lưu trữ, xử lý dữ liệu trọng yếu trong
+lãnh thổ Việt Nam theo quy định của Luật Dữ liệu và điều ước quốc tế mà Việt Nam
+là thành viên;
+đ) Thúc đẩy hợp tác công – tư để mở rộng hạ tầng, bảo đảm cân bằng giữa tự
+chủ công nghệ và hội nhập quốc tế.
+Điều 27. Quy hoạch và phát triển hạ tầng trí tuệ nhân tạo quốc gia
+1. Hạ tầng trí tuệ nhân tạo quốc gia là hệ thống hợp nhất, gồm các thành phần
+vật chất và phi vật chất, được quy hoạch và đầu tư đồng bộ, là bộ phận của hạ tầng
+số quốc gia.
+2. Hạ tầng trí tuệ nhân tạo quốc gia bao gồm:
+a) Hạ tầng phục vụ an ninh – quản trị quốc gia: cung cấp tài nguyên tính toán,
+lưu trữ và nền tảng trí tuệ nhân tạo dùng chung cho cơ quan nhà nước và dữ liệu
+trọng yếu, bảo đảm tiêu chuẩn an ninh, an toàn cao nhất;
+b) Hạ tầng phục vụ khoa học công nghệ và đổi mới sáng tạo: cung cấp tài
+nguyên tính toán hiệu năng cao, dữ liệu mở và công cụ trí tuệ nhân tạo dùng chung,
+với cơ chế mở và linh hoạt để phục vụ nghiên cứu, giáo dục, đào tạo và phát triển
+ứng dụng.
+3. Hạ tầng được phát triển theo các phân lớp:
+a) Lớp tính toán: siêu máy tính, GPU cloud, nền tảng điện toán đám mây chuyên
+dụng;
+b) Lớp dữ liệu: cơ sở dữ liệu quốc gia và kho dữ liệu chiến lược, được chuẩn
+hóa, làm sạch, gán nhãn;
+c) Lớp mô hình và nền tảng: mô hình nền tảng, bao gồm mô hình ngôn ngữ lớn
+tiếng Việt và các mô hình phục vụ mục tiêu quốc gia, cùng các khung phát triển mã
+nguồn mở;
+d) Lớp thiết bị và hạ tầng mạng: trung tâm dữ liệu, hệ thống lưu trữ, thiết bị
+mạng đáp ứng yêu cầu bảo mật, hiệu năng và khả năng mở rộng.
+17
+4. Quy hoạch hạ tầng trí tuệ nhân tạo quốc gia phải được tích hợp trong quy
+hoạch hạ tầng thông tin và truyền thông, gắn kết chặt chẽ với chiến lược an ninh
+năng lượng, chiến lược an ninh mạng, chiến lược phát triển nhân lực số và các quy
+hoạch quốc gia khác có liên quan.
+5. Chính phủ quy định chi tiết quy hoạch, tiêu chuẩn kỹ thuật, cơ chế vận hành
+và giám sát hạ tầng trí tuệ nhân tạo quốc gia.
+Điều 28. Quản lý và điều phối hạ tầng trí tuệ nhân tạo quốc gia
+1. Ủy ban Quốc gia về Trí tuệ nhân tạo chịu trách nhiệm điều phối, giám sát
+triển khai hạ tầng trí tuệ nhân tạo quốc gia theo quy định tại Điều 7.
+2. Bộ Khoa học và Công nghệ quản lý, vận hành hạ tầng phục vụ nghiên cứu
+khoa học, giáo dục, đào tạo và đổi mới sáng tạo. Bộ Công an quản lý, vận hành hạ
+tầng phục vụ an ninh, quốc phòng và quản trị nhà nước.
+3. Ủy ban nhân dân cấp tỉnh, thành phố triển khai hạ tầng tại địa phương, bảo
+đảm liên thông, đồng bộ với quy hoạch quốc gia, phối hợp với bộ, ngành liên quan.
+4. Các bộ, ngành, địa phương kết nối, chia sẻ dữ liệu và khai thác hạ tầng theo
+chức năng, nhiệm vụ, tuân thủ pháp luật về bảo mật, an ninh mạng và bảo vệ dữ liệu
+cá nhân.
+Điều 29. Cơ sở dữ liệu quốc gia cho trí tuệ nhân tạo
+1. Việc xây dựng, quản lý, kết nối, chia sẻ và bảo vệ cơ sở dữ liệu quốc gia, cơ
+sở dữ liệu chuyên ngành và cơ sở dữ liệu tổng hợp phục vụ trí tuệ nhân tạo được
+thực hiện theo Luật Dữ liệu, Luật Bảo vệ dữ liệu cá nhân và pháp luật có liên quan.
+2. Nhà nước ưu tiên phát triển cơ sở dữ liệu chuyên biệt cho trí tuệ nhân tạo,
+gồm:
+a) Dữ liệu mở: công khai, miễn phí, không hạn chế sử dụng;
+b) Dữ liệu mở có kiểm soát: truy cập có điều kiện, tuân thủ các quy tắc về mục
+đích sử dụng, bảo mật hoặc nghĩa vụ đóng góp ngược;
+c) Dữ liệu thương mại: cung cấp trên cơ sở hợp đồng, có thu phí hoặc các hình
+thức trao đổi giá trị khác, bảo đảm quyền sở hữu trí tuệ và lợi ích kinh tế.
+3. Việc phân loại, lưu trữ, bảo mật và khai thác dữ liệu được thực hiện theo
+nguyên tắc của Luật Dữ liệu; các quy định đặc thù cho dữ liệu huấn luyện trí tuệ
+nhân tạo do Chính phủ quy định.
+4. Nhà nước có cơ chế ưu đãi cho tổ chức, cá nhân đóng góp dữ liệu, bao gồm
+ưu tiên tiếp cận hạ tầng, miễn giảm thuế, hỗ trợ tài chính và công nhận đóng góp
+cộng đồng.
+18
+5. Chính phủ quy định chi tiết cơ chế hình thành, quản lý, vận hành và khai thác
+cơ sở dữ liệu quốc gia cho trí tuệ nhân tạo.
+Điều 30. Khuyến khích sử dụng mã nguồn mở và đóng góp tài nguyên
+chung
+1. Nhà nước khuyến khích phát triển, chia sẻ và sử dụng sản phẩm, công cụ trí
+tuệ nhân tạo dựa trên mã nguồn mở và chuẩn mở.
+2. Nhà nước thiết lập cổng chia sẻ tài nguyên trí tuệ nhân tạo quốc gia để doanh
+nghiệp, tổ chức, cộng đồng đóng góp mã nguồn, công cụ, mô hình và dữ liệu được
+phép chia sẻ.
+3. Tổ chức, cá nhân đóng góp được hưởng chính sách ưu đãi phù hợp, tuân thủ
+quy định pháp luật về sở hữu trí tuệ và bảo mật.
+4. Chính phủ quy định chi tiết các tiêu chí, điều kiện và mức ưu đãi đối với hoạt
+động đóng góp tài nguyên chung.
+Điều 31. Hợp tác công – tư trong phát triển hạ tầng trí tuệ nhân tạo quốc
+gia
+1. Nhà nước khuyến khích và tạo điều kiện cho việc đầu tư, xây dựng, quản lý
+và vận hành hạ tầng trí tuệ nhân tạo quốc gia theo quy định của pháp luật về đầu tư
+và pháp luật về đầu tư theo phương thức đối tác công – tư.
+2. Tài sản số, bao gồm Dữ liệu sẵn sàng cho trí tuệ nhân tạo và Mô hình trí tuệ
+nhân tạo, được công nhận là tài sản hợp pháp để góp vốn trong dự án PPP. Việc công
+nhận, định giá và quản lý loại tài sản này thực hiện theo Luật Đầu tư theo phương
+thức đối tác công – tư, Luật Dữ liệu, Luật Thẩm định giá và các pháp luật có liên
+quan.
+3. Đối với dự án PPP trong lĩnh vực trí tuệ nhân tạo, Chính phủ quy định chi
+tiết các cơ chế đặc thù để bảo đảm phù hợp với vòng đời công nghệ ngắn và rủi ro
+thay đổi nhanh, bao gồm nhưng không giới hạn ở: cơ chế cập nhật công nghệ, chia
+sẻ rủi ro khi công nghệ lỗi thời, cơ chế bảo mật và bảo vệ dữ liệu.
+4. Nhà nước khuyến khích liên doanh giữa doanh nghiệp trong nước và nước
+ngoài trong phát triển hạ tầng trí tuệ nhân tạo, bảo đảm nâng cao năng lực nội địa,
+tiếp cận công nghệ tiên tiến và tuân thủ các yêu cầu an ninh quốc gia.
+Điều 32. Bảo đảm chủ quyền dữ liệu và an ninh hạ tầng trí tuệ nhân tạo
+quốc gia
+1. Nhà nước bảo đảm chủ quyền trí tuệ nhân tạo quốc gia bằng cách làm chủ
+công nghệ lõi, dữ liệu và hạ tầng, giảm phụ thuộc vào công nghệ nước ngoài.
+2. Việc lưu trữ, xử lý và chuyển giao dữ liệu trọng yếu, dữ liệu cá nhân của
+công dân Việt Nam trong các hoạt động trí tuệ nhân tạo phải tuân thủ đầy đủ các quy
+19
+định của pháp luật về dữ liệu, pháp luật về bảo vệ dữ liệu cá nhân và pháp luật về an
+ninh mạng.
+3. Nhà cung cấp nước ngoài cung cấp hệ thống trí tuệ nhân tạo rủi ro cao trong
+lĩnh vực trọng yếu phải tuân thủ quy định lưu trữ dữ liệu nội địa và an ninh quốc gia.
+4. Hệ thống trí tuệ nhân tạo rủi ro cao sử dụng trong lĩnh vực trọng yếu phải
+tuân thủ quy định về an ninh, kiểm định, cấp phép và ưu tiên công nghệ nội địa hoặc
+hợp tác công nghệ tin cậy có giám sát.
+5. Chính phủ quy định chi tiết biện pháp bảo vệ chủ quyền, tiêu chuẩn an ninh
+và kiểm soát việc chuyển giao dữ liệu ra nước ngoài, bảo đảm phù hợp với Luật Dữ
+liệu và pháp luật có liên quan.
+Điều 33. Giám sát, đánh giá và cập nhật hạ tầng trí tuệ nhân tạo quốc gia
+1. Hạ tầng trí tuệ nhân tạo quốc gia được giám sát, đánh giá định kỳ nhằm bảo
+đảm an toàn, hiệu quả và phù hợp nhu cầu phát triển.
+2. Việc giám sát, đánh giá và cập nhật hạ tầng dựa trên tiến bộ khoa học – công
+nghệ và thực tiễn, có tham vấn ý kiến doanh nghiệp, tổ chức nghiên cứu và cộng
+đồng.
+3. Chính phủ quy định chi tiết trình tự, thủ tục giám sát, đánh giá và cập nhật
+hạ tầng trí tuệ nhân tạo quốc gia.
+Chương IV
+CHUYỂN ĐỔI VÀ ỨNG DỤNG TRÍ TUỆ NHÂN TẠO PHỤC VỤ PHÁT
+TRIỂN KINH TẾ - XÃ HỘI
+Điều 34. Nguyên tắc chuyển đổi và ứng dụng trí tuệ nhân tạo
+1. Việc chuyển đổi và ứng dụng trí tuệ nhân tạo phục vụ phát triển kinh tế - xã
+hội phải tuân thủ các nguyên tắc cơ bản tại Điều 4 của Luật này và các nguyên tắc
+cụ thể sau:
+a) Gắn với mục tiêu phát triển kinh tế - xã hội, chuyển đổi số quốc gia, bảo đảm
+công bằng, bao trùm và thu hẹp khoảng cách số;
+b) Khuyến khích cạnh tranh lành mạnh, minh bạch, ngăn ngừa độc quyền, lạm
+dụng thị trường và thúc đẩy đổi mới sáng tạo;
+c) Ưu tiên nguồn lực giải quyết các bài toán lớn của quốc gia, kết hợp hài hòa
+giữa thị trường trong nước và hội nhập quốc tế;
+d) Nhà nước giữ vai trò kiến tạo, ban hành chính sách, đồng thời huy động và
+khuyến khích khu vực tư nhân, viện nghiên cứu, trường học và cộng đồng công nghệ
+tham gia.
+20
+Điều 35. Chiến lược quốc gia về trí tuệ nhân tạo
+1. Nhà nước xây dựng và triển khai Chiến lược quốc gia về trí tuệ nhân tạo;
+định kỳ ít nhất ba năm một lần tiến hành rà soát, cập nhật để bảo đảm phù hợp với
+tiến bộ khoa học – công nghệ và yêu cầu thực tiễn trong nước, quốc tế.
+2. Chiến lược quốc gia về trí tuệ nhân tạo bao gồm các nội dung cơ bản sau
+đây:
+a) Định hướng tổng thể về phát triển và ứng dụng trí tuệ nhân tạo;
+b) Danh mục các lĩnh vực, bài toán lớn quốc gia cần ưu tiên ứng dụng trí tuệ
+nhân tạo;
+c) Hướng phát triển ưu tiên về giải pháp, sản phẩm trí tuệ nhân tạo phù hợp với
+điều kiện Việt Nam, đặc biệt là xử lý tiếng Việt và ngôn ngữ dân tộc thiểu số;
+d) Định hướng phát triển thị trường và hệ sinh thái trí tuệ nhân tạo trong nước;
+đ) Nguyên tắc phân bổ nguồn lực, khuyến khích hợp tác công – tư và hội nhập
+quốc tế.
+3. Chính phủ quy định chi tiết, ban hành và cập nhật linh hoạt các định hướng
+phát triển ưu tiên, danh mục lĩnh vực, bài toán lớn quốc gia quy định tại khoản 2
+Điều này; đồng thời bảo đảm cơ chế ưu tiên phân bổ nguồn lực, chính sách khuyến
+khích và đầu tư.
+Điều 36. Chương trình hành động quốc gia về trí tuệ nhân tạo
+1. Thủ tướng Chính phủ ban hành Chương trình quốc gia về Chuyển đổi và
+Ứng dụng trí tuệ nhân tạo để cụ thể hóa Chiến lược, trong đó xác định:
+a) Mục tiêu ưu tiên và chỉ số đánh giá kết quả;
+b) Các nhiệm vụ trọng tâm về phát triển hạ tầng, dữ liệu, nhân lực và hệ sinh
+thái trí tuệ nhân tạo;
+c) Các giải pháp chính sách cụ thể về pháp luật, tài chính, khoa học công nghệ
+và hợp tác quốc tế;
+d) Các biện pháp bảo đảm phát triển bền vững: thu hẹp khoảng cách số, hỗ trợ
+nhóm yếu thế, Trí tuệ nhân tạo xanh và tiết kiệm năng lượng;
+đ) Danh mục các chương trình, dự án trọng điểm, bài toán lớn quốc gia được
+phân kỳ để triển khai Chiến lược;
+e) Tổ chức thực hiện các hướng phát triển ưu tiên về giải pháp, sản phẩm trí tuệ
+nhân tạo mang bản sắc Việt Nam theo quy định tại Điều 35 của Luật này.
+h) Nguồn lực và cơ chế phối hợp thực hiện;
+2. Chính phủ quy định chi tiết trình tự, thủ tục xây dựng, ban hành và cập nhật
+21
+Chương trình hành động quốc gia về trí tuệ nhân tạo.
+Điều 37. Ứng dụng trí tuệ nhân tạo trong các lĩnh vực trọng điểm
+1. Nhà nước thực hiện nguyên tắc "Trí tuệ nhân tạo đi trước" (AI First) trong
+hiện đại hóa quản lý nhà nước, hành chính công và cung cấp dịch vụ công trực tuyến,
+ưu tiên trí tuệ nhân tạo để giảm thủ tục, tăng năng suất và cải thiện chất lượng dịch
+vụ.
+2. Các bộ, ngành, địa phương có trách nhiệm lập kế hoạch ứng dụng trí tuệ
+nhân tạo trong lĩnh vực quản lý; đồng thời được phép lồng ghép, tích hợp các nội
+dung về trí tuệ nhân tạo vào các Chương trình, Đề án về chuyển đổi số, đô thị thông
+minh, kinh tế số - xã hội số và các chiến lược, kế hoạch chuyên ngành khác.
+3. Chính phủ quy định chi tiết lộ trình, tiêu chuẩn và cơ chế hỗ trợ chuyển đổi,
+ứng dụng trí tuệ nhân tạo trong các lĩnh vực trọng điểm.
+Điều 38. Quỹ Phát triển Trí tuệ nhân tạo Quốc gia
+1. Thành lập Quỹ Phát triển Trí tuệ nhân tạo Quốc gia – là quỹ tài chính nhà
+nước ngoài ngân sách, hoạt động không vì lợi nhuận – nhằm hỗ trợ thực hiện các
+nhiệm vụ chiến lược, nền tảng về trí tuệ nhân tạo.
+2. Nguồn vốn của Quỹ được hình thành từ:
+a) Vốn điều lệ do ngân sách nhà nước cấp;
+b) Ngân sách bổ sung hằng năm;
+c) Nguồn thu từ cổ phần hóa doanh nghiệp nhà nước theo quy định pháp luật;
+d) Lợi nhuận thu được từ các hoạt động đầu tư của Quỹ;
+đ) Đóng góp, tài trợ, viện trợ tự nguyện, hợp pháp của tổ chức, cá nhân trong
+và ngoài nước;
+e) Các nguồn vốn hợp pháp khác.
+3. Quỹ được sử dụng để:
+a) Nghiên cứu, phát triển và ứng dụng các mô hình trí tuệ nhân tạo ngôn ngữ,
+đặc biệt là các mô hình ngôn ngữ tiếng Việt và tiếng dân tộc thiểu số;
+b) Xây dựng, phát triển và vận hành các kho dữ liệu quốc gia dùng chung, hạ
+tầng dữ liệu mở, và hạ tầng tính toán hiệu năng cao phục vụ nghiên cứu và triển khai
+trí tuệ nhân tạo;
+c) Thực hiện các chương trình, dự án có tính nền tảng, phi lợi nhuận, mang lại
+lợi ích công cộng hoặc có ý nghĩa chiến lược mà các quỹ khác không có khả năng
+hoặc không ưu tiên tài trợ;
+d) Hỗ trợ đào tạo, phát triển nguồn nhân lực trí tuệ nhân tạo chất lượng cao, đặc
+22
+biệt là các chương trình học bổng, nghiên cứu hậu tiến sĩ và thu hút chuyên gia trong
+và ngoài nước.
+đ) Nghiên cứu, phát triển, thử nghiệm và đánh giá công nghệ trí tuệ nhân tạo,
+hoặc ứng dụng công nghệ đã phát triển.
+e) Hỗ trợ phổ biến, hợp tác, chuyển giao và thương mại hóa công nghệ trí tuệ
+nhân tạo.
+f) Các dự án khác liên quan đến phát triển, nghiên cứu và điều tra công nghệ trí
+tuệ nhân tạo, theo Chiến lược Trí tuệ nhân tạo quốc gia
+4. Hoạt động của Quỹ phải phối hợp đồng bộ với các quỹ phát triển khoa học -
+công nghệ và đổi mới sáng tạo khác theo quy định pháp luật. Quỹ ưu tiên tài trợ, hỗ
+trợ cho những nhiệm vụ có tính chiến lược, phi lợi nhuận hoặc có rủi ro cao mà các
+quỹ khác không bao quát.
+5. Chính phủ quy định chi tiết cơ cấu tổ chức, cơ chế hoạt động, quản lý, giám
+sát Quỹ và quy trình, điều kiện xét duyệt hỗ trợ từ Quỹ.
+Điều 39. Phát triển thị trường trí tuệ nhân tạo
+1. Nhà nước thực hiện chính sách hỗ trợ bên sử dụng hệ thống trí tuệ nhân tạo,
+bảo đảm minh bạch và bảo vệ quyền sở hữu trí tuệ.
+a) Ưu tiên mua sắm công đối với sản phẩm, dịch vụ trí tuệ nhân tạo nội địa, đặc
+biệt các hệ thống trí tuệ nhân tạo rủi ro cao đã được kiểm định, chứng nhận hợp quy;
+b) Triển khai chương trình "Phiếu mua hàng Trí tuệ nhân tạo" (AI Voucher) để
+hỗ trợ chi phí ứng dụng trí tuệ nhân tạo cho doanh nghiệp nhỏ và vừa, tổ chức và
+cộng đồng;
+c) Hỗ trợ doanh nghiệp nhỏ và vừa áp dụng trí tuệ nhân tạo thông qua các ưu
+đãi về thuế, tài chính và tiếp cận hạ tầng số dùng chung.
+2. Nhà nước khuyến khích hình thành các sàn giao dịch và chợ số cho sản phẩm,
+dịch vụ và dữ liệu trí tuệ nhân tạo, tuân thủ pháp luật về dữ liệu, cạnh tranh và bảo
+vệ quyền lợi người tiêu dùng.
+3. Nhà nước có chính sách ưu đãi đặc thù đối với các sản phẩm, giải pháp, lĩnh
+vực Trí tuệ nhân tạo thuộc định hướng tại Điều 37 của Luật này.
+4. Chính phủ quy định chi tiết cơ chế, hình thức và điều kiện hỗ trợ phát triển
+thị trường trí tuệ nhân tạo.
+Điều 40. Tiêu chuẩn, quy chuẩn kỹ thuật về trí tuệ nhân tạo
+1. Nhà nước xây dựng, ban hành và cập nhật hệ thống tiêu chuẩn, quy chuẩn
+kỹ thuật quốc gia về trí tuệ nhân tạo.
+23
+2. Tiêu chuẩn, quy chuẩn phải bảo đảm:
+a) Tính an toàn, tin cậy và minh bạch;
+b) Khả năng tương tác, liên thông giữa các hệ thống trí tuệ nhân tạo;
+c) Hài hòa với chuẩn mực quốc tế và phù hợp với đặc thù Việt Nam;
+d) Ưu tiên áp dụng các chuẩn mở để khuyến khích đổi mới sáng tạo.
+3. Bộ Khoa học và Công nghệ chủ trì, phối hợp với các bộ, ngành liên quan xây
+dựng và ban hành hệ thống tiêu chuẩn, quy chuẩn kỹ thuật về trí tuệ nhân tạo.
+Điều 41. Giám sát và đánh giá chuyển đổi và ứng dụng trí tuệ nhân tạo
+1. Ủy ban Quốc gia về Trí tuệ nhân tạo giám sát, đánh giá định kỳ hiệu quả ứng
+dụng trí tuệ nhân tạo và phát triển thị trường, bảo đảm phù hợp với mục tiêu kinh tế
+- xã hội.
+2. Việc giám sát dựa trên chỉ số đo lường, có tham vấn ý kiến từ doanh nghiệp,
+tổ chức nghiên cứu, cộng đồng và được công khai trên Cổng Thông tin Quốc gia.
+3. Chính phủ quy định chi tiết trình tự, thủ tục giám sát và đánh giá, đảm bảo
+điều chỉnh kịp thời chính sách.
+Chương V
+ĐẠO ĐỨC, ĐỘ TIN CẬY VÀ TRÁCH NHIỆM TRONG HOẠT ĐỘNG
+TRÍ TUỆ NHÂN TẠO
+Điều 42. Nguyên tắc về trí tuệ nhân tạo đáng tin cậy và có đạo đức
+1. Việc phát triển, cung cấp, triển khai và sử dụng hệ thống trí tuệ nhân tạo phải
+tuân thủ quy định chung tại Điều 4 và các nguyên tắc cụ thể sau:
+a) Công bằng và không phân biệt đối xử: Bảo đảm hạn chế và giảm thiểu các
+sai lệch trong dữ liệu và thuật toán có thể dẫn đến kết quả phân biệt đối xử bất hợp
+pháp;
+b) Minh bạch và giải thích được: Bảo đảm hệ thống trí tuệ nhân tạo có khả năng
+giải thích được các quyết định của mình ở mức độ phù hợp với bối cảnh sử dụng;
+c) An toàn, an ninh và tin cậy: Bảo đảm hệ thống trí tuệ nhân tạo hoạt động an
+toàn, có khả năng chống chịu và duy trì hiệu suất ổn định trong toàn bộ vòng đời;
+d) Trách nhiệm giải trình: Xác định rõ trách nhiệm của các bên liên quan trong
+suốt vòng đời của hệ thống trí tuệ nhân tạo.
+2. Các nguyên tắc quy định tại khoản 1 Điều này là cơ sở để xây dựng Khung
+đạo đức trí tuệ nhân tạo quốc gia, các tiêu chuẩn, quy chuẩn kỹ thuật và chính sách
+khác có liên quan.
+24
+Điều 43. Khung đạo đức trí tuệ nhân tạo quốc gia
+1. Khung đạo đức trí tuệ nhân tạo quốc gia là văn bản quy định các chuẩn mực
+và hướng dẫn chi tiết về đạo đức cho tổ chức, cá nhân tham gia vào hoạt động trí tuệ
+nhân tạo tại Việt Nam.
+2. Cơ quan nhà nước có nghĩa vụ tuân thủ Khung đạo đức trí tuệ nhân tạo quốc
+gia. Nhà nước khuyến khích các tổ chức, cá nhân khác áp dụng Khung đạo đức này.
+3. Doanh nghiệp lớn, tổ chức cung cấp hệ thống trí tuệ nhân tạo rủi ro cao có
+trách nhiệm bắt buộc áp dụng Khung đạo đức này.
+4. Chính phủ ban hành và cập nhật định kỳ Khung đạo đức trí tuệ nhân tạo quốc
+gia trên cơ sở các nguyên tắc tại Điều 42 của Luật này, phù hợp với thông lệ quốc tế
+và có tham vấn ý kiến của chuyên gia, doanh nghiệp và cộng đồng.
+Điều 44. Đạo đức và trách nhiệm trong sử dụng trí tuệ nhân tạo tại khu
+vực công
+1. Cơ quan nhà nước phải gương mẫu trong việc tuân thủ các nguyên tắc đạo
+đức, bảo đảm công bằng, minh bạch và trách nhiệm giải trình khi ứng dụng trí tuệ
+nhân tạo.
+2. Cơ quan nhà nước không được sử dụng hệ thống trí tuệ nhân tạo để ra quyết
+định tự động hoàn toàn trong các trường hợp ảnh hưởng trực tiếp đến quyền và lợi
+ích hợp pháp của tổ chức, cá nhân, trừ trường hợp pháp luật có quy định khác. Quyết
+định cuối cùng phải có sự giám sát và chịu trách nhiệm của con người.
+3. Trước khi triển khai hệ thống trí tuệ nhân tạo rủi ro cao trong hoạt động cung
+cấp dịch vụ công hoặc ra quyết định hành chính có ảnh hưởng sâu rộng, cơ quan nhà
+nước phải thực hiện Đánh giá tác động trí tuệ nhân tạo theo quy định tại Điều 45 của
+Luật này.
+4. Cơ quan nhà nước phải công khai thông tin cơ bản về mục đích, phạm vi ứng
+dụng hệ thống trí tuệ nhân tạo và thiết lập cơ chế tiếp nhận phản hồi, khiếu nại của
+người dân.
+Điều 45. Đánh giá tác động trí tuệ nhân tạo
+1. Đánh giá tác động trí tuệ nhân tạo là quá trình nhận diện, phân tích, dự báo
+và đề xuất biện pháp giảm thiểu các tác động tiêu cực tiềm tàng của một hệ thống trí
+tuệ nhân tạo đối với quyền con người, các giá trị đạo đức và xã hội.
+2. Tổ chức, cá nhân phát triển hoặc triển khai hệ thống trí tuệ nhân tạo được
+phân loại là rủi ro cao hoặc mô hình trí tuệ nhân tạo đa dụng được xác định là có rủi
+ro hệ thống theo quy định tại Chương II của Luật này có nghĩa vụ thực hiện Đánh
+giá tác động trí tuệ nhân tạo trước khi đưa hệ thống hoặc mô hình ra thị trường hoặc
+đưa vào sử dụng.
+25
+3. Nội dung cơ bản của báo cáo đánh giá tác động bao gồm:
+a) Phân tích các tác động tiềm tàng của hệ thống đến quyền con người, quyền
+riêng tư, sự công bằng và an toàn;
+b) Nhận diện các nguy cơ sai lệch, phân biệt đối xử hoặc các hậu quả không
+mong muốn khác;
+c) Đề xuất các biện pháp kỹ thuật, quản lý và giám sát nhằm ngăn ngừa, giảm
+thiểu các rủi ro đã được xác định.
+d) Phân tích các tác động đặc thù và nguy cơ tiềm ẩn đối với các nhóm dễ bị
+tổn thương, bao gồm nhưng không giới hạn ở trẻ em, người cao tuổi, người khuyết
+tật, người dân tộc thiểu số, và đề xuất các biện pháp bảo vệ phù hợp.
+4. Chính phủ quy định chi tiết về quy trình, phương pháp và mẫu báo cáo Đánh
+giá tác động trí tuệ nhân tạo theo hướng tinh gọn, phù hợp với từng lĩnh vực và
+không tạo gánh nặng hành chính không cần thiết cho doanh nghiệp.
+Điều 46. Trách nhiệm pháp lý
+1. Tổ chức, cá nhân phát triển, cung cấp, triển khai hoặc sử dụng hệ thống trí
+tuệ nhân tạo chịu trách nhiệm pháp lý đối với rủi ro, thiệt hại do hệ thống trí tuệ nhân
+tạo gây ra theo quy định của pháp luật.
+2. Việc xác định trách nhiệm pháp lý phải gắn với mức độ rủi ro của hệ thống
+trí tuệ nhân tạo theo quy định tại Chương II của Luật này và vai trò của các bên trong
+chuỗi giá trị.
+3. Nhà nước khuyến khích và có thể yêu cầu áp dụng cơ chế bảo hiểm trách
+nhiệm hoặc quỹ bồi thường thiệt hại đối với các hệ thống trí tuệ nhân tạo rủi ro cao,
+nhằm bảo đảm quyền lợi hợp pháp của tổ chức, cá nhân bị ảnh hưởng.
+4. Chính phủ quy định chi tiết cơ chế phân định trách nhiệm giữa các bên liên
+quan, bao gồm nhà phát triển, nhà cung cấp, bên triển khai và người sử dụng, bảo
+đảm tính công bằng, minh bạch và khả thi.
+Chương VI
+PHÁT TRIỂN NHÂN LỰC, ĐỔI MỚI SÁNG TẠO VÀ HỢP TÁC
+QUỐC TẾ
+Điều 47. Nguyên tắc về phát triển nhân lực, đổi mới sáng tạo và hợp tác
+quốc tế
+1. Phát triển nhân lực, đổi mới sáng tạo và hợp tác quốc tế trong lĩnh vực trí tuệ
+nhân tạo nhằm tạo động lực cho hệ sinh thái trí tuệ nhân tạo, bảo đảm gắn kết giữa
+đào tạo, nghiên cứu, sản xuất – kinh doanh và hội nhập quốc tế.
+26
+2. Việc phát triển nhân lực, đổi mới sáng tạo và hợp tác quốc tế về trí tuệ nhân
+tạo phải tuân thủ quy định chung tại Điều 4 và các nguyên tắc cụ thể sau:
+a) Phát triển nhân lực trí tuệ nhân tạo gắn với xây dựng văn hóa trí tuệ nhân tạo
+nhân văn, bảo đảm con người làm chủ;
+b) Ưu tiên phát triển nhân lực chất lượng cao, công nghệ lõi và sản phẩm trí tuệ
+nhân tạo chiến lược;
+c) Hài hòa giữa ưu đãi trong nước và thu hút nguồn lực quốc tế, bảo đảm chủ
+quyền dữ liệu, công nghệ và hạ tầng trọng yếu.
+Điều 48. Phát triển nhân lực và văn hóa trí tuệ nhân tạo
+1. Nhà nước xây dựng Chiến lược phát triển nhân lực trí tuệ nhân tạo, có thể
+được ban hành riêng hoặc lồng ghép trong các chiến lược phát triển nhân lực chung,
+bảo đảm yêu cầu đặc thù của nhân lực trí tuệ nhân tạo. Chiến lược này phải bao quát
+từ phổ thông đến sau đại học, gắn với đào tạo kỹ năng số và năng lực liên ngành.
+2. Triển khai Chương trình nhân tài trí tuệ nhân tạo quốc gia để thu hút, đào
+tạo, trọng dụng chuyên gia trí tuệ nhân tạo trong và ngoài nước.
+3. Khuyến khích các cơ sở giáo dục, viện nghiên cứu liên kết quốc tế đào tạo
+nhân lực trí tuệ nhân tạo, ưu tiên hình thành các trung tâm xuất sắc (centers of
+excellence).
+4. Nhà nước khuyến khích xây dựng văn hóa trí tuệ nhân tạo nhân văn, trong
+đó con người làm chủ, trí tuệ nhân tạo phục vụ nâng cao chất lượng sống và phát
+triển bền vững.
+5. Nhà nước có kế hoạch và bố trí nguồn lực để tổ chức đào tạo, bồi dưỡng,
+nâng cao nhận thức và chuyên môn sâu về công nghệ, pháp luật và đạo đức trí tuệ
+nhân tạo cho đội ngũ cán bộ, công chức, viên chức trong các cơ quan quản lý nhà
+nước, các chức danh tư pháp và đội ngũ luật sư, giám định viên nhằm đáp ứng yêu
+cầu thực thi hiệu quả Luật này.
+Điều 49. Hỗ trợ doanh nghiệp nhỏ và vừa, khởi nghiệp đổi mới sáng tạo
+1. Nhà nước có chính sách hỗ trợ kỹ thuật, tư vấn và cung cấp mẫu hồ sơ rút gọn
+cho doanh nghiệp nhỏ và vừa, doanh nghiệp khởi nghiệp đổi mới sáng tạo trong việc
+thực hiện các nghĩa vụ theo quy định của Luật này.
+2. Các chính sách hỗ trợ nhà cung cấp bao gồm:
+a) Doanh nghiệp, tổ chức nghiên cứu và ứng dụng trí tuệ nhân tạo được hưởng
+các ưu đãi cao nhất theo quy định của pháp luật về công nghệ cao và công nghiệp
+công nghệ số;
+b) Hỗ trợ nghiên cứu và phát triển (R&D) thông qua đầu tư từ Quỹ Phát triển
+Trí tuệ nhân tạo Quốc gia và các quỹ khoa học, công nghệ, đổi mới sáng tạo khác;
+27
+c) Khuyến khích thành lập quỹ đầu tư mạo hiểm chuyên biệt cho khởi nghiệp
+và dự án trí tuệ nhân tạo chiến lược;
+d) Triển khai cơ chế thử nghiệm có kiểm soát (sandbox) cho sản phẩm, dịch vụ
+trí tuệ nhân tạo mới;
+e) Ưu tiên tiếp cận hạ tầng trí tuệ nhân tạo quốc gia, bao gồm năng lực tính
+toán, dữ liệu mở và nền tảng trí tuệ nhân tạo dùng chung.
+f) Nhà cung cấp là doanh nghiệp nhỏ và vừa, doanh nghiệp khởi nghiệp đổi
+mới sáng tạo có mô hình trí tuệ nhân tạo đa dụng chưa bị xác định là có rủi ro hệ
+thống được xem xét miễn, giảm một số nghĩa vụ quy định tại khoản 3 Điều 19, nếu
+đã thực hiện đầy đủ các nghĩa vụ cơ bản tại khoản 2 Điều 19 và quy định pháp luật
+có liên quan. Miễn trừ này không áp dụng đối với tổ chức, cá nhân sử dụng mô hình
+trí tuệ nhân tạo đa dụng mã nguồn mở làm thành phần cốt lõi để xây dựng, cung cấp
+hệ thống trí tuệ nhân tạo rủi ro cao ra thị trường hoặc đưa vào sử dụng dưới tên hoặc
+thương hiệu của mình; trong trường hợp đó, tổ chức, cá nhân phải thực hiện đầy đủ
+trách nhiệm của nhà cung cấp theo Luật này đối với hệ thống trí tuệ nhân tạo rủi ro
+cao.”
+3. Doanh nghiệp nhỏ và vừa, doanh nghiệp khởi nghiệp đổi mới sáng tạo được
+xem xét miễn, giảm phí đánh giá sự phù hợp, được ưu tiên tiếp cận các chương trình
+hỗ trợ, tài nguyên thử nghiệm và các cơ chế ưu đãi khác theo pháp luật về khoa học,
+công nghệ, đổi mới sáng tạo và pháp luật chuyên ngành có liên quan.
+4. Doanh nghiệp nhỏ và vừa, doanh nghiệp khởi nghiệp đổi mới sáng tạo được
+ưu tiên tham gia cơ chế thử nghiệm có kiểm soát (sandbox) về trí tuệ nhân tạo để
+giảm gánh nặng tuân thủ trong giai đoạn đầu phát triển sản phẩm, dịch vụ.
+5. Chính phủ quy định chi tiết chính sách hỗ trợ khi doanh nghiệp nhỏ và vừa,
+doanh nghiệp khởi nghiệp đổi mới sáng tạo tham gia sandbox, bao gồm:
+a) Đơn giản hóa thủ tục đăng ký và phê duyệt tham gia;
+b) Miễn, giảm một số nghĩa vụ hành chính phức tạp trong thời gian thử nghiệm;
+c) Hỗ trợ tư vấn kỹ thuật, pháp lý và tài chính để bảo đảm doanh nghiệp có khả
+năng tuân thủ sau giai đoạn thử nghiệm.
+6. Để giảm gánh nặng tuân thủ, Nhà nước giao cơ quan quản lý nhà nước có
+thẩm quyền xây dựng và cung cấp miễn phí các bộ hồ sơ, biểu mẫu tuân thủ mẫu
+(bao gồm hồ sơ kỹ thuật, báo cáo đánh giá tác động) và tài liệu hướng dẫn chi tiết
+cho các loại hình ứng dụng trí tuệ nhân tạo phổ biến và cho trường hợp sau thử
+nghiệm sandbox.
+7. Doanh nghiệp đã hoàn thành thử nghiệm sandbox theo quyết định của cơ quan
+có thẩm quyền được áp dụng cơ chế hồ sơ, thủ tục rút gọn trong các thủ tục quản lý
+theo Luật này, bao gồm một số biện pháp sau:
+28
+a) Được sử dụng kết quả, dữ liệu và báo cáo của quá trình thử nghiệm có kiểm
+soát (kết quả kiểm thử an toàn, báo cáo đánh giá rủi ro, dữ liệu sự cố và biện pháp
+khắc phục, ..) để thay thế, hợp nhất hoặc rút gọn thành phần hồ sơ đối với phân loại
+rủi ro quy định tại Điều 9; đánh giá sự phù hợp quy định tại Điều 16; đăng ký Cơ sở
+dữ liệu quốc gia về hệ thống trí tuệ nhân tạo quy định tại Điều 22.
+b) Không phải lặp lại các thử nghiệm, đánh giá đã được thực hiện đầy đủ và còn
+hiệu lực trong sandbox, trừ trường hợp có thay đổi lớn theo quy định tại Điều 16
+hoặc có sự cố nghiêm trọng mới phát sinh.
+c) Áp dụng bộ hồ sơ mẫu, biểu mẫu rút gọn riêng biệt cho trường hợp sau thử
+nghiệm sandbox do cơ quan quản lý nhà nước quy định.
+8. Chính phủ quy định chi tiết việc triển khai các chương trình và chính sách hỗ
+trợ quy định tại Điều này.
+Điều 50. Cụm trí tuệ nhân tạo (AI Cluster)
+1. Nhà nước công nhận và hỗ trợ hình thành các Cụm AI tại khu công nghệ cao,
+trung tâm đổi mới sáng tạo, đại học và viện nghiên cứu lớn.
+2. Cụm AI là nơi tập trung doanh nghiệp, viện nghiên cứu, trường đại học để
+hợp tác, chia sẻ hạ tầng, dữ liệu và nhân lực.
+3. Các tổ chức, cá nhân hoạt động trong Cụm AI được ưu tiên về đất đai, hạ
+tầng viễn thông, điện năng và hưởng chính sách ưu đãi thuế theo quy định pháp luật
+về khu công nghệ cao, công nghiệp công nghệ số.
+4. Chính phủ quy định chi tiết tiêu chí, điều kiện và cơ chế ưu đãi đối với Cụm
+AI.
+Điều 51. Cơ sở kiểm định và thử nghiệm trí tuệ nhân tạo
+1. Nhà nước đầu tư xây dựng các phòng thí nghiệm trọng điểm và trung tâm
+kiểm định Trí tuệ nhân tạo quốc gia để thử nghiệm, đánh giá hệ thống trí tuệ nhân
+tạo.
+2. Nhiệm vụ của các cơ sở này gồm:
+a) Đánh giá độ an toàn, độ tin cậy của hệ thống trí tuệ nhân tạo;
+b) Kiểm tra sự phù hợp với tiêu chuẩn, quy chuẩn quốc gia và quốc tế;
+c) Hỗ trợ tổ chức, doanh nghiệp chứng nhận hợp chuẩn, hợp quy.
+3. Nhà nước thúc đẩy công nhận lẫn nhau về kết quả kiểm định trí tuệ nhân tạo
+với các quốc gia, tổ chức quốc tế.
+4. Chính phủ quy định chi tiết cơ chế tổ chức, vận hành cơ sở kiểm định trí tuệ
+nhân tạo.
+29
+Điều 52. Chính sách ưu đãi đặc biệt cho hoạt động trí tuệ nhân tạo
+1. Tổ chức, doanh nghiệp nghiên cứu, phát triển, ứng dụng trí tuệ nhân tạo được
+hưởng các chính sách hỗ trợ và ưu đãi theo quy định tại Chương IV của Luật này,
+Luật Công nghiệp Công nghệ số, Luật Công nghệ cao và các luật có liên quan.
+2. Chính phủ quy định thủ tục công nhận tổ chức, doanh nghiệp trí tuệ nhân tạo
+đủ điều kiện để áp dụng ưu đãi, bảo đảm thống nhất, minh bạch và tránh trùng lặp
+với các chính sách ưu đãi khác.
+3. Nhân lực chất lượng cao, chuyên gia trí tuệ nhân tạo trong và ngoài nước
+được hưởng chính sách thu hút nhân tài cao nhất theo pháp luật về thuế, xuất nhập
+cảnh, cư trú và các chế độ đãi ngộ khác.
+4. Tổ chức, doanh nghiệp có đóng góp dữ liệu, công nghệ lõi, tài sản trí tuệ vào
+Cơ sở dữ liệu quốc gia về trí tuệ nhân tạo hoặc hệ sinh thái trí tuệ nhân tạo quốc gia
+được hưởng ưu đãi, khuyến khích theo quy định của pháp luật.
+5. Trường hợp nhiều văn bản quy phạm pháp luật quy định ưu đãi khác nhau
+cho cùng một hoạt động trí tuệ nhân tạo, tổ chức, cá nhân được lựa chọn mức ưu đãi
+có lợi nhất.
+Điều 53. Hợp tác quốc tế về trí tuệ nhân tạo
+1. Nguyên tắc hợp tác quốc tế:
+a) Tôn trọng độc lập, chủ quyền, bảo đảm an ninh dữ liệu, hạ tầng số trọng yếu
+của quốc gia; phù hợp pháp luật Việt Nam và các điều ước quốc tế mà Việt Nam là
+thành viên.
+b) Hài hòa với chuẩn mực và thông lệ quốc tế về trí tuệ nhân tạo có trách nhiệm;
+bảo đảm hợp tác hướng tới các hệ thống trí tuệ nhân tạo an toàn, minh bạch, công
+bằng, tôn trọng quyền con người.
+c) Khuyến khích đổi mới sáng tạo dựa trên tiêu chuẩn mở, khả năng tương tác,
+bảo vệ sở hữu trí tuệ; tạo điều kiện để sản phẩm, dịch vụ trí tuệ nhân tạo của Việt
+Nam tham gia chuỗi giá trị toàn cầu.
+d) Chủ động, tích cực tham gia và đóng góp vào việc thiết lập các quy tắc, tiêu
+chuẩn và khuôn khổ quản trị trí tuệ nhân tạo quốc tế, khu vực và đa phương.
+2. Nội dung hợp tác quốc tế trọng tâm:
+a) Hài hòa hóa pháp luật, tiêu chuẩn, quy chuẩn trí tuệ nhân tạo; công nhận lẫn
+nhau về đánh giá sự phù hợp;
+b) Triển khai các chương trình nghiên cứu chung, đồng phát triển mô hình nền
+tảng và ứng dụng trí tuệ nhân tạo chiến lược;
+c) Hợp tác đào tạo, thu hút và trao đổi chuyên gia, phát triển nguồn nhân lực;
+d) Thiết lập cơ chế chuyển dữ liệu xuyên biên giới an toàn phục vụ nghiên cứu
+30
+và huấn luyện trí tuệ nhân tạo; hợp tác kết nối, chia sẻ có kiểm soát tài nguyên hạ
+tầng tính toán hiệu năng cao.
+đ) Phối hợp phòng, chống rủi ro xuyên biên giới và hành vi lạm dụng trí tuệ
+nhân tạo; chia sẻ thông tin, thực hiện kiểm thử chung đối với hệ thống trí tuệ nhân
+tạo có rủi ro cao.
+e) Triển khai sandbox hợp tác quốc tế trong một số lĩnh vực trí tuệ nhân tạo
+mới.
+3. Bộ Khoa học và Công nghệ là cơ quan đầu mối quốc gia về hợp tác quốc tế
+trong lĩnh vực trí tuệ nhân tạo.
+4. Nhà nước khuyến khích và tạo điều kiện để doanh nghiệp, viện nghiên cứu,
+trường đại học Việt Nam mở rộng hợp tác với đối tác quốc tế uy tín, bảo đảm tuân
+thủ pháp luật Việt Nam.
+5. Chính phủ quy định chi tiết các tiêu chí, điều kiện, trình tự, thủ tục về: công
+nhận lẫn nhau về kết quả đánh giá sự phù hợp; cơ chế chuyển dữ liệu an toàn và
+công nhận mức độ bảo vệ dữ liệu tương đương; hợp tác chia sẻ hạ tầng; báo cáo sự
+cố xuyên biên giới; và các nguyên tắc về sở hữu trí tuệ khi đồng phát triển mô hình,
+dữ liệu.
+Chương VII
+THANH TRA, XỬ LÝ VI PHẠM VÀ GIẢI QUYẾT TRANH CHẤP
+Điều 54. Thanh tra, kiểm tra chuyên ngành
+1. Hoạt động thanh tra, kiểm tra trong lĩnh vực trí tuệ nhân tạo được thực hiện
+theo quy định của Luật Thanh tra và pháp luật có liên quan.
+2. Bộ Khoa học và Công nghệ chủ trì, phối hợp với các bộ, ngành, địa phương
+trong phạm vi nhiệm vụ, quyền hạn của mình, thực hiện chức năng quản lý nhà nước
+và thanh tra, kiểm tra việc tuân thủ pháp luật về trí tuệ nhân tạo.
+3. Nội dung thanh tra, kiểm tra tập trung vào:
+a) Việc tuân thủ các hành vi bị nghiêm cấm;
+b) Các nghĩa vụ đối với hệ thống trí tuệ nhân tạo rủi ro cao;
+c) Nghĩa vụ bảo đảm minh bạch, an toàn, đạo đức trong hoạt động trí tuệ nhân
+tạo.
+4. Cơ quan thanh tra, kiểm tra có quyền yêu cầu tổ chức, cá nhân cung cấp
+thông tin, tài liệu cần thiết và tiếp cận hệ thống trí tuệ nhân tạo trong phạm vi cần
+thiết, đồng thời phải bảo đảm bí mật kinh doanh, bí mật dữ liệu, quyền riêng tư theo
+quy định của pháp luật.
+31
+Điều 55. Nguyên tắc xử lý vi phạm và phân định trách nhiệm
+1. Tổ chức, cá nhân có hành vi vi phạm pháp luật về trí tuệ nhân tạo thì tùy theo
+tính chất, mức độ vi phạm mà bị xử lý kỷ luật, xử phạt vi phạm hành chính hoặc truy
+cứu trách nhiệm hình sự; nếu gây thiệt hại thì phải bồi thường theo quy định của Bộ
+luật Dân sự.
+2. Nguyên tắc phân định trách nhiệm giữa các chủ thể (nhà phát triển, nhà cung
+cấp, bên triển khai, người sử dụng và các bên liên quan khác) được xác định dựa trên
+vai trò, mức độ kiểm soát và mối quan hệ nhân quả đối với hành vi vi phạm hoặc
+thiệt hại xảy ra.
+3. Mức độ trách nhiệm và chế tài xử lý phải tương xứng với cấp độ rủi ro của
+hệ thống trí tuệ nhân tạo theo Chương II của Luật này.
+Điều 56. Xử lý vi phạm hành chính
+1. Tổ chức, cá nhân vi phạm quy định của Luật này mà chưa đến mức truy cứu
+trách nhiệm hình sự thì bị xử phạt vi phạm hành chính theo quy định của pháp luật.
+2. Các hành vi vi phạm hành chính bao gồm nhưng không giới hạn ở:
+a) Phát triển, cung cấp, triển khai hệ thống trí tuệ nhân tạo thuộc nhóm bị cấm;
+b) Vi phạm nghĩa vụ quản lý rủi ro, minh bạch, giải trình, bảo đảm an toàn dữ
+liệu đối với hệ thống trí tuệ nhân tạo rủi ro cao;
+c) Không thực hiện đăng ký, đánh giá sự phù hợp hoặc nghĩa vụ báo cáo theo
+quy định;
+d) Cản trở hoạt động thanh tra, kiểm tra, hoặc cố ý cung cấp thông tin sai lệch,
+không đầy đủ cho cơ quan có thẩm quyền.
+3. Ngoài hình thức xử phạt chính, có thể áp dụng hình thức xử phạt bổ sung và
+biện pháp khắc phục hậu quả theo quy định của pháp luật về xử lý vi phạm hành
+chính.
+4. Đối với vi phạm nghiêm trọng do tổ chức có quy mô lớn thực hiện, có thể áp
+dụng mức phạt bổ sung bằng tiền tính theo tỷ lệ phần trăm doanh thu toàn cầu của
+năm tài chính trước đó, nhằm bảo đảm tính răn đe và phù hợp thông lệ quốc tế.
+5. Chính phủ quy định chi tiết các hành vi vi phạm, hình thức xử phạt, mức
+phạt tiền, thẩm quyền xử phạt và các biện pháp khắc phục hậu quả trong lĩnh vực trí
+tuệ nhân tạo.
+Điều 57. Biện pháp can thiệp và khắc phục hậu quả
+1. Khi có bằng chứng cho thấy hệ thống trí tuệ nhân tạo gây ra hoặc có khả
+năng gây ra tổn hại nghiêm trọng đến an ninh quốc gia, trật tự an toàn xã hội, quyền
+32
+và lợi ích hợp pháp của tổ chức, cá nhân, cơ quan nhà nước có thẩm quyền có thể áp
+dụng một hoặc nhiều biện pháp can thiệp sau đây:
+a) Tạm đình chỉ việc cung cấp, triển khai và sử dụng hệ thống;
+b) Yêu cầu thu hồi, sửa đổi, cập nhật hệ thống để loại bỏ nguy cơ gây hại;
+c) Cấm lưu hành vĩnh viễn hệ thống trên lãnh thổ Việt Nam.
+2. Ủy ban Quốc gia về Trí tuệ nhân tạo là cơ quan có thẩm quyền ra quyết định
+cuối cùng về việc áp dụng biện pháp can thiệp.
+3. Quyết định can thiệp phải bảo đảm quyền được thông báo, giải trình của tổ
+chức, cá nhân liên quan; có quyền khiếu nại, khởi kiện theo quy định của pháp luật
+về tố tụng hành chính.
+4. Chính phủ quy định chi tiết về tiêu chí xác định mức độ tổn hại nghiêm trọng,
+trình tự, thủ tục và thẩm quyền thực hiện các biện pháp can thiệp.
+Điều 58. Truy cứu trách nhiệm hình sự
+1. Cá nhân, pháp nhân thương mại có hành vi vi phạm quy định của Luật này
+mà đủ yếu tố cấu thành tội phạm thì bị truy cứu trách nhiệm hình sự theo Bộ luật
+Hình sự.
+2. Việc sử dụng hệ thống trí tuệ nhân tạo để thực hiện tội phạm được coi là tình
+tiết tăng nặng trách nhiệm hình sự theo Bộ luật Hình sự.
+Điều 59. Giải quyết tranh chấp
+1. Tranh chấp phát sinh trong hoạt động trí tuệ nhân tạo được giải quyết theo
+các hình thức:
+a) Thương lượng, hòa giải;
+b) Trọng tài thương mại;
+c) Tòa án có thẩm quyền.
+2. Nhà nước khuyến khích áp dụng cơ chế giải quyết tranh chấp trực tuyến,
+công nghệ cao để bảo đảm nhanh chóng, hiệu quả và bảo mật.
+Chương VIII
+TRÁCH NHIỆM DÂN SỰ VÀ BỒI THƯỜNG THIỆT HẠI
+Điều 60. Nguyên tắc chung về trách nhiệm bồi thường thiệt hại
+1. Tổ chức, cá nhân có hành vi vi phạm pháp luật trong hoạt động trí tuệ nhân
+tạo gây thiệt hại đến quyền và lợi ích hợp pháp của tổ chức, cá nhân khác thì phải
+bồi thường theo quy định của Bộ luật Dân sự và các quy định tại Chương này.
+33
+2. Việc xác định trách nhiệm bồi thường thiệt hại phải dựa trên mức độ rủi ro
+của hệ thống trí tuệ nhân tạo, vai trò và mức độ kiểm soát của các bên trong chuỗi
+giá trị, bao gồm nhà cung cấp, bên triển khai và các bên liên quan khác.
+3. Các bên tham gia vào chuỗi giá trị của hệ thống trí tuệ nhân tạo được khuyến
+khích tham gia bảo hiểm trách nhiệm nghề nghiệp để bảo đảm khả năng bồi thường
+thiệt hại.
+Điều 60. Trách nhiệm bồi thường thiệt hại trong chuỗi giá trị trí tuệ nhân
+tạo
+1. Trách nhiệm bồi thường thiệt hại được xác định theo vai trò và mức độ kiểm
+soát của từng chủ thể đối với rủi ro phát sinh, theo nguyên tắc sau đây:
+a) Tổ chức, cá nhân cung cấp mô hình trí tuệ nhân tạo đa dụng chịu trách nhiệm
+đối với những thiệt hại phát sinh từ đặc tính vốn có của mô hình mà các chủ thể sử
+dụng ở khâu sau không thể khắc phục, đồng thời chịu trách nhiệm về tính chính xác
+của hồ sơ, tài liệu đã cung cấp.
+b) Tổ chức, cá nhân cung cấp hệ thống trí tuệ nhân tạo có rủi ro cao chịu trách
+nhiệm đối với việc tích hợp mô hình, quản lý dữ liệu, thiết lập cơ chế giám sát và
+toàn bộ hoạt động của hệ thống khi đưa ra thị trường.
+c) Tổ chức, cá nhân triển khai sử dụng hệ thống trí tuệ nhân tạo chịu trách nhiệm
+đối với việc vận hành hệ thống trong bối cảnh cụ thể, bảo đảm tuân thủ hướng dẫn
+của nhà cung cấp và các quy định của pháp luật có liên quan, đặc biệt về bảo vệ dữ
+liệu và quyền riêng tư của người sử dụng.
+2. Trường hợp không thể phân định rõ trách nhiệm theo quy định tại khoản 1
+Điều này, các bên có liên quan phải cùng chịu trách nhiệm liên đới theo quy định tại
+Điều 62 của Luật này.
+Điều 62. Trách nhiệm dân sự trong trường hợp hệ thống trí tuệ nhân tạo
+gây thiệt hại
+1. Trong vụ việc có liên quan đến hệ thống trí tuệ nhân tạo, người yêu cầu bồi
+thường có trách nhiệm chứng minh thiệt hại thực tế và mối liên hệ với kết quả hoạt
+động của hệ thống đó.
+2. Để bảo đảm tính công bằng trong việc xác định mối quan hệ nhân quả, Tòa
+án có quyền yêu cầu bên bị đơn, là nhà cung cấp hoặc bên triển khai hệ thống trí tuệ
+nhân tạo, cung cấp thông tin, tài liệu và dữ liệu kỹ thuật cần thiết để làm rõ cơ chế
+hoạt động của hệ thống, các biện pháp quản lý rủi ro đã áp dụng và các yếu tố liên
+quan đến vụ việc.
+3. Trường hợp bên bị đơn không cung cấp, hoặc cung cấp không đầy đủ, không
+trung thực các thông tin, tài liệu, dữ liệu kỹ thuật theo yêu cầu của Tòa án mà không
+34
+có lý do chính đáng, Tòa án có thể coi đó là yếu tố bất lợi cho bên bị đơn khi xem
+xét mối quan hệ nhân quả và trách nhiệm bồi thường.
+4. Chính phủ quy định chi tiết về phạm vi thông tin, tài liệu, dữ liệu kỹ thuật mà
+bên bị đơn phải cung cấp, bảo đảm cân bằng giữa yêu cầu bảo vệ bí mật kinh doanh
+và nghĩa vụ minh bạch để bảo vệ quyền và lợi ích hợp pháp của người bị thiệt hại.
+Điều 63. Quyền yêu cầu Tòa án buộc công khai bằng chứng
+1. Trong một vụ kiện dân sự yêu cầu bồi thường thiệt hại do một hệ thống trí tuệ
+nhân tạo rủi ro cao gây ra, nếu nguyên đơn đã đưa ra các sự kiện và bằng chứng đủ
+để chứng minh tính hợp lý của yêu cầu bồi thường, nguyên đơn có quyền yêu cầu
+Tòa án buộc nhà cung cấp hoặc bên triển khai công khai các bằng chứng liên quan
+đến hệ thống đó mà họ đang kiểm soát.
+2. Tòa án, khi xem xét yêu cầu tại khoản 1, phải cân bằng giữa lợi ích của nguyên
+đơn trong việc tiếp cận bằng chứng và lợi ích của bị đơn trong việc bảo vệ bí mật
+kinh doanh và sở hữu trí tuệ. Tòa án có thể ra lệnh áp dụng các biện pháp bảo mật
+cần thiết khi công khai bằng chứng.
+Điều 64. Trách nhiệm liên đới và phân bổ trách nhiệm
+1. Trường hợp thiệt hại do hệ thống trí tuệ nhân tạo gây ra mà không thể xác định
+được lỗi cụ thể của một bên duy nhất trong chuỗi giá trị, các bên bao gồm nhà cung
+cấp và bên triển khai phải chịu trách nhiệm liên đới trong việc bồi thường thiệt hại
+cho bên bị thiệt hại.
+2. Sau khi đã bồi thường, bên đã thực hiện nghĩa vụ có quyền yêu cầu các bên
+còn lại hoàn trả một phần tương ứng với mức độ lỗi và mức độ kiểm soát của mỗi
+bên đối với rủi ro gây ra thiệt hại. Chính phủ quy định chi tiết về các tiêu chí phân
+bổ trách nhiệm.
+Chương IX
+TỔ CHỨC THỰC HIỆN VÀ ĐIỀU KHOẢN THI HÀNH
+Điều 65. Nội dung quản lý nhà nước về trí tuệ nhân tạo
+1. Quản lý nhà nước về trí tuệ nhân tạo bao gồm các nội dung chủ yếu sau đây:
+a) Xây dựng, ban hành và tổ chức thực hiện chiến lược, chính sách, chương
+trình, văn bản quy phạm pháp luật về trí tuệ nhân tạo;
+b) Ban hành và tổ chức thực hiện tiêu chuẩn, quy chuẩn kỹ thuật, định mức
+kinh tế – kỹ thuật trong lĩnh vực trí tuệ nhân tạo;
+c) Quản lý, điều phối hạ tầng trí tuệ nhân tạo quốc gia, bảo đảm an toàn, an
+ninh và sử dụng hiệu quả;
+35
+d) Quản lý, giám sát hoạt động nghiên cứu, phát triển, cung cấp, triển khai và
+sử dụng trí tuệ nhân tạo theo quy định của pháp luật;
+đ) Tuyên truyền, phổ biến chính sách, pháp luật; thống kê, báo cáo, nghiên cứu
+khoa học và hợp tác quốc tế trong lĩnh vực trí tuệ nhân tạo;
+e) Thanh tra, kiểm tra và xử lý vi phạm pháp luật về trí tuệ nhân tạo.
+2. Chính phủ quy định chi tiết, phân công cơ quan chịu trách nhiệm chủ trì,
+phối hợp trong việc thực hiện các nội dung quản lý nhà nước về trí tuệ nhân tạo.
+Điều 66. Trách nhiệm của các Bộ, cơ quan ngang Bộ
+1. Bộ Khoa học và Công nghệ là cơ quan đầu mối, chịu trách nhiệm trước Chính
+phủ về quản lý nhà nước trong lĩnh vực trí tuệ nhân tạo, có nhiệm vụ, quyền hạn:
+a) Chủ trì xây dựng, tổ chức thực hiện chiến lược, chính sách, văn bản quy
+phạm pháp luật về trí tuệ nhân tạo sau khi được cấp có thẩm quyền phê duyệt;
+b) Chủ trì ban hành và cập nhật tiêu chuẩn quốc gia, quy chuẩn kỹ thuật quốc
+gia về trí tuệ nhân tạo;
+c) Chủ trì điều phối, phát triển, quản lý và vận hành Hạ tầng trí tuệ nhân tạo
+quốc gia phục vụ nghiên cứu, phát triển và đổi mới sáng tạo;
+d) Tổ chức thực hiện hoạt động đánh giá, kiểm định, chứng nhận hệ thống trí
+tuệ nhân tạo rủi ro cao;
+đ) Tuyên truyền, phổ biến pháp luật; thống kê, báo cáo định kỳ và đột xuất; e)
+Thực hiện thanh tra chuyên ngành về trí tuệ nhân tạo theo pháp luật về thanh tra.
+2. Bộ Công an chịu trách nhiệm quản lý nhà nước về bảo đảm an ninh quốc gia,
+trật tự an toàn xã hội và an toàn thông tin mạng trong hoạt động trí tuệ nhân tạo, bao
+gồm:
+a) Đánh giá rủi ro, thẩm định các hệ thống trí tuệ nhân tạo liên quan đến an
+ninh, quốc phòng;
+b) Quản lý, vận hành hạ tầng trí tuệ nhân tạo phục vụ bảo đảm an ninh, quản trị
+quốc gia;
+c) Phòng ngừa, phát hiện, điều tra, xử lý vi phạm pháp luật, tội phạm sử dụng
+trí tuệ nhân tạo;
+d) Quản lý an toàn thông tin mạng đối với các hệ thống trí tuệ nhân tạo theo
+quy định của pháp luật.
+3. Bộ Văn hóa, Thể thao và Du lịch quản lý nhà nước đối với ứng dụng trí tuệ
+nhân tạo trong báo chí, xuất bản, truyền thông và các lĩnh vực văn hóa, xã hội; chủ
+trì phối hợp xử lý nội dung do trí tuệ nhân tạo tạo ra vi phạm pháp luật.
+36
+4. Bộ Quốc phòng quản lý nhà nước về trí tuệ nhân tạo trong lĩnh vực quốc
+phòng, bảo đảm an ninh, chủ quyền quốc gia.
+5. Các bộ, cơ quan ngang bộ khác trong phạm vi nhiệm vụ, quyền hạn được
+giao có trách nhiệm phối hợp quản lý, ban hành hướng dẫn chuyên ngành đối với
+việc ứng dụng và quản lý rủi ro hệ thống trí tuệ nhân tạo trong lĩnh vực thuộc thẩm
+quyền.
+Điều 67. Trách nhiệm của Ủy ban nhân dân các cấp
+1. Ủy ban nhân dân cấp tỉnh quản lý nhà nước về trí tuệ nhân tạo tại địa phương.
+2. Nội dung quản lý gồm:
+a) Triển khai các chiến lược, chương trình, kế hoạch quốc gia về trí tuệ nhân
+tạo tại địa phương;
+b) Lồng ghép mục tiêu, nhiệm vụ về trí tuệ nhân tạo vào kế hoạch phát triển
+kinh tế – xã hội, chương trình chuyển đổi số, xây dựng chính quyền số, đô thị thông
+minh;
+c) Tuyên truyền, phổ biến pháp luật về trí tuệ nhân tạo;
+d) Thanh tra, kiểm tra, xử lý vi phạm, giải quyết khiếu nại, tố cáo theo thẩm
+quyền.
+Điều 68. Điều khoản chuyển tiếp
+1. Các hệ thống trí tuệ nhân tạo rủi ro cao đã được đưa vào sử dụng trước khi
+Luật này có hiệu lực phải được nhà cung cấp, bên triển khai rà soát, tự đánh giá và
+hoàn thành đăng ký, đánh giá sự phù hợp trong thời hạn 24 tháng kể từ ngày các quy
+định tại Chương II có hiệu lực.
+2. Chính phủ quy định chi tiết việc áp dụng đối với hệ thống đã hoạt động, bảo
+đảm lộ trình chuyển tiếp phù hợp, không gây gián đoạn hoạt động hợp pháp.
+Điều 69. Sửa đổi, bổ sung, bãi bỏ một số quy định pháp luật có liên quan
+1. Bãi bỏ các quy định về trí tuệ nhân tạo tại Luật Công nghiệp Công nghệ số
+số 71/2025/QH15 kể từ ngày Luật này có hiệu lực.
+2. [Liệt kê cụ thể điều, khoản trong các luật khác cần sửa đổi, bổ sung hoặc bãi
+bỏ để bảo đảm tính thống nhất].
+Điều 70. Hiệu lực thi hành và Lộ trình thực hiện
+1. Luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2026.
+2. Lộ trình thực hiện:
+a) Trong 06 tháng kể từ ngày Luật có hiệu lực: Thành lập, kiện toàn Ủy ban
+Quốc gia về Trí tuệ nhân tạo; ban hành văn bản hướng dẫn; đưa Quỹ Phát triển Trí
+37
+tuệ nhân tạo Quốc gia vào hoạt động;
+b) Sau 12 tháng: Các quy định về hành vi bị cấm (Mục 1 Chương II) có hiệu
+lực; cơ chế hộp cát pháp lý được triển khai;
+c) Sau 18 tháng: Nghĩa vụ đối với hệ thống trí tuệ nhân tạo rủi ro cao (Mục 2
+Chương II) có hiệu lực thi hành toàn diện.
+Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XV, Kỳ
+họp thứ 10 thông qua ngày … tháng … năm 2025.
+CHỦ TỊCH QUỐC HỘI
+Trần Thanh Mẫn
+38
